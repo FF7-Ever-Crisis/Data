@@ -1,0 +1,6914 @@
+[
+    {
+        "Id": 101001001,
+        "Name": {
+            "Ja": "スタミナ剤（小）",
+            "En": "Stamina Tonic (S)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "スタミナの回復に必要。\n<color=#95C7FF>「10」回復</color>できます。",
+            "En": "Used to restore stamina by <color=#95C7FF>10</color>."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101001001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 3,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 1,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001003,
+        "Name": {
+            "Ja": "スタミナ剤（大）",
+            "En": "Stamina Tonic (L)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "スタミナの回復に必要。\n<color=#95C7FF>「70」回復</color>できます。",
+            "En": "Used to restore stamina by <color=#95C7FF>70</color>."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101001003,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100001500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 5,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001004,
+        "Name": {
+            "Ja": "マテリア活性剤（小）",
+            "En": "Materia Booster (S)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to enhance materia."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 50,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001004,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 10,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001005,
+        "Name": {
+            "Ja": "マテリア活性剤（中）",
+            "En": "Materia Booster (M)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to enhance materia."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 30,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 11,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001006,
+        "Name": {
+            "Ja": "マテリア活性剤（大）",
+            "En": "Materia Booster (L)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to enhance materia."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001006,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100002500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 12,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001007,
+        "Name": {
+            "Ja": "合成触媒・ミメイ",
+            "En": "Synth Catalyst – Dawn"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 30,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001007,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100003000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 13,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001008,
+        "Name": {
+            "Ja": "合成触媒・ハクチュウ",
+            "En": "Synth Catalyst – Day"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 30,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001008,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100003000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 14,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001009,
+        "Name": {
+            "Ja": "合成触媒・タソガレ",
+            "En": "Synth Catalyst – Evening"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 30,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001009,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100003000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 15,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001010,
+        "Name": {
+            "Ja": "合成触媒・ヨイ",
+            "En": "Synth Catalyst – Night"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 30,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001010,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100003000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 16,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001011,
+        "Name": {
+            "Ja": "合成の栞",
+            "En": "Bookmark"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で完成までの時間短縮に使用。\n<color=#95C7FF>「1時間」短縮</color>できます。",
+            "En": "Used to shorten synthesis time by <color=#95C7FF>an hour</color>."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 15,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 160000000023,
+        "RewardSetId": 160101001011,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100001000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 6,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001012,
+        "Name": {
+            "Ja": "研磨石の欠片",
+            "En": "Whetstone Shard"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 50,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101001012,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 7,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001013,
+        "Name": {
+            "Ja": "研磨石",
+            "En": "Whetstone"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 30,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101001013,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 8,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101001014,
+        "Name": {
+            "Ja": "研磨石の塊",
+            "En": "Whetstone Chunk"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 101001,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101001014,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100002500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 9,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002001,
+        "Name": {
+            "Ja": "ガチャチケット",
+            "En": "Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>ticket draws</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002002,
+        "Name": {
+            "Ja": "クラウド武器確定ガチャチケット",
+            "En": "Cloud Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「クラウド武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Cloud - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000040001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002003,
+        "Name": {
+            "Ja": "バレット武器確定ガチャチケット",
+            "En": "Barret Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「バレット武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Barret - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000050001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 3,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002004,
+        "Name": {
+            "Ja": "ティファ武器確定ガチャチケット",
+            "En": "Tifa Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「ティファ武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Tifa- Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000060001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 4,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002005,
+        "Name": {
+            "Ja": "エアリス武器確定ガチャチケット",
+            "En": "Aerith Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「エアリス武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Aerith - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000070001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 5,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002006,
+        "Name": {
+            "Ja": "レッドXIII武器確定ガチャチケット",
+            "En": "Red XIII Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「レッドXIII武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Red XIII - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000080001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 6,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002007,
+        "Name": {
+            "Ja": "ザックス武器確定ガチャチケット",
+            "En": "Zack Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「ザックス武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Zack - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000090001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 7,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002008,
+        "Name": {
+            "Ja": "グレン武器確定ガチャチケット",
+            "En": "Glenn Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「グレン武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Glenn - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000100001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 8,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002009,
+        "Name": {
+            "Ja": "マット武器確定ガチャチケット",
+            "En": "Matt Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「マット武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Matt - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000110001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 9,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002010,
+        "Name": {
+            "Ja": "ルティア武器確定ガチャチケット",
+            "En": "Lucia Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「ルティア武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Lucia - Guaranteed Weapon Ticket Draw</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000120001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 10,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002011,
+        "Name": {
+            "Ja": "クラウドのメモリー",
+            "En": "Cloud's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「クラウド」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Cloud's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 11,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002012,
+        "Name": {
+            "Ja": "バレットのメモリー",
+            "En": "Barret's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「バレット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Barret's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020020001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 12,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002013,
+        "Name": {
+            "Ja": "ティファのメモリー",
+            "En": "Tifa's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ティファ」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Tifa's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 13,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002014,
+        "Name": {
+            "Ja": "エアリスのメモリー",
+            "En": "Aerith's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「エアリス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Aerith's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020040001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 14,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002015,
+        "Name": {
+            "Ja": "レッドXIIIのメモリー",
+            "En": "Red XIII's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「レッドXIII」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Red XIII's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020050001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 15,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002016,
+        "Name": {
+            "Ja": "ザックスのメモリー",
+            "En": "Zack's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ザックス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Zack's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020200001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 16,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002017,
+        "Name": {
+            "Ja": "グレンのメモリー",
+            "En": "Glenn's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「グレン」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Glenn's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020500001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 17,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002018,
+        "Name": {
+            "Ja": "マットのメモリー",
+            "En": "Matt's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「マット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Matt's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020510001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 18,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002019,
+        "Name": {
+            "Ja": "ルティアのメモリー",
+            "En": "Lucia's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ルティア」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Lucia's character stream</color> nodes."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020520001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 19,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002020,
+        "Name": {
+            "Ja": "研磨石の欠片",
+            "En": "Whetstone Shard"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200090010010,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 20,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002021,
+        "Name": {
+            "Ja": "研磨石",
+            "En": "Whetstone"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200090020005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 21,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002022,
+        "Name": {
+            "Ja": "低純度スチール",
+            "En": "Low-Grade Steel"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100110005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 22,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002023,
+        "Name": {
+            "Ja": "中純度スチール",
+            "En": "Mid-Grade Steel"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100120005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000035,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 23,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002024,
+        "Name": {
+            "Ja": "低純度チタン",
+            "En": "Low-Grade Titanium"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100210005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 24,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002025,
+        "Name": {
+            "Ja": "中純度チタン",
+            "En": "Mid-Grade Titanium"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100220005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000035,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 25,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002026,
+        "Name": {
+            "Ja": "低純度ローズゴールド",
+            "En": "Low-Grade Rose Gold"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100410005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000025,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 26,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002027,
+        "Name": {
+            "Ja": "中純度ローズゴールド",
+            "En": "Mid-Grade Rose Gold"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100420005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000035,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 27,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002028,
+        "Name": {
+            "Ja": "ウェポンコア・ミニ",
+            "En": "Mini Weapon Core"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100910005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000055,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 28,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002029,
+        "Name": {
+            "Ja": "ウェポンコア・ミドル",
+            "En": "Middling Weapon Core"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100920005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000080,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 29,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002030,
+        "Name": {
+            "Ja": "アクティベータ・ミニ",
+            "En": "Mini Activator"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200101010005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000055,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 30,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002031,
+        "Name": {
+            "Ja": "アクティベータ・ミドル",
+            "En": "Middling Activator"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200101020005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000080,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 31,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002032,
+        "Name": {
+            "Ja": "マテリア活性剤（小）",
+            "En": "Materia Booster (S)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to enhance materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200040010010,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 32,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002033,
+        "Name": {
+            "Ja": "マテリア活性剤（中）",
+            "En": "Materia Booster (M)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to enhance materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200040020005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 33,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002034,
+        "Name": {
+            "Ja": "炎原石",
+            "En": "Flame Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050110005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 34,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002035,
+        "Name": {
+            "Ja": "炎結晶石",
+            "En": "Flame Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050120005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000015,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 35,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002036,
+        "Name": {
+            "Ja": "冷原石",
+            "En": "Frost Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050210005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 36,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002037,
+        "Name": {
+            "Ja": "冷結晶石",
+            "En": "Frost Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050220005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000015,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 37,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002038,
+        "Name": {
+            "Ja": "雷原石",
+            "En": "Blitz Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050310005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 38,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002039,
+        "Name": {
+            "Ja": "雷結晶石",
+            "En": "Blitz Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050320005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000015,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 39,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002040,
+        "Name": {
+            "Ja": "地原石",
+            "En": "Geo Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050410005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 40,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002041,
+        "Name": {
+            "Ja": "地結晶石",
+            "En": "Geo Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050420005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000015,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 41,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002042,
+        "Name": {
+            "Ja": "水原石",
+            "En": "Water Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050510005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 42,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002043,
+        "Name": {
+            "Ja": "水結晶石",
+            "En": "Water Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050520005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000015,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 43,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002044,
+        "Name": {
+            "Ja": "風原石",
+            "En": "Wind Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050610005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 44,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002045,
+        "Name": {
+            "Ja": "風結晶石",
+            "En": "Wind Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050620005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000015,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 45,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002046,
+        "Name": {
+            "Ja": "マジック・チップ",
+            "En": "Magic Chip"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要。\n<color=#95C7FF>「魔法マテリア」の合成</color>に使用できます。",
+            "En": "Used to synthesize <color=#95C7FF>magic-attribute</color> materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200051110005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 46,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002047,
+        "Name": {
+            "Ja": "マジック・タンブル",
+            "En": "Magic Tumble"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要。\n<color=#95C7FF>「魔法マテリア」の合成</color>に使用できます。",
+            "En": "Used to synthesize <color=#95C7FF>magic-attribute</color> materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200051120005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 47,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002048,
+        "Name": {
+            "Ja": "フィジカル・チップ",
+            "En": "Physical Chip"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要。\n<color=#95C7FF>「物理マテリア」の合成</color>に使用できます。",
+            "En": "Used to synthesize <color=#95C7FF>physical-attribute</color> materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200051210005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 48,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002049,
+        "Name": {
+            "Ja": "フィジカル・タンブル",
+            "En": "Physical Tumble"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要。\n<color=#95C7FF>「物理マテリア」の合成</color>に使用できます。",
+            "En": "Used to synthesize <color=#95C7FF>physical-attribute</color> materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200051220005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 49,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002050,
+        "Name": {
+            "Ja": "合成触媒・ミメイ",
+            "En": "Synth Catalyst – Dawn"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 50,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002051,
+        "Name": {
+            "Ja": "合成触媒・ハクチュウ",
+            "En": "Synth Catalyst – Day"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060020001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 51,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002052,
+        "Name": {
+            "Ja": "合成触媒・タソガレ",
+            "En": "Synth Catalyst – Evening"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 52,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002053,
+        "Name": {
+            "Ja": "合成触媒・ヨイ",
+            "En": "Synth Catalyst – Night"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060040001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 53,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002054,
+        "Name": {
+            "Ja": "スタミナ剤（小）",
+            "En": "Stamina Tonic (S)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "スタミナの回復に必要。\n<color=#95C7FF>「10」回復</color>できます。",
+            "En": "Used to restore stamina by <color=#95C7FF>10</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200170010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000015,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 54,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002055,
+        "Name": {
+            "Ja": "スタミナ剤（中）",
+            "En": "Stamina Tonic (M)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "スタミナの回復に必要。\n<color=#95C7FF>「30」回復</color>できます。",
+            "En": "Used to restore stamina by <color=#95C7FF>30</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200170020001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000045,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 55,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002056,
+        "Name": {
+            "Ja": "スタミナ剤（大）",
+            "En": "Stamina Tonic (L)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "スタミナの回復に必要。\n<color=#95C7FF>「70」回復</color>できます。",
+            "En": "Used to restore stamina by <color=#95C7FF>70</color>."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200170030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000110,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 56,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002057,
+        "Name": {
+            "Ja": "研磨石の欠片",
+            "En": "Whetstone Shard"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200090010010,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 57,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002058,
+        "Name": {
+            "Ja": "研磨石",
+            "En": "Whetstone"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200090020005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 58,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002059,
+        "Name": {
+            "Ja": "低純度スチール",
+            "En": "Low-Grade Steel"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100110005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000625,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 59,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002060,
+        "Name": {
+            "Ja": "中純度スチール",
+            "En": "Mid-Grade Steel"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100120005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000875,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 60,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002061,
+        "Name": {
+            "Ja": "低純度チタン",
+            "En": "Low-Grade Titanium"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100210005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000625,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 61,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002062,
+        "Name": {
+            "Ja": "中純度チタン",
+            "En": "Mid-Grade Titanium"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100220005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000875,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 62,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002063,
+        "Name": {
+            "Ja": "低純度ローズゴールド",
+            "En": "Low-Grade Rose Gold"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100410005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000625,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 63,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002064,
+        "Name": {
+            "Ja": "中純度ローズゴールド",
+            "En": "Mid-Grade Rose Gold"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100420005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000875,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 64,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002065,
+        "Name": {
+            "Ja": "マテリア活性剤（小）",
+            "En": "Materia Booster (S)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to enhance materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200040010010,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 65,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002066,
+        "Name": {
+            "Ja": "マテリア活性剤（中）",
+            "En": "Materia Booster (M)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to enhance materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200040020005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 66,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002067,
+        "Name": {
+            "Ja": "炎原石",
+            "En": "Flame Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050110005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 67,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002068,
+        "Name": {
+            "Ja": "炎結晶石",
+            "En": "Flame Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050120005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000375,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 68,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002069,
+        "Name": {
+            "Ja": "冷原石",
+            "En": "Frost Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050210005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 69,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002070,
+        "Name": {
+            "Ja": "冷結晶石",
+            "En": "Frost Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050220005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000375,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 70,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002071,
+        "Name": {
+            "Ja": "雷原石",
+            "En": "Blitz Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050310005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 71,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002072,
+        "Name": {
+            "Ja": "雷結晶石",
+            "En": "Blitz Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050320005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000375,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 72,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002073,
+        "Name": {
+            "Ja": "地原石",
+            "En": "Geo Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050410005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 73,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002074,
+        "Name": {
+            "Ja": "地結晶石",
+            "En": "Geo Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050420005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000375,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 74,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002075,
+        "Name": {
+            "Ja": "水原石",
+            "En": "Water Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050510005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 75,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002076,
+        "Name": {
+            "Ja": "水結晶石",
+            "En": "Water Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050520005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000375,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 76,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002077,
+        "Name": {
+            "Ja": "風原石",
+            "En": "Wind Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050610005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 77,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101002078,
+        "Name": {
+            "Ja": "風結晶石",
+            "En": "Wind Crystal"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 101002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050620005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 100000375,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 78,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003001,
+        "Name": {
+            "Ja": "デイリー無料パック",
+            "En": "Free Daily Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "デイリー無料パック",
+            "En": "Free Daily Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 14,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003002,
+        "Name": {
+            "Ja": "武器強化素材スペシャルパック",
+            "En": "Weapon Enhance Special Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化素材スペシャルパック",
+            "En": "Materia Enhance Special Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003002,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003003,
+        "Name": {
+            "Ja": "マテリア強化素材スペシャルパック",
+            "En": "Materia Enhance Special Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化素材スペシャルパック",
+            "En": "Materia Enhance Special Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003003,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 3,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003003,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003004,
+        "Name": {
+            "Ja": "クラウドメモリーパック",
+            "En": "Cloud's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ティファメモリーパック",
+            "En": "Tifa's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003004,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 4,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003004,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003005,
+        "Name": {
+            "Ja": "バレットメモリーパック",
+            "En": "Barret's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "エアリスメモリーパック",
+            "En": "Aerith's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 5,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003005,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003006,
+        "Name": {
+            "Ja": "ティファメモリーパック",
+            "En": "Tifa's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドXIIIメモリーパック",
+            "En": "Red XIII's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003006,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 6,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003006,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003007,
+        "Name": {
+            "Ja": "エアリスメモリーパック",
+            "En": "Aerith's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ザックスメモリーパック",
+            "En": "Zack's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003007,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 7,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003007,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003008,
+        "Name": {
+            "Ja": "レッドXIIIメモリーパック",
+            "En": "Red XIII's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "グレンメモリーパック",
+            "En": "Glenn's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003008,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 8,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003008,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003009,
+        "Name": {
+            "Ja": "ザックスメモリーパック",
+            "En": "Zack's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マットメモリーパック",
+            "En": "Matt's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003009,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 9,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003009,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003010,
+        "Name": {
+            "Ja": "グレンメモリーパック",
+            "En": "Glenn's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ルティアメモリーパック",
+            "En": "Lucia's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003010,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 10,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003010,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003011,
+        "Name": {
+            "Ja": "マットメモリーパック",
+            "En": "Matt's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マットメモリーパック",
+            "En": "Matt's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003011,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 11,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003011,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003012,
+        "Name": {
+            "Ja": "ルティアメモリーパック",
+            "En": "Lucia's Memory Pack"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ルティアメモリーパック",
+            "En": "Lucia's Memory Pack"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003012,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000250,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 12,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003012,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003013,
+        "Name": {
+            "Ja": "武器強化パックI",
+            "En": "Weapon Enhance Pack I"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化パックI",
+            "En": "Weapon Enhance Pack I"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003013,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 13,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003013,
+        "ResetId": 14,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003014,
+        "Name": {
+            "Ja": "武器強化パックII",
+            "En": "Weapon Enhance Pack II"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化パックII",
+            "En": "Weapon Enhance Pack II"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 2,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003014,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 14,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003014,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003015,
+        "Name": {
+            "Ja": "武器上限解放スチールパックI",
+            "En": "Weapon Uncap Lv. Steel Pack I"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器上限解放スチールパックI",
+            "En": "Weapon Uncap Lv. Steel Pack I"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003015,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000150,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 15,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003015,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003016,
+        "Name": {
+            "Ja": "武器上限解放チタンパックI",
+            "En": "Weapon Uncap Lv. Titanium Pack I"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器上限解放チタンパックI",
+            "En": "Weapon Uncap Lv. Titanium Pack I"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003016,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000150,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 16,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003016,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003017,
+        "Name": {
+            "Ja": "武器上限解放ローズゴールドパックI",
+            "En": "Weapon Uncap Lv. Rose Gold Pack I"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器上限解放ローズゴールドパックI",
+            "En": "Weapon Uncap Lv. Rose Gold Pack I"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003017,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000150,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 17,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003017,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003018,
+        "Name": {
+            "Ja": "マテリア強化パックI",
+            "En": "Materia Enhance Pack I"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化パックI",
+            "En": "Materia Enhance Pack I"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003018,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 18,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003018,
+        "ResetId": 14,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003019,
+        "Name": {
+            "Ja": "マテリア強化パックII",
+            "En": "Materia Enhance Pack II"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア強化パックII",
+            "En": "Materia Enhance Pack II"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003019,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 19,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003019,
+        "ResetId": 14,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003020,
+        "Name": {
+            "Ja": "武器強化パックⅢ",
+            "En": "Weapon Enhance Pack III"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化パックⅢ",
+            "En": "Weapon Enhance Pack III"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003020,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200003000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 20,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003020,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003021,
+        "Name": {
+            "Ja": "武器上限解放スチールパックⅡ",
+            "En": "Weapon Uncap Lv. Steel Pack II"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器上限解放スチールパックⅡ",
+            "En": "Weapon Uncap Lv. Steel Pack II"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003021,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 21,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003021,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003022,
+        "Name": {
+            "Ja": "武器上限解放チタンパックⅡ",
+            "En": "Weapon Uncap Lv. Titanium Pack II"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器上限解放チタンパックⅡ",
+            "En": "Weapon Uncap Lv. Titanium Pack II"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003022,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 22,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003022,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101003023,
+        "Name": {
+            "Ja": "武器上限解放ローズゴールドパックⅡ",
+            "En": "Weapon Uncap Lv. Rose Gold Pack II"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器上限解放ローズゴールドパックⅡ",
+            "En": "Weapon Uncap Lv. Rose Gold Pack II"
+        },
+        "ShopId": 101003,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101003023,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 23,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003023,
+        "ResetId": 11,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 101004001,
+        "Name": {
+            "Ja": "クリスタルA",
+            "En": "クリスタルA"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドクリスタル160個",
+            "En": "レッドクリスタル160個"
+        },
+        "ShopId": 101004,
+        "ShopItemType": 4,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101004001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 101,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 101,
+        "IsSale": false
+    },
+    {
+        "Id": 101004002,
+        "Name": {
+            "Ja": "クリスタルB",
+            "En": "クリスタルB"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドクリスタル480個＋ブルークリスタル20個",
+            "En": "レッドクリスタル480個＋ブルークリスタル20個"
+        },
+        "ShopId": 101004,
+        "ShopItemType": 4,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101004002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 102,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 102,
+        "IsSale": false
+    },
+    {
+        "Id": 101004003,
+        "Name": {
+            "Ja": "クリスタルC",
+            "En": "クリスタルC"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドクリスタル800個＋ブルークリスタル40個",
+            "En": "レッドクリスタル800個＋ブルークリスタル40個"
+        },
+        "ShopId": 101004,
+        "ShopItemType": 4,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101004003,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 103,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 103,
+        "IsSale": false
+    },
+    {
+        "Id": 101004004,
+        "Name": {
+            "Ja": "クリスタルD",
+            "En": "クリスタルD"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドクリスタル1500個＋ブルークリスタル90個",
+            "En": "レッドクリスタル1500個＋ブルークリスタル90個"
+        },
+        "ShopId": 101004,
+        "ShopItemType": 4,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101004004,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 104,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 104,
+        "IsSale": false
+    },
+    {
+        "Id": 101004005,
+        "Name": {
+            "Ja": "クリスタルE",
+            "En": "クリスタルE"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドクリスタル3000個＋ブルークリスタル200個",
+            "En": "レッドクリスタル3000個＋ブルークリスタル200個"
+        },
+        "ShopId": 101004,
+        "ShopItemType": 4,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101004005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 105,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 105,
+        "IsSale": false
+    },
+    {
+        "Id": 101004006,
+        "Name": {
+            "Ja": "クリスタルF",
+            "En": "クリスタルF"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドクリスタル6000個＋ブルークリスタル500個",
+            "En": "レッドクリスタル6000個＋ブルークリスタル500個"
+        },
+        "ShopId": 101004,
+        "ShopItemType": 4,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101004006,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 106,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 106,
+        "IsSale": false
+    },
+    {
+        "Id": 101004007,
+        "Name": {
+            "Ja": "クリスタルG",
+            "En": "クリスタルG"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "レッドクリスタル10000個＋ブルークリスタル1000個",
+            "En": "レッドクリスタル10000個＋ブルークリスタル1000個"
+        },
+        "ShopId": 101004,
+        "ShopItemType": 4,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160101004007,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 107,
+        "CanMultiPurchase": false,
+        "ResourceId": 101003001,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 107,
+        "IsSale": false
+    },
+    {
+        "Id": 201001001,
+        "Name": {
+            "Ja": "クラウドのメモリー",
+            "En": "Cloud's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「クラウド」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Cloud's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001002,
+        "Name": {
+            "Ja": "バレットのメモリー",
+            "En": "Barret's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「バレット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Barret's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001003,
+        "Name": {
+            "Ja": "ティファのメモリー",
+            "En": "Tifa's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ティファ」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Tifa's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001003,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 3,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001004,
+        "Name": {
+            "Ja": "エアリスのメモリー",
+            "En": "Aerith's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「エアリス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Aerith's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001004,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 4,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001005,
+        "Name": {
+            "Ja": "レッドXIIIのメモリー",
+            "En": "Red XIII's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「レッドXIII」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Red XIII's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 5,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001020,
+        "Name": {
+            "Ja": "ザックスのメモリー",
+            "En": "Zack's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ザックス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Zack's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001020,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 6,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001050,
+        "Name": {
+            "Ja": "グレンのメモリー",
+            "En": "Glenn's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「グレン」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Glenn's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001050,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 7,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001051,
+        "Name": {
+            "Ja": "マットのメモリー",
+            "En": "Matt's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「マット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Matt's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001051,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 8,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 201001052,
+        "Name": {
+            "Ja": "ルティアのメモリー",
+            "En": "Lucia's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ルティア」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Lucia's character stream</color> nodes."
+        },
+        "ShopId": 201001,
+        "ShopItemType": 2,
+        "MaxCount": 20,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160201001052,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 0,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 9,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001001,
+        "Name": {
+            "Ja": "ルインブロウ(<sprite=\"tmp_icon\" index=71>サークル)合成の書",
+            "En": "Ruin Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ルインブロウ(<sprite=\"tmp_icon\" index=71>サークル)のマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Ruin Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001002,
+        "Name": {
+            "Ja": "エアロ合成の書",
+            "En": "Aero Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "エアロのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Aero materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001003,
+        "Name": {
+            "Ja": "エアロブロウ合成の書",
+            "En": "Aero Blow Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "エアロブロウのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Aero Blow materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001003,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000300,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 3,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001004,
+        "Name": {
+            "Ja": "ブリザドブロウ合成の書",
+            "En": "Blizzard Blow Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ブリザドブロウのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Blizzard Blow materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001004,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000300,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 4,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001005,
+        "Name": {
+            "Ja": "バイオ合成の書",
+            "En": "Bio Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "バイオのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize bio materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001005,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 5,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001006,
+        "Name": {
+            "Ja": "バイオエスナ合成の書",
+            "En": "Healing Esuna (bio) Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "バイオエスナのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Healing Esuna (bio) materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001006,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 6,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001007,
+        "Name": {
+            "Ja": "ルインブロウ(<sprite=\"tmp_icon\" index=67>クロス)合成の書",
+            "En": "Ruin Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ルインブロウ(<sprite=\"tmp_icon\" index=67>クロス)のマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Ruin Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001007,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 7,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001008,
+        "Name": {
+            "Ja": "ウォータ合成の書",
+            "En": "Water Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ウォータのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Water materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001008,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 8,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001009,
+        "Name": {
+            "Ja": "ウォータブロウ合成の書",
+            "En": "Water Blow Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ウォータブロウのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Water Blow materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001009,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000300,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 9,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001010,
+        "Name": {
+            "Ja": "サンダーブロウ合成の書",
+            "En": "Thunder Blow Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "サンダーブロウのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Thunder Blow materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001010,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000300,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 10,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001011,
+        "Name": {
+            "Ja": "デフェイ合成の書",
+            "En": "Defaith Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "デフェイのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Defaith materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001011,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 11,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001012,
+        "Name": {
+            "Ja": "サイレスエスナ合成の書",
+            "En": "Healing Esuna (Silence)  Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "サイレスエスナのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Healing Esuna (Silence)  materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001012,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 12,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001013,
+        "Name": {
+            "Ja": "ルインブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+            "En": "Ruin Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ルインブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Ruin Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001013,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 13,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001014,
+        "Name": {
+            "Ja": "クエイク合成の書",
+            "En": "Quake Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "クエイクのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Quake materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001014,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 14,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001015,
+        "Name": {
+            "Ja": "クエイクブロウ合成の書",
+            "En": "Quake Blow Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "クエイクブロウのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Quake Blow materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001015,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000300,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 15,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001016,
+        "Name": {
+            "Ja": "ファイアブロウ合成の書",
+            "En": "Fire Blow Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ファイアブロウのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Fire Blow materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001016,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000300,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 16,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001017,
+        "Name": {
+            "Ja": "デブレイ合成の書",
+            "En": "Debrave Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "デブレイのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Debrave materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001017,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 17,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205001018,
+        "Name": {
+            "Ja": "ブラインエスナ合成の書",
+            "En": "Healing Esuna (Darkness) Recipe"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ブラインエスナのマテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize Healing Esuna (Darkness) materia."
+        },
+        "ShopId": 205001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 160205001018,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1200000500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 18,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002001,
+        "Name": {
+            "Ja": "クラウドのメモリー",
+            "En": "Cloud's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「クラウド」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Cloud's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 11,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002002,
+        "Name": {
+            "Ja": "クラウドのメモリー",
+            "En": "Cloud's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「クラウド」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Cloud's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 11,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002001,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002003,
+        "Name": {
+            "Ja": "クラウドのメモリー",
+            "En": "Cloud's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「クラウド」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Cloud's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 11,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002002,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002004,
+        "Name": {
+            "Ja": "バレットのメモリー",
+            "En": "Barret's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「バレット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Barret's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020020001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 12,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002005,
+        "Name": {
+            "Ja": "バレットのメモリー",
+            "En": "Barret's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「バレット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Barret's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020020001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 12,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002004,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002006,
+        "Name": {
+            "Ja": "バレットのメモリー",
+            "En": "Barret's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「バレット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Barret's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020020001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 12,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002005,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002007,
+        "Name": {
+            "Ja": "ティファのメモリー",
+            "En": "Tifa's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ティファ」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Tifa's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 13,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002008,
+        "Name": {
+            "Ja": "ティファのメモリー",
+            "En": "Tifa's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ティファ」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Tifa's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 13,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002007,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002009,
+        "Name": {
+            "Ja": "ティファのメモリー",
+            "En": "Tifa's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ティファ」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Tifa's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 13,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002008,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002010,
+        "Name": {
+            "Ja": "エアリスのメモリー",
+            "En": "Aerith's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「エアリス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Aerith's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020040001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 14,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002011,
+        "Name": {
+            "Ja": "エアリスのメモリー",
+            "En": "Aerith's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「エアリス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Aerith's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020040001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 14,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002010,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002012,
+        "Name": {
+            "Ja": "エアリスのメモリー",
+            "En": "Aerith's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「エアリス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Aerith's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020040001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 14,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002011,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002013,
+        "Name": {
+            "Ja": "レッドXIIIのメモリー",
+            "En": "Red XIII's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「レッドXIII」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Red XIII's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020050001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 15,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002014,
+        "Name": {
+            "Ja": "レッドXIIIのメモリー",
+            "En": "Red XIII's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「レッドXIII」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Red XIII's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020050001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 15,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002013,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002015,
+        "Name": {
+            "Ja": "レッドXIIIのメモリー",
+            "En": "Red XIII's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「レッドXIII」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Red XIII's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020050001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 15,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002014,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002058,
+        "Name": {
+            "Ja": "ザックスのメモリー",
+            "En": "Zack's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ザックス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Zack's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020200001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 16,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002059,
+        "Name": {
+            "Ja": "ザックスのメモリー",
+            "En": "Zack's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ザックス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Zack's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020200001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 16,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002058,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002060,
+        "Name": {
+            "Ja": "ザックスのメモリー",
+            "En": "Zack's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ザックス」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Zack's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020200001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 16,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002059,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002148,
+        "Name": {
+            "Ja": "グレンのメモリー",
+            "En": "Glenn's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「グレン」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Glenn's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020500001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 17,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002149,
+        "Name": {
+            "Ja": "グレンのメモリー",
+            "En": "Glenn's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「グレン」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Glenn's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020500001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 17,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002148,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002150,
+        "Name": {
+            "Ja": "グレンのメモリー",
+            "En": "Glenn's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「グレン」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Glenn's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020500001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 17,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002149,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002151,
+        "Name": {
+            "Ja": "マットのメモリー",
+            "En": "Matt's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「マット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Matt's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020510001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 18,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002152,
+        "Name": {
+            "Ja": "マットのメモリー",
+            "En": "Matt's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「マット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Matt's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020510001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 18,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002151,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002153,
+        "Name": {
+            "Ja": "マットのメモリー",
+            "En": "Matt's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「マット」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Matt's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020510001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 18,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002152,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002154,
+        "Name": {
+            "Ja": "ルティアのメモリー",
+            "En": "Lucia's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ルティア」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Lucia's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020520001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 19,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002155,
+        "Name": {
+            "Ja": "ルティアのメモリー",
+            "En": "Lucia's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ルティア」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Lucia's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020520001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 19,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002154,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002156,
+        "Name": {
+            "Ja": "ルティアのメモリー",
+            "En": "Lucia's Memory"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "キャラクターストリームのマス解放に必要。\n<color=#95C7FF>「ルティア」のキャラクターストリーム</color>で使用できます。",
+            "En": "Used to unlock <color=#95C7FF>Lucia's character stream</color> nodes."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200020520001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000030,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 19,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002155,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002601,
+        "Name": {
+            "Ja": "★5武器確定ガチャチケット",
+            "En": "5★ Wpn. Guaranteed Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「★5武器確定チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>Guaranteed 5★ Weapon Ticket Draws</color>."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300001000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002602,
+        "Name": {
+            "Ja": "ガチャチケット",
+            "En": "Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>ticket draws</color>."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000010,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002603,
+        "Name": {
+            "Ja": "ガチャチケット",
+            "En": "Draw Ticket"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "ガチャを引くために必要。\n<color=#95C7FF>「チケットガチャ」</color>で使用できます。",
+            "En": "Used for <color=#95C7FF>ticket draws</color>."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 10,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 201000010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000020,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 12,
+        "PremiseShopItemId": 205002602,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002604,
+        "Name": {
+            "Ja": "合成触媒・ミメイ",
+            "En": "Synth Catalyst – Dawn"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060010001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000002,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 109,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002605,
+        "Name": {
+            "Ja": "合成触媒・ハクチュウ",
+            "En": "Synth Catalyst – Day"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060020001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000002,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 110,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002606,
+        "Name": {
+            "Ja": "合成触媒・タソガレ",
+            "En": "Synth Catalyst – Evening"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000002,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 111,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205002607,
+        "Name": {
+            "Ja": "合成触媒・ヨイ",
+            "En": "Synth Catalyst – Night"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成で追加素材に使用。\n追加することで<color=#95C7FF>マテリアの完成に影響</color>します。",
+            "En": "Used in synthesis to <color=#95C7FF>affect materia creation</color>."
+        },
+        "ShopId": 205002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200060040001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1300000002,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 112,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 205003001,
+        "Name": {
+            "Ja": "研磨石の塊",
+            "En": "Whetstone Chunk"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「強化」</color>で使用できます。",
+            "En": "Used to level up a weapon."
+        },
+        "ShopId": 205003,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200090030001,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1400000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": true,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001001,
+        "Name": {
+            "Ja": "低純度スチール",
+            "En": "Low-Grade Steel"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100110002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200100120001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001002,
+        "Name": {
+            "Ja": "中純度スチール",
+            "En": "Mid-Grade Steel"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100120002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200100130001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001003,
+        "Name": {
+            "Ja": "低純度チタン",
+            "En": "Low-Grade Titanium"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100210002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200100220001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 3,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001004,
+        "Name": {
+            "Ja": "中純度チタン",
+            "En": "Mid-Grade Titanium"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100220002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200100230001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 4,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001007,
+        "Name": {
+            "Ja": "低純度ローズゴールド",
+            "En": "Low-Grade Rose Gold"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100410002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200100420001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 7,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001008,
+        "Name": {
+            "Ja": "中純度ローズゴールド",
+            "En": "Mid-Grade Rose Gold"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100420002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200100430001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 8,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001009,
+        "Name": {
+            "Ja": "ウェポンコア・ミニ",
+            "En": "Mini Weapon Core"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200100910002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200100920001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 9,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206001010,
+        "Name": {
+            "Ja": "アクティベータ・ミニ",
+            "En": "Mini Activator"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "武器強化に必要。\n<color=#95C7FF>「レベル上限解放」</color>で使用できます。",
+            "En": "Used to <color=#95C7FF>uncap the level</color> of a weapon."
+        },
+        "ShopId": 206001,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200101010002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200101020001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 10,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002001,
+        "Name": {
+            "Ja": "炎原石",
+            "En": "Flame Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050110002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200050120001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002002,
+        "Name": {
+            "Ja": "冷原石",
+            "En": "Frost Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050210002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200050220001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 2,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002003,
+        "Name": {
+            "Ja": "雷原石",
+            "En": "Blitz Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050310002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200050320001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 3,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002004,
+        "Name": {
+            "Ja": "地原石",
+            "En": "Geo Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050410002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200050420001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 4,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002005,
+        "Name": {
+            "Ja": "水原石",
+            "En": "Water Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050510002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200050520001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 5,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002006,
+        "Name": {
+            "Ja": "風原石",
+            "En": "Wind Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050610002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200050620001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 6,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002007,
+        "Name": {
+            "Ja": "無原石",
+            "En": "Void Ore"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要なアイテムです。",
+            "En": "Used to synthesize materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200050910002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200050920001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 7,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002008,
+        "Name": {
+            "Ja": "マジック・チップ",
+            "En": "Magic Chip"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要。\n<color=#95C7FF>「魔法マテリア」の合成</color>に使用できます。",
+            "En": "Used to synthesize <color=#95C7FF>magic-attribute</color> materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200051110002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200051120001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 8,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 206002009,
+        "Name": {
+            "Ja": "フィジカル・チップ",
+            "En": "Physical Chip"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "マテリア合成に必要。\n<color=#95C7FF>「物理マテリア」の合成</color>に使用できます。",
+            "En": "Used to synthesize <color=#95C7FF>physical-attribute</color> materia."
+        },
+        "ShopId": 206002,
+        "ShopItemType": 0,
+        "MaxCount": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 200051210002,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 200051220001,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 9,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301011011101,
+        "Name": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301011011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000050,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301011021101,
+        "Name": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301011021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000050,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301112011101,
+        "Name": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301112011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301112021101,
+        "Name": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301112021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000100,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301213011101,
+        "Name": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301213011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301213021101,
+        "Name": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301213021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000200,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301314011101,
+        "Name": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301314011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000400,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301314021101,
+        "Name": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301314021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000400,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301415011101,
+        "Name": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301415011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000600,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301415021101,
+        "Name": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301415021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000000600,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301516011101,
+        "Name": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301516011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000001000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301516021101,
+        "Name": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301516021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000001000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301617011101,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301617011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000001500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301617021101,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301617021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000001500,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301718011101,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301718011101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000002000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    },
+    {
+        "Id": 301718021101,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "SubName": {
+            "Ja": "",
+            "En": ""
+        },
+        "Description": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "ShopId": 207001,
+        "ShopItemType": 0,
+        "MaxCount": 1,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "RewardSetId": 301718021101,
+        "BonusRewardSetId": 0,
+        "ConsumptionSetId": 1000002000,
+        "ShopItemRepeatGroupId": 0,
+        "ShopItemBonusId": 0,
+        "OrderNo": 1,
+        "CanMultiPurchase": false,
+        "ResourceId": 0,
+        "ResetId": 0,
+        "PremiseShopItemId": 0,
+        "StoreProductGroupId": 0,
+        "IsSale": false
+    }
+]

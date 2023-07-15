@@ -1,0 +1,156 @@
+[
+    {
+        "Id": 2,
+        "Description": {
+            "Ja": "魔法アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Magic Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 2,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 3,
+        "Description": {
+            "Ja": "物理アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Physical Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 3,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 4,
+        "Description": {
+            "Ja": "攻撃アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 4,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 5,
+        "Description": {
+            "Ja": "回復アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Heal Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 5,
+        "SupportEffectType": 4,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 10,
+        "Description": {
+            "Ja": "バフデバフ効果時間<color=#76FBFD>＋{1}%</color>",
+            "En": "Buff/Debuff Time <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 10,
+        "SupportEffectType": 9,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 11,
+        "Description": {
+            "Ja": "炎属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Fire Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 11,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 12,
+        "Description": {
+            "Ja": "冷属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Ice Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 12,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 13,
+        "Description": {
+            "Ja": "雷属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Lightning Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 13,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 14,
+        "Description": {
+            "Ja": "水属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Water Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 14,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 15,
+        "Description": {
+            "Ja": "風属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Wind Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 15,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 16,
+        "Description": {
+            "Ja": "土属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
+            "En": "Earth Ability Attack <color=#76FBFD>＋{1}%</color>"
+        },
+        "MateriaSupportEffectGroupId": 16,
+        "SupportEffectType": 1,
+        "SupportEffectTriggerType": 0,
+        "MateriaSupportEffectFilterGroupId": 0
+    },
+    {
+        "Id": 17,
+        "Description": {
+            "Ja": "アタックシフト時、<sprite=\"tmp_icon\" index=71>サインマテリアのサイン一致破壊数<color=#76FBFD>＋{0}</color>",
+            "En": "<sprite=\"tmp_icon\" index=71> Sigils defeated by matching Sigil Materia during Attack Shift Count <color=#76FBFD>+{0}</color>"
+        },
+        "MateriaSupportEffectGroupId": 17,
+        "SupportEffectType": 14,
+        "SupportEffectTriggerType": 1,
+        "MateriaSupportEffectFilterGroupId": 1
+    },
+    {
+        "Id": 18,
+        "Description": {
+            "Ja": "アタックシフト時、<sprite=\"tmp_icon\" index=67>サインマテリアのサイン一致破壊数<color=#76FBFD>＋{0}</color>",
+            "En": "<sprite=\"tmp_icon\" index=67> Sigils defeated by matching Sigil Materia during Attack Shift Count <color=#76FBFD>+{0}</color>"
+        },
+        "MateriaSupportEffectGroupId": 18,
+        "SupportEffectType": 14,
+        "SupportEffectTriggerType": 1,
+        "MateriaSupportEffectFilterGroupId": 2
+    },
+    {
+        "Id": 19,
+        "Description": {
+            "Ja": "アタックシフト時、<sprite=\"tmp_icon\" index=69>サインマテリアのサイン一致破壊数<color=#76FBFD>＋{0}</color>",
+            "En": "<sprite=\"tmp_icon\" index=69> Sigils defeated by matching Sigil Materia during Attack Shift Count <color=#76FBFD>+{0}</color>"
+        },
+        "MateriaSupportEffectGroupId": 19,
+        "SupportEffectType": 14,
+        "SupportEffectTriggerType": 1,
+        "MateriaSupportEffectFilterGroupId": 3
+    }
+]

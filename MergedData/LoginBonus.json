@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 3001,
+        "Name": {
+            "Ja": "CBT記念ログインボーナス",
+            "En": "Closed Beta Test Celebratory Login Bonus"
+        },
+        "Description": {
+            "Ja": "CBT開催期間中、合計15000ブルークリスタルなどの豪華報酬がゲットできる！",
+            "En": "Receive up to 12,000 magicite and other great rewards during the CBT!"
+        },
+        "LoginBonusType": 3,
+        "ContinuousType": 1,
+        "DisplayPriority": 2000,
+        "LoginBonusSheetGroupId": 3001,
+        "BackgroundResourceId": 3001,
+        "LayoutResourceId": 3,
+        "TriggerConditionSetId": 0,
+        "StartDatetime": "2023-07-07T03:00:00",
+        "TriggerEndDatetime": "2023-07-14T06:59:59",
+        "ReceiveEndDatetime": "2023-07-14T06:59:59"
+    },
+    {
+        "Id": 3002,
+        "Name": {
+            "Ja": "CBT記念ログインボーナス Part2",
+            "En": "Closed Beta Test Celebratory Login Bonus Part 2"
+        },
+        "Description": {
+            "Ja": "期間中、合計9000ブルークリスタルや武器強化素材などがゲットできる！",
+            "En": "Prepare to take on Sephiroth! Receive 3,000 magicite daily!"
+        },
+        "LoginBonusType": 3,
+        "ContinuousType": 1,
+        "DisplayPriority": 1000,
+        "LoginBonusSheetGroupId": 3002,
+        "BackgroundResourceId": 3002,
+        "LayoutResourceId": 4,
+        "TriggerConditionSetId": 0,
+        "StartDatetime": "2023-07-10T02:00:00",
+        "TriggerEndDatetime": "2023-07-14T06:59:59",
+        "ReceiveEndDatetime": "2023-07-14T06:59:59"
+    }
+]

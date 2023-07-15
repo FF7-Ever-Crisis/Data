@@ -1,0 +1,794 @@
+[
+    {
+        "Id": 101,
+        "Title": {
+            "Ja": "キャラクター",
+            "En": "Characters"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 0
+    },
+    {
+        "Id": 102,
+        "Title": {
+            "Ja": "武器",
+            "En": "Weapons"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 1
+    },
+    {
+        "Id": 103,
+        "Title": {
+            "Ja": "武器装備",
+            "En": "Equipping Weapons"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 2
+    },
+    {
+        "Id": 104,
+        "Title": {
+            "Ja": "マテリア装備",
+            "En": "Equipping Materia"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 3
+    },
+    {
+        "Id": 105,
+        "Title": {
+            "Ja": "C（コマンド）アビリティ",
+            "En": "C. Abilities (Command Abilities)"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 4
+    },
+    {
+        "Id": 106,
+        "Title": {
+            "Ja": "L（リミット）アビリティ",
+            "En": "L. Abilities (Limit Abilities)"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 5
+    },
+    {
+        "Id": 107,
+        "Title": {
+            "Ja": "R（ライズ）アビリティ",
+            "En": "R. Abilities (Reinforcement Abilities)"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 6
+    },
+    {
+        "Id": 108,
+        "Title": {
+            "Ja": "S（サポート）アビリティ",
+            "En": "S. Abilities (Support Abilities)"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 7
+    },
+    {
+        "Id": 109,
+        "Title": {
+            "Ja": "ステータス",
+            "En": "Stats"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 8
+    },
+    {
+        "Id": 110,
+        "Title": {
+            "Ja": "パーティ",
+            "En": "Party"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 9
+    },
+    {
+        "Id": 111,
+        "Title": {
+            "Ja": "リミットブレイク",
+            "En": "Limit Breaks"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 10
+    },
+    {
+        "Id": 112,
+        "Title": {
+            "Ja": "召喚獣アビリティ",
+            "En": "Summon Abilities"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 11
+    },
+    {
+        "Id": 113,
+        "Title": {
+            "Ja": "ウェア",
+            "En": "Gear"
+        },
+        "HelpCategoryId": 1,
+        "OrderNo": 12
+    },
+    {
+        "Id": 201,
+        "Title": {
+            "Ja": "キャラクターの強化",
+            "En": "Enhancing Characters"
+        },
+        "HelpCategoryId": 2,
+        "OrderNo": 0
+    },
+    {
+        "Id": 202,
+        "Title": {
+            "Ja": "召喚獣の強化",
+            "En": "Enhancing Summons"
+        },
+        "HelpCategoryId": 2,
+        "OrderNo": 1
+    },
+    {
+        "Id": 203,
+        "Title": {
+            "Ja": "武器の強化",
+            "En": "Enhancing Weapons"
+        },
+        "HelpCategoryId": 2,
+        "OrderNo": 2
+    },
+    {
+        "Id": 204,
+        "Title": {
+            "Ja": "武器のレアリティとレアリティアップ",
+            "En": "Weapon Rarities"
+        },
+        "HelpCategoryId": 2,
+        "OrderNo": 3
+    },
+    {
+        "Id": 205,
+        "Title": {
+            "Ja": "武器の限界突破",
+            "En": "Overboost Weapons"
+        },
+        "HelpCategoryId": 2,
+        "OrderNo": 4
+    },
+    {
+        "Id": 206,
+        "Title": {
+            "Ja": "マテリア強化",
+            "En": "Enhancing Materia"
+        },
+        "HelpCategoryId": 2,
+        "OrderNo": 5
+    },
+    {
+        "Id": 301,
+        "Title": {
+            "Ja": "合成",
+            "En": "Synthesis"
+        },
+        "HelpCategoryId": 3,
+        "OrderNo": 0
+    },
+    {
+        "Id": 302,
+        "Title": {
+            "Ja": "マテリア",
+            "En": "Materia"
+        },
+        "HelpCategoryId": 3,
+        "OrderNo": 1
+    },
+    {
+        "Id": 401,
+        "Title": {
+            "Ja": "ストーリー",
+            "En": "Story"
+        },
+        "HelpCategoryId": 4,
+        "OrderNo": 0
+    },
+    {
+        "Id": 402,
+        "Title": {
+            "Ja": "ストーリー中のバトル",
+            "En": "Story Battles"
+        },
+        "HelpCategoryId": 4,
+        "OrderNo": 1
+    },
+    {
+        "Id": 403,
+        "Title": {
+            "Ja": "ストーリーメニュー",
+            "En": "Story Menu"
+        },
+        "HelpCategoryId": 4,
+        "OrderNo": 2
+    },
+    {
+        "Id": 404,
+        "Title": {
+            "Ja": "ダンジョン",
+            "En": "Dungeons"
+        },
+        "HelpCategoryId": 4,
+        "OrderNo": 3
+    },
+    {
+        "Id": 405,
+        "Title": {
+            "Ja": "EXTRAバトル",
+            "En": "Extra Battles"
+        },
+        "HelpCategoryId": 4,
+        "OrderNo": 4
+    },
+    {
+        "Id": 406,
+        "Title": {
+            "Ja": "ストーリーの再プレイ",
+            "En": "Replaying the Story"
+        },
+        "HelpCategoryId": 4,
+        "OrderNo": 5
+    },
+    {
+        "Id": 501,
+        "Title": {
+            "Ja": "バトルの進行",
+            "En": "Battles"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 0
+    },
+    {
+        "Id": 502,
+        "Title": {
+            "Ja": "コマンド",
+            "En": "Commands"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 1
+    },
+    {
+        "Id": 503,
+        "Title": {
+            "Ja": "リミットブレイク・召喚獣アビリティ",
+            "En": "Limit Breaks & Summon Abilities"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 2
+    },
+    {
+        "Id": 504,
+        "Title": {
+            "Ja": "属性",
+            "En": "Elements"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 3
+    },
+    {
+        "Id": 505,
+        "Title": {
+            "Ja": "ターゲット",
+            "En": "Targets"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 4
+    },
+    {
+        "Id": 506,
+        "Title": {
+            "Ja": "ストリームフェイズ",
+            "En": "Stream Phase"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 5
+    },
+    {
+        "Id": 507,
+        "Title": {
+            "Ja": "サイン",
+            "En": "Sigils"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 6
+    },
+    {
+        "Id": 508,
+        "Title": {
+            "Ja": "サイン破壊とインタラプト",
+            "En": "Destroying Sigils & Interrupts"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 7
+    },
+    {
+        "Id": 509,
+        "Title": {
+            "Ja": "キャラクターの切り替え",
+            "En": "Swapping Characters"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 8
+    },
+    {
+        "Id": 510,
+        "Title": {
+            "Ja": "戦闘不能",
+            "En": "KO"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 9
+    },
+    {
+        "Id": 511,
+        "Title": {
+            "Ja": "時間制限",
+            "En": "Time Limit"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 10
+    },
+    {
+        "Id": 512,
+        "Title": {
+            "Ja": "バトルメニュー",
+            "En": "Battle Menu"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 11
+    },
+    {
+        "Id": 601,
+        "Title": {
+            "Ja": "強化クエスト",
+            "En": "Training Quests"
+        },
+        "HelpCategoryId": 6,
+        "OrderNo": 0
+    },
+    {
+        "Id": 602,
+        "Title": {
+            "Ja": "デイリークエスト",
+            "En": "Daily Quests"
+        },
+        "HelpCategoryId": 6,
+        "OrderNo": 1
+    },
+    {
+        "Id": 603,
+        "Title": {
+            "Ja": "召喚獣クエスト",
+            "En": "Summon Quests"
+        },
+        "HelpCategoryId": 6,
+        "OrderNo": 2
+    },
+    {
+        "Id": 604,
+        "Title": {
+            "Ja": "コンティニュー回数",
+            "En": "Continues"
+        },
+        "HelpCategoryId": 6,
+        "OrderNo": 3
+    },
+    {
+        "Id": 605,
+        "Title": {
+            "Ja": "スタミナブースト",
+            "En": "Stamina Boost"
+        },
+        "HelpCategoryId": 6,
+        "OrderNo": 4
+    },
+    {
+        "Id": 701,
+        "Title": {
+            "Ja": "マルチバトル",
+            "En": "Multiplayer Battle"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 0
+    },
+    {
+        "Id": 702,
+        "Title": {
+            "Ja": "ルーム作成",
+            "En": "Creating Lobby"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 1
+    },
+    {
+        "Id": 703,
+        "Title": {
+            "Ja": "スコアとランク",
+            "En": "Scores & Ranks"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 2
+    },
+    {
+        "Id": 704,
+        "Title": {
+            "Ja": "バトル貢献度",
+            "En": "Battle Log"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 3
+    },
+    {
+        "Id": 705,
+        "Title": {
+            "Ja": "レイズ",
+            "En": "Raise"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 4
+    },
+    {
+        "Id": 706,
+        "Title": {
+            "Ja": "コマンド",
+            "En": "Commands"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 5
+    },
+    {
+        "Id": 707,
+        "Title": {
+            "Ja": "チャット",
+            "En": "Chats"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 6
+    },
+    {
+        "Id": 708,
+        "Title": {
+            "Ja": "招待",
+            "En": "Invitations"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 7
+    },
+    {
+        "Id": 709,
+        "Title": {
+            "Ja": "コンティニュー",
+            "En": "Continue"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 8
+    },
+    {
+        "Id": 710,
+        "Title": {
+            "Ja": "初マッチング報酬",
+            "En": "First-Time Matching Rewards"
+        },
+        "HelpCategoryId": 7,
+        "OrderNo": 9
+    },
+    {
+        "Id": 801,
+        "Title": {
+            "Ja": "アナザーダンジョン",
+            "En": "Criterion Dungeons"
+        },
+        "HelpCategoryId": 8,
+        "OrderNo": 0
+    },
+    {
+        "Id": 802,
+        "Title": {
+            "Ja": "シンボルエネミー",
+            "En": "Symbol Enemies"
+        },
+        "HelpCategoryId": 8,
+        "OrderNo": 1
+    },
+    {
+        "Id": 803,
+        "Title": {
+            "Ja": "アイテムと宝箱",
+            "En": "Items & Treasure Chests"
+        },
+        "HelpCategoryId": 8,
+        "OrderNo": 2
+    },
+    {
+        "Id": 804,
+        "Title": {
+            "Ja": "アナザーダンジョンメニュー",
+            "En": "Criterion Dungeon Menu"
+        },
+        "HelpCategoryId": 8,
+        "OrderNo": 3
+    },
+    {
+        "Id": 901,
+        "Title": {
+            "Ja": "クライシスダンジョン",
+            "En": "Crisis Dungeons"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 0
+    },
+    {
+        "Id": 902,
+        "Title": {
+            "Ja": "トランスアビリティ",
+            "En": "Trance Abilities"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 1
+    },
+    {
+        "Id": 903,
+        "Title": {
+            "Ja": "ダンジョンキー",
+            "En": "Dungeon Keys"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 2
+    },
+    {
+        "Id": 904,
+        "Title": {
+            "Ja": "クライシスレベル",
+            "En": "Crisis Level"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 3
+    },
+    {
+        "Id": 905,
+        "Title": {
+            "Ja": "スコアとランク",
+            "En": "Scores & Ranks"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 4
+    },
+    {
+        "Id": 906,
+        "Title": {
+            "Ja": "シンボルエネミー",
+            "En": "Symbol Enemies"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 5
+    },
+    {
+        "Id": 907,
+        "Title": {
+            "Ja": "アイテムと宝箱",
+            "En": "Items & Treasure Chests"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 6
+    },
+    {
+        "Id": 908,
+        "Title": {
+            "Ja": "ダンジョンメニュー",
+            "En": "Dungeon Menu Screen"
+        },
+        "HelpCategoryId": 9,
+        "OrderNo": 7
+    },
+    {
+        "Id": 1001,
+        "Title": {
+            "Ja": "バトルタワー",
+            "En": "Battle Tower"
+        },
+        "HelpCategoryId": 10,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1002,
+        "Title": {
+            "Ja": "環境効果",
+            "En": "Environmental Effects"
+        },
+        "HelpCategoryId": 10,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1101,
+        "Title": {
+            "Ja": "スタンプシート",
+            "En": "Stamp Cards"
+        },
+        "HelpCategoryId": 11,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1102,
+        "Title": {
+            "Ja": "ウィッシュリスト",
+            "En": "Wishlists"
+        },
+        "HelpCategoryId": 11,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1103,
+        "Title": {
+            "Ja": "武器の重複",
+            "En": "Duplicate Weapons"
+        },
+        "HelpCategoryId": 11,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1201,
+        "Title": {
+            "Ja": "ショップ",
+            "En": "Shops"
+        },
+        "HelpCategoryId": 12,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1202,
+        "Title": {
+            "Ja": "交換所",
+            "En": "Exchanges"
+        },
+        "HelpCategoryId": 12,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1203,
+        "Title": {
+            "Ja": "ラインナップ更新",
+            "En": "Renewing the Lineup"
+        },
+        "HelpCategoryId": 12,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1301,
+        "Title": {
+            "Ja": "チョコボファーム",
+            "En": "More about the Chocobo Farm"
+        },
+        "HelpCategoryId": 13,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1302,
+        "Title": {
+            "Ja": "チョコボ遠征",
+            "En": "Chocobo Expeditions"
+        },
+        "HelpCategoryId": 13,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1303,
+        "Title": {
+            "Ja": "チョコ房",
+            "En": "Chocobo Stables"
+        },
+        "HelpCategoryId": 13,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1304,
+        "Title": {
+            "Ja": "チョコボメダル交換所",
+            "En": "Chocobo Medal Exchange"
+        },
+        "HelpCategoryId": 13,
+        "OrderNo": 3
+    },
+    {
+        "Id": 1401,
+        "Title": {
+            "Ja": "ミッション",
+            "En": "Missions"
+        },
+        "HelpCategoryId": 14,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1402,
+        "Title": {
+            "Ja": "ミッションポイント",
+            "En": "Mission Points"
+        },
+        "HelpCategoryId": 14,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1403,
+        "Title": {
+            "Ja": "ガイドミッション",
+            "En": "Mission Guide"
+        },
+        "HelpCategoryId": 14,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1501,
+        "Title": {
+            "Ja": "プロフィール",
+            "En": "Profile"
+        },
+        "HelpCategoryId": 15,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1502,
+        "Title": {
+            "Ja": "フレンド",
+            "En": "Friends"
+        },
+        "HelpCategoryId": 15,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1503,
+        "Title": {
+            "Ja": "プレゼントボックス",
+            "En": "Gift Box"
+        },
+        "HelpCategoryId": 15,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1504,
+        "Title": {
+            "Ja": "ホーム背景",
+            "En": "Wallpapers"
+        },
+        "HelpCategoryId": 15,
+        "OrderNo": 3
+    },
+    {
+        "Id": 1601,
+        "Title": {
+            "Ja": "プレイヤー",
+            "En": "Player"
+        },
+        "HelpCategoryId": 16,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1602,
+        "Title": {
+            "Ja": "スタミナ",
+            "En": "Stamina"
+        },
+        "HelpCategoryId": 16,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1603,
+        "Title": {
+            "Ja": "ログインボーナス",
+            "En": "Login Bonus"
+        },
+        "HelpCategoryId": 16,
+        "OrderNo": 2
+    }
+]
