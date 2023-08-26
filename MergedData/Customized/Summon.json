@@ -8,7 +8,56 @@
         "SummonPieceItemId": 3001,
         "ResourceId": 1,
         "OrderNo": 0,
-        "DefaultSkillSpecialId": 200102,
+        "DefaultSkillSpecial": {
+            "Id": 200102,
+            "SkillSpecialType": "Summon",
+            "ContentId": 1,
+            "SkillBase": {
+                "Id": 200102,
+                "Name": {
+                    "Ja": "フレアバースト",
+                    "En": "Radiant Plume"
+                },
+                "Description": {
+                    "Ja": "",
+                    "En": ""
+                },
+                "BaseAttackType": "Both",
+                "ElementType": "Fire",
+                "SpecialGaugeCoefficient": 1000,
+                "SkillEffects": [
+                    {
+                        "Seq": 0,
+                        "SkillEffect": {
+                            "Id": 2200102011,
+                            "TargetType": "OpponentSingle",
+                            "SkillEffectType": "Damage",
+                            "SkillEffectDetail": {
+                                "Id": 2200102011,
+                                "AttackType": "Both",
+                                "ElementType": "Fire",
+                                "SkillHealType": "None",
+                                "SkillDamageType": "Normal",
+                                "MinDamageCoefficient": 8000,
+                                "MaxDamageCoefficient": 8000,
+                                "SkillAnotherDungeonReduceMaxHp": null
+                            },
+                            "MinTriggerPermil": 1000,
+                            "MaxTriggerPermil": 1000,
+                            "TriggerType": "Hit",
+                            "TriggerConditionId": 0,
+                            "ConditionTargetType": 0,
+                            "IsInvertTriggerCondition": false,
+                            "PenetrationPermil": 0,
+                            "SkillEffectDescriptionGroup": null
+                        },
+                        "ParentSkillEffectId": 0
+                    }
+                ],
+                "SkillBaseGroup": null
+            },
+            "ResourceId": 200102
+        },
         "StartDatetime": "1970-01-01T00:00:00"
     },
     {
@@ -20,7 +69,56 @@
         "SummonPieceItemId": 3002,
         "ResourceId": 2,
         "OrderNo": 0,
-        "DefaultSkillSpecialId": 200202,
+        "DefaultSkillSpecial": {
+            "Id": 200202,
+            "SkillSpecialType": "Summon",
+            "ContentId": 2,
+            "SkillBase": {
+                "Id": 200202,
+                "Name": {
+                    "Ja": "アイスウェーブ",
+                    "En": "Whiteout"
+                },
+                "Description": {
+                    "Ja": "",
+                    "En": ""
+                },
+                "BaseAttackType": "Both",
+                "ElementType": "Ice",
+                "SpecialGaugeCoefficient": 1000,
+                "SkillEffects": [
+                    {
+                        "Seq": 0,
+                        "SkillEffect": {
+                            "Id": 2200202011,
+                            "TargetType": "OpponentSingle",
+                            "SkillEffectType": "Damage",
+                            "SkillEffectDetail": {
+                                "Id": 2200202011,
+                                "AttackType": "Both",
+                                "ElementType": "Ice",
+                                "SkillHealType": "None",
+                                "SkillDamageType": "Normal",
+                                "MinDamageCoefficient": 8000,
+                                "MaxDamageCoefficient": 8000,
+                                "SkillAnotherDungeonReduceMaxHp": null
+                            },
+                            "MinTriggerPermil": 1000,
+                            "MaxTriggerPermil": 1000,
+                            "TriggerType": "Hit",
+                            "TriggerConditionId": 0,
+                            "ConditionTargetType": 0,
+                            "IsInvertTriggerCondition": false,
+                            "PenetrationPermil": 0,
+                            "SkillEffectDescriptionGroup": null
+                        },
+                        "ParentSkillEffectId": 0
+                    }
+                ],
+                "SkillBaseGroup": null
+            },
+            "ResourceId": 200202
+        },
         "StartDatetime": "1970-01-01T00:00:00"
     }
 ]
