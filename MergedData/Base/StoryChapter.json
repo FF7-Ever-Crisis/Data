@@ -7,7 +7,9 @@
         },
         "StoryTitleId": 1,
         "OrderNo": 1,
-        "ResourceId": 101
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
     },
     {
         "Id": 102,
@@ -17,7 +19,21 @@
         },
         "StoryTitleId": 1,
         "OrderNo": 2,
-        "ResourceId": 101
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 411000000102
+    },
+    {
+        "Id": 103,
+        "Name": {
+            "Ja": "さらばミッドガル",
+            "En": "Goodbye, Midgar"
+        },
+        "StoryTitleId": 1,
+        "OrderNo": 3,
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
     },
     {
         "Id": 201,
@@ -27,7 +43,9 @@
         },
         "StoryTitleId": 2,
         "OrderNo": 1,
-        "ResourceId": 101
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
     },
     {
         "Id": 301,
@@ -37,6 +55,44 @@
         },
         "StoryTitleId": 3,
         "OrderNo": 1,
-        "ResourceId": 101
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
+    },
+    {
+        "Id": 302,
+        "Name": {
+            "Ja": "ローゼンの使命",
+            "En": "Rosen's Duty"
+        },
+        "StoryTitleId": 3,
+        "OrderNo": 2,
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
+    },
+    {
+        "Id": 303,
+        "Name": {
+            "Ja": "未知なる敵地の絶島",
+            "En": "An Unfamiliar, Hostile Island"
+        },
+        "StoryTitleId": 3,
+        "OrderNo": 3,
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
+    },
+    {
+        "Id": 304,
+        "Name": {
+            "Ja": "ラディオル軍襲撃",
+            "En": "Attack of the Rhadoran"
+        },
+        "StoryTitleId": 3,
+        "OrderNo": 4,
+        "ResourceId": 101,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
     }
 ]

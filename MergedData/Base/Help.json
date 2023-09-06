@@ -5,7 +5,7 @@
             "Ja": "キャラクター",
             "En": "Characters"
         },
-        "HelpCategoryId": 1,
+        "HelpCategoryId": 2,
         "OrderNo": 0
     },
     {
@@ -14,7 +14,7 @@
             "Ja": "武器",
             "En": "Weapons"
         },
-        "HelpCategoryId": 1,
+        "HelpCategoryId": 19,
         "OrderNo": 1
     },
     {
@@ -41,8 +41,8 @@
             "Ja": "C（コマンド）アビリティ",
             "En": "C. Abilities (Command Abilities)"
         },
-        "HelpCategoryId": 1,
-        "OrderNo": 4
+        "HelpCategoryId": 5,
+        "OrderNo": 1
     },
     {
         "Id": 106,
@@ -50,8 +50,8 @@
             "Ja": "L（リミット）アビリティ",
             "En": "L. Abilities (Limit Abilities)"
         },
-        "HelpCategoryId": 1,
-        "OrderNo": 5
+        "HelpCategoryId": 5,
+        "OrderNo": 2
     },
     {
         "Id": 107,
@@ -59,8 +59,8 @@
             "Ja": "R（ライズ）アビリティ",
             "En": "R. Abilities (Reinforcement Abilities)"
         },
-        "HelpCategoryId": 1,
-        "OrderNo": 6
+        "HelpCategoryId": 5,
+        "OrderNo": 3
     },
     {
         "Id": 108,
@@ -68,8 +68,8 @@
             "Ja": "S（サポート）アビリティ",
             "En": "S. Abilities (Support Abilities)"
         },
-        "HelpCategoryId": 1,
-        "OrderNo": 7
+        "HelpCategoryId": 5,
+        "OrderNo": 4
     },
     {
         "Id": 109,
@@ -77,8 +77,8 @@
             "Ja": "ステータス",
             "En": "Stats"
         },
-        "HelpCategoryId": 1,
-        "OrderNo": 8
+        "HelpCategoryId": 5,
+        "OrderNo": 7
     },
     {
         "Id": 110,
@@ -87,7 +87,7 @@
             "En": "Party"
         },
         "HelpCategoryId": 1,
-        "OrderNo": 9
+        "OrderNo": 1
     },
     {
         "Id": 111,
@@ -96,7 +96,7 @@
             "En": "Limit Breaks"
         },
         "HelpCategoryId": 1,
-        "OrderNo": 10
+        "OrderNo": 4
     },
     {
         "Id": 112,
@@ -105,7 +105,7 @@
             "En": "Summon Abilities"
         },
         "HelpCategoryId": 1,
-        "OrderNo": 11
+        "OrderNo": 5
     },
     {
         "Id": 113,
@@ -114,7 +114,7 @@
             "En": "Gear"
         },
         "HelpCategoryId": 1,
-        "OrderNo": 12
+        "OrderNo": 6
     },
     {
         "Id": 201,
@@ -123,7 +123,7 @@
             "En": "Enhancing Characters"
         },
         "HelpCategoryId": 2,
-        "OrderNo": 0
+        "OrderNo": 1
     },
     {
         "Id": 202,
@@ -131,7 +131,7 @@
             "Ja": "召喚獣の強化",
             "En": "Enhancing Summons"
         },
-        "HelpCategoryId": 2,
+        "HelpCategoryId": 18,
         "OrderNo": 1
     },
     {
@@ -140,7 +140,7 @@
             "Ja": "武器の強化",
             "En": "Enhancing Weapons"
         },
-        "HelpCategoryId": 2,
+        "HelpCategoryId": 19,
         "OrderNo": 2
     },
     {
@@ -149,7 +149,7 @@
             "Ja": "武器のレアリティとレアリティアップ",
             "En": "Weapon Rarities"
         },
-        "HelpCategoryId": 2,
+        "HelpCategoryId": 19,
         "OrderNo": 3
     },
     {
@@ -158,7 +158,7 @@
             "Ja": "武器の限界突破",
             "En": "Overboost Weapons"
         },
-        "HelpCategoryId": 2,
+        "HelpCategoryId": 19,
         "OrderNo": 4
     },
     {
@@ -167,8 +167,8 @@
             "Ja": "マテリア強化",
             "En": "Enhancing Materia"
         },
-        "HelpCategoryId": 2,
-        "OrderNo": 5
+        "HelpCategoryId": 3,
+        "OrderNo": 2
     },
     {
         "Id": 301,
@@ -177,7 +177,7 @@
             "En": "Synthesis"
         },
         "HelpCategoryId": 3,
-        "OrderNo": 0
+        "OrderNo": 3
     },
     {
         "Id": 302,
@@ -200,8 +200,8 @@
     {
         "Id": 402,
         "Title": {
-            "Ja": "ストーリー中のバトル",
-            "En": "Story Battles"
+            "Ja": "ストーリー中バトルのパーティ（パーティモード選択）",
+            "En": "Story Battle Parties (Party Mode)"
         },
         "HelpCategoryId": 4,
         "OrderNo": 1
@@ -218,8 +218,8 @@
     {
         "Id": 404,
         "Title": {
-            "Ja": "ダンジョン",
-            "En": "Dungeons"
+            "Ja": "ストーリー中のダンジョン",
+            "En": "Story Dungeons"
         },
         "HelpCategoryId": 4,
         "OrderNo": 3
@@ -232,15 +232,6 @@
         },
         "HelpCategoryId": 4,
         "OrderNo": 4
-    },
-    {
-        "Id": 406,
-        "Title": {
-            "Ja": "ストーリーの再プレイ",
-            "En": "Replaying the Story"
-        },
-        "HelpCategoryId": 4,
-        "OrderNo": 5
     },
     {
         "Id": 501,
@@ -258,7 +249,7 @@
             "En": "Commands"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 1
+        "OrderNo": 5
     },
     {
         "Id": 503,
@@ -267,7 +258,7 @@
             "En": "Limit Breaks & Summon Abilities"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 2
+        "OrderNo": 6
     },
     {
         "Id": 504,
@@ -276,7 +267,7 @@
             "En": "Elements"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 3
+        "OrderNo": 8
     },
     {
         "Id": 505,
@@ -285,7 +276,7 @@
             "En": "Targets"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 4
+        "OrderNo": 10
     },
     {
         "Id": 506,
@@ -294,7 +285,7 @@
             "En": "Stream Phase"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 5
+        "OrderNo": 11
     },
     {
         "Id": 507,
@@ -303,7 +294,7 @@
             "En": "Sigils"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 6
+        "OrderNo": 12
     },
     {
         "Id": 508,
@@ -312,7 +303,7 @@
             "En": "Destroying Sigils & Interrupts"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 7
+        "OrderNo": 13
     },
     {
         "Id": 509,
@@ -321,7 +312,7 @@
             "En": "Swapping Characters"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 8
+        "OrderNo": 9
     },
     {
         "Id": 510,
@@ -330,7 +321,7 @@
             "En": "KO"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 9
+        "OrderNo": 15
     },
     {
         "Id": 511,
@@ -339,7 +330,7 @@
             "En": "Time Limit"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 10
+        "OrderNo": 16
     },
     {
         "Id": 512,
@@ -348,16 +339,25 @@
             "En": "Battle Menu"
         },
         "HelpCategoryId": 5,
-        "OrderNo": 11
+        "OrderNo": 17
+    },
+    {
+        "Id": 513,
+        "Title": {
+            "Ja": "バフ・デバフ(強化・弱体化)",
+            "En": "Buffs and Debuffs"
+        },
+        "HelpCategoryId": 5,
+        "OrderNo": 14
     },
     {
         "Id": 601,
         "Title": {
             "Ja": "強化クエスト",
-            "En": "Training Quests"
+            "En": "Enhancement Quests"
         },
         "HelpCategoryId": 6,
-        "OrderNo": 0
+        "OrderNo": 1
     },
     {
         "Id": 602,
@@ -366,7 +366,7 @@
             "En": "Daily Quests"
         },
         "HelpCategoryId": 6,
-        "OrderNo": 1
+        "OrderNo": 0
     },
     {
         "Id": 603,
@@ -384,7 +384,7 @@
             "En": "Continues"
         },
         "HelpCategoryId": 6,
-        "OrderNo": 3
+        "OrderNo": 5
     },
     {
         "Id": 605,
@@ -396,10 +396,19 @@
         "OrderNo": 4
     },
     {
+        "Id": 606,
+        "Title": {
+            "Ja": "ストーリークエスト",
+            "En": "Story Quests"
+        },
+        "HelpCategoryId": 6,
+        "OrderNo": 3
+    },
+    {
         "Id": 701,
         "Title": {
             "Ja": "マルチバトル",
-            "En": "Multiplayer Battle"
+            "En": "Co-op Battle"
         },
         "HelpCategoryId": 7,
         "OrderNo": 0
@@ -407,8 +416,8 @@
     {
         "Id": 702,
         "Title": {
-            "Ja": "ルーム作成",
-            "En": "Creating Lobby"
+            "Ja": "マルチに参加",
+            "En": "Join Co-op"
         },
         "HelpCategoryId": 7,
         "OrderNo": 1
@@ -420,7 +429,7 @@
             "En": "Scores & Ranks"
         },
         "HelpCategoryId": 7,
-        "OrderNo": 2
+        "OrderNo": 7
     },
     {
         "Id": 704,
@@ -429,7 +438,7 @@
             "En": "Battle Log"
         },
         "HelpCategoryId": 7,
-        "OrderNo": 3
+        "OrderNo": 6
     },
     {
         "Id": 705,
@@ -447,7 +456,7 @@
             "En": "Commands"
         },
         "HelpCategoryId": 7,
-        "OrderNo": 5
+        "OrderNo": 3
     },
     {
         "Id": 707,
@@ -456,16 +465,7 @@
             "En": "Chats"
         },
         "HelpCategoryId": 7,
-        "OrderNo": 6
-    },
-    {
-        "Id": 708,
-        "Title": {
-            "Ja": "招待",
-            "En": "Invitations"
-        },
-        "HelpCategoryId": 7,
-        "OrderNo": 7
+        "OrderNo": 2
     },
     {
         "Id": 709,
@@ -483,16 +483,16 @@
             "En": "First-Time Matching Rewards"
         },
         "HelpCategoryId": 7,
-        "OrderNo": 9
+        "OrderNo": 5
     },
     {
         "Id": 801,
         "Title": {
-            "Ja": "アナザーダンジョン",
-            "En": "Criterion Dungeons"
+            "Ja": "ダンジョン",
+            "En": "Dungeons"
         },
         "HelpCategoryId": 8,
-        "OrderNo": 0
+        "OrderNo": 1
     },
     {
         "Id": 802,
@@ -501,7 +501,7 @@
             "En": "Symbol Enemies"
         },
         "HelpCategoryId": 8,
-        "OrderNo": 1
+        "OrderNo": 2
     },
     {
         "Id": 803,
@@ -510,88 +510,61 @@
             "En": "Items & Treasure Chests"
         },
         "HelpCategoryId": 8,
-        "OrderNo": 2
+        "OrderNo": 3
     },
     {
         "Id": 804,
         "Title": {
-            "Ja": "アナザーダンジョンメニュー",
-            "En": "Criterion Dungeon Menu"
+            "Ja": "ダンジョンメニュー",
+            "En": "Dungeon Menu"
         },
         "HelpCategoryId": 8,
-        "OrderNo": 3
+        "OrderNo": 4
     },
     {
-        "Id": 901,
+        "Id": 805,
         "Title": {
-            "Ja": "クライシスダンジョン",
-            "En": "Crisis Dungeons"
+            "Ja": "ダンジョンミッション(アナザーダンジョン)",
+            "En": "Dungeon Missions (Criterion Dungeon)"
         },
-        "HelpCategoryId": 9,
-        "OrderNo": 0
+        "HelpCategoryId": 8,
+        "OrderNo": 5
     },
     {
         "Id": 902,
         "Title": {
-            "Ja": "トランスアビリティ",
+            "Ja": "トランスアビリティ(クライシスダンジョン)",
             "En": "Trance Abilities"
         },
-        "HelpCategoryId": 9,
-        "OrderNo": 1
+        "HelpCategoryId": 8,
+        "OrderNo": 6
     },
     {
         "Id": 903,
         "Title": {
-            "Ja": "ダンジョンキー",
+            "Ja": "ダンジョンキー(クライシスダンジョン)",
             "En": "Dungeon Keys"
         },
-        "HelpCategoryId": 9,
-        "OrderNo": 2
+        "HelpCategoryId": 8,
+        "OrderNo": 7
     },
     {
         "Id": 904,
         "Title": {
-            "Ja": "クライシスレベル",
+            "Ja": "クライシスレベル(クライシスダンジョン)",
             "En": "Crisis Level"
         },
-        "HelpCategoryId": 9,
-        "OrderNo": 3
+        "HelpCategoryId": 8,
+        "OrderNo": 8
     },
     {
         "Id": 905,
         "Title": {
-            "Ja": "スコアとランク",
+            "Ja": "スコアとランク(クライシスダンジョン)",
             "En": "Scores & Ranks"
         },
-        "HelpCategoryId": 9,
-        "OrderNo": 4
-    },
-    {
-        "Id": 906,
-        "Title": {
-            "Ja": "シンボルエネミー",
-            "En": "Symbol Enemies"
-        },
-        "HelpCategoryId": 9,
-        "OrderNo": 5
-    },
-    {
-        "Id": 907,
-        "Title": {
-            "Ja": "アイテムと宝箱",
-            "En": "Items & Treasure Chests"
-        },
-        "HelpCategoryId": 9,
-        "OrderNo": 6
-    },
-    {
-        "Id": 908,
-        "Title": {
-            "Ja": "ダンジョンメニュー",
-            "En": "Dungeon Menu Screen"
-        },
-        "HelpCategoryId": 9,
-        "OrderNo": 7
+        "HelpCategoryId": 8,
+        "OrderNo": 9
     },
     {
         "Id": 1001,
@@ -605,8 +578,8 @@
     {
         "Id": 1002,
         "Title": {
-            "Ja": "環境効果",
-            "En": "Environmental Effects"
+            "Ja": "バトル効果",
+            "En": "Battle Effects"
         },
         "HelpCategoryId": 10,
         "OrderNo": 1
@@ -624,7 +597,7 @@
         "Id": 1102,
         "Title": {
             "Ja": "ウィッシュリスト",
-            "En": "Wishlists"
+            "En": "Wish Lists"
         },
         "HelpCategoryId": 11,
         "OrderNo": 1
@@ -790,5 +763,32 @@
         },
         "HelpCategoryId": 16,
         "OrderNo": 2
+    },
+    {
+        "Id": 1701,
+        "Title": {
+            "Ja": "シーズンパス",
+            "En": "Season Passes"
+        },
+        "HelpCategoryId": 17,
+        "OrderNo": 0
+    },
+    {
+        "Id": 1703,
+        "Title": {
+            "Ja": "シーズンパスの報酬",
+            "En": "Season Pass Rewards"
+        },
+        "HelpCategoryId": 17,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1704,
+        "Title": {
+            "Ja": "シーズン",
+            "En": "Seasons"
+        },
+        "HelpCategoryId": 17,
+        "OrderNo": 3
     }
 ]

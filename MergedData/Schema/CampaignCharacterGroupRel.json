@@ -1,1 +1,14 @@
-{}
+{
+    "type": "object",
+    "properties": {
+        "CampaignCharacterGroupId": {
+            "type": "integer"
+        },
+        "CharacterId": {
+            "type": "integer"
+        },
+        "MaxLevel": {
+            "type": "integer"
+        }
+    }
+}

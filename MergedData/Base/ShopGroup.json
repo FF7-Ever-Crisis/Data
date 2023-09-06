@@ -7,20 +7,7 @@
         },
         "ShopGroupCategory": 1,
         "OrderNo": 1,
-        "ResourceId": 101,
-        "ShopGroupNotiType": 0,
-        "DisplayConditionSetId": 0,
-        "LockConditionSetId": 0
-    },
-    {
-        "Id": 201,
-        "Name": {
-            "Ja": "メモリー交換所",
-            "En": "Memory Exchange"
-        },
-        "ShopGroupCategory": 2,
-        "OrderNo": 1,
-        "ResourceId": 201,
+        "ResourceId": 0,
         "ShopGroupNotiType": 0,
         "DisplayConditionSetId": 0,
         "LockConditionSetId": 0
@@ -36,13 +23,13 @@
         "ResourceId": 205,
         "ShopGroupNotiType": 0,
         "DisplayConditionSetId": 0,
-        "LockConditionSetId": 0
+        "LockConditionSetId": 160000000003
     },
     {
         "Id": 206,
         "Name": {
-            "Ja": "素材交換所",
-            "En": "Material Exchange"
+            "Ja": "育成・強化交換所",
+            "En": "Enhancement Exch."
         },
         "ShopGroupCategory": 2,
         "OrderNo": 5,
@@ -54,8 +41,8 @@
     {
         "Id": 207,
         "Name": {
-            "Ja": "チョコボメダル交換所",
-            "En": "Chocobo Medal Exch."
+            "Ja": "チョコボ交換所",
+            "En": "Chocobo Exchange"
         },
         "ShopGroupCategory": 2,
         "OrderNo": 7,
@@ -63,5 +50,70 @@
         "ShopGroupNotiType": 0,
         "DisplayConditionSetId": 0,
         "LockConditionSetId": 160000000006
+    },
+    {
+        "Id": 210,
+        "Name": {
+            "Ja": "イベント交換所",
+            "En": "Event Exchange"
+        },
+        "ShopGroupCategory": 2,
+        "OrderNo": 2,
+        "ResourceId": 204,
+        "ShopGroupNotiType": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
+    },
+    {
+        "Id": 301,
+        "Name": {
+            "Ja": "ウェア交換所",
+            "En": "Gear Exchange"
+        },
+        "ShopGroupCategory": 3,
+        "OrderNo": 8,
+        "ResourceId": 301,
+        "ShopGroupNotiType": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
+    },
+    {
+        "Id": 302,
+        "Name": {
+            "Ja": "武器交換所",
+            "En": "Weapon Exchange"
+        },
+        "ShopGroupCategory": 3,
+        "OrderNo": 9,
+        "ResourceId": 302,
+        "ShopGroupNotiType": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
+    },
+    {
+        "Id": 303,
+        "Name": {
+            "Ja": "選べるメモリー交換所",
+            "En": "Memory Exchange"
+        },
+        "ShopGroupCategory": 3,
+        "OrderNo": 10,
+        "ResourceId": 303,
+        "ShopGroupNotiType": 0,
+        "DisplayConditionSetId": 650000000303,
+        "LockConditionSetId": 0
+    },
+    {
+        "Id": 501,
+        "Name": {
+            "Ja": "シーズンパス",
+            "En": "Season Pass"
+        },
+        "ShopGroupCategory": 5,
+        "OrderNo": 1,
+        "ResourceId": 0,
+        "ShopGroupNotiType": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0
     }
 ]

@@ -26,6 +26,17 @@
                 }
             }
         },
+        "BattleName": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
         "BaseAttackType": {
             "type": "integer"
         },

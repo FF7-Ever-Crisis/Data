@@ -96,7 +96,7 @@
                 "Ja": "水面蹴り",
                 "En": "Waterkick"
             },
-            "BaseAttackType": 1,
+            "BaseAttackType": 3,
             "ElementType": 1,
             "SpecialGaugeCoefficient": 1000
         }
@@ -300,7 +300,7 @@
                 "Ja": "セルリアンレイブン",
                 "En": "Cerulean Raven"
             },
-            "BaseAttackType": 1,
+            "BaseAttackType": 3,
             "ElementType": 1,
             "SpecialGaugeCoefficient": 1000
         }
@@ -370,6 +370,40 @@
             },
             "BaseAttackType": 3,
             "ElementType": 3,
+            "SpecialGaugeCoefficient": 1000
+        }
+    },
+    {
+        "Id": 201001,
+        "SkillSpecialType": 2,
+        "ContentId": 10,
+        "SkillBaseId": 201001,
+        "ResourceId": 201001,
+        "Skill": {
+            "Id": 201001,
+            "Name": {
+                "Ja": "裁きの雷",
+                "En": "Judgment Bolt"
+            },
+            "BaseAttackType": 3,
+            "ElementType": 4,
+            "SpecialGaugeCoefficient": 1000
+        }
+    },
+    {
+        "Id": 201002,
+        "SkillSpecialType": 2,
+        "ContentId": 10,
+        "SkillBaseId": 201002,
+        "ResourceId": 201002,
+        "Skill": {
+            "Id": 201002,
+            "Name": {
+                "Ja": "サンダーランス",
+                "En": "Thunderlance"
+            },
+            "BaseAttackType": 3,
+            "ElementType": 4,
             "SpecialGaugeCoefficient": 1000
         }
     }

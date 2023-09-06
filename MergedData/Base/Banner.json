@@ -1,54 +1,41 @@
 [
     {
-        "Id": 10001,
-        "Banner": {
-            "Ja": "入れ替える用文言",
-            "En": "En入れ替える用文言"
-        },
-        "TransitionType": 14,
-        "TransitionId": 3,
-        "DisplayConditionSetId": 0,
-        "ResourceId": 20003,
-        "Priority": 6,
-        "LockConditionSetId": 0
-    },
-    {
-        "Id": 30001,
+        "Id": 200010003,
         "Banner": {
             "Ja": "入れ替える用文言",
             "En": "En入れ替える用文言"
         },
         "TransitionType": 12,
-        "TransitionId": 30001,
-        "DisplayConditionSetId": 0,
-        "ResourceId": 30001,
+        "TransitionId": 10003,
+        "DisplayConditionSetId": 170000010003,
+        "ResourceId": 200010003,
         "Priority": 5,
         "LockConditionSetId": 0
     },
     {
-        "Id": 30002,
+        "Id": 200030003,
         "Banner": {
             "Ja": "入れ替える用文言",
             "En": "En入れ替える用文言"
         },
         "TransitionType": 12,
-        "TransitionId": 10002,
-        "DisplayConditionSetId": 0,
-        "ResourceId": 30002,
-        "Priority": 4,
+        "TransitionId": 30003,
+        "DisplayConditionSetId": 170000030003,
+        "ResourceId": 200030003,
+        "Priority": 8,
         "LockConditionSetId": 0
     },
     {
-        "Id": 30003,
+        "Id": 200030005,
         "Banner": {
             "Ja": "入れ替える用文言",
             "En": "En入れ替える用文言"
         },
         "TransitionType": 12,
-        "TransitionId": 10001,
-        "DisplayConditionSetId": 0,
-        "ResourceId": 30003,
-        "Priority": 3,
+        "TransitionId": 30005,
+        "DisplayConditionSetId": 170000030003,
+        "ResourceId": 200030005,
+        "Priority": 7,
         "LockConditionSetId": 0
     }
 ]

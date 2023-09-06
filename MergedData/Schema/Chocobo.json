@@ -4,6 +4,17 @@
         "Id": {
             "type": "integer"
         },
+        "DefaultName": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
         "ChocoboType": {
             "type": "integer"
         },

@@ -2,8 +2,17 @@
     {
         "Id": 1001,
         "Name": {
-            "Ja": "キャラクター成長",
-            "En": "Training Quests"
+            "Ja": "キャラクター経験値",
+            "En": "Character EXP"
+        },
+        "AreaGroupCategoryType": 1,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1004,
+        "Name": {
+            "Ja": "キャラクター経験値 [<sprite=\"tmp_icon\" index=782>0]",
+            "En": "Character EXP [<sprite=\"tmp_icon\" index=782>0]"
         },
         "AreaGroupCategoryType": 1,
         "OrderNo": 1
@@ -20,8 +29,8 @@
     {
         "Id": 1007,
         "Name": {
-            "Ja": "上限解放素材 チタン",
-            "En": "LV Uncap - Titanium"
+            "Ja": "上限解放素材 エレクトラム",
+            "En": "LV Uncap - Electrum"
         },
         "AreaGroupCategoryType": 2,
         "OrderNo": 3
@@ -34,6 +43,24 @@
         },
         "AreaGroupCategoryType": 2,
         "OrderNo": 5
+    },
+    {
+        "Id": 1010,
+        "Name": {
+            "Ja": "上限解放素材 ゲノムポッド",
+            "En": "LV Uncap - Genome Pod"
+        },
+        "AreaGroupCategoryType": 2,
+        "OrderNo": 7
+    },
+    {
+        "Id": 1011,
+        "Name": {
+            "Ja": "上限解放素材 ナノキューブ",
+            "En": "LV Uncap - Nanocube"
+        },
+        "AreaGroupCategoryType": 2,
+        "OrderNo": 6
     },
     {
         "Id": 1015,
@@ -97,6 +124,87 @@
         },
         "AreaGroupCategoryType": 3,
         "OrderNo": 6
+    },
+    {
+        "Id": 1022,
+        "Name": {
+            "Ja": "パワーピース",
+            "En": "Power Pieces"
+        },
+        "AreaGroupCategoryType": 1,
+        "OrderNo": 4
+    },
+    {
+        "Id": 1023,
+        "Name": {
+            "Ja": "マジックピース",
+            "En": "Magic Pieces"
+        },
+        "AreaGroupCategoryType": 1,
+        "OrderNo": 5
+    },
+    {
+        "Id": 1024,
+        "Name": {
+            "Ja": "キュアピース",
+            "En": "Healing Pieces"
+        },
+        "AreaGroupCategoryType": 1,
+        "OrderNo": 6
+    },
+    {
+        "Id": 1026,
+        "Name": {
+            "Ja": "[高位]上限解放素材ゲノムポッド",
+            "En": "[Premium] LV Uncap - Genome Pod"
+        },
+        "AreaGroupCategoryType": 6,
+        "OrderNo": 2
+    },
+    {
+        "Id": 1027,
+        "Name": {
+            "Ja": "[高位]上限解放素材ナノキューブ",
+            "En": "[Premium] LV Uncap - Nanocube"
+        },
+        "AreaGroupCategoryType": 6,
+        "OrderNo": 1
+    },
+    {
+        "Id": 1029,
+        "Name": {
+            "Ja": "キャラメモリー FF7",
+            "En": "FF7 Character Memories"
+        },
+        "AreaGroupCategoryType": 6,
+        "OrderNo": 5
+    },
+    {
+        "Id": 1030,
+        "Name": {
+            "Ja": "キャラメモリー CC",
+            "En": "CC Character Memories"
+        },
+        "AreaGroupCategoryType": 6,
+        "OrderNo": 6
+    },
+    {
+        "Id": 1031,
+        "Name": {
+            "Ja": "キャラメモリー FS",
+            "En": "FS Character Memories"
+        },
+        "AreaGroupCategoryType": 6,
+        "OrderNo": 7
+    },
+    {
+        "Id": 1032,
+        "Name": {
+            "Ja": "ピース",
+            "En": "Pieces"
+        },
+        "AreaGroupCategoryType": 1,
+        "OrderNo": 3
     },
     {
         "Id": 1101,

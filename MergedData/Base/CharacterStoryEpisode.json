@@ -1,1 +1,362 @@
-[]
+[
+    {
+        "Id": 101011,
+        "Name": {
+            "Ja": "嬉しいめぐり逢い",
+            "En": "A Happy Reunion"
+        },
+        "SubName": {
+            "Ja": "1",
+            "En": "1"
+        },
+        "CharacterStorySectionId": 101,
+        "PremiseCharacterStoryEpisodeId": 0,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910111,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000001,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 1
+    },
+    {
+        "Id": 101012,
+        "Name": {
+            "Ja": "BATTLE 1",
+            "En": "BATTLE 1"
+        },
+        "SubName": {
+            "Ja": "1",
+            "En": "1"
+        },
+        "CharacterStorySectionId": 101,
+        "PremiseCharacterStoryEpisodeId": 101011,
+        "CharacterStoryEpisodeType": 2,
+        "BattleId": 50101012,
+        "DungeonId": 0,
+        "FirstClearRewardSetId": 331000101012,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000001,
+        "IsDrama": false,
+        "IsBattle": true,
+        "OrderNo": 2
+    },
+    {
+        "Id": 101021,
+        "Name": {
+            "Ja": "うわすべる言葉",
+            "En": "Idle Chatter"
+        },
+        "SubName": {
+            "Ja": "2",
+            "En": "2"
+        },
+        "CharacterStorySectionId": 101,
+        "PremiseCharacterStoryEpisodeId": 101012,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910112,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000001,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 3
+    },
+    {
+        "Id": 101022,
+        "Name": {
+            "Ja": "BATTLE 2",
+            "En": "BATTLE 2"
+        },
+        "SubName": {
+            "Ja": "2",
+            "En": "2"
+        },
+        "CharacterStorySectionId": 101,
+        "PremiseCharacterStoryEpisodeId": 101021,
+        "CharacterStoryEpisodeType": 2,
+        "BattleId": 50101022,
+        "DungeonId": 0,
+        "FirstClearRewardSetId": 331000101022,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000001,
+        "IsDrama": false,
+        "IsBattle": true,
+        "OrderNo": 4
+    },
+    {
+        "Id": 101031,
+        "Name": {
+            "Ja": "本当に欲しいのは……",
+            "En": "True Desires"
+        },
+        "SubName": {
+            "Ja": "3",
+            "En": "3"
+        },
+        "CharacterStorySectionId": 101,
+        "PremiseCharacterStoryEpisodeId": 101022,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910113,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000001,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 5
+    },
+    {
+        "Id": 301011,
+        "Name": {
+            "Ja": "マイナスからの再出発",
+            "En": "Starting Over"
+        },
+        "SubName": {
+            "Ja": "1",
+            "En": "1"
+        },
+        "CharacterStorySectionId": 301,
+        "PremiseCharacterStoryEpisodeId": 0,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910311,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000003,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 1
+    },
+    {
+        "Id": 301012,
+        "Name": {
+            "Ja": "BATTLE 1",
+            "En": "BATTLE 1"
+        },
+        "SubName": {
+            "Ja": "1",
+            "En": "1"
+        },
+        "CharacterStorySectionId": 301,
+        "PremiseCharacterStoryEpisodeId": 301011,
+        "CharacterStoryEpisodeType": 2,
+        "BattleId": 50301012,
+        "DungeonId": 0,
+        "FirstClearRewardSetId": 331000301012,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000003,
+        "IsDrama": false,
+        "IsBattle": true,
+        "OrderNo": 2
+    },
+    {
+        "Id": 301021,
+        "Name": {
+            "Ja": "まぶしい３人組",
+            "En": "A Delightful Trio"
+        },
+        "SubName": {
+            "Ja": "2",
+            "En": "2"
+        },
+        "CharacterStorySectionId": 301,
+        "PremiseCharacterStoryEpisodeId": 301012,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910312,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000003,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 3
+    },
+    {
+        "Id": 301022,
+        "Name": {
+            "Ja": "BATTLE 2",
+            "En": "BATTLE 2"
+        },
+        "SubName": {
+            "Ja": "2",
+            "En": "2"
+        },
+        "CharacterStorySectionId": 301,
+        "PremiseCharacterStoryEpisodeId": 301021,
+        "CharacterStoryEpisodeType": 2,
+        "BattleId": 50301022,
+        "DungeonId": 0,
+        "FirstClearRewardSetId": 331000301022,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000003,
+        "IsDrama": false,
+        "IsBattle": true,
+        "OrderNo": 4
+    },
+    {
+        "Id": 301031,
+        "Name": {
+            "Ja": "ひとりぼっちじゃない",
+            "En": "You're Not Alone"
+        },
+        "SubName": {
+            "Ja": "3",
+            "En": "3"
+        },
+        "CharacterStorySectionId": 301,
+        "PremiseCharacterStoryEpisodeId": 301022,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910313,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000003,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 5
+    },
+    {
+        "Id": 401011,
+        "Name": {
+            "Ja": "夢までのあと一歩",
+            "En": "A Dream Almost Realized"
+        },
+        "SubName": {
+            "Ja": "1",
+            "En": "1"
+        },
+        "CharacterStorySectionId": 401,
+        "PremiseCharacterStoryEpisodeId": 0,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910411,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000004,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 1
+    },
+    {
+        "Id": 401012,
+        "Name": {
+            "Ja": "BATTLE 1",
+            "En": "BATTLE 1"
+        },
+        "SubName": {
+            "Ja": "1",
+            "En": "1"
+        },
+        "CharacterStorySectionId": 401,
+        "PremiseCharacterStoryEpisodeId": 401011,
+        "CharacterStoryEpisodeType": 2,
+        "BattleId": 50401012,
+        "DungeonId": 0,
+        "FirstClearRewardSetId": 331000401012,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000004,
+        "IsDrama": false,
+        "IsBattle": true,
+        "OrderNo": 2
+    },
+    {
+        "Id": 401021,
+        "Name": {
+            "Ja": "ひそかなまなざし",
+            "En": "A Watchful Eye"
+        },
+        "SubName": {
+            "Ja": "2",
+            "En": "2"
+        },
+        "CharacterStorySectionId": 401,
+        "PremiseCharacterStoryEpisodeId": 401012,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910412,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000004,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 3
+    },
+    {
+        "Id": 401022,
+        "Name": {
+            "Ja": "BATTLE 2",
+            "En": "BATTLE 2"
+        },
+        "SubName": {
+            "Ja": "2",
+            "En": "2"
+        },
+        "CharacterStorySectionId": 401,
+        "PremiseCharacterStoryEpisodeId": 401021,
+        "CharacterStoryEpisodeType": 2,
+        "BattleId": 50401022,
+        "DungeonId": 0,
+        "FirstClearRewardSetId": 331000401022,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000004,
+        "IsDrama": false,
+        "IsBattle": true,
+        "OrderNo": 4
+    },
+    {
+        "Id": 401031,
+        "Name": {
+            "Ja": "踏み出す一歩",
+            "En": "Taking the First Step"
+        },
+        "SubName": {
+            "Ja": "3",
+            "En": "3"
+        },
+        "CharacterStorySectionId": 401,
+        "PremiseCharacterStoryEpisodeId": 401022,
+        "CharacterStoryEpisodeType": 1,
+        "BattleId": 0,
+        "DungeonId": 9910413,
+        "FirstClearRewardSetId": 0,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 0,
+        "PartyCharacterCount": 3,
+        "PartyCharacterGroupId": 1000000004,
+        "IsDrama": true,
+        "IsBattle": false,
+        "OrderNo": 5
+    }
+]

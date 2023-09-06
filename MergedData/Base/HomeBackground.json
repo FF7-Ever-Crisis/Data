@@ -5,6 +5,10 @@
             "Ja": "ミッション出撃待機",
             "En": "Before the Mission"
         },
+        "Description": {
+            "Ja": "ゲームを開始することで入手するホーム背景です。",
+            "En": "Wallpaper obtained by starting the game."
+        },
         "DisplayConditionSetId": 0,
         "Weight": 1,
         "ResourceId": 1,
@@ -15,6 +19,10 @@
         "Name": {
             "Ja": "いらっしゃいませー！",
             "En": "Welcome!"
+        },
+        "Description": {
+            "Ja": "ゲームを開始することで入手するホーム背景です。",
+            "En": "Wallpaper obtained by starting the game."
         },
         "DisplayConditionSetId": 0,
         "Weight": 1,
@@ -27,10 +35,29 @@
             "Ja": "グレン班、初任務",
             "En": "Team Glenn's First Mission"
         },
+        "Description": {
+            "Ja": "ゲームを開始することで入手するホーム背景です。",
+            "En": "Wallpaper obtained by starting the game."
+        },
         "DisplayConditionSetId": 0,
         "Weight": 1,
         "ResourceId": 3,
         "ItemRarityType": 3
+    },
+    {
+        "Id": 10001,
+        "Name": {
+            "Ja": "預ける背中",
+            "En": "Someone to Count On"
+        },
+        "Description": {
+            "Ja": "シーズンパス「トレジャーハント シーズン1」で入手するホーム背景です。",
+            "En": "Wallpaper obtained through the season pass \"Treasure Hunts Season 1.\""
+        },
+        "DisplayConditionSetId": 0,
+        "Weight": 1,
+        "ResourceId": 10001,
+        "ItemRarityType": 5
     },
     {
         "Id": 20001,
@@ -38,20 +65,28 @@
             "Ja": "村雨の戦装束",
             "En": "Murasame Battle Garb"
         },
+        "Description": {
+            "Ja": "ガチャで入手可能なクラウド専用武器「村雨」のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にすることで入手できるホーム背景です。",
+            "En": "Wallpaper obtained by increasing the rarity of Murasame to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>. This Cloud-exclusive weapon can be obtained from draws."
+        },
         "DisplayConditionSetId": 0,
         "Weight": 1,
         "ResourceId": 20001,
         "ItemRarityType": 5
     },
     {
-        "Id": 20006,
+        "Id": 20008,
         "Name": {
-            "Ja": "キラーアタイア",
-            "En": "Killer Attire"
+            "Ja": "スクラッパーアーマー",
+            "En": "Scrap Armor"
+        },
+        "Description": {
+            "Ja": "ガチャで入手可能なバレット専用武器「ヘビーハウザー」のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にすることで入手できるホーム背景です。",
+            "En": "Wallpaper obtained by increasing the rarity of Heavy Hauser to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>. This Cloud-exclusive weapon can be obtained from draws."
         },
         "DisplayConditionSetId": 0,
         "Weight": 1,
-        "ResourceId": 20006,
+        "ResourceId": 20008,
         "ItemRarityType": 5
     }
 ]

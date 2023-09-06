@@ -149,12 +149,12 @@
             "Ja": "",
             "En": ""
         },
-        "InitialValue": 400,
+        "InitialValue": 350,
         "MaxValue": 1000,
         "TimeChangeValue": 0,
         "IsStopMin": true,
         "IsStopMax": true,
-        "SkillForceGaugeChainEffectId": 3251230011,
+        "SkillForceGaugeChainEffectId": 0,
         "SkillForceGaugeParameterEffectGroupId": 3251230011,
         "SkillForceGaugeTakenDamageEffectGroupId": 3251230011,
         "TutorialStepType": 145
@@ -169,14 +169,14 @@
             "Ja": "",
             "En": ""
         },
-        "InitialValue": 450,
+        "InitialValue": 400,
         "MaxValue": 1000,
         "TimeChangeValue": 0,
         "IsStopMin": true,
         "IsStopMax": true,
-        "SkillForceGaugeChainEffectId": 3251230011,
-        "SkillForceGaugeParameterEffectGroupId": 3251230011,
-        "SkillForceGaugeTakenDamageEffectGroupId": 3251230011,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3251230021,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3251230021,
         "TutorialStepType": 145
     },
     {
@@ -194,9 +194,9 @@
         "TimeChangeValue": 0,
         "IsStopMin": true,
         "IsStopMax": true,
-        "SkillForceGaugeChainEffectId": 3251230011,
-        "SkillForceGaugeParameterEffectGroupId": 3251230011,
-        "SkillForceGaugeTakenDamageEffectGroupId": 3251230011,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3251230031,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3251230031,
         "TutorialStepType": 145
     },
     {
@@ -214,9 +214,9 @@
         "TimeChangeValue": 0,
         "IsStopMin": true,
         "IsStopMax": true,
-        "SkillForceGaugeChainEffectId": 3251230011,
-        "SkillForceGaugeParameterEffectGroupId": 3251230011,
-        "SkillForceGaugeTakenDamageEffectGroupId": 3251230011,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3251230041,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3251230041,
         "TutorialStepType": 145
     },
     {
@@ -234,9 +234,169 @@
         "TimeChangeValue": 0,
         "IsStopMin": true,
         "IsStopMax": true,
-        "SkillForceGaugeChainEffectId": 3251230011,
-        "SkillForceGaugeParameterEffectGroupId": 3251230011,
-        "SkillForceGaugeTakenDamageEffectGroupId": 3251230011,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3251230051,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3251230051,
         "TutorialStepType": 145
+    },
+    {
+        "Id": 3251660041,
+        "Name": {
+            "Ja": "CHARGE",
+            "En": "CHARGE"
+        },
+        "Description": {
+            "Ja": "ゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
+            "En": "Enゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+        },
+        "InitialValue": 1000,
+        "MaxValue": 1000,
+        "TimeChangeValue": 0,
+        "IsStopMin": true,
+        "IsStopMax": false,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3251660041,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3251660041,
+        "TutorialStepType": 143
+    },
+    {
+        "Id": 3251660051,
+        "Name": {
+            "Ja": "CHARGE",
+            "En": "CHARGE"
+        },
+        "Description": {
+            "Ja": "ゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
+            "En": "Enゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+        },
+        "InitialValue": 1000,
+        "MaxValue": 1000,
+        "TimeChangeValue": 0,
+        "IsStopMin": true,
+        "IsStopMax": false,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3251660051,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3251660051,
+        "TutorialStepType": 143
+    },
+    {
+        "Id": 3251660061,
+        "Name": {
+            "Ja": "CHARGE",
+            "En": "CHARGE"
+        },
+        "Description": {
+            "Ja": "ゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
+            "En": "Enゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+        },
+        "InitialValue": 1000,
+        "MaxValue": 1000,
+        "TimeChangeValue": 0,
+        "IsStopMin": true,
+        "IsStopMax": false,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3251660061,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3251660061,
+        "TutorialStepType": 143
+    },
+    {
+        "Id": 3253080011,
+        "Name": {
+            "Ja": "LIGHTNING",
+            "En": "LIGHTNING"
+        },
+        "Description": {
+            "Ja": "",
+            "En": ""
+        },
+        "InitialValue": 0,
+        "MaxValue": 1000,
+        "TimeChangeValue": 8,
+        "IsStopMin": false,
+        "IsStopMax": true,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3253080011,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3253080011,
+        "TutorialStepType": 146
+    },
+    {
+        "Id": 3253080021,
+        "Name": {
+            "Ja": "LIGHTNING",
+            "En": "LIGHTNING"
+        },
+        "Description": {
+            "Ja": "",
+            "En": ""
+        },
+        "InitialValue": 0,
+        "MaxValue": 1000,
+        "TimeChangeValue": 8,
+        "IsStopMin": false,
+        "IsStopMax": true,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3253080021,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3253080011,
+        "TutorialStepType": 146
+    },
+    {
+        "Id": 3253080031,
+        "Name": {
+            "Ja": "LIGHTNING",
+            "En": "LIGHTNING"
+        },
+        "Description": {
+            "Ja": "",
+            "En": ""
+        },
+        "InitialValue": 0,
+        "MaxValue": 1000,
+        "TimeChangeValue": 8,
+        "IsStopMin": false,
+        "IsStopMax": true,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3253080031,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3253080011,
+        "TutorialStepType": 146
+    },
+    {
+        "Id": 3253080041,
+        "Name": {
+            "Ja": "LIGHTNING",
+            "En": "LIGHTNING"
+        },
+        "Description": {
+            "Ja": "",
+            "En": ""
+        },
+        "InitialValue": 0,
+        "MaxValue": 1000,
+        "TimeChangeValue": 8,
+        "IsStopMin": false,
+        "IsStopMax": true,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3253080041,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3253080011,
+        "TutorialStepType": 146
+    },
+    {
+        "Id": 3253080051,
+        "Name": {
+            "Ja": "LIGHTNING",
+            "En": "LIGHTNING"
+        },
+        "Description": {
+            "Ja": "",
+            "En": ""
+        },
+        "InitialValue": 0,
+        "MaxValue": 1000,
+        "TimeChangeValue": 8,
+        "IsStopMin": false,
+        "IsStopMax": true,
+        "SkillForceGaugeChainEffectId": 0,
+        "SkillForceGaugeParameterEffectGroupId": 3253080051,
+        "SkillForceGaugeTakenDamageEffectGroupId": 3253080011,
+        "TutorialStepType": 146
     }
 ]

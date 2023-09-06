@@ -2,8 +2,8 @@
     {
         "Id": 2,
         "Description": {
-            "Ja": "魔法アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Magic Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "魔法アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Mag. Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 2,
         "SupportEffectType": 1,
@@ -13,8 +13,8 @@
     {
         "Id": 3,
         "Description": {
-            "Ja": "物理アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Physical Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "物理アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Phys. Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 3,
         "SupportEffectType": 1,
@@ -24,8 +24,8 @@
     {
         "Id": 4,
         "Description": {
-            "Ja": "攻撃アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "攻撃アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 4,
         "SupportEffectType": 1,
@@ -35,8 +35,8 @@
     {
         "Id": 5,
         "Description": {
-            "Ja": "回復アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Heal Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "アビリティの回復量<color=#76FBFD>＋{0}%</color>",
+            "En": "Heal Ability Pot. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 5,
         "SupportEffectType": 4,
@@ -46,8 +46,8 @@
     {
         "Id": 10,
         "Description": {
-            "Ja": "バフデバフ効果時間<color=#76FBFD>＋{1}%</color>",
-            "En": "Buff/Debuff Time <color=#76FBFD>＋{1}%</color>"
+            "Ja": "バフデバフ効果時間<color=#76FBFD>＋{0}%</color>",
+            "En": "Buff/Debuff Time <color=#76FBFD>＋{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 10,
         "SupportEffectType": 9,
@@ -57,8 +57,8 @@
     {
         "Id": 11,
         "Description": {
-            "Ja": "炎属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Fire Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "炎属性アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Fire Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 11,
         "SupportEffectType": 1,
@@ -68,8 +68,8 @@
     {
         "Id": 12,
         "Description": {
-            "Ja": "冷属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Ice Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "冷属性アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Ice Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 12,
         "SupportEffectType": 1,
@@ -79,8 +79,8 @@
     {
         "Id": 13,
         "Description": {
-            "Ja": "雷属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Lightning Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "雷属性アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Lightning Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 13,
         "SupportEffectType": 1,
@@ -90,8 +90,8 @@
     {
         "Id": 14,
         "Description": {
-            "Ja": "水属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Water Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "水属性アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Water Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 14,
         "SupportEffectType": 1,
@@ -101,8 +101,8 @@
     {
         "Id": 15,
         "Description": {
-            "Ja": "風属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Wind Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "風属性アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Wind Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 15,
         "SupportEffectType": 1,
@@ -112,8 +112,8 @@
     {
         "Id": 16,
         "Description": {
-            "Ja": "土属性アビリティ威力<color=#76FBFD>＋{1}%</color>",
-            "En": "Earth Ability Attack <color=#76FBFD>＋{1}%</color>"
+            "Ja": "土属性アビリティダメージ<color=#76FBFD>＋{0}%</color>",
+            "En": "Earth Ability Dmg. <color=#76FBFD>+{0}%</color>"
         },
         "MateriaSupportEffectGroupId": 16,
         "SupportEffectType": 1,

@@ -2,7 +2,7 @@
     {
         "Description": {
             "Ja": "マルチコンテンツ\nマルチバトルが解放されました。",
-            "En": "Multiplayer Content\nMultiplayer battles have been unlocked."
+            "En": "Co-op Content\nCo-op battles have been unlocked."
         },
         "NotificationOutgameGroupId": 1,
         "Seq": 1,
@@ -98,7 +98,7 @@
     {
         "Description": {
             "Ja": "シングル・マルチコンテンツ\nスタミナブーストが解放されました。",
-            "En": "Solo & Multiplayer Content\nStamina boost has been unlocked."
+            "En": "Solo & Co-op Content\nStamina boost has been unlocked."
         },
         "NotificationOutgameGroupId": 13,
         "Seq": 1,
@@ -127,6 +127,18 @@
         "NotificationOutgameGroupId": 15,
         "Seq": 1,
         "ConditionSetId": 160000000046,
+        "NotificationType": 2,
+        "TransitionType": 0,
+        "TransitionId": 0
+    },
+    {
+        "Description": {
+            "Ja": "シングルコンテンツ：ストーリークエスト\nキャラクタークエストが解放されました。",
+            "En": "Solo Content: Story Quests\nCharacter Quests have been unlocked."
+        },
+        "NotificationOutgameGroupId": 16,
+        "Seq": 1,
+        "ConditionSetId": 160000000018,
         "NotificationType": 2,
         "TransitionType": 0,
         "TransitionId": 0
@@ -170,7 +182,7 @@
     {
         "Description": {
             "Ja": "シングルコンテンツ：強化クエスト\nマテリア合成クエストが解放されました。",
-            "En": "Solo Content: Training Quests\nSynthesis quests have been unlocked."
+            "En": "Solo Content: Training Quests\nSynthesis Quests have been unlocked."
         },
         "NotificationOutgameGroupId": 20,
         "Seq": 1,
@@ -212,18 +224,6 @@
         "Seq": 1,
         "ConditionSetId": 160000000019,
         "NotificationType": 2,
-        "TransitionType": 0,
-        "TransitionId": 0
-    },
-    {
-        "Description": {
-            "Ja": "ミッション\nデイリー、ウィークリーが解放されました。",
-            "En": "Missions\nDaily and weekly missions have been unlocked."
-        },
-        "NotificationOutgameGroupId": 25,
-        "Seq": 1,
-        "ConditionSetId": 260000100001,
-        "NotificationType": 1,
         "TransitionType": 0,
         "TransitionId": 0
     },

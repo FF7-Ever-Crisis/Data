@@ -1,1 +1,28 @@
-{}
+{
+    "type": "object",
+    "properties": {
+        "Choice": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "DungeonDramaSelectionId": {
+            "type": "integer"
+        },
+        "Idx": {
+            "type": "integer"
+        },
+        "RewardSetId": {
+            "type": "integer"
+        },
+        "IsOnlyOnceReward": {
+            "type": "boolean"
+        }
+    }
+}

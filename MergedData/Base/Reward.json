@@ -1,5 +1,14 @@
 [
     {
+        "Id": 11,
+        "Name": {
+            "Ja": "レッドクリスタル",
+            "En": "Red Crystal"
+        },
+        "RewardType": 10,
+        "TargetId": 1
+    },
+    {
         "Id": 12,
         "Name": {
             "Ja": "ブルークリスタル",
@@ -261,6 +270,15 @@
         "TargetId": 3
     },
     {
+        "Id": 110001,
+        "Name": {
+            "Ja": "預ける背中",
+            "En": "Someone to Count On"
+        },
+        "RewardType": 19,
+        "TargetId": 10001
+    },
+    {
         "Id": 120001,
         "Name": {
             "Ja": "村雨の戦装束",
@@ -270,22 +288,112 @@
         "TargetId": 20001
     },
     {
-        "Id": 120006,
+        "Id": 120008,
         "Name": {
-            "Ja": "キラーアタイア",
-            "En": "Killer Attire"
+            "Ja": "スクラッパーアーマー",
+            "En": "Scrap Armor"
         },
         "RewardType": 19,
-        "TargetId": 20006
+        "TargetId": 20008
+    },
+    {
+        "Id": 130001,
+        "Name": {
+            "Ja": "預ける背中",
+            "En": "Someone to Count On"
+        },
+        "RewardType": 19,
+        "TargetId": 10001
     },
     {
         "Id": 1001002,
         "Name": {
-            "Ja": "入れ替える用文言",
-            "En": "En入れ替える用文言"
+            "Ja": "村雨の戦装束",
+            "En": "Murasame Battle Garb"
         },
         "RewardType": 9,
         "TargetId": 1002
+    },
+    {
+        "Id": 1001003,
+        "Name": {
+            "Ja": "戦鬼の装束",
+            "En": "Battlefiend Garb"
+        },
+        "RewardType": 9,
+        "TargetId": 1003
+    },
+    {
+        "Id": 1002002,
+        "Name": {
+            "Ja": "フレイミングマント",
+            "En": "Fiery Cape"
+        },
+        "RewardType": 9,
+        "TargetId": 2002
+    },
+    {
+        "Id": 1002004,
+        "Name": {
+            "Ja": "スクラッパーアーマー",
+            "En": "Scrap Armor"
+        },
+        "RewardType": 9,
+        "TargetId": 2004
+    },
+    {
+        "Id": 1003002,
+        "Name": {
+            "Ja": "メタルフット",
+            "En": "Metalfoot"
+        },
+        "RewardType": 9,
+        "TargetId": 3002
+    },
+    {
+        "Id": 1004003,
+        "Name": {
+            "Ja": "ロージーバトルスーツ",
+            "En": "Rosy Battle Suit"
+        },
+        "RewardType": 9,
+        "TargetId": 4003
+    },
+    {
+        "Id": 1005002,
+        "Name": {
+            "Ja": "ラバーハーネス",
+            "En": "Rubber Harness"
+        },
+        "RewardType": 9,
+        "TargetId": 5002
+    },
+    {
+        "Id": 1020004,
+        "Name": {
+            "Ja": "ヴァリアントスーツ",
+            "En": "Valiant Suit"
+        },
+        "RewardType": 9,
+        "TargetId": 20004
+    },
+    {
+        "Id": 1020006,
+        "Name": {
+            "Ja": "トロピカル海パン",
+            "En": "Tropical Beach"
+        },
+        "RewardType": 9,
+        "TargetId": 20006
+    },
+    {
+        "Id": 1050002,
+        "Name": {
+            "Ja": "ケイクブレイカー",
+            "En": "Cake Breaker"
+        },
+        "RewardType": 9,
+        "TargetId": 50002
     },
     {
         "Id": 1050003,
@@ -297,13 +405,13 @@
         "TargetId": 50003
     },
     {
-        "Id": 1051003,
+        "Id": 1051002,
         "Name": {
-            "Ja": "",
-            "En": ""
+            "Ja": "エリートユニフォーム",
+            "En": "Elite Uniform"
         },
         "RewardType": 9,
-        "TargetId": 51003
+        "TargetId": 51002
     },
     {
         "Id": 1051005,
@@ -313,6 +421,15 @@
         },
         "RewardType": 9,
         "TargetId": 51005
+    },
+    {
+        "Id": 1052002,
+        "Name": {
+            "Ja": "ステルスブラック",
+            "En": "Black Stealth"
+        },
+        "RewardType": 9,
+        "TargetId": 52002
     },
     {
         "Id": 1052005,
@@ -468,6 +585,24 @@
         "TargetId": 21020031
     },
     {
+        "Id": 3000221,
+        "Name": {
+            "Ja": "ブリザド",
+            "En": "Blizzard"
+        },
+        "RewardType": 3,
+        "TargetId": 21210011
+    },
+    {
+        "Id": 3000222,
+        "Name": {
+            "Ja": "クエイク",
+            "En": "Quake"
+        },
+        "RewardType": 3,
+        "TargetId": 21410011
+    },
+    {
         "Id": 3000227,
         "Name": {
             "Ja": "クエイク",
@@ -525,7 +660,7 @@
         "Id": 3000233,
         "Name": {
             "Ja": "バイオエスナ",
-            "En": "Healing Esuna (bio)"
+            "En": "Healing Esuna (Poison)"
         },
         "RewardType": 3,
         "TargetId": 24000011
@@ -534,7 +669,7 @@
         "Id": 3000234,
         "Name": {
             "Ja": "バイオエスナ",
-            "En": "Healing Esuna (bio)"
+            "En": "Healing Esuna (Poison)"
         },
         "RewardType": 3,
         "TargetId": 24000011
@@ -543,7 +678,7 @@
         "Id": 3000235,
         "Name": {
             "Ja": "バイオエスナ",
-            "En": "Healing Esuna (bio)"
+            "En": "Healing Esuna (Poison)"
         },
         "RewardType": 3,
         "TargetId": 24000011
@@ -552,7 +687,7 @@
         "Id": 3000291,
         "Name": {
             "Ja": "デマバリ",
-            "En": "Enデマバリ"
+            "En": "Mana Breach"
         },
         "RewardType": 3,
         "TargetId": 21010011
@@ -561,7 +696,7 @@
         "Id": 3000292,
         "Name": {
             "Ja": "デバリア",
-            "En": "Enデバリア"
+            "En": "Breach"
         },
         "RewardType": 3,
         "TargetId": 21010011
@@ -578,8 +713,8 @@
     {
         "Id": 3000294,
         "Name": {
-            "Ja": "ペインキュア",
-            "En": "Enペインキュア"
+            "Ja": "ペインエスナ",
+            "En": "Healing Esuna (Fatigue)"
         },
         "RewardType": 3,
         "TargetId": 24000041
@@ -587,8 +722,8 @@
     {
         "Id": 3000295,
         "Name": {
-            "Ja": "フォーグキュア",
-            "En": "Enフォーグキュア"
+            "Ja": "フォーグエスナ",
+            "En": "Healing Esuna (Fog)"
         },
         "RewardType": 3,
         "TargetId": 24000051
@@ -619,6 +754,60 @@
         },
         "RewardType": 3,
         "TargetId": 22000011
+    },
+    {
+        "Id": 3000299,
+        "Name": {
+            "Ja": "ファイア",
+            "En": "Fire"
+        },
+        "RewardType": 3,
+        "TargetId": 21110011
+    },
+    {
+        "Id": 3000300,
+        "Name": {
+            "Ja": "ブリザド",
+            "En": "Blizzard"
+        },
+        "RewardType": 3,
+        "TargetId": 21210011
+    },
+    {
+        "Id": 3000301,
+        "Name": {
+            "Ja": "サンダー",
+            "En": "Thunder"
+        },
+        "RewardType": 3,
+        "TargetId": 21310011
+    },
+    {
+        "Id": 3000302,
+        "Name": {
+            "Ja": "デファイ",
+            "En": "Fire Breach"
+        },
+        "RewardType": 3,
+        "TargetId": 26010051
+    },
+    {
+        "Id": 3000303,
+        "Name": {
+            "Ja": "デブリザ",
+            "En": "Ice Breach"
+        },
+        "RewardType": 3,
+        "TargetId": 26010061
+    },
+    {
+        "Id": 3000304,
+        "Name": {
+            "Ja": "デサンダ",
+            "En": "Lightning Breach"
+        },
+        "RewardType": 3,
+        "TargetId": 26010071
     },
     {
         "Id": 10010011,
@@ -999,33 +1188,6 @@
         "TargetId": 2007
     },
     {
-        "Id": 10020081,
-        "Name": {
-            "Ja": "マイクロレーザー",
-            "En": "Microlaser"
-        },
-        "RewardType": 5,
-        "TargetId": 2008
-    },
-    {
-        "Id": 10020082,
-        "Name": {
-            "Ja": "マイクロレーザー",
-            "En": "Microlaser"
-        },
-        "RewardType": 5,
-        "TargetId": 2008
-    },
-    {
-        "Id": 10020083,
-        "Name": {
-            "Ja": "マイクロレーザー",
-            "En": "Microlaser"
-        },
-        "RewardType": 5,
-        "TargetId": 2008
-    },
-    {
         "Id": 10020101,
         "Name": {
             "Ja": "Wマシンガン",
@@ -1134,6 +1296,87 @@
         "TargetId": 2013
     },
     {
+        "Id": 10020151,
+        "Name": {
+            "Ja": "フレイムプロジェクター",
+            "En": "Flame Projector"
+        },
+        "RewardType": 5,
+        "TargetId": 2015
+    },
+    {
+        "Id": 10020152,
+        "Name": {
+            "Ja": "フレイムプロジェクター",
+            "En": "Flame Projector"
+        },
+        "RewardType": 5,
+        "TargetId": 2015
+    },
+    {
+        "Id": 10020153,
+        "Name": {
+            "Ja": "フレイムプロジェクター",
+            "En": "Flame Projector"
+        },
+        "RewardType": 5,
+        "TargetId": 2015
+    },
+    {
+        "Id": 10020181,
+        "Name": {
+            "Ja": "ヘビーハウザー",
+            "En": "Heavy Hauser"
+        },
+        "RewardType": 5,
+        "TargetId": 2018
+    },
+    {
+        "Id": 10020182,
+        "Name": {
+            "Ja": "ヘビーハウザー",
+            "En": "Heavy Hauser"
+        },
+        "RewardType": 5,
+        "TargetId": 2018
+    },
+    {
+        "Id": 10020183,
+        "Name": {
+            "Ja": "ヘビーハウザー",
+            "En": "Heavy Hauser"
+        },
+        "RewardType": 5,
+        "TargetId": 2018
+    },
+    {
+        "Id": 10020211,
+        "Name": {
+            "Ja": "シャークプランジャー",
+            "En": "Sharkslayer"
+        },
+        "RewardType": 5,
+        "TargetId": 2021
+    },
+    {
+        "Id": 10020212,
+        "Name": {
+            "Ja": "シャークプランジャー",
+            "En": "Sharkslayer"
+        },
+        "RewardType": 5,
+        "TargetId": 2021
+    },
+    {
+        "Id": 10020213,
+        "Name": {
+            "Ja": "シャークプランジャー",
+            "En": "Sharkslayer"
+        },
+        "RewardType": 5,
+        "TargetId": 2021
+    },
+    {
         "Id": 10020221,
         "Name": {
             "Ja": "シヴァランチャー",
@@ -1213,6 +1456,33 @@
         },
         "RewardType": 5,
         "TargetId": 3005
+    },
+    {
+        "Id": 10030061,
+        "Name": {
+            "Ja": "ソニックフィスト",
+            "En": "Sonic Striker"
+        },
+        "RewardType": 5,
+        "TargetId": 3006
+    },
+    {
+        "Id": 10030062,
+        "Name": {
+            "Ja": "ソニックフィスト",
+            "En": "Sonic Striker"
+        },
+        "RewardType": 5,
+        "TargetId": 3006
+    },
+    {
+        "Id": 10030063,
+        "Name": {
+            "Ja": "ソニックフィスト",
+            "En": "Sonic Striker"
+        },
+        "RewardType": 5,
+        "TargetId": 3006
     },
     {
         "Id": 10030071,
@@ -1566,6 +1836,33 @@
         "TargetId": 4010
     },
     {
+        "Id": 10040211,
+        "Name": {
+            "Ja": "ラムウロッド",
+            "En": "Ramuh's Staff"
+        },
+        "RewardType": 5,
+        "TargetId": 4021
+    },
+    {
+        "Id": 10040212,
+        "Name": {
+            "Ja": "ラムウロッド",
+            "En": "Ramuh's Staff"
+        },
+        "RewardType": 5,
+        "TargetId": 4021
+    },
+    {
+        "Id": 10040213,
+        "Name": {
+            "Ja": "ラムウロッド",
+            "En": "Ramuh's Staff"
+        },
+        "RewardType": 5,
+        "TargetId": 4021
+    },
+    {
         "Id": 10050011,
         "Name": {
             "Ja": "スムースカラー",
@@ -1780,33 +2077,6 @@
         },
         "RewardType": 5,
         "TargetId": 5021
-    },
-    {
-        "Id": 10050251,
-        "Name": {
-            "Ja": "イフリートカラー",
-            "En": "Inferno Collar"
-        },
-        "RewardType": 5,
-        "TargetId": 5025
-    },
-    {
-        "Id": 10050252,
-        "Name": {
-            "Ja": "イフリートカラー",
-            "En": "Inferno Collar"
-        },
-        "RewardType": 5,
-        "TargetId": 5025
-    },
-    {
-        "Id": 10050253,
-        "Name": {
-            "Ja": "イフリートカラー",
-            "En": "Inferno Collar"
-        },
-        "RewardType": 5,
-        "TargetId": 5025
     },
     {
         "Id": 10200011,
@@ -2079,6 +2349,33 @@
         "TargetId": 20016
     },
     {
+        "Id": 10500011,
+        "Name": {
+            "Ja": "マイスティーロ",
+            "En": "Personal Style"
+        },
+        "RewardType": 5,
+        "TargetId": 50001
+    },
+    {
+        "Id": 10500012,
+        "Name": {
+            "Ja": "マイスティーロ",
+            "En": "Personal Style"
+        },
+        "RewardType": 5,
+        "TargetId": 50001
+    },
+    {
+        "Id": 10500013,
+        "Name": {
+            "Ja": "マイスティーロ",
+            "En": "Personal Style"
+        },
+        "RewardType": 5,
+        "TargetId": 50001
+    },
+    {
         "Id": 10500021,
         "Name": {
             "Ja": "クルーバッシュ",
@@ -2106,7 +2403,160 @@
         "TargetId": 50002
     },
     {
+        "Id": 10500031,
+        "Name": {
+            "Ja": "ジギー・ファム",
+            "En": "Jiggy Fam"
+        },
+        "RewardType": 5,
+        "TargetId": 50003
+    },
+    {
+        "Id": 10500032,
+        "Name": {
+            "Ja": "ジギー・ファム",
+            "En": "Jiggy Fam"
+        },
+        "RewardType": 5,
+        "TargetId": 50003
+    },
+    {
+        "Id": 10500033,
+        "Name": {
+            "Ja": "ジギー・ファム",
+            "En": "Jiggy Fam"
+        },
+        "RewardType": 5,
+        "TargetId": 50003
+    },
+    {
+        "Id": 10500041,
+        "Name": {
+            "Ja": "ハードコア・スクワッド",
+            "En": "Hardcore Squad"
+        },
+        "RewardType": 5,
+        "TargetId": 50004
+    },
+    {
+        "Id": 10500042,
+        "Name": {
+            "Ja": "ハードコア・スクワッド",
+            "En": "Hardcore Squad"
+        },
+        "RewardType": 5,
+        "TargetId": 50004
+    },
+    {
+        "Id": 10500043,
+        "Name": {
+            "Ja": "ハードコア・スクワッド",
+            "En": "Hardcore Squad"
+        },
+        "RewardType": 5,
+        "TargetId": 50004
+    },
+    {
+        "Id": 10500051,
+        "Name": {
+            "Ja": "リップトゥユー",
+            "En": "Rest in Peace"
+        },
+        "RewardType": 5,
+        "TargetId": 50005
+    },
+    {
+        "Id": 10500052,
+        "Name": {
+            "Ja": "リップトゥユー",
+            "En": "Rest in Peace"
+        },
+        "RewardType": 5,
+        "TargetId": 50005
+    },
+    {
+        "Id": 10500053,
+        "Name": {
+            "Ja": "リップトゥユー",
+            "En": "Rest in Peace"
+        },
+        "RewardType": 5,
+        "TargetId": 50005
+    },
+    {
+        "Id": 10500081,
+        "Name": {
+            "Ja": "ピースオブケイク",
+            "En": "Piece of Cake"
+        },
+        "RewardType": 5,
+        "TargetId": 50008
+    },
+    {
+        "Id": 10500082,
+        "Name": {
+            "Ja": "ピースオブケイク",
+            "En": "Piece of Cake"
+        },
+        "RewardType": 5,
+        "TargetId": 50008
+    },
+    {
+        "Id": 10500083,
+        "Name": {
+            "Ja": "ピースオブケイク",
+            "En": "Piece of Cake"
+        },
+        "RewardType": 5,
+        "TargetId": 50008
+    },
+    {
+        "Id": 10500101,
+        "Name": {
+            "Ja": "ショックバスタ",
+            "En": "Shockbuster"
+        },
+        "RewardType": 5,
+        "TargetId": 50010
+    },
+    {
+        "Id": 10500102,
+        "Name": {
+            "Ja": "ショックバスタ",
+            "En": "Shockbuster"
+        },
+        "RewardType": 5,
+        "TargetId": 50010
+    },
+    {
+        "Id": 10500103,
+        "Name": {
+            "Ja": "ショックバスタ",
+            "En": "Shockbuster"
+        },
+        "RewardType": 5,
+        "TargetId": 50010
+    },
+    {
         "Id": 10500111,
+        "Name": {
+            "Ja": "アポロジインヘル",
+            "En": "Apology in Hell"
+        },
+        "RewardType": 5,
+        "TargetId": 50011
+    },
+    {
+        "Id": 10500112,
+        "Name": {
+            "Ja": "アポロジインヘル",
+            "En": "Apology in Hell"
+        },
+        "RewardType": 5,
+        "TargetId": 50011
+    },
+    {
+        "Id": 10500113,
         "Name": {
             "Ja": "アポロジインヘル",
             "En": "Apology in Hell"
@@ -2142,6 +2592,114 @@
         "TargetId": 50015
     },
     {
+        "Id": 10510011,
+        "Name": {
+            "Ja": "ブロードソード-アクシス-",
+            "En": "Broadsword: Axis"
+        },
+        "RewardType": 5,
+        "TargetId": 51001
+    },
+    {
+        "Id": 10510012,
+        "Name": {
+            "Ja": "ブロードソード-アクシス-",
+            "En": "Broadsword: Axis"
+        },
+        "RewardType": 5,
+        "TargetId": 51001
+    },
+    {
+        "Id": 10510013,
+        "Name": {
+            "Ja": "ブロードソード-アクシス-",
+            "En": "Broadsword: Axis"
+        },
+        "RewardType": 5,
+        "TargetId": 51001
+    },
+    {
+        "Id": 10510021,
+        "Name": {
+            "Ja": "コモンレイヴン",
+            "En": "Orthodox Raven"
+        },
+        "RewardType": 5,
+        "TargetId": 51002
+    },
+    {
+        "Id": 10510022,
+        "Name": {
+            "Ja": "コモンレイヴン",
+            "En": "Orthodox Raven"
+        },
+        "RewardType": 5,
+        "TargetId": 51002
+    },
+    {
+        "Id": 10510023,
+        "Name": {
+            "Ja": "コモンレイヴン",
+            "En": "Orthodox Raven"
+        },
+        "RewardType": 5,
+        "TargetId": 51002
+    },
+    {
+        "Id": 10510031,
+        "Name": {
+            "Ja": "アブソルートロイヤル",
+            "En": "Absolute Royal"
+        },
+        "RewardType": 5,
+        "TargetId": 51003
+    },
+    {
+        "Id": 10510032,
+        "Name": {
+            "Ja": "アブソルートロイヤル",
+            "En": "Absolute Royal"
+        },
+        "RewardType": 5,
+        "TargetId": 51003
+    },
+    {
+        "Id": 10510033,
+        "Name": {
+            "Ja": "アブソルートロイヤル",
+            "En": "Absolute Royal"
+        },
+        "RewardType": 5,
+        "TargetId": 51003
+    },
+    {
+        "Id": 10510041,
+        "Name": {
+            "Ja": "プライムナンバー",
+            "En": "Prime Number"
+        },
+        "RewardType": 5,
+        "TargetId": 51004
+    },
+    {
+        "Id": 10510042,
+        "Name": {
+            "Ja": "プライムナンバー",
+            "En": "Prime Number"
+        },
+        "RewardType": 5,
+        "TargetId": 51004
+    },
+    {
+        "Id": 10510043,
+        "Name": {
+            "Ja": "プライムナンバー",
+            "En": "Prime Number"
+        },
+        "RewardType": 5,
+        "TargetId": 51004
+    },
+    {
         "Id": 10510051,
         "Name": {
             "Ja": "エペ・ラピエルNext-G",
@@ -2151,58 +2709,346 @@
         "TargetId": 51005
     },
     {
-        "Id": 10510091,
+        "Id": 10510052,
         "Name": {
-            "Ja": "キラーホーネット",
-            "En": "Killer Hornet"
+            "Ja": "エペ・ラピエルNext-G",
+            "En": "Espee Rapiere Next-G"
         },
         "RewardType": 5,
-        "TargetId": 51009
+        "TargetId": 51005
     },
     {
-        "Id": 10510092,
+        "Id": 10510053,
         "Name": {
-            "Ja": "キラーホーネット",
-            "En": "Killer Hornet"
+            "Ja": "エペ・ラピエルNext-G",
+            "En": "Espee Rapiere Next-G"
         },
         "RewardType": 5,
-        "TargetId": 51009
+        "TargetId": 51005
     },
     {
-        "Id": 10510093,
+        "Id": 10510061,
         "Name": {
-            "Ja": "キラーホーネット",
-            "En": "Killer Hornet"
+            "Ja": "ミドルディフェンダー",
+            "En": "Core Defender"
         },
         "RewardType": 5,
-        "TargetId": 51009
+        "TargetId": 51006
     },
     {
-        "Id": 10510141,
+        "Id": 10510062,
         "Name": {
-            "Ja": "シヴァストリッシャー",
-            "En": "Shiva Striscia"
+            "Ja": "ミドルディフェンダー",
+            "En": "Core Defender"
         },
         "RewardType": 5,
-        "TargetId": 51014
+        "TargetId": 51006
     },
     {
-        "Id": 10510142,
+        "Id": 10510063,
         "Name": {
-            "Ja": "シヴァストリッシャー",
-            "En": "Shiva Striscia"
+            "Ja": "ミドルディフェンダー",
+            "En": "Core Defender"
         },
         "RewardType": 5,
-        "TargetId": 51014
+        "TargetId": 51006
     },
     {
-        "Id": 10510143,
+        "Id": 10510081,
         "Name": {
-            "Ja": "シヴァストリッシャー",
-            "En": "Shiva Striscia"
+            "Ja": "スティングレイ",
+            "En": "Stingray"
         },
         "RewardType": 5,
-        "TargetId": 51014
+        "TargetId": 51008
+    },
+    {
+        "Id": 10510082,
+        "Name": {
+            "Ja": "スティングレイ",
+            "En": "Stingray"
+        },
+        "RewardType": 5,
+        "TargetId": 51008
+    },
+    {
+        "Id": 10510083,
+        "Name": {
+            "Ja": "スティングレイ",
+            "En": "Stingray"
+        },
+        "RewardType": 5,
+        "TargetId": 51008
+    },
+    {
+        "Id": 10510151,
+        "Name": {
+            "Ja": "スリークドルクス",
+            "En": "Slick Beetle"
+        },
+        "RewardType": 5,
+        "TargetId": 51015
+    },
+    {
+        "Id": 10510152,
+        "Name": {
+            "Ja": "スリークドルクス",
+            "En": "Slick Beetle"
+        },
+        "RewardType": 5,
+        "TargetId": 51015
+    },
+    {
+        "Id": 10510153,
+        "Name": {
+            "Ja": "スリークドルクス",
+            "En": "Slick Beetle"
+        },
+        "RewardType": 5,
+        "TargetId": 51015
+    },
+    {
+        "Id": 10520011,
+        "Name": {
+            "Ja": "V39",
+            "En": "V39"
+        },
+        "RewardType": 5,
+        "TargetId": 52001
+    },
+    {
+        "Id": 10520012,
+        "Name": {
+            "Ja": "V39",
+            "En": "V39"
+        },
+        "RewardType": 5,
+        "TargetId": 52001
+    },
+    {
+        "Id": 10520013,
+        "Name": {
+            "Ja": "V39",
+            "En": "V39"
+        },
+        "RewardType": 5,
+        "TargetId": 52001
+    },
+    {
+        "Id": 10520021,
+        "Name": {
+            "Ja": "インパルスガン",
+            "En": "Pulse Gun"
+        },
+        "RewardType": 5,
+        "TargetId": 52002
+    },
+    {
+        "Id": 10520022,
+        "Name": {
+            "Ja": "インパルスガン",
+            "En": "Pulse Gun"
+        },
+        "RewardType": 5,
+        "TargetId": 52002
+    },
+    {
+        "Id": 10520023,
+        "Name": {
+            "Ja": "インパルスガン",
+            "En": "Pulse Gun"
+        },
+        "RewardType": 5,
+        "TargetId": 52002
+    },
+    {
+        "Id": 10520031,
+        "Name": {
+            "Ja": "サーペントイーター",
+            "En": "Serpent Eater"
+        },
+        "RewardType": 5,
+        "TargetId": 52003
+    },
+    {
+        "Id": 10520032,
+        "Name": {
+            "Ja": "サーペントイーター",
+            "En": "Serpent Eater"
+        },
+        "RewardType": 5,
+        "TargetId": 52003
+    },
+    {
+        "Id": 10520033,
+        "Name": {
+            "Ja": "サーペントイーター",
+            "En": "Serpent Eater"
+        },
+        "RewardType": 5,
+        "TargetId": 52003
+    },
+    {
+        "Id": 10520051,
+        "Name": {
+            "Ja": "トランクライザーガン",
+            "En": "Tranquilizer Gun"
+        },
+        "RewardType": 5,
+        "TargetId": 52005
+    },
+    {
+        "Id": 10520052,
+        "Name": {
+            "Ja": "トランクライザーガン",
+            "En": "Tranquilizer Gun"
+        },
+        "RewardType": 5,
+        "TargetId": 52005
+    },
+    {
+        "Id": 10520053,
+        "Name": {
+            "Ja": "トランクライザーガン",
+            "En": "Tranquilizer Gun"
+        },
+        "RewardType": 5,
+        "TargetId": 52005
+    },
+    {
+        "Id": 10520061,
+        "Name": {
+            "Ja": "SSR1976",
+            "En": "SSR1976"
+        },
+        "RewardType": 5,
+        "TargetId": 52006
+    },
+    {
+        "Id": 10520062,
+        "Name": {
+            "Ja": "SSR1976",
+            "En": "SSR1976"
+        },
+        "RewardType": 5,
+        "TargetId": 52006
+    },
+    {
+        "Id": 10520063,
+        "Name": {
+            "Ja": "SSR1976",
+            "En": "SSR1976"
+        },
+        "RewardType": 5,
+        "TargetId": 52006
+    },
+    {
+        "Id": 10520071,
+        "Name": {
+            "Ja": "マッドミニット",
+            "En": "Mad Minute"
+        },
+        "RewardType": 5,
+        "TargetId": 52007
+    },
+    {
+        "Id": 10520072,
+        "Name": {
+            "Ja": "マッドミニット",
+            "En": "Mad Minute"
+        },
+        "RewardType": 5,
+        "TargetId": 52007
+    },
+    {
+        "Id": 10520073,
+        "Name": {
+            "Ja": "マッドミニット",
+            "En": "Mad Minute"
+        },
+        "RewardType": 5,
+        "TargetId": 52007
+    },
+    {
+        "Id": 10520101,
+        "Name": {
+            "Ja": "ブラックライフル",
+            "En": "Black Rifle"
+        },
+        "RewardType": 5,
+        "TargetId": 52010
+    },
+    {
+        "Id": 10520102,
+        "Name": {
+            "Ja": "ブラックライフル",
+            "En": "Black Rifle"
+        },
+        "RewardType": 5,
+        "TargetId": 52010
+    },
+    {
+        "Id": 10520103,
+        "Name": {
+            "Ja": "ブラックライフル",
+            "En": "Black Rifle"
+        },
+        "RewardType": 5,
+        "TargetId": 52010
+    },
+    {
+        "Id": 10520161,
+        "Name": {
+            "Ja": "バーンスワロー",
+            "En": "Barn Swallow"
+        },
+        "RewardType": 5,
+        "TargetId": 52016
+    },
+    {
+        "Id": 10520162,
+        "Name": {
+            "Ja": "バーンスワロー",
+            "En": "Barn Swallow"
+        },
+        "RewardType": 5,
+        "TargetId": 52016
+    },
+    {
+        "Id": 10520163,
+        "Name": {
+            "Ja": "バーンスワロー",
+            "En": "Barn Swallow"
+        },
+        "RewardType": 5,
+        "TargetId": 52016
+    },
+    {
+        "Id": 10520191,
+        "Name": {
+            "Ja": "ラムウスナイパー",
+            "En": "Rifle of Levin"
+        },
+        "RewardType": 5,
+        "TargetId": 52019
+    },
+    {
+        "Id": 10520192,
+        "Name": {
+            "Ja": "ラムウスナイパー",
+            "En": "Rifle of Levin"
+        },
+        "RewardType": 5,
+        "TargetId": 52019
+    },
+    {
+        "Id": 10520193,
+        "Name": {
+            "Ja": "ラムウスナイパー",
+            "En": "Rifle of Levin"
+        },
+        "RewardType": 5,
+        "TargetId": 52019
     },
     {
         "Id": 20000001,
@@ -2232,13 +3078,22 @@
         "TargetId": 3
     },
     {
+        "Id": 20000004,
+        "Name": {
+            "Ja": "サモンマスターメモリー",
+            "En": "Summon's Master Memory"
+        },
+        "RewardType": 1,
+        "TargetId": 4
+    },
+    {
         "Id": 20000009,
         "Name": {
             "Ja": "ダンジョンキー交換券",
             "En": "Dungeon Key Voucher"
         },
         "RewardType": 1,
-        "TargetId": 3
+        "TargetId": 9
     },
     {
         "Id": 20000010,
@@ -2262,7 +3117,7 @@
         "Id": 20000013,
         "Name": {
             "Ja": "マルチメダル",
-            "En": "Multi Medal"
+            "En": "Co-op Medal"
         },
         "RewardType": 1,
         "TargetId": 13
@@ -2275,6 +3130,123 @@
         },
         "RewardType": 1,
         "TargetId": 14
+    },
+    {
+        "Id": 20000021,
+        "Name": {
+            "Ja": "選べるウェア交換券",
+            "En": "Gear Voucher"
+        },
+        "RewardType": 1,
+        "TargetId": 21
+    },
+    {
+        "Id": 20000022,
+        "Name": {
+            "Ja": "選べる<sprite=\"tmp_icon\" index=196>5武器交換券",
+            "En": "5<sprite=\"tmp_icon\" index=196> Weapon Voucher"
+        },
+        "RewardType": 1,
+        "TargetId": 22
+    },
+    {
+        "Id": 20000025,
+        "Name": {
+            "Ja": "選べるメモリー交換券",
+            "En": "Memory Voucher"
+        },
+        "RewardType": 1,
+        "TargetId": 25
+    },
+    {
+        "Id": 20000026,
+        "Name": {
+            "Ja": "選べる召喚獣メモリー交換券",
+            "En": "Summon's Memory Voucher"
+        },
+        "RewardType": 1,
+        "TargetId": 26
+    },
+    {
+        "Id": 20001001,
+        "Name": {
+            "Ja": "クラウド専用ウェポンパーツ",
+            "En": "Cloud-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1001
+    },
+    {
+        "Id": 20001002,
+        "Name": {
+            "Ja": "バレット専用ウェポンパーツ",
+            "En": "Barret-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1002
+    },
+    {
+        "Id": 20001003,
+        "Name": {
+            "Ja": "ティファ専用ウェポンパーツ",
+            "En": "Tifa-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1003
+    },
+    {
+        "Id": 20001004,
+        "Name": {
+            "Ja": "エアリス専用ウェポンパーツ",
+            "En": "Aerith-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1004
+    },
+    {
+        "Id": 20001005,
+        "Name": {
+            "Ja": "レッドXIII専用ウェポンパーツ",
+            "En": "Red XIII-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1005
+    },
+    {
+        "Id": 20001020,
+        "Name": {
+            "Ja": "ザックス専用ウェポンパーツ",
+            "En": "Zack-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1020
+    },
+    {
+        "Id": 20001050,
+        "Name": {
+            "Ja": "グレン専用ウェポンパーツ",
+            "En": "Glenn-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1050
+    },
+    {
+        "Id": 20001051,
+        "Name": {
+            "Ja": "マット専用ウェポンパーツ",
+            "En": "Matt-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1051
+    },
+    {
+        "Id": 20001052,
+        "Name": {
+            "Ja": "ルティア専用ウェポンパーツ",
+            "En": "Lucia-Specific Weapon Part"
+        },
+        "RewardType": 1,
+        "TargetId": 1052
     },
     {
         "Id": 20002001,
@@ -2374,6 +3346,15 @@
         },
         "RewardType": 1,
         "TargetId": 3002
+    },
+    {
+        "Id": 20003006,
+        "Name": {
+            "Ja": "ラムウのメモリー",
+            "En": "Ramuh's Memory"
+        },
+        "RewardType": 1,
+        "TargetId": 3006
     },
     {
         "Id": 20004001,
@@ -2601,6 +3582,78 @@
         "TargetId": 6004
     },
     {
+        "Id": 20006005,
+        "Name": {
+            "Ja": "合成触媒・ミメイの大片",
+            "En": "Synth Catalyst Piece – Dawn"
+        },
+        "RewardType": 1,
+        "TargetId": 6005
+    },
+    {
+        "Id": 20006006,
+        "Name": {
+            "Ja": "合成触媒・ハクチュウの大片",
+            "En": "Synth Catalyst Piece – Day"
+        },
+        "RewardType": 1,
+        "TargetId": 6006
+    },
+    {
+        "Id": 20006007,
+        "Name": {
+            "Ja": "合成触媒・タソガレの大片",
+            "En": "Synth Catalyst Piece – Evening"
+        },
+        "RewardType": 1,
+        "TargetId": 6007
+    },
+    {
+        "Id": 20006008,
+        "Name": {
+            "Ja": "合成触媒・ヨイの大片",
+            "En": "Synth Catalyst Piece – Night"
+        },
+        "RewardType": 1,
+        "TargetId": 6008
+    },
+    {
+        "Id": 20006009,
+        "Name": {
+            "Ja": "合成触媒・ミメイの小片",
+            "En": "Synth Catalyst Sliver – Dawn"
+        },
+        "RewardType": 1,
+        "TargetId": 6009
+    },
+    {
+        "Id": 20006010,
+        "Name": {
+            "Ja": "合成触媒・ハクチュウの小片",
+            "En": "Synth Catalyst Sliver – Day"
+        },
+        "RewardType": 1,
+        "TargetId": 6010
+    },
+    {
+        "Id": 20006011,
+        "Name": {
+            "Ja": "合成触媒・タソガレの小片",
+            "En": "Synth Catalyst Sliver – Evening"
+        },
+        "RewardType": 1,
+        "TargetId": 6011
+    },
+    {
+        "Id": 20006012,
+        "Name": {
+            "Ja": "合成触媒・ヨイの小片",
+            "En": "Synth Catalyst Sliver – Night"
+        },
+        "RewardType": 1,
+        "TargetId": 6012
+    },
+    {
         "Id": 20008001,
         "Name": {
             "Ja": "合成の栞",
@@ -2612,8 +3665,8 @@
     {
         "Id": 20009001,
         "Name": {
-            "Ja": "研磨石の欠片",
-            "En": "Whetstone Shard"
+            "Ja": "鍛錬石の欠片",
+            "En": "Grindstone Shard"
         },
         "RewardType": 1,
         "TargetId": 9001
@@ -2621,8 +3674,8 @@
     {
         "Id": 20009002,
         "Name": {
-            "Ja": "研磨石",
-            "En": "Whetstone"
+            "Ja": "鍛錬石",
+            "En": "Grindstone"
         },
         "RewardType": 1,
         "TargetId": 9002
@@ -2630,8 +3683,8 @@
     {
         "Id": 20009003,
         "Name": {
-            "Ja": "研磨石の塊",
-            "En": "Whetstone Chunk"
+            "Ja": "鍛錬石の塊",
+            "En": "Grindstone Chunk"
         },
         "RewardType": 1,
         "TargetId": 9003
@@ -2666,8 +3719,8 @@
     {
         "Id": 20010021,
         "Name": {
-            "Ja": "低純度チタン",
-            "En": "Low-Grade Titanium"
+            "Ja": "低純度エレクトラム",
+            "En": "Low-Grade Electrum"
         },
         "RewardType": 1,
         "TargetId": 10021
@@ -2675,8 +3728,8 @@
     {
         "Id": 20010022,
         "Name": {
-            "Ja": "中純度チタン",
-            "En": "Mid-Grade Titanium"
+            "Ja": "中純度エレクトラム",
+            "En": "Mid-Grade Electrum"
         },
         "RewardType": 1,
         "TargetId": 10022
@@ -2684,8 +3737,8 @@
     {
         "Id": 20010023,
         "Name": {
-            "Ja": "高純度チタン",
-            "En": "High-Grade Titanium"
+            "Ja": "高純度エレクトラム",
+            "En": "High-Grade Electrum"
         },
         "RewardType": 1,
         "TargetId": 10023
@@ -2790,6 +3843,105 @@
         "TargetId": 10111
     },
     {
+        "Id": 20010131,
+        "Name": {
+            "Ja": "ヒューマコア・Type B",
+            "En": "Humacore Type B"
+        },
+        "RewardType": 1,
+        "TargetId": 10131
+    },
+    {
+        "Id": 20010151,
+        "Name": {
+            "Ja": "ゲノムポッド・X",
+            "En": "Genome Pod X"
+        },
+        "RewardType": 1,
+        "TargetId": 10151
+    },
+    {
+        "Id": 20010152,
+        "Name": {
+            "Ja": "ゲノムメガポッド・X",
+            "En": "Genome Megapod X"
+        },
+        "RewardType": 1,
+        "TargetId": 10152
+    },
+    {
+        "Id": 20010161,
+        "Name": {
+            "Ja": "ゲノムポッド・Y",
+            "En": "Genome Pod Y"
+        },
+        "RewardType": 1,
+        "TargetId": 10161
+    },
+    {
+        "Id": 20010181,
+        "Name": {
+            "Ja": "ナノキューブ・壱型",
+            "En": "Nanocube Model I"
+        },
+        "RewardType": 1,
+        "TargetId": 10181
+    },
+    {
+        "Id": 20010182,
+        "Name": {
+            "Ja": "マイクロキューブ・壱型",
+            "En": "Microcube Model I"
+        },
+        "RewardType": 1,
+        "TargetId": 10182
+    },
+    {
+        "Id": 20010191,
+        "Name": {
+            "Ja": "ナノキューブ・弐型",
+            "En": "Nanocube Model II"
+        },
+        "RewardType": 1,
+        "TargetId": 10191
+    },
+    {
+        "Id": 20010221,
+        "Name": {
+            "Ja": "ソースジュース・β",
+            "En": "Spirit Juice β"
+        },
+        "RewardType": 1,
+        "TargetId": 10221
+    },
+    {
+        "Id": 20012001,
+        "Name": {
+            "Ja": "パワーピース",
+            "En": "Power Piece"
+        },
+        "RewardType": 1,
+        "TargetId": 12001
+    },
+    {
+        "Id": 20012002,
+        "Name": {
+            "Ja": "マジックピース",
+            "En": "Magic Piece"
+        },
+        "RewardType": 1,
+        "TargetId": 12002
+    },
+    {
+        "Id": 20012003,
+        "Name": {
+            "Ja": "キュアピース",
+            "En": "Healing Piece"
+        },
+        "RewardType": 1,
+        "TargetId": 12003
+    },
+    {
         "Id": 20015006,
         "Name": {
             "Ja": "チョコブースター",
@@ -2817,31 +3969,427 @@
         "TargetId": 16002
     },
     {
-        "Id": 20017001,
+        "Id": 20016003,
         "Name": {
-            "Ja": "スタミナ剤（小）",
-            "En": "Stamina Tonic (S)"
+            "Ja": "忠犬マグカップ",
+            "En": "Stamp Mug"
         },
         "RewardType": 1,
-        "TargetId": 17001
+        "TargetId": 16003
+    },
+    {
+        "Id": 20016007,
+        "Name": {
+            "Ja": "猫缶",
+            "En": "Cat Tin"
+        },
+        "RewardType": 1,
+        "TargetId": 16007
+    },
+    {
+        "Id": 20016008,
+        "Name": {
+            "Ja": "ハーディ＝デイトナ模型",
+            "En": "Hardy-Daytona Model"
+        },
+        "RewardType": 1,
+        "TargetId": 16008
+    },
+    {
+        "Id": 20016009,
+        "Name": {
+            "Ja": "LOVELESSポスター",
+            "En": "Loveless Poster"
+        },
+        "RewardType": 1,
+        "TargetId": 16009
+    },
+    {
+        "Id": 20016010,
+        "Name": {
+            "Ja": "ミュージックディスク",
+            "En": "Music Disc"
+        },
+        "RewardType": 1,
+        "TargetId": 16010
+    },
+    {
+        "Id": 20016011,
+        "Name": {
+            "Ja": "兵士のメット",
+            "En": "Military Helmet"
+        },
+        "RewardType": 1,
+        "TargetId": 16011
+    },
+    {
+        "Id": 20016012,
+        "Name": {
+            "Ja": "神羅兵募集チラシ",
+            "En": "Shinra Recruitment Flyer"
+        },
+        "RewardType": 1,
+        "TargetId": 16012
+    },
+    {
+        "Id": 20016019,
+        "Name": {
+            "Ja": "マンドラの根",
+            "En": "Mandra Root"
+        },
+        "RewardType": 1,
+        "TargetId": 16019
+    },
+    {
+        "Id": 20016020,
+        "Name": {
+            "Ja": "欠けた大牙",
+            "En": "Large Chipped Fang"
+        },
+        "RewardType": 1,
+        "TargetId": 16020
+    },
+    {
+        "Id": 20016021,
+        "Name": {
+            "Ja": "草食動物の骨",
+            "En": "Herbivore Bone"
+        },
+        "RewardType": 1,
+        "TargetId": 16021
+    },
+    {
+        "Id": 20016022,
+        "Name": {
+            "Ja": "巨大蛇の鱗",
+            "En": "Giant Serpent Scale"
+        },
+        "RewardType": 1,
+        "TargetId": 16022
+    },
+    {
+        "Id": 20016023,
+        "Name": {
+            "Ja": "蛇の抜け殻",
+            "En": "Snake Skin"
+        },
+        "RewardType": 1,
+        "TargetId": 16023
+    },
+    {
+        "Id": 20016024,
+        "Name": {
+            "Ja": "ミスリルの砂",
+            "En": "Mythril Sand"
+        },
+        "RewardType": 1,
+        "TargetId": 16024
+    },
+    {
+        "Id": 20016025,
+        "Name": {
+            "Ja": "ダチャオ豆",
+            "En": "Da-chao Beans"
+        },
+        "RewardType": 1,
+        "TargetId": 16025
+    },
+    {
+        "Id": 20016026,
+        "Name": {
+            "Ja": "かめ道楽通信",
+            "En": "Happy Turtle Newsletter"
+        },
+        "RewardType": 1,
+        "TargetId": 16026
+    },
+    {
+        "Id": 20016027,
+        "Name": {
+            "Ja": "使役の御符",
+            "En": "Charm of Command"
+        },
+        "RewardType": 1,
+        "TargetId": 16027
+    },
+    {
+        "Id": 20016028,
+        "Name": {
+            "Ja": "修行用クナイ",
+            "En": "Training Kunai"
+        },
+        "RewardType": 1,
+        "TargetId": 16028
+    },
+    {
+        "Id": 20016029,
+        "Name": {
+            "Ja": "ミニダチャオ像",
+            "En": "Mini Da-chao Statue"
+        },
+        "RewardType": 1,
+        "TargetId": 16029
+    },
+    {
+        "Id": 20016030,
+        "Name": {
+            "Ja": "修行用手裏剣",
+            "En": "Training Shuriken"
+        },
+        "RewardType": 1,
+        "TargetId": 16030
+    },
+    {
+        "Id": 20016034,
+        "Name": {
+            "Ja": "不気味な果実",
+            "En": "Strange Fruit"
+        },
+        "RewardType": 1,
+        "TargetId": 16034
+    },
+    {
+        "Id": 20016035,
+        "Name": {
+            "Ja": "折れたプロペラ",
+            "En": "Broken Propeller"
+        },
+        "RewardType": 1,
+        "TargetId": 16035
+    },
+    {
+        "Id": 20016036,
+        "Name": {
+            "Ja": "大きなホラ殻",
+            "En": "Large Conch Shell"
+        },
+        "RewardType": 1,
+        "TargetId": 16036
+    },
+    {
+        "Id": 20016037,
+        "Name": {
+            "Ja": "バロイルの爪",
+            "En": "Baloir Claw"
+        },
+        "RewardType": 1,
+        "TargetId": 16037
+    },
+    {
+        "Id": 20016038,
+        "Name": {
+            "Ja": "ラディオルの星砂",
+            "En": "Rhadoran Starsand"
+        },
+        "RewardType": 1,
+        "TargetId": 16038
+    },
+    {
+        "Id": 20016039,
+        "Name": {
+            "Ja": "壁画の欠片",
+            "En": "Mural Piece"
+        },
+        "RewardType": 1,
+        "TargetId": 16039
+    },
+    {
+        "Id": 20016501,
+        "Name": {
+            "Ja": "ミッドガルの花（黄）",
+            "En": "Yellow Midgar Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16501
+    },
+    {
+        "Id": 20016502,
+        "Name": {
+            "Ja": "ミッドガルの花（白）",
+            "En": "White Midgar Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16502
+    },
+    {
+        "Id": 20016503,
+        "Name": {
+            "Ja": "ミッドガルの花（赤）",
+            "En": "Red Midgar Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16503
+    },
+    {
+        "Id": 20016507,
+        "Name": {
+            "Ja": "グラスランドの花（黄）",
+            "En": "Yellow Grasslands Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16507
+    },
+    {
+        "Id": 20016508,
+        "Name": {
+            "Ja": "グラスランドの花（白）",
+            "En": "White Grasslands Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16508
+    },
+    {
+        "Id": 20016510,
+        "Name": {
+            "Ja": "ウータイの花（白）",
+            "En": "White Wutai Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16510
+    },
+    {
+        "Id": 20016511,
+        "Name": {
+            "Ja": "ウータイの花（黄）",
+            "En": "Yellow Wutai Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16511
+    },
+    {
+        "Id": 20016513,
+        "Name": {
+            "Ja": "ラディオルの花（黄）",
+            "En": "Yellow Rhadore Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16513
+    },
+    {
+        "Id": 20016514,
+        "Name": {
+            "Ja": "ラディオルの花（白）",
+            "En": "White Rhadore Flower"
+        },
+        "RewardType": 1,
+        "TargetId": 16514
+    },
+    {
+        "Id": 20016601,
+        "Name": {
+            "Ja": "チョコボの羽根",
+            "En": "Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16601
+    },
+    {
+        "Id": 20016602,
+        "Name": {
+            "Ja": "チョコボの羽根（赤）",
+            "En": "White Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16602
+    },
+    {
+        "Id": 20016603,
+        "Name": {
+            "Ja": "チョコボの羽根（青）",
+            "En": "Blue Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16603
+    },
+    {
+        "Id": 20016604,
+        "Name": {
+            "Ja": "チョコボの羽根（緑）",
+            "En": "Green Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16604
+    },
+    {
+        "Id": 20016605,
+        "Name": {
+            "Ja": "チョコボの羽根（紫）",
+            "En": "Purple Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16605
+    },
+    {
+        "Id": 20016606,
+        "Name": {
+            "Ja": "チョコボの羽根（橙）",
+            "En": "Orange Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16606
+    },
+    {
+        "Id": 20016607,
+        "Name": {
+            "Ja": "チョコボの羽根（桜）",
+            "En": "Pink Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16607
+    },
+    {
+        "Id": 20016608,
+        "Name": {
+            "Ja": "チョコボの羽根（茶）",
+            "En": "Brown Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16608
+    },
+    {
+        "Id": 20016609,
+        "Name": {
+            "Ja": "チョコボの羽根（黒）",
+            "En": "Black Chocobo Feather"
+        },
+        "RewardType": 1,
+        "TargetId": 16609
     },
     {
         "Id": 20017002,
         "Name": {
-            "Ja": "スタミナ剤（中）",
-            "En": "Stamina Tonic (M)"
+            "Ja": "スタミナ剤",
+            "En": "Stamina Tonic"
         },
         "RewardType": 1,
         "TargetId": 17002
     },
     {
-        "Id": 20017003,
+        "Id": 20020001,
         "Name": {
-            "Ja": "スタミナ剤（大）",
-            "En": "Stamina Tonic (L)"
+            "Ja": "ブーストパス",
+            "En": "Boost Pass"
+        },
+        "RewardType": 22,
+        "TargetId": 20001
+    },
+    {
+        "Id": 20020002,
+        "Name": {
+            "Ja": "ソルジャーパス",
+            "En": "SOLDIER Pass"
+        },
+        "RewardType": 22,
+        "TargetId": 20002
+    },
+    {
+        "Id": 20021001,
+        "Name": {
+            "Ja": "",
+            "En": ""
         },
         "RewardType": 1,
-        "TargetId": 17003
+        "TargetId": 21001
     },
     {
         "Id": 20100001,
@@ -2853,10 +4401,19 @@
         "TargetId": 100001
     },
     {
+        "Id": 20100002,
+        "Name": {
+            "Ja": "<sprite=\"tmp_icon\" index=192>4以上武器確定ガチャチケット",
+            "En": "4<sprite=\"tmp_icon\" index=192>+ Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100002
+    },
+    {
         "Id": 20100003,
         "Name": {
-            "Ja": "★5武器確定ガチャチケット",
-            "En": "5★ Wpn. Guaranteed Draw Ticket"
+            "Ja": "<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
         },
         "RewardType": 1,
         "TargetId": 100003
@@ -2952,6 +4509,69 @@
         "TargetId": 100013
     },
     {
+        "Id": 20100014,
+        "Name": {
+            "Ja": "クラウド<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "Cloud 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100014
+    },
+    {
+        "Id": 20100015,
+        "Name": {
+            "Ja": "バレット<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "Barret 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100015
+    },
+    {
+        "Id": 20100016,
+        "Name": {
+            "Ja": "ティファ<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "Tifa 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100016
+    },
+    {
+        "Id": 20100017,
+        "Name": {
+            "Ja": "エアリス<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "Aerith 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100017
+    },
+    {
+        "Id": 20100018,
+        "Name": {
+            "Ja": "レッドXIII<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "Red XIII 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100018
+    },
+    {
+        "Id": 20100019,
+        "Name": {
+            "Ja": "ザックス<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "Zack 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100019
+    },
+    {
+        "Id": 20100020,
+        "Name": {
+            "Ja": "FS<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+            "En": "FS 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+        },
+        "RewardType": 1,
+        "TargetId": 100020
+    },
+    {
         "Id": 21001001,
         "Name": {
             "Ja": "バスターソード・パーツ",
@@ -3006,6 +4626,123 @@
         "TargetId": 100007
     },
     {
+        "Id": 30100008,
+        "Name": {
+            "Ja": "クラウド",
+            "En": "Cloud"
+        },
+        "RewardType": 18,
+        "TargetId": 100008
+    },
+    {
+        "Id": 30100009,
+        "Name": {
+            "Ja": "バレット",
+            "En": "Barret"
+        },
+        "RewardType": 18,
+        "TargetId": 100009
+    },
+    {
+        "Id": 30100010,
+        "Name": {
+            "Ja": "ティファ",
+            "En": "Tifa"
+        },
+        "RewardType": 18,
+        "TargetId": 100010
+    },
+    {
+        "Id": 30100011,
+        "Name": {
+            "Ja": "危機への対抗者",
+            "En": "Fearless Defender"
+        },
+        "RewardType": 18,
+        "TargetId": 100011
+    },
+    {
+        "Id": 30100012,
+        "Name": {
+            "Ja": "プレートB",
+            "En": "Plate B"
+        },
+        "RewardType": 18,
+        "TargetId": 100012
+    },
+    {
+        "Id": 30100013,
+        "Name": {
+            "Ja": "プレートC",
+            "En": "Plate C"
+        },
+        "RewardType": 18,
+        "TargetId": 100013
+    },
+    {
+        "Id": 30100014,
+        "Name": {
+            "Ja": "エアリス",
+            "En": "Aerith"
+        },
+        "RewardType": 18,
+        "TargetId": 100014
+    },
+    {
+        "Id": 30100015,
+        "Name": {
+            "Ja": "レッドXIII",
+            "En": "Red XIII"
+        },
+        "RewardType": 18,
+        "TargetId": 100015
+    },
+    {
+        "Id": 30100030,
+        "Name": {
+            "Ja": "ザックス",
+            "En": "Zack"
+        },
+        "RewardType": 18,
+        "TargetId": 100030
+    },
+    {
+        "Id": 30100060,
+        "Name": {
+            "Ja": "グレン",
+            "En": "Glenn"
+        },
+        "RewardType": 18,
+        "TargetId": 100060
+    },
+    {
+        "Id": 30100061,
+        "Name": {
+            "Ja": "マット",
+            "En": "Matt"
+        },
+        "RewardType": 18,
+        "TargetId": 100061
+    },
+    {
+        "Id": 30100062,
+        "Name": {
+            "Ja": "ルティア",
+            "En": "Lucia"
+        },
+        "RewardType": 18,
+        "TargetId": 100062
+    },
+    {
+        "Id": 30100101,
+        "Name": {
+            "Ja": "ルーキー",
+            "En": "Rookie"
+        },
+        "RewardType": 18,
+        "TargetId": 100101
+    },
+    {
         "Id": 30100201,
         "Name": {
             "Ja": "将来有望な",
@@ -3015,6 +4752,15 @@
         "TargetId": 100201
     },
     {
+        "Id": 30100202,
+        "Name": {
+            "Ja": "ひたむきな",
+            "En": "Earnest"
+        },
+        "RewardType": 18,
+        "TargetId": 100202
+    },
+    {
         "Id": 30100301,
         "Name": {
             "Ja": "ルーキー",
@@ -3022,6 +4768,15 @@
         },
         "RewardType": 18,
         "TargetId": 100301
+    },
+    {
+        "Id": 30100302,
+        "Name": {
+            "Ja": "強き者の証",
+            "En": "Mark of the Strong"
+        },
+        "RewardType": 18,
+        "TargetId": 100302
     },
     {
         "Id": 30100401,
@@ -3063,7 +4818,7 @@
         "Id": 30100405,
         "Name": {
             "Ja": "富豪",
-            "En": "Wealthy"
+            "En": "Affluent"
         },
         "RewardType": 18,
         "TargetId": 100405
@@ -3087,6 +4842,15 @@
         "TargetId": 100501
     },
     {
+        "Id": 30100502,
+        "Name": {
+            "Ja": "勤勉なる者の証",
+            "En": "Mark of the Diligent"
+        },
+        "RewardType": 18,
+        "TargetId": 100502
+    },
+    {
         "Id": 30100601,
         "Name": {
             "Ja": "頼れる",
@@ -3094,6 +4858,15 @@
         },
         "RewardType": 18,
         "TargetId": 100601
+    },
+    {
+        "Id": 30100602,
+        "Name": {
+            "Ja": "真摯なる者の証",
+            "En": "Mark of the Genuine"
+        },
+        "RewardType": 18,
+        "TargetId": 100602
     },
     {
         "Id": 30100701,
@@ -3123,6 +4896,24 @@
         "TargetId": 100703
     },
     {
+        "Id": 30100704,
+        "Name": {
+            "Ja": "レベル100",
+            "En": "Level 100"
+        },
+        "RewardType": 18,
+        "TargetId": 100704
+    },
+    {
+        "Id": 30100705,
+        "Name": {
+            "Ja": "エリート",
+            "En": "First-Class"
+        },
+        "RewardType": 18,
+        "TargetId": 100705
+    },
+    {
         "Id": 30100801,
         "Name": {
             "Ja": "向学心ある",
@@ -3141,6 +4932,24 @@
         "TargetId": 100802
     },
     {
+        "Id": 30100803,
+        "Name": {
+            "Ja": "有名な",
+            "En": "Famous"
+        },
+        "RewardType": 18,
+        "TargetId": 100803
+    },
+    {
+        "Id": 30100804,
+        "Name": {
+            "Ja": "名高い",
+            "En": "Noted"
+        },
+        "RewardType": 18,
+        "TargetId": 100804
+    },
+    {
         "Id": 30100901,
         "Name": {
             "Ja": "社交的な",
@@ -3152,20 +4961,20 @@
     {
         "Id": 30100902,
         "Name": {
-            "Ja": "気さくな",
-            "En": "Pleasant"
+            "Ja": "ぎこちない",
+            "En": "Awkward"
         },
         "RewardType": 18,
-        "TargetId": 100904
+        "TargetId": 100902
     },
     {
         "Id": 30100903,
         "Name": {
-            "Ja": "友好的な",
-            "En": "Friendly"
+            "Ja": "顔なじみの",
+            "En": "Familiar"
         },
         "RewardType": 18,
-        "TargetId": 100905
+        "TargetId": 100903
     },
     {
         "Id": 30100904,
@@ -3202,6 +5011,69 @@
         },
         "RewardType": 18,
         "TargetId": 100907
+    },
+    {
+        "Id": 30100908,
+        "Name": {
+            "Ja": "戦友と共に",
+            "En": "With an Ally"
+        },
+        "RewardType": 18,
+        "TargetId": 100908
+    },
+    {
+        "Id": 30100909,
+        "Name": {
+            "Ja": "共闘好き",
+            "En": "Co-op Enthusiast"
+        },
+        "RewardType": 18,
+        "TargetId": 100909
+    },
+    {
+        "Id": 30100910,
+        "Name": {
+            "Ja": "裏切らない",
+            "En": "Loyal"
+        },
+        "RewardType": 18,
+        "TargetId": 100910
+    },
+    {
+        "Id": 30100911,
+        "Name": {
+            "Ja": "気兼ねない",
+            "En": "Carefree"
+        },
+        "RewardType": 18,
+        "TargetId": 100911
+    },
+    {
+        "Id": 30100912,
+        "Name": {
+            "Ja": "情け深い",
+            "En": "Considerate"
+        },
+        "RewardType": 18,
+        "TargetId": 100912
+    },
+    {
+        "Id": 30100913,
+        "Name": {
+            "Ja": "頼もしい",
+            "En": "Dependable"
+        },
+        "RewardType": 18,
+        "TargetId": 100913
+    },
+    {
+        "Id": 30100914,
+        "Name": {
+            "Ja": "情に厚い",
+            "En": "Warmhearted"
+        },
+        "RewardType": 18,
+        "TargetId": 100914
     },
     {
         "Id": 30101101,
@@ -3249,6 +5121,105 @@
         "TargetId": 101105
     },
     {
+        "Id": 30101106,
+        "Name": {
+            "Ja": "激戦を求める者の証",
+            "En": "Mark of a Battle Seeker"
+        },
+        "RewardType": 18,
+        "TargetId": 101106
+    },
+    {
+        "Id": 30101107,
+        "Name": {
+            "Ja": "限界の挑戦者",
+            "En": "Challenger"
+        },
+        "RewardType": 18,
+        "TargetId": 101107
+    },
+    {
+        "Id": 30101108,
+        "Name": {
+            "Ja": "強い意志",
+            "En": "Strong Will"
+        },
+        "RewardType": 18,
+        "TargetId": 101108
+    },
+    {
+        "Id": 30101109,
+        "Name": {
+            "Ja": "強固な信念",
+            "En": "Firm Beliefs"
+        },
+        "RewardType": 18,
+        "TargetId": 101109
+    },
+    {
+        "Id": 30101110,
+        "Name": {
+            "Ja": "不屈の精神",
+            "En": "Dauntless Spirit"
+        },
+        "RewardType": 18,
+        "TargetId": 101110
+    },
+    {
+        "Id": 30101111,
+        "Name": {
+            "Ja": "果て無き",
+            "En": "Eternal"
+        },
+        "RewardType": 18,
+        "TargetId": 101111
+    },
+    {
+        "Id": 30101112,
+        "Name": {
+            "Ja": "究極の到達者",
+            "En": "Succeeder"
+        },
+        "RewardType": 18,
+        "TargetId": 101112
+    },
+    {
+        "Id": 30101301,
+        "Name": {
+            "Ja": "テンカウント",
+            "En": "Ten Counts"
+        },
+        "RewardType": 18,
+        "TargetId": 101301
+    },
+    {
+        "Id": 30101401,
+        "Name": {
+            "Ja": "破壊王",
+            "En": "Demolisher"
+        },
+        "RewardType": 18,
+        "TargetId": 101401
+    },
+    {
+        "Id": 30101501,
+        "Name": {
+            "Ja": "大召喚士",
+            "En": "Great Summoner"
+        },
+        "RewardType": 18,
+        "TargetId": 101501
+    },
+    {
+        "Id": 30101601,
+        "Name": {
+            "Ja": "LBの使い手",
+            "En": "Limit Breaker"
+        },
+        "RewardType": 18,
+        "TargetId": 101601
+    },
+    {
         "Id": 30101901,
         "Name": {
             "Ja": "学び始めた",
@@ -3274,6 +5245,24 @@
         },
         "RewardType": 18,
         "TargetId": 102101
+    },
+    {
+        "Id": 30102102,
+        "Name": {
+            "Ja": "マテリア職人",
+            "En": "Materia Crafter"
+        },
+        "RewardType": 18,
+        "TargetId": 102102
+    },
+    {
+        "Id": 30102103,
+        "Name": {
+            "Ja": "合成の真髄を得た者の証",
+            "En": "Mark of"
+        },
+        "RewardType": 18,
+        "TargetId": 102103
     },
     {
         "Id": 30102201,
@@ -3312,6 +5301,33 @@
         "TargetId": 102204
     },
     {
+        "Id": 30102205,
+        "Name": {
+            "Ja": "比類なき武器の所蔵家の証",
+            "En": "Mark of the Finest Weapons Collection"
+        },
+        "RewardType": 18,
+        "TargetId": 102205
+    },
+    {
+        "Id": 30102206,
+        "Name": {
+            "Ja": "武器収集家",
+            "En": "Arms Collector"
+        },
+        "RewardType": 18,
+        "TargetId": 102206
+    },
+    {
+        "Id": 30102301,
+        "Name": {
+            "Ja": "武器鍛造の匠",
+            "En": "Master Forger"
+        },
+        "RewardType": 18,
+        "TargetId": 102301
+    },
+    {
         "Id": 30102401,
         "Name": {
             "Ja": "技巧派",
@@ -3328,6 +5344,33 @@
         },
         "RewardType": 18,
         "TargetId": 102402
+    },
+    {
+        "Id": 30102403,
+        "Name": {
+            "Ja": "武器技師",
+            "En": "Weapon Artisan"
+        },
+        "RewardType": 18,
+        "TargetId": 102403
+    },
+    {
+        "Id": 30102404,
+        "Name": {
+            "Ja": "武器職人",
+            "En": "Weapon Crafter"
+        },
+        "RewardType": 18,
+        "TargetId": 102404
+    },
+    {
+        "Id": 30102405,
+        "Name": {
+            "Ja": "武器名工",
+            "En": "Weaponsmith"
+        },
+        "RewardType": 18,
+        "TargetId": 102405
     },
     {
         "Id": 30102501,
@@ -3350,8 +5393,8 @@
     {
         "Id": 30102503,
         "Name": {
-            "Ja": "チョコボ",
-            "En": "Chocobo"
+            "Ja": "チョコボ主",
+            "En": "Chocobo King"
         },
         "RewardType": 18,
         "TargetId": 102503
@@ -3393,6 +5436,24 @@
         "TargetId": 102801
     },
     {
+        "Id": 30102901,
+        "Name": {
+            "Ja": "シーズンパス１",
+            "En": "Season Pass 1"
+        },
+        "RewardType": 18,
+        "TargetId": 102901
+    },
+    {
+        "Id": 30103001,
+        "Name": {
+            "Ja": "クライシスメダル１",
+            "En": "Crisis Medal 1"
+        },
+        "RewardType": 18,
+        "TargetId": 103001
+    },
+    {
         "Id": 30190101,
         "Name": {
             "Ja": "心強い",
@@ -3409,6 +5470,24 @@
         },
         "RewardType": 18,
         "TargetId": 190102
+    },
+    {
+        "Id": 30190103,
+        "Name": {
+            "Ja": "エースの証明",
+            "En": "Ace's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190103
+    },
+    {
+        "Id": 30190104,
+        "Name": {
+            "Ja": "敢闘者",
+            "En": "Valiant Fighter"
+        },
+        "RewardType": 18,
+        "TargetId": 190104
     },
     {
         "Id": 30190201,
@@ -3429,6 +5508,24 @@
         "TargetId": 190202
     },
     {
+        "Id": 30190203,
+        "Name": {
+            "Ja": "クラッシャーの証明",
+            "En": "Crusher's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190203
+    },
+    {
+        "Id": 30190204,
+        "Name": {
+            "Ja": "完璧な一撃",
+            "En": "Perfect Strike"
+        },
+        "RewardType": 18,
+        "TargetId": 190204
+    },
+    {
         "Id": 30190401,
         "Name": {
             "Ja": "手際よき",
@@ -3445,6 +5542,24 @@
         },
         "RewardType": 18,
         "TargetId": 190402
+    },
+    {
+        "Id": 30190403,
+        "Name": {
+            "Ja": "デストロイヤーの証明",
+            "En": "Destroyer's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190403
+    },
+    {
+        "Id": 30190404,
+        "Name": {
+            "Ja": "多数破壊",
+            "En": "Destruction"
+        },
+        "RewardType": 18,
+        "TargetId": 190404
     },
     {
         "Id": 30190501,
@@ -3465,6 +5580,24 @@
         "TargetId": 190502
     },
     {
+        "Id": 30190503,
+        "Name": {
+            "Ja": "ブルズアイの証明",
+            "En": "Bull's-Eye's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190503
+    },
+    {
+        "Id": 30190504,
+        "Name": {
+            "Ja": "弱点属性",
+            "En": "Weak Elements"
+        },
+        "RewardType": 18,
+        "TargetId": 190504
+    },
+    {
         "Id": 30190601,
         "Name": {
             "Ja": "慈愛の",
@@ -3481,6 +5614,24 @@
         },
         "RewardType": 18,
         "TargetId": 190602
+    },
+    {
+        "Id": 30190603,
+        "Name": {
+            "Ja": "ヒーラーの証明",
+            "En": "Healer's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190603
+    },
+    {
+        "Id": 30190604,
+        "Name": {
+            "Ja": "HP回復",
+            "En": "Restore HP"
+        },
+        "RewardType": 18,
+        "TargetId": 190604
     },
     {
         "Id": 30190701,
@@ -3501,6 +5652,24 @@
         "TargetId": 190702
     },
     {
+        "Id": 30190703,
+        "Name": {
+            "Ja": "メディカルの証明",
+            "En": "Medic's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190703
+    },
+    {
+        "Id": 30190704,
+        "Name": {
+            "Ja": "状態異常回復",
+            "En": "Ailment Recovery"
+        },
+        "RewardType": 18,
+        "TargetId": 190704
+    },
+    {
         "Id": 30190801,
         "Name": {
             "Ja": "血気盛んな",
@@ -3517,6 +5686,24 @@
         },
         "RewardType": 18,
         "TargetId": 190802
+    },
+    {
+        "Id": 30190803,
+        "Name": {
+            "Ja": "バーサーカーの証明",
+            "En": "Berserker's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190803
+    },
+    {
+        "Id": 30190804,
+        "Name": {
+            "Ja": "ATB消費",
+            "En": "ATB Cost"
+        },
+        "RewardType": 18,
+        "TargetId": 190804
     },
     {
         "Id": 30190901,
@@ -3537,6 +5724,24 @@
         "TargetId": 190902
     },
     {
+        "Id": 30190903,
+        "Name": {
+            "Ja": "ファンタジスタの証明",
+            "En": "Fantasista's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 190903
+    },
+    {
+        "Id": 30190904,
+        "Name": {
+            "Ja": "多数召喚",
+            "En": "Summons"
+        },
+        "RewardType": 18,
+        "TargetId": 190904
+    },
+    {
         "Id": 30191001,
         "Name": {
             "Ja": "気心知れた",
@@ -3553,6 +5758,24 @@
         },
         "RewardType": 18,
         "TargetId": 191002
+    },
+    {
+        "Id": 30191003,
+        "Name": {
+            "Ja": "ウォーバディの証明",
+            "En": "War Buddy's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191003
+    },
+    {
+        "Id": 30191004,
+        "Name": {
+            "Ja": "LBコンボ",
+            "En": "LB Combo"
+        },
+        "RewardType": 18,
+        "TargetId": 191004
     },
     {
         "Id": 30191101,
@@ -3573,6 +5796,24 @@
         "TargetId": 191102
     },
     {
+        "Id": 30191103,
+        "Name": {
+            "Ja": "スイッチヒッターの証明",
+            "En": "All-Round Hitter's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191103
+    },
+    {
+        "Id": 30191104,
+        "Name": {
+            "Ja": "作戦切替",
+            "En": "Tactic Swap"
+        },
+        "RewardType": 18,
+        "TargetId": 191104
+    },
+    {
         "Id": 30191201,
         "Name": {
             "Ja": "厳格な",
@@ -3591,10 +5832,28 @@
         "TargetId": 191202
     },
     {
+        "Id": 30191203,
+        "Name": {
+            "Ja": "コマンダーの証明",
+            "En": "Commander's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191203
+    },
+    {
+        "Id": 30191204,
+        "Name": {
+            "Ja": "作戦レベル",
+            "En": "Command Level"
+        },
+        "RewardType": 18,
+        "TargetId": 191204
+    },
+    {
         "Id": 30191301,
         "Name": {
             "Ja": "気が利く",
-            "En": "Thoughtful"
+            "En": "Courteous"
         },
         "RewardType": 18,
         "TargetId": 191301
@@ -3607,6 +5866,24 @@
         },
         "RewardType": 18,
         "TargetId": 191302
+    },
+    {
+        "Id": 30191303,
+        "Name": {
+            "Ja": "チアリーダーの証明",
+            "En": "Cheerleader's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191303
+    },
+    {
+        "Id": 30191304,
+        "Name": {
+            "Ja": "バフ成功",
+            "En": "Buffs"
+        },
+        "RewardType": 18,
+        "TargetId": 191304
     },
     {
         "Id": 30191401,
@@ -3627,6 +5904,24 @@
         "TargetId": 191402
     },
     {
+        "Id": 30191403,
+        "Name": {
+            "Ja": "ディスターバーの証明",
+            "En": "Disrupter's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191403
+    },
+    {
+        "Id": 30191404,
+        "Name": {
+            "Ja": "バフ相殺",
+            "En": "Buff Removal"
+        },
+        "RewardType": 18,
+        "TargetId": 191404
+    },
+    {
         "Id": 30191501,
         "Name": {
             "Ja": "容赦なき",
@@ -3643,6 +5938,24 @@
         },
         "RewardType": 18,
         "TargetId": 191502
+    },
+    {
+        "Id": 30191503,
+        "Name": {
+            "Ja": "アイアンハートの証明",
+            "En": "Iron Heart's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191503
+    },
+    {
+        "Id": 30191504,
+        "Name": {
+            "Ja": "デバフ成功",
+            "En": "Debuffs"
+        },
+        "RewardType": 18,
+        "TargetId": 191504
     },
     {
         "Id": 30191601,
@@ -3663,6 +5976,24 @@
         "TargetId": 191602
     },
     {
+        "Id": 30191603,
+        "Name": {
+            "Ja": "インテリジェンスの証明",
+            "En": "Intellectual's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191603
+    },
+    {
+        "Id": 30191604,
+        "Name": {
+            "Ja": "デバフ相殺",
+            "En": "Debuff Removal"
+        },
+        "RewardType": 18,
+        "TargetId": 191604
+    },
+    {
         "Id": 30191701,
         "Name": {
             "Ja": "臨機応変な",
@@ -3675,10 +6006,28 @@
         "Id": 30191702,
         "Name": {
             "Ja": "駆引き上手",
-            "En": "Negotiating"
+            "En": "Negotiator"
         },
         "RewardType": 18,
         "TargetId": 191702
+    },
+    {
+        "Id": 30191703,
+        "Name": {
+            "Ja": "トリックスターの証明",
+            "En": "Trickster's Proof"
+        },
+        "RewardType": 18,
+        "TargetId": 191703
+    },
+    {
+        "Id": 30191704,
+        "Name": {
+            "Ja": "状態異常成功",
+            "En": "Ailments"
+        },
+        "RewardType": 18,
+        "TargetId": 191704
     },
     {
         "Id": 30200101,
@@ -3708,6 +6057,366 @@
         "TargetId": 200103
     },
     {
+        "Id": 30200301,
+        "Name": {
+            "Ja": "天地をむすぶ",
+            "En": "Heaven & Earth"
+        },
+        "RewardType": 18,
+        "TargetId": 200301
+    },
+    {
+        "Id": 30200302,
+        "Name": {
+            "Ja": "使役兵器",
+            "En": "Arms of War"
+        },
+        "RewardType": 18,
+        "TargetId": 200302
+    },
+    {
+        "Id": 30200303,
+        "Name": {
+            "Ja": "金剛坊",
+            "En": "Vajradhara"
+        },
+        "RewardType": 18,
+        "TargetId": 200303
+    },
+    {
+        "Id": 30200401,
+        "Name": {
+            "Ja": "凶悪なる",
+            "En": "Malevolent"
+        },
+        "RewardType": 18,
+        "TargetId": 200401
+    },
+    {
+        "Id": 30200402,
+        "Name": {
+            "Ja": "ドラゴン",
+            "En": "Dragon"
+        },
+        "RewardType": 18,
+        "TargetId": 200402
+    },
+    {
+        "Id": 30200403,
+        "Name": {
+            "Ja": "スレイヤー",
+            "En": "Slayer"
+        },
+        "RewardType": 18,
+        "TargetId": 200403
+    },
+    {
+        "Id": 30200501,
+        "Name": {
+            "Ja": "飄々とした",
+            "En": "Aloof"
+        },
+        "RewardType": 18,
+        "TargetId": 200501
+    },
+    {
+        "Id": 30200502,
+        "Name": {
+            "Ja": "赤毛",
+            "En": "Turks"
+        },
+        "RewardType": 18,
+        "TargetId": 200502
+    },
+    {
+        "Id": 30200503,
+        "Name": {
+            "Ja": "レノ",
+            "En": "Reno"
+        },
+        "RewardType": 18,
+        "TargetId": 200503
+    },
+    {
+        "Id": 30200601,
+        "Name": {
+            "Ja": "らつ腕の",
+            "En": "Strong-Arm"
+        },
+        "RewardType": 18,
+        "TargetId": 200601
+    },
+    {
+        "Id": 30200602,
+        "Name": {
+            "Ja": "社長",
+            "En": "President"
+        },
+        "RewardType": 18,
+        "TargetId": 200602
+    },
+    {
+        "Id": 30200603,
+        "Name": {
+            "Ja": "ルーファウス",
+            "En": "Rufus"
+        },
+        "RewardType": 18,
+        "TargetId": 200603
+    },
+    {
+        "Id": 30200701,
+        "Name": {
+            "Ja": "プロトタイプ",
+            "En": "Prototype"
+        },
+        "RewardType": 18,
+        "TargetId": 200701
+    },
+    {
+        "Id": 30200702,
+        "Name": {
+            "Ja": "起動兵",
+            "En": "Active Weapon"
+        },
+        "RewardType": 18,
+        "TargetId": 200702
+    },
+    {
+        "Id": 30200703,
+        "Name": {
+            "Ja": "エアバスター",
+            "En": "Airbuster"
+        },
+        "RewardType": 18,
+        "TargetId": 200703
+    },
+    {
+        "Id": 30200801,
+        "Name": {
+            "Ja": "サンプル：",
+            "En": "Specimen"
+        },
+        "RewardType": 18,
+        "TargetId": 200801
+    },
+    {
+        "Id": 30200802,
+        "Name": {
+            "Ja": "実験体",
+            "En": "Experiment"
+        },
+        "RewardType": 18,
+        "TargetId": 200802
+    },
+    {
+        "Id": 30200803,
+        "Name": {
+            "Ja": "H0512",
+            "En": "H0512"
+        },
+        "RewardType": 18,
+        "TargetId": 200803
+    },
+    {
+        "Id": 30200901,
+        "Name": {
+            "Ja": "モーター",
+            "En": "Motor"
+        },
+        "RewardType": 18,
+        "TargetId": 200901
+    },
+    {
+        "Id": 30200902,
+        "Name": {
+            "Ja": "重戦車",
+            "En": "Heavy Tank"
+        },
+        "RewardType": 18,
+        "TargetId": 200902
+    },
+    {
+        "Id": 30200903,
+        "Name": {
+            "Ja": "ボール",
+            "En": "Ball"
+        },
+        "RewardType": 18,
+        "TargetId": 200903
+    },
+    {
+        "Id": 30201001,
+        "Name": {
+            "Ja": "頂点捕食者の",
+            "En": "Apex Predator"
+        },
+        "RewardType": 18,
+        "TargetId": 201001
+    },
+    {
+        "Id": 30201002,
+        "Name": {
+            "Ja": "ガロン",
+            "En": "Gallon"
+        },
+        "RewardType": 18,
+        "TargetId": 201002
+    },
+    {
+        "Id": 30201003,
+        "Name": {
+            "Ja": "バロイル",
+            "En": "Baloir"
+        },
+        "RewardType": 18,
+        "TargetId": 201003
+    },
+    {
+        "Id": 30201101,
+        "Name": {
+            "Ja": "猛り狂う",
+            "En": "Enraged"
+        },
+        "RewardType": 18,
+        "TargetId": 201101
+    },
+    {
+        "Id": 30201102,
+        "Name": {
+            "Ja": "凶獣",
+            "En": "Savage Beast"
+        },
+        "RewardType": 18,
+        "TargetId": 201102
+    },
+    {
+        "Id": 30201103,
+        "Name": {
+            "Ja": "ベヒーモス",
+            "En": "Behemoth"
+        },
+        "RewardType": 18,
+        "TargetId": 201103
+    },
+    {
+        "Id": 30201201,
+        "Name": {
+            "Ja": "氷を纏う",
+            "En": "Ice Shrouding"
+        },
+        "RewardType": 18,
+        "TargetId": 201201
+    },
+    {
+        "Id": 30201202,
+        "Name": {
+            "Ja": "氷龍",
+            "En": "Ice Dragon"
+        },
+        "RewardType": 18,
+        "TargetId": 201202
+    },
+    {
+        "Id": 30201203,
+        "Name": {
+            "Ja": "ブルー",
+            "En": "Blue"
+        },
+        "RewardType": 18,
+        "TargetId": 201203
+    },
+    {
+        "Id": 30201301,
+        "Name": {
+            "Ja": "炎を吐く",
+            "En": "Fire Breathing"
+        },
+        "RewardType": 18,
+        "TargetId": 201301
+    },
+    {
+        "Id": 30201302,
+        "Name": {
+            "Ja": "火龍",
+            "En": "Fire Dragon"
+        },
+        "RewardType": 18,
+        "TargetId": 201302
+    },
+    {
+        "Id": 30201303,
+        "Name": {
+            "Ja": "レッド",
+            "En": "Red"
+        },
+        "RewardType": 18,
+        "TargetId": 201303
+    },
+    {
+        "Id": 30201401,
+        "Name": {
+            "Ja": "旧型兵器の",
+            "En": "Old Model"
+        },
+        "RewardType": 18,
+        "TargetId": 201401
+    },
+    {
+        "Id": 30201402,
+        "Name": {
+            "Ja": "スプーキー",
+            "En": "Spooky"
+        },
+        "RewardType": 18,
+        "TargetId": 201402
+    },
+    {
+        "Id": 30201403,
+        "Name": {
+            "Ja": "バルーン",
+            "En": "Balloon"
+        },
+        "RewardType": 18,
+        "TargetId": 201403
+    },
+    {
+        "Id": 30201501,
+        "Name": {
+            "Ja": "暴走する",
+            "En": "Rampaging"
+        },
+        "RewardType": 18,
+        "TargetId": 201501
+    },
+    {
+        "Id": 30201502,
+        "Name": {
+            "Ja": "マッド",
+            "En": "Mad"
+        },
+        "RewardType": 18,
+        "TargetId": 201502
+    },
+    {
+        "Id": 30201503,
+        "Name": {
+            "Ja": "アンカー",
+            "En": "Anchor"
+        },
+        "RewardType": 18,
+        "TargetId": 201503
+    },
+    {
+        "Id": 30310000,
+        "Name": {
+            "Ja": "神羅に歯向かう者",
+            "En": "Shinra Opposer"
+        },
+        "RewardType": 18,
+        "TargetId": 310000
+    },
+    {
         "Id": 30310001,
         "Name": {
             "Ja": "無口な",
@@ -3726,6 +6435,51 @@
         "TargetId": 310002
     },
     {
+        "Id": 30310003,
+        "Name": {
+            "Ja": "散り散りの",
+            "En": "Scattered"
+        },
+        "RewardType": 18,
+        "TargetId": 310003
+    },
+    {
+        "Id": 30310004,
+        "Name": {
+            "Ja": "仲間たち",
+            "En": "Friends"
+        },
+        "RewardType": 18,
+        "TargetId": 310004
+    },
+    {
+        "Id": 30310005,
+        "Name": {
+            "Ja": "さらば",
+            "En": "Farewell"
+        },
+        "RewardType": 18,
+        "TargetId": 310005
+    },
+    {
+        "Id": 30310006,
+        "Name": {
+            "Ja": "ミッドガル",
+            "En": "Midgar"
+        },
+        "RewardType": 18,
+        "TargetId": 310006
+    },
+    {
+        "Id": 30320000,
+        "Name": {
+            "Ja": "勝利の立役者",
+            "En": "Key to Victory"
+        },
+        "RewardType": 18,
+        "TargetId": 320000
+    },
+    {
         "Id": 30320001,
         "Name": {
             "Ja": "夢抱く",
@@ -3742,6 +6496,87 @@
         },
         "RewardType": 18,
         "TargetId": 320002
+    },
+    {
+        "Id": 30330000,
+        "Name": {
+            "Ja": "未知なる道の探索者",
+            "En": "Trailblazer"
+        },
+        "RewardType": 18,
+        "TargetId": 330000
+    },
+    {
+        "Id": 30330001,
+        "Name": {
+            "Ja": "ソルジャー",
+            "En": "SOLDIER"
+        },
+        "RewardType": 18,
+        "TargetId": 330001
+    },
+    {
+        "Id": 30330002,
+        "Name": {
+            "Ja": "クラスP0",
+            "En": "P0 Class"
+        },
+        "RewardType": 18,
+        "TargetId": 330002
+    },
+    {
+        "Id": 30330003,
+        "Name": {
+            "Ja": "無人島の",
+            "En": "Deserted Island"
+        },
+        "RewardType": 18,
+        "TargetId": 330003
+    },
+    {
+        "Id": 30330004,
+        "Name": {
+            "Ja": "監視役",
+            "En": "Supervisor"
+        },
+        "RewardType": 18,
+        "TargetId": 330004
+    },
+    {
+        "Id": 30330005,
+        "Name": {
+            "Ja": "しつこい",
+            "En": "Persistent"
+        },
+        "RewardType": 18,
+        "TargetId": 330005
+    },
+    {
+        "Id": 30330006,
+        "Name": {
+            "Ja": "好敵手",
+            "En": "Worthy Opponent"
+        },
+        "RewardType": 18,
+        "TargetId": 330006
+    },
+    {
+        "Id": 30330007,
+        "Name": {
+            "Ja": "舞い降りた",
+            "En": "Descending"
+        },
+        "RewardType": 18,
+        "TargetId": 330007
+    },
+    {
+        "Id": 30330008,
+        "Name": {
+            "Ja": "扶翼",
+            "En": "Aid"
+        },
+        "RewardType": 18,
+        "TargetId": 330008
     },
     {
         "Id": 30410011,
@@ -3769,6 +6604,33 @@
         },
         "RewardType": 18,
         "TargetId": 410013
+    },
+    {
+        "Id": 30410031,
+        "Name": {
+            "Ja": "サンプルH0512",
+            "En": "Specimen H0512"
+        },
+        "RewardType": 18,
+        "TargetId": 410031
+    },
+    {
+        "Id": 30410032,
+        "Name": {
+            "Ja": "ルーファウス",
+            "En": "Rufus"
+        },
+        "RewardType": 18,
+        "TargetId": 410032
+    },
+    {
+        "Id": 30410033,
+        "Name": {
+            "Ja": "モーターボール",
+            "En": "Motor Ball"
+        },
+        "RewardType": 18,
+        "TargetId": 410033
     },
     {
         "Id": 30420011,
@@ -3807,6 +6669,60 @@
         "TargetId": 430011
     },
     {
+        "Id": 30430021,
+        "Name": {
+            "Ja": "ガロンバロイル",
+            "En": "Gallonbaloir"
+        },
+        "RewardType": 18,
+        "TargetId": 430021
+    },
+    {
+        "Id": 30430031,
+        "Name": {
+            "Ja": "スプーキーバルーン",
+            "En": "Spooky Balloon"
+        },
+        "RewardType": 18,
+        "TargetId": 430031
+    },
+    {
+        "Id": 30500001,
+        "Name": {
+            "Ja": "壱番魔晄炉：アナザー踏破",
+            "En": "Sector 1 Reactor: Criterion Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500001
+    },
+    {
+        "Id": 30500002,
+        "Name": {
+            "Ja": "タンブリン砦：アナザー踏破",
+            "En": "Fort Tamblin: Criterion Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500002
+    },
+    {
+        "Id": 30500003,
+        "Name": {
+            "Ja": "ラパイナ海岸：アナザー踏破",
+            "En": "La'paina Coast: Criterion Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500003
+    },
+    {
+        "Id": 30500100,
+        "Name": {
+            "Ja": "壱番魔晄炉クリア",
+            "En": "Sector 1 Mako Reactor Complete"
+        },
+        "RewardType": 18,
+        "TargetId": 500100
+    },
+    {
         "Id": 30500101,
         "Name": {
             "Ja": "壱番魔晄炉",
@@ -3816,6 +6732,15 @@
         "TargetId": 500101
     },
     {
+        "Id": 30500200,
+        "Name": {
+            "Ja": "タンブリン砦クリア",
+            "En": "Fort Tamblin Complete"
+        },
+        "RewardType": 18,
+        "TargetId": 500200
+    },
+    {
         "Id": 30500201,
         "Name": {
             "Ja": "タンブリン砦",
@@ -3823,6 +6748,60 @@
         },
         "RewardType": 18,
         "TargetId": 500201
+    },
+    {
+        "Id": 30500300,
+        "Name": {
+            "Ja": "ラパイナ海岸クリア",
+            "En": "Coast Complete"
+        },
+        "RewardType": 18,
+        "TargetId": 500300
+    },
+    {
+        "Id": 30500301,
+        "Name": {
+            "Ja": "海岸踏破者",
+            "En": "Coast Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500301
+    },
+    {
+        "Id": 30500401,
+        "Name": {
+            "Ja": "本社踏破者",
+            "En": "Office Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500401
+    },
+    {
+        "Id": 30500501,
+        "Name": {
+            "Ja": "海蝕洞踏破者",
+            "En": "Sea Cave Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500501
+    },
+    {
+        "Id": 30500601,
+        "Name": {
+            "Ja": "遺跡踏破者",
+            "En": "Ruins Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500601
+    },
+    {
+        "Id": 30500701,
+        "Name": {
+            "Ja": "洞窟踏破者",
+            "En": "Cave Crusher"
+        },
+        "RewardType": 18,
+        "TargetId": 500701
     },
     {
         "Id": 30600101,
@@ -3850,6 +6829,33 @@
         },
         "RewardType": 18,
         "TargetId": 600103
+    },
+    {
+        "Id": 30600104,
+        "Name": {
+            "Ja": "追憶クラウドCODE１",
+            "En": "Memories of Cloud: Code 1"
+        },
+        "RewardType": 18,
+        "TargetId": 600104
+    },
+    {
+        "Id": 30600111,
+        "Name": {
+            "Ja": "運命の",
+            "En": "Destiny's"
+        },
+        "RewardType": 18,
+        "TargetId": 600111
+    },
+    {
+        "Id": 30600112,
+        "Name": {
+            "Ja": "再会",
+            "En": "Reunion"
+        },
+        "RewardType": 18,
+        "TargetId": 600112
     },
     {
         "Id": 30600201,
@@ -3906,6 +6912,33 @@
         "TargetId": 600303
     },
     {
+        "Id": 30600304,
+        "Name": {
+            "Ja": "追憶ティファCODE１",
+            "En": "Memories of Tifa: Code 1"
+        },
+        "RewardType": 18,
+        "TargetId": 600304
+    },
+    {
+        "Id": 30600311,
+        "Name": {
+            "Ja": "八番街の",
+            "En": "Sector 8"
+        },
+        "RewardType": 18,
+        "TargetId": 600311
+    },
+    {
+        "Id": 30600312,
+        "Name": {
+            "Ja": "饅頭売り",
+            "En": "Dumpling Vendor"
+        },
+        "RewardType": 18,
+        "TargetId": 600312
+    },
+    {
         "Id": 30600401,
         "Name": {
             "Ja": "花売り",
@@ -3933,10 +6966,37 @@
         "TargetId": 600403
     },
     {
+        "Id": 30600404,
+        "Name": {
+            "Ja": "追憶エアリスCODE１",
+            "En": "Memories of Aerith: Code 1"
+        },
+        "RewardType": 18,
+        "TargetId": 600404
+    },
+    {
+        "Id": 30600411,
+        "Name": {
+            "Ja": "かなわない",
+            "En": "Unmatched"
+        },
+        "RewardType": 18,
+        "TargetId": 600411
+    },
+    {
+        "Id": 30600412,
+        "Name": {
+            "Ja": "ピクニック",
+            "En": "Picnic"
+        },
+        "RewardType": 18,
+        "TargetId": 600412
+    },
+    {
         "Id": 30600501,
         "Name": {
             "Ja": "研究サンプル",
-            "En": "Specimen"
+            "En": "Lab Specimen"
         },
         "RewardType": 18,
         "TargetId": 600501
@@ -4167,6 +7227,15 @@
         "TargetId": 800201
     },
     {
+        "Id": 30801001,
+        "Name": {
+            "Ja": "ラムウ",
+            "En": "Ramuh"
+        },
+        "RewardType": 18,
+        "TargetId": 801001
+    },
+    {
         "Id": 30900101,
         "Name": {
             "Ja": "火炎の",
@@ -4185,6 +7254,15 @@
         "TargetId": 900201
     },
     {
+        "Id": 30901001,
+        "Name": {
+            "Ja": "裁きの雷の",
+            "En": "Judgment Bolt"
+        },
+        "RewardType": 18,
+        "TargetId": 901001
+    },
+    {
         "Id": 31000011,
         "Name": {
             "Ja": "新境地を開く",
@@ -4192,6 +7270,24 @@
         },
         "RewardType": 18,
         "TargetId": 1000011
+    },
+    {
+        "Id": 31000012,
+        "Name": {
+            "Ja": "B50F踏破の",
+            "En": "B50 Conqueror"
+        },
+        "RewardType": 18,
+        "TargetId": 1000012
+    },
+    {
+        "Id": 40000001,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 21,
+        "TargetId": 1
     },
     {
         "Id": 1210100101,
@@ -4392,6 +7488,15 @@
         "TargetId": 230000101
     },
     {
+        "Id": 1230000201,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 230000201
+    },
+    {
         "Id": 1240000101,
         "Name": {
             "Ja": "入れ替える用文言",
@@ -4419,6 +7524,24 @@
         "TargetId": 240000301
     },
     {
+        "Id": 1240000401,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 240000401
+    },
+    {
+        "Id": 1240000501,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 240000501
+    },
+    {
         "Id": 1250100101,
         "Name": {
             "Ja": "入れ替える用文言",
@@ -4434,7 +7557,7 @@
             "En": "En入れ替える用文言"
         },
         "RewardType": 7,
-        "TargetId": 260100201
+        "TargetId": 260100101
     },
     {
         "Id": 1260100201,
@@ -4443,7 +7566,61 @@
             "En": "En入れ替える用文言"
         },
         "RewardType": 7,
-        "TargetId": 260100101
+        "TargetId": 260100201
+    },
+    {
+        "Id": 1260100301,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 260100301
+    },
+    {
+        "Id": 1260100401,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 260100401
+    },
+    {
+        "Id": 1260100501,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 260100501
+    },
+    {
+        "Id": 1260100601,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 260100601
+    },
+    {
+        "Id": 1260100701,
+        "Name": {
+            "Ja": "入れ替える用文言",
+            "En": "En入れ替える用文言"
+        },
+        "RewardType": 7,
+        "TargetId": 260100701
+    },
+    {
+        "Id": 11000000001,
+        "Name": {
+            "Ja": "チョコボ",
+            "En": "Chocobo"
+        },
+        "RewardType": 15,
+        "TargetId": 1
     },
     {
         "Id": 11011011101,
@@ -4455,6 +7632,78 @@
         "TargetId": 1011011101
     },
     {
+        "Id": 11011011102,
+        "Name": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011011102
+    },
+    {
+        "Id": 11011011103,
+        "Name": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011011103
+    },
+    {
+        "Id": 11011012101,
+        "Name": {
+            "Ja": "山チョコボ (H)",
+            "En": "Mountain Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011012101
+    },
+    {
+        "Id": 11011012102,
+        "Name": {
+            "Ja": "山チョコボ (H)",
+            "En": "Mountain Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011012102
+    },
+    {
+        "Id": 11011012103,
+        "Name": {
+            "Ja": "山チョコボ (H)",
+            "En": "Mountain Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011012103
+    },
+    {
+        "Id": 11011013101,
+        "Name": {
+            "Ja": "川チョコボ (H)",
+            "En": "River Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011013101
+    },
+    {
+        "Id": 11011013102,
+        "Name": {
+            "Ja": "川チョコボ (H)",
+            "En": "River Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011013102
+    },
+    {
+        "Id": 11011013103,
+        "Name": {
+            "Ja": "川チョコボ (H)",
+            "En": "River Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011013103
+    },
+    {
         "Id": 11011021101,
         "Name": {
             "Ja": "チョコボ (H)",
@@ -4462,6 +7711,78 @@
         },
         "RewardType": 15,
         "TargetId": 1011021101
+    },
+    {
+        "Id": 11011021102,
+        "Name": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011021102
+    },
+    {
+        "Id": 11011021103,
+        "Name": {
+            "Ja": "チョコボ (H)",
+            "En": "Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011021103
+    },
+    {
+        "Id": 11011022101,
+        "Name": {
+            "Ja": "山チョコボ (H)",
+            "En": "Mountain Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011022101
+    },
+    {
+        "Id": 11011022102,
+        "Name": {
+            "Ja": "山チョコボ (H)",
+            "En": "Mountain Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011022102
+    },
+    {
+        "Id": 11011022103,
+        "Name": {
+            "Ja": "山チョコボ (H)",
+            "En": "Mountain Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011022103
+    },
+    {
+        "Id": 11011023101,
+        "Name": {
+            "Ja": "川チョコボ (H)",
+            "En": "River Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011023101
+    },
+    {
+        "Id": 11011023102,
+        "Name": {
+            "Ja": "川チョコボ (H)",
+            "En": "River Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011023102
+    },
+    {
+        "Id": 11011023103,
+        "Name": {
+            "Ja": "川チョコボ (H)",
+            "En": "River Chocobo (H)"
+        },
+        "RewardType": 15,
+        "TargetId": 1011023103
     },
     {
         "Id": 11112011101,
@@ -4473,6 +7794,78 @@
         "TargetId": 1112011101
     },
     {
+        "Id": 11112011102,
+        "Name": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112011102
+    },
+    {
+        "Id": 11112011103,
+        "Name": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112011103
+    },
+    {
+        "Id": 11112012101,
+        "Name": {
+            "Ja": "山チョコボ (H+)",
+            "En": "Mountain Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112012101
+    },
+    {
+        "Id": 11112012102,
+        "Name": {
+            "Ja": "山チョコボ (H+)",
+            "En": "Mountain Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112012102
+    },
+    {
+        "Id": 11112012103,
+        "Name": {
+            "Ja": "山チョコボ (H+)",
+            "En": "Mountain Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112012103
+    },
+    {
+        "Id": 11112013101,
+        "Name": {
+            "Ja": "川チョコボ (H+)",
+            "En": "River Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112013101
+    },
+    {
+        "Id": 11112013102,
+        "Name": {
+            "Ja": "川チョコボ (H+)",
+            "En": "River Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112013102
+    },
+    {
+        "Id": 11112013103,
+        "Name": {
+            "Ja": "川チョコボ (H+)",
+            "En": "River Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112013103
+    },
+    {
         "Id": 11112021101,
         "Name": {
             "Ja": "チョコボ (H+)",
@@ -4480,6 +7873,78 @@
         },
         "RewardType": 15,
         "TargetId": 1112021101
+    },
+    {
+        "Id": 11112021102,
+        "Name": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112021102
+    },
+    {
+        "Id": 11112021103,
+        "Name": {
+            "Ja": "チョコボ (H+)",
+            "En": "Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112021103
+    },
+    {
+        "Id": 11112022101,
+        "Name": {
+            "Ja": "山チョコボ (H+)",
+            "En": "Mountain Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112022101
+    },
+    {
+        "Id": 11112022102,
+        "Name": {
+            "Ja": "山チョコボ (H+)",
+            "En": "Mountain Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112022102
+    },
+    {
+        "Id": 11112022103,
+        "Name": {
+            "Ja": "山チョコボ (H+)",
+            "En": "Mountain Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112022103
+    },
+    {
+        "Id": 11112023101,
+        "Name": {
+            "Ja": "川チョコボ (H+)",
+            "En": "River Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112023101
+    },
+    {
+        "Id": 11112023102,
+        "Name": {
+            "Ja": "川チョコボ (H+)",
+            "En": "River Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112023102
+    },
+    {
+        "Id": 11112023103,
+        "Name": {
+            "Ja": "川チョコボ (H+)",
+            "En": "River Chocobo (H+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1112023103
     },
     {
         "Id": 11213011101,
@@ -4491,6 +7956,78 @@
         "TargetId": 1213011101
     },
     {
+        "Id": 11213011102,
+        "Name": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213011102
+    },
+    {
+        "Id": 11213011103,
+        "Name": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213011103
+    },
+    {
+        "Id": 11213012101,
+        "Name": {
+            "Ja": "山チョコボ (G)",
+            "En": "Mountain Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213012101
+    },
+    {
+        "Id": 11213012102,
+        "Name": {
+            "Ja": "山チョコボ (G)",
+            "En": "Mountain Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213012102
+    },
+    {
+        "Id": 11213012103,
+        "Name": {
+            "Ja": "山チョコボ (G)",
+            "En": "Mountain Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213012103
+    },
+    {
+        "Id": 11213013101,
+        "Name": {
+            "Ja": "川チョコボ (G)",
+            "En": "River Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213013101
+    },
+    {
+        "Id": 11213013102,
+        "Name": {
+            "Ja": "川チョコボ (G)",
+            "En": "River Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213013102
+    },
+    {
+        "Id": 11213013103,
+        "Name": {
+            "Ja": "川チョコボ (G)",
+            "En": "River Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213013103
+    },
+    {
         "Id": 11213021101,
         "Name": {
             "Ja": "チョコボ (G)",
@@ -4498,6 +8035,78 @@
         },
         "RewardType": 15,
         "TargetId": 1213021101
+    },
+    {
+        "Id": 11213021102,
+        "Name": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213021102
+    },
+    {
+        "Id": 11213021103,
+        "Name": {
+            "Ja": "チョコボ (G)",
+            "En": "Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213021103
+    },
+    {
+        "Id": 11213022101,
+        "Name": {
+            "Ja": "山チョコボ (G)",
+            "En": "Mountain Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213022101
+    },
+    {
+        "Id": 11213022102,
+        "Name": {
+            "Ja": "山チョコボ (G)",
+            "En": "Mountain Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213022102
+    },
+    {
+        "Id": 11213022103,
+        "Name": {
+            "Ja": "山チョコボ (G)",
+            "En": "Mountain Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213022103
+    },
+    {
+        "Id": 11213023101,
+        "Name": {
+            "Ja": "川チョコボ (G)",
+            "En": "River Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213023101
+    },
+    {
+        "Id": 11213023102,
+        "Name": {
+            "Ja": "川チョコボ (G)",
+            "En": "River Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213023102
+    },
+    {
+        "Id": 11213023103,
+        "Name": {
+            "Ja": "川チョコボ (G)",
+            "En": "River Chocobo (G)"
+        },
+        "RewardType": 15,
+        "TargetId": 1213023103
     },
     {
         "Id": 11314011101,
@@ -4509,6 +8118,78 @@
         "TargetId": 1314011101
     },
     {
+        "Id": 11314011102,
+        "Name": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314011102
+    },
+    {
+        "Id": 11314011103,
+        "Name": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314011103
+    },
+    {
+        "Id": 11314012101,
+        "Name": {
+            "Ja": "山チョコボ (G+)",
+            "En": "Mountain Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314012101
+    },
+    {
+        "Id": 11314012102,
+        "Name": {
+            "Ja": "山チョコボ (G+)",
+            "En": "Mountain Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314012102
+    },
+    {
+        "Id": 11314012103,
+        "Name": {
+            "Ja": "山チョコボ (G+)",
+            "En": "Mountain Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314012103
+    },
+    {
+        "Id": 11314013101,
+        "Name": {
+            "Ja": "川チョコボ (G+)",
+            "En": "River Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314013101
+    },
+    {
+        "Id": 11314013102,
+        "Name": {
+            "Ja": "川チョコボ (G+)",
+            "En": "River Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314013102
+    },
+    {
+        "Id": 11314013103,
+        "Name": {
+            "Ja": "川チョコボ (G+)",
+            "En": "River Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314013103
+    },
+    {
         "Id": 11314021101,
         "Name": {
             "Ja": "チョコボ (G+)",
@@ -4516,6 +8197,78 @@
         },
         "RewardType": 15,
         "TargetId": 1314021101
+    },
+    {
+        "Id": 11314021102,
+        "Name": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314021102
+    },
+    {
+        "Id": 11314021103,
+        "Name": {
+            "Ja": "チョコボ (G+)",
+            "En": "Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314021103
+    },
+    {
+        "Id": 11314022101,
+        "Name": {
+            "Ja": "山チョコボ (G+)",
+            "En": "Mountain Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314022101
+    },
+    {
+        "Id": 11314022102,
+        "Name": {
+            "Ja": "山チョコボ (G+)",
+            "En": "Mountain Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314022102
+    },
+    {
+        "Id": 11314022103,
+        "Name": {
+            "Ja": "山チョコボ (G+)",
+            "En": "Mountain Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314022103
+    },
+    {
+        "Id": 11314023101,
+        "Name": {
+            "Ja": "川チョコボ (G+)",
+            "En": "River Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314023101
+    },
+    {
+        "Id": 11314023102,
+        "Name": {
+            "Ja": "川チョコボ (G+)",
+            "En": "River Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314023102
+    },
+    {
+        "Id": 11314023103,
+        "Name": {
+            "Ja": "川チョコボ (G+)",
+            "En": "River Chocobo (G+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1314023103
     },
     {
         "Id": 11415011101,
@@ -4527,6 +8280,78 @@
         "TargetId": 1415011101
     },
     {
+        "Id": 11415011102,
+        "Name": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415011102
+    },
+    {
+        "Id": 11415011103,
+        "Name": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415011103
+    },
+    {
+        "Id": 11415012101,
+        "Name": {
+            "Ja": "山チョコボ (F)",
+            "En": "Mountain Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415012101
+    },
+    {
+        "Id": 11415012102,
+        "Name": {
+            "Ja": "山チョコボ (F)",
+            "En": "Mountain Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415012102
+    },
+    {
+        "Id": 11415012103,
+        "Name": {
+            "Ja": "山チョコボ (F)",
+            "En": "Mountain Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415012103
+    },
+    {
+        "Id": 11415013101,
+        "Name": {
+            "Ja": "川チョコボ (F)",
+            "En": "River Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415013101
+    },
+    {
+        "Id": 11415013102,
+        "Name": {
+            "Ja": "川チョコボ (F)",
+            "En": "River Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415013102
+    },
+    {
+        "Id": 11415013103,
+        "Name": {
+            "Ja": "川チョコボ (F)",
+            "En": "River Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415013103
+    },
+    {
         "Id": 11415021101,
         "Name": {
             "Ja": "チョコボ (F)",
@@ -4534,6 +8359,78 @@
         },
         "RewardType": 15,
         "TargetId": 1415021101
+    },
+    {
+        "Id": 11415021102,
+        "Name": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415021102
+    },
+    {
+        "Id": 11415021103,
+        "Name": {
+            "Ja": "チョコボ (F)",
+            "En": "Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415021103
+    },
+    {
+        "Id": 11415022101,
+        "Name": {
+            "Ja": "山チョコボ (F)",
+            "En": "Mountain Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415022101
+    },
+    {
+        "Id": 11415022102,
+        "Name": {
+            "Ja": "山チョコボ (F)",
+            "En": "Mountain Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415022102
+    },
+    {
+        "Id": 11415022103,
+        "Name": {
+            "Ja": "山チョコボ (F)",
+            "En": "Mountain Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415022103
+    },
+    {
+        "Id": 11415023101,
+        "Name": {
+            "Ja": "川チョコボ (F)",
+            "En": "River Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415023101
+    },
+    {
+        "Id": 11415023102,
+        "Name": {
+            "Ja": "川チョコボ (F)",
+            "En": "River Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415023102
+    },
+    {
+        "Id": 11415023103,
+        "Name": {
+            "Ja": "川チョコボ (F)",
+            "En": "River Chocobo (F)"
+        },
+        "RewardType": 15,
+        "TargetId": 1415023103
     },
     {
         "Id": 11516011101,
@@ -4545,6 +8442,78 @@
         "TargetId": 1516011101
     },
     {
+        "Id": 11516011102,
+        "Name": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516011102
+    },
+    {
+        "Id": 11516011103,
+        "Name": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516011103
+    },
+    {
+        "Id": 11516012101,
+        "Name": {
+            "Ja": "山チョコボ (F+)",
+            "En": "Mountain Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516012101
+    },
+    {
+        "Id": 11516012102,
+        "Name": {
+            "Ja": "山チョコボ (F+)",
+            "En": "Mountain Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516012102
+    },
+    {
+        "Id": 11516012103,
+        "Name": {
+            "Ja": "山チョコボ (F+)",
+            "En": "Mountain Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516012103
+    },
+    {
+        "Id": 11516013101,
+        "Name": {
+            "Ja": "川チョコボ (F+)",
+            "En": "River Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516013101
+    },
+    {
+        "Id": 11516013102,
+        "Name": {
+            "Ja": "川チョコボ (F+)",
+            "En": "River Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516013102
+    },
+    {
+        "Id": 11516013103,
+        "Name": {
+            "Ja": "川チョコボ (F+)",
+            "En": "River Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516013103
+    },
+    {
         "Id": 11516021101,
         "Name": {
             "Ja": "チョコボ (F+)",
@@ -4552,6 +8521,78 @@
         },
         "RewardType": 15,
         "TargetId": 1516021101
+    },
+    {
+        "Id": 11516021102,
+        "Name": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516021102
+    },
+    {
+        "Id": 11516021103,
+        "Name": {
+            "Ja": "チョコボ (F+)",
+            "En": "Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516021103
+    },
+    {
+        "Id": 11516022101,
+        "Name": {
+            "Ja": "山チョコボ (F+)",
+            "En": "Mountain Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516022101
+    },
+    {
+        "Id": 11516022102,
+        "Name": {
+            "Ja": "山チョコボ (F+)",
+            "En": "Mountain Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516022102
+    },
+    {
+        "Id": 11516022103,
+        "Name": {
+            "Ja": "山チョコボ (F+)",
+            "En": "Mountain Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516022103
+    },
+    {
+        "Id": 11516023101,
+        "Name": {
+            "Ja": "川チョコボ (F+)",
+            "En": "River Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516023101
+    },
+    {
+        "Id": 11516023102,
+        "Name": {
+            "Ja": "川チョコボ (F+)",
+            "En": "River Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516023102
+    },
+    {
+        "Id": 11516023103,
+        "Name": {
+            "Ja": "川チョコボ (F+)",
+            "En": "River Chocobo (F+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1516023103
     },
     {
         "Id": 11617011101,
@@ -4563,6 +8604,213 @@
         "TargetId": 1617011101
     },
     {
+        "Id": 11617011102,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617011102
+    },
+    {
+        "Id": 11617011103,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617011103
+    },
+    {
+        "Id": 11617011201,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617011201
+    },
+    {
+        "Id": 11617011202,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617011202
+    },
+    {
+        "Id": 11617011203,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617011203
+    },
+    {
+        "Id": 11617011204,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617011204
+    },
+    {
+        "Id": 11617011205,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617011205
+    },
+    {
+        "Id": 11617012101,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012101
+    },
+    {
+        "Id": 11617012102,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012102
+    },
+    {
+        "Id": 11617012103,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012103
+    },
+    {
+        "Id": 11617012201,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012201
+    },
+    {
+        "Id": 11617012202,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012202
+    },
+    {
+        "Id": 11617012203,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012203
+    },
+    {
+        "Id": 11617012204,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012204
+    },
+    {
+        "Id": 11617012205,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617012205
+    },
+    {
+        "Id": 11617013101,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013101
+    },
+    {
+        "Id": 11617013102,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013102
+    },
+    {
+        "Id": 11617013103,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013103
+    },
+    {
+        "Id": 11617013201,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013201
+    },
+    {
+        "Id": 11617013202,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013202
+    },
+    {
+        "Id": 11617013203,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013203
+    },
+    {
+        "Id": 11617013204,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013204
+    },
+    {
+        "Id": 11617013205,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617013205
+    },
+    {
         "Id": 11617021101,
         "Name": {
             "Ja": "チョコボ (E)",
@@ -4570,6 +8818,213 @@
         },
         "RewardType": 15,
         "TargetId": 1617021101
+    },
+    {
+        "Id": 11617021102,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617021102
+    },
+    {
+        "Id": 11617021103,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617021103
+    },
+    {
+        "Id": 11617021201,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617021201
+    },
+    {
+        "Id": 11617021202,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617021202
+    },
+    {
+        "Id": 11617021203,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617021203
+    },
+    {
+        "Id": 11617021204,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617021204
+    },
+    {
+        "Id": 11617021205,
+        "Name": {
+            "Ja": "チョコボ (E)",
+            "En": "Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617021205
+    },
+    {
+        "Id": 11617022101,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022101
+    },
+    {
+        "Id": 11617022102,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022102
+    },
+    {
+        "Id": 11617022103,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022103
+    },
+    {
+        "Id": 11617022201,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022201
+    },
+    {
+        "Id": 11617022202,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022202
+    },
+    {
+        "Id": 11617022203,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022203
+    },
+    {
+        "Id": 11617022204,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022204
+    },
+    {
+        "Id": 11617022205,
+        "Name": {
+            "Ja": "山チョコボ (E)",
+            "En": "Mountain Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617022205
+    },
+    {
+        "Id": 11617023101,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023101
+    },
+    {
+        "Id": 11617023102,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023102
+    },
+    {
+        "Id": 11617023103,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023103
+    },
+    {
+        "Id": 11617023201,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023201
+    },
+    {
+        "Id": 11617023202,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023202
+    },
+    {
+        "Id": 11617023203,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023203
+    },
+    {
+        "Id": 11617023204,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023204
+    },
+    {
+        "Id": 11617023205,
+        "Name": {
+            "Ja": "川チョコボ (E)",
+            "En": "River Chocobo (E)"
+        },
+        "RewardType": 15,
+        "TargetId": 1617023205
     },
     {
         "Id": 11718011101,
@@ -4581,6 +9036,213 @@
         "TargetId": 1718011101
     },
     {
+        "Id": 11718011102,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718011102
+    },
+    {
+        "Id": 11718011103,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718011103
+    },
+    {
+        "Id": 11718011201,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718011201
+    },
+    {
+        "Id": 11718011202,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718011202
+    },
+    {
+        "Id": 11718011203,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718011203
+    },
+    {
+        "Id": 11718011204,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718011204
+    },
+    {
+        "Id": 11718011205,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718011205
+    },
+    {
+        "Id": 11718012101,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012101
+    },
+    {
+        "Id": 11718012102,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012102
+    },
+    {
+        "Id": 11718012103,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012103
+    },
+    {
+        "Id": 11718012201,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012201
+    },
+    {
+        "Id": 11718012202,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012202
+    },
+    {
+        "Id": 11718012203,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012203
+    },
+    {
+        "Id": 11718012204,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012204
+    },
+    {
+        "Id": 11718012205,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718012205
+    },
+    {
+        "Id": 11718013101,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013101
+    },
+    {
+        "Id": 11718013102,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013102
+    },
+    {
+        "Id": 11718013103,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013103
+    },
+    {
+        "Id": 11718013201,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013201
+    },
+    {
+        "Id": 11718013202,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013202
+    },
+    {
+        "Id": 11718013203,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013203
+    },
+    {
+        "Id": 11718013204,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013204
+    },
+    {
+        "Id": 11718013205,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718013205
+    },
+    {
         "Id": 11718021101,
         "Name": {
             "Ja": "チョコボ (E+)",
@@ -4588,5 +9250,2588 @@
         },
         "RewardType": 15,
         "TargetId": 1718021101
+    },
+    {
+        "Id": 11718021102,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718021102
+    },
+    {
+        "Id": 11718021103,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718021103
+    },
+    {
+        "Id": 11718021201,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718021201
+    },
+    {
+        "Id": 11718021202,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718021202
+    },
+    {
+        "Id": 11718021203,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718021203
+    },
+    {
+        "Id": 11718021204,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718021204
+    },
+    {
+        "Id": 11718021205,
+        "Name": {
+            "Ja": "チョコボ (E+)",
+            "En": "Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718021205
+    },
+    {
+        "Id": 11718022101,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022101
+    },
+    {
+        "Id": 11718022102,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022102
+    },
+    {
+        "Id": 11718022103,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022103
+    },
+    {
+        "Id": 11718022201,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022201
+    },
+    {
+        "Id": 11718022202,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022202
+    },
+    {
+        "Id": 11718022203,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022203
+    },
+    {
+        "Id": 11718022204,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022204
+    },
+    {
+        "Id": 11718022205,
+        "Name": {
+            "Ja": "山チョコボ (E+)",
+            "En": "Mountain Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718022205
+    },
+    {
+        "Id": 11718023101,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023101
+    },
+    {
+        "Id": 11718023102,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023102
+    },
+    {
+        "Id": 11718023103,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023103
+    },
+    {
+        "Id": 11718023201,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023201
+    },
+    {
+        "Id": 11718023202,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023202
+    },
+    {
+        "Id": 11718023203,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023203
+    },
+    {
+        "Id": 11718023204,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023204
+    },
+    {
+        "Id": 11718023205,
+        "Name": {
+            "Ja": "川チョコボ (E+)",
+            "En": "River Chocobo (E+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1718023205
+    },
+    {
+        "Id": 11819011101,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011101
+    },
+    {
+        "Id": 11819011102,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011102
+    },
+    {
+        "Id": 11819011103,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011103
+    },
+    {
+        "Id": 11819011201,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011201
+    },
+    {
+        "Id": 11819011202,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011202
+    },
+    {
+        "Id": 11819011203,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011203
+    },
+    {
+        "Id": 11819011204,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011204
+    },
+    {
+        "Id": 11819011205,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011205
+    },
+    {
+        "Id": 11819011301,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011301
+    },
+    {
+        "Id": 11819011302,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011302
+    },
+    {
+        "Id": 11819011303,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819011303
+    },
+    {
+        "Id": 11819012101,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012101
+    },
+    {
+        "Id": 11819012102,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012102
+    },
+    {
+        "Id": 11819012103,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012103
+    },
+    {
+        "Id": 11819012201,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012201
+    },
+    {
+        "Id": 11819012202,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012202
+    },
+    {
+        "Id": 11819012203,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012203
+    },
+    {
+        "Id": 11819012204,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012204
+    },
+    {
+        "Id": 11819012205,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012205
+    },
+    {
+        "Id": 11819012301,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012301
+    },
+    {
+        "Id": 11819012302,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012302
+    },
+    {
+        "Id": 11819012303,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819012303
+    },
+    {
+        "Id": 11819013101,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013101
+    },
+    {
+        "Id": 11819013102,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013102
+    },
+    {
+        "Id": 11819013103,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013103
+    },
+    {
+        "Id": 11819013201,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013201
+    },
+    {
+        "Id": 11819013202,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013202
+    },
+    {
+        "Id": 11819013203,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013203
+    },
+    {
+        "Id": 11819013204,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013204
+    },
+    {
+        "Id": 11819013205,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013205
+    },
+    {
+        "Id": 11819013301,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013301
+    },
+    {
+        "Id": 11819013302,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013302
+    },
+    {
+        "Id": 11819013303,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819013303
+    },
+    {
+        "Id": 11819021101,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021101
+    },
+    {
+        "Id": 11819021102,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021102
+    },
+    {
+        "Id": 11819021103,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021103
+    },
+    {
+        "Id": 11819021201,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021201
+    },
+    {
+        "Id": 11819021202,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021202
+    },
+    {
+        "Id": 11819021203,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021203
+    },
+    {
+        "Id": 11819021204,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021204
+    },
+    {
+        "Id": 11819021205,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021205
+    },
+    {
+        "Id": 11819021301,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021301
+    },
+    {
+        "Id": 11819021302,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021302
+    },
+    {
+        "Id": 11819021303,
+        "Name": {
+            "Ja": "チョコボ (D)",
+            "En": "Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819021303
+    },
+    {
+        "Id": 11819022101,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022101
+    },
+    {
+        "Id": 11819022102,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022102
+    },
+    {
+        "Id": 11819022103,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022103
+    },
+    {
+        "Id": 11819022201,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022201
+    },
+    {
+        "Id": 11819022202,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022202
+    },
+    {
+        "Id": 11819022203,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022203
+    },
+    {
+        "Id": 11819022204,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022204
+    },
+    {
+        "Id": 11819022205,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022205
+    },
+    {
+        "Id": 11819022301,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022301
+    },
+    {
+        "Id": 11819022302,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022302
+    },
+    {
+        "Id": 11819022303,
+        "Name": {
+            "Ja": "山チョコボ (D)",
+            "En": "Mountain Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819022303
+    },
+    {
+        "Id": 11819023101,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023101
+    },
+    {
+        "Id": 11819023102,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023102
+    },
+    {
+        "Id": 11819023103,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023103
+    },
+    {
+        "Id": 11819023201,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023201
+    },
+    {
+        "Id": 11819023202,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023202
+    },
+    {
+        "Id": 11819023203,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023203
+    },
+    {
+        "Id": 11819023204,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023204
+    },
+    {
+        "Id": 11819023205,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023205
+    },
+    {
+        "Id": 11819023301,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023301
+    },
+    {
+        "Id": 11819023302,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023302
+    },
+    {
+        "Id": 11819023303,
+        "Name": {
+            "Ja": "川チョコボ (D)",
+            "En": "River Chocobo (D)"
+        },
+        "RewardType": 15,
+        "TargetId": 1819023303
+    },
+    {
+        "Id": 11920011101,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011101
+    },
+    {
+        "Id": 11920011102,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011102
+    },
+    {
+        "Id": 11920011103,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011103
+    },
+    {
+        "Id": 11920011201,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011201
+    },
+    {
+        "Id": 11920011202,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011202
+    },
+    {
+        "Id": 11920011203,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011203
+    },
+    {
+        "Id": 11920011204,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011204
+    },
+    {
+        "Id": 11920011205,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011205
+    },
+    {
+        "Id": 11920011301,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011301
+    },
+    {
+        "Id": 11920011302,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011302
+    },
+    {
+        "Id": 11920011303,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920011303
+    },
+    {
+        "Id": 11920012101,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012101
+    },
+    {
+        "Id": 11920012102,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012102
+    },
+    {
+        "Id": 11920012103,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012103
+    },
+    {
+        "Id": 11920012201,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012201
+    },
+    {
+        "Id": 11920012202,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012202
+    },
+    {
+        "Id": 11920012203,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012203
+    },
+    {
+        "Id": 11920012204,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012204
+    },
+    {
+        "Id": 11920012205,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012205
+    },
+    {
+        "Id": 11920012301,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012301
+    },
+    {
+        "Id": 11920012302,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012302
+    },
+    {
+        "Id": 11920012303,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920012303
+    },
+    {
+        "Id": 11920013101,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013101
+    },
+    {
+        "Id": 11920013102,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013102
+    },
+    {
+        "Id": 11920013103,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013103
+    },
+    {
+        "Id": 11920013201,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013201
+    },
+    {
+        "Id": 11920013202,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013202
+    },
+    {
+        "Id": 11920013203,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013203
+    },
+    {
+        "Id": 11920013204,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013204
+    },
+    {
+        "Id": 11920013205,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013205
+    },
+    {
+        "Id": 11920013301,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013301
+    },
+    {
+        "Id": 11920013302,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013302
+    },
+    {
+        "Id": 11920013303,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920013303
+    },
+    {
+        "Id": 11920021101,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021101
+    },
+    {
+        "Id": 11920021102,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021102
+    },
+    {
+        "Id": 11920021103,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021103
+    },
+    {
+        "Id": 11920021201,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021201
+    },
+    {
+        "Id": 11920021202,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021202
+    },
+    {
+        "Id": 11920021203,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021203
+    },
+    {
+        "Id": 11920021204,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021204
+    },
+    {
+        "Id": 11920021205,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021205
+    },
+    {
+        "Id": 11920021301,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021301
+    },
+    {
+        "Id": 11920021302,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021302
+    },
+    {
+        "Id": 11920021303,
+        "Name": {
+            "Ja": "チョコボ (D+)",
+            "En": "Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920021303
+    },
+    {
+        "Id": 11920022101,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022101
+    },
+    {
+        "Id": 11920022102,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022102
+    },
+    {
+        "Id": 11920022103,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022103
+    },
+    {
+        "Id": 11920022201,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022201
+    },
+    {
+        "Id": 11920022202,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022202
+    },
+    {
+        "Id": 11920022203,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022203
+    },
+    {
+        "Id": 11920022204,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022204
+    },
+    {
+        "Id": 11920022205,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022205
+    },
+    {
+        "Id": 11920022301,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022301
+    },
+    {
+        "Id": 11920022302,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022302
+    },
+    {
+        "Id": 11920022303,
+        "Name": {
+            "Ja": "山チョコボ (D+)",
+            "En": "Mountain Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920022303
+    },
+    {
+        "Id": 11920023101,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023101
+    },
+    {
+        "Id": 11920023102,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023102
+    },
+    {
+        "Id": 11920023103,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023103
+    },
+    {
+        "Id": 11920023201,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023201
+    },
+    {
+        "Id": 11920023202,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023202
+    },
+    {
+        "Id": 11920023203,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023203
+    },
+    {
+        "Id": 11920023204,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023204
+    },
+    {
+        "Id": 11920023205,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023205
+    },
+    {
+        "Id": 11920023301,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023301
+    },
+    {
+        "Id": 11920023302,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023302
+    },
+    {
+        "Id": 11920023303,
+        "Name": {
+            "Ja": "川チョコボ (D+)",
+            "En": "River Chocobo (D+)"
+        },
+        "RewardType": 15,
+        "TargetId": 1920023303
+    },
+    {
+        "Id": 12021011101,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011101
+    },
+    {
+        "Id": 12021011102,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011102
+    },
+    {
+        "Id": 12021011103,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011103
+    },
+    {
+        "Id": 12021011201,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011201
+    },
+    {
+        "Id": 12021011202,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011202
+    },
+    {
+        "Id": 12021011203,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011203
+    },
+    {
+        "Id": 12021011204,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011204
+    },
+    {
+        "Id": 12021011205,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011205
+    },
+    {
+        "Id": 12021011301,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011301
+    },
+    {
+        "Id": 12021011302,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011302
+    },
+    {
+        "Id": 12021011303,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021011303
+    },
+    {
+        "Id": 12021012101,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012101
+    },
+    {
+        "Id": 12021012102,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012102
+    },
+    {
+        "Id": 12021012103,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012103
+    },
+    {
+        "Id": 12021012201,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012201
+    },
+    {
+        "Id": 12021012202,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012202
+    },
+    {
+        "Id": 12021012203,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012203
+    },
+    {
+        "Id": 12021012204,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012204
+    },
+    {
+        "Id": 12021012205,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012205
+    },
+    {
+        "Id": 12021012301,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012301
+    },
+    {
+        "Id": 12021012302,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012302
+    },
+    {
+        "Id": 12021012303,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021012303
+    },
+    {
+        "Id": 12021013101,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013101
+    },
+    {
+        "Id": 12021013102,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013102
+    },
+    {
+        "Id": 12021013103,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013103
+    },
+    {
+        "Id": 12021013201,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013201
+    },
+    {
+        "Id": 12021013202,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013202
+    },
+    {
+        "Id": 12021013203,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013203
+    },
+    {
+        "Id": 12021013204,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013204
+    },
+    {
+        "Id": 12021013205,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013205
+    },
+    {
+        "Id": 12021013301,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013301
+    },
+    {
+        "Id": 12021013302,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013302
+    },
+    {
+        "Id": 12021013303,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021013303
+    },
+    {
+        "Id": 12021021101,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021101
+    },
+    {
+        "Id": 12021021102,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021102
+    },
+    {
+        "Id": 12021021103,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021103
+    },
+    {
+        "Id": 12021021201,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021201
+    },
+    {
+        "Id": 12021021202,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021202
+    },
+    {
+        "Id": 12021021203,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021203
+    },
+    {
+        "Id": 12021021204,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021204
+    },
+    {
+        "Id": 12021021205,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021205
+    },
+    {
+        "Id": 12021021301,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021301
+    },
+    {
+        "Id": 12021021302,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021302
+    },
+    {
+        "Id": 12021021303,
+        "Name": {
+            "Ja": "チョコボ (C)",
+            "En": "Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021021303
+    },
+    {
+        "Id": 12021022101,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022101
+    },
+    {
+        "Id": 12021022102,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022102
+    },
+    {
+        "Id": 12021022103,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022103
+    },
+    {
+        "Id": 12021022201,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022201
+    },
+    {
+        "Id": 12021022202,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022202
+    },
+    {
+        "Id": 12021022203,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022203
+    },
+    {
+        "Id": 12021022204,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022204
+    },
+    {
+        "Id": 12021022205,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022205
+    },
+    {
+        "Id": 12021022301,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022301
+    },
+    {
+        "Id": 12021022302,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022302
+    },
+    {
+        "Id": 12021022303,
+        "Name": {
+            "Ja": "山チョコボ (C)",
+            "En": "Mountain Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021022303
+    },
+    {
+        "Id": 12021023101,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023101
+    },
+    {
+        "Id": 12021023102,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023102
+    },
+    {
+        "Id": 12021023103,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023103
+    },
+    {
+        "Id": 12021023201,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023201
+    },
+    {
+        "Id": 12021023202,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023202
+    },
+    {
+        "Id": 12021023203,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023203
+    },
+    {
+        "Id": 12021023204,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023204
+    },
+    {
+        "Id": 12021023205,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023205
+    },
+    {
+        "Id": 12021023301,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023301
+    },
+    {
+        "Id": 12021023302,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023302
+    },
+    {
+        "Id": 12021023303,
+        "Name": {
+            "Ja": "川チョコボ (C)",
+            "En": "River Chocobo (C)"
+        },
+        "RewardType": 15,
+        "TargetId": 2021023303
+    },
+    {
+        "Id": 12122011101,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011101
+    },
+    {
+        "Id": 12122011102,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011102
+    },
+    {
+        "Id": 12122011103,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011103
+    },
+    {
+        "Id": 12122011201,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011201
+    },
+    {
+        "Id": 12122011202,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011202
+    },
+    {
+        "Id": 12122011203,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011203
+    },
+    {
+        "Id": 12122011204,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011204
+    },
+    {
+        "Id": 12122011205,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011205
+    },
+    {
+        "Id": 12122011301,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011301
+    },
+    {
+        "Id": 12122011302,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011302
+    },
+    {
+        "Id": 12122011303,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122011303
+    },
+    {
+        "Id": 12122012101,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012101
+    },
+    {
+        "Id": 12122012102,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012102
+    },
+    {
+        "Id": 12122012103,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012103
+    },
+    {
+        "Id": 12122012201,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012201
+    },
+    {
+        "Id": 12122012202,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012202
+    },
+    {
+        "Id": 12122012203,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012203
+    },
+    {
+        "Id": 12122012204,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012204
+    },
+    {
+        "Id": 12122012205,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012205
+    },
+    {
+        "Id": 12122012301,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012301
+    },
+    {
+        "Id": 12122012302,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012302
+    },
+    {
+        "Id": 12122012303,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122012303
+    },
+    {
+        "Id": 12122013101,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013101
+    },
+    {
+        "Id": 12122013102,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013102
+    },
+    {
+        "Id": 12122013103,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013103
+    },
+    {
+        "Id": 12122013201,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013201
+    },
+    {
+        "Id": 12122013202,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013202
+    },
+    {
+        "Id": 12122013203,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013203
+    },
+    {
+        "Id": 12122013204,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013204
+    },
+    {
+        "Id": 12122013205,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013205
+    },
+    {
+        "Id": 12122013301,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013301
+    },
+    {
+        "Id": 12122013302,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013302
+    },
+    {
+        "Id": 12122013303,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122013303
+    },
+    {
+        "Id": 12122021101,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021101
+    },
+    {
+        "Id": 12122021102,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021102
+    },
+    {
+        "Id": 12122021103,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021103
+    },
+    {
+        "Id": 12122021201,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021201
+    },
+    {
+        "Id": 12122021202,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021202
+    },
+    {
+        "Id": 12122021203,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021203
+    },
+    {
+        "Id": 12122021204,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021204
+    },
+    {
+        "Id": 12122021205,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021205
+    },
+    {
+        "Id": 12122021301,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021301
+    },
+    {
+        "Id": 12122021302,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021302
+    },
+    {
+        "Id": 12122021303,
+        "Name": {
+            "Ja": "チョコボ (C+)",
+            "En": "Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122021303
+    },
+    {
+        "Id": 12122022101,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022101
+    },
+    {
+        "Id": 12122022102,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022102
+    },
+    {
+        "Id": 12122022103,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022103
+    },
+    {
+        "Id": 12122022201,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022201
+    },
+    {
+        "Id": 12122022202,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022202
+    },
+    {
+        "Id": 12122022203,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022203
+    },
+    {
+        "Id": 12122022204,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022204
+    },
+    {
+        "Id": 12122022205,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022205
+    },
+    {
+        "Id": 12122022301,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022301
+    },
+    {
+        "Id": 12122022302,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022302
+    },
+    {
+        "Id": 12122022303,
+        "Name": {
+            "Ja": "山チョコボ (C+)",
+            "En": "Mountain Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122022303
+    },
+    {
+        "Id": 12122023101,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023101
+    },
+    {
+        "Id": 12122023102,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023102
+    },
+    {
+        "Id": 12122023103,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023103
+    },
+    {
+        "Id": 12122023201,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023201
+    },
+    {
+        "Id": 12122023202,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023202
+    },
+    {
+        "Id": 12122023203,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023203
+    },
+    {
+        "Id": 12122023204,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023204
+    },
+    {
+        "Id": 12122023205,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023205
+    },
+    {
+        "Id": 12122023301,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023301
+    },
+    {
+        "Id": 12122023302,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023302
+    },
+    {
+        "Id": 12122023303,
+        "Name": {
+            "Ja": "川チョコボ (C+)",
+            "En": "River Chocobo (C+)"
+        },
+        "RewardType": 15,
+        "TargetId": 2122023303
     }
 ]

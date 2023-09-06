@@ -1,1 +1,69 @@
-{}
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "SubName": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "CharacterStorySectionId": {
+            "type": "integer"
+        },
+        "PremiseCharacterStoryEpisodeId": {
+            "type": "integer"
+        },
+        "CharacterStoryEpisodeType": {
+            "type": "integer"
+        },
+        "BattleId": {
+            "type": "integer"
+        },
+        "DungeonId": {
+            "type": "integer"
+        },
+        "FirstClearRewardSetId": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        },
+        "PartyCharacterCount": {
+            "type": "integer"
+        },
+        "PartyCharacterGroupId": {
+            "type": "integer"
+        },
+        "IsDrama": {
+            "type": "boolean"
+        },
+        "IsBattle": {
+            "type": "boolean"
+        },
+        "OrderNo": {
+            "type": "integer"
+        }
+    }
+}

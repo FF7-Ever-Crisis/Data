@@ -6,35 +6,10 @@
             "En": "Cloud Strife"
         },
         "Description": {
-            "Ja": "元ソルジャー・クラス1ST。\n幼馴染のティファに誘われ反神羅\n組織アバランチの作戦に参加する。",
-            "En": "Former SOLDIER: First Class. Joined the operations of the anti-Shinra organization Avalanche at the request of his childhood friend Tifa."
+            "Ja": "元ソルジャー・クラス1ST。\n幼馴染のティファに誘われ反神羅組織アバランチ\nの作戦に参加する。",
+            "En": "Former SOLDIER: First Class.\nJoined the operations of the anti-Shinra\norganization Avalanche at the request of his\nchildhood friend Tifa."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500110001,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 110001,
-                            "Name": {
-                                "Ja": "魔晄炉潜入",
-                                "En": "The Destruction of Mako Reactor 1"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 10001
     },
     {
@@ -44,35 +19,10 @@
             "En": "Barret Wallace"
         },
         "Description": {
-            "Ja": "反神羅組織アバランチのリーダー。\n屈強な体格で右腕を武器に改造して\nいる。神羅への憎しみが強く、\n直情的に行動する。",
-            "En": "A leader in the anti-Shinra organization Avalanche. Of brawny build and with a weaponized prosthetic right arm. A man of impulsive action, his hatred for Shinra runs deep."
+            "Ja": "反神羅組織アバランチのリーダー。\n屈強な体格で右腕を武器に改造している。\n神羅への憎しみが強く、直情的に行動する。",
+            "En": "A leader in the anti-Shinra organization\nAvalanche. Of brawny build and with\na weaponized prosthetic right arm. \nA man of impulsive action, his hatred for\nShinra runs deep."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500110001,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 110001,
-                            "Name": {
-                                "Ja": "魔晄炉潜入",
-                                "En": "The Destruction of Mako Reactor 1"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 10002
     },
     {
@@ -82,35 +32,10 @@
             "En": "Tifa Lockhart"
         },
         "Description": {
-            "Ja": "反神羅組織アバランチのメンバー\nであり、クラウドの幼馴染。\n七番街スラムの『セブンスヘブン』\nを切り盛りしている。",
-            "En": "A member of the anti-Shinra organization Avalanche, and Cloud's childhood friend. Runs 7th Heaven in the Sector 7 slums."
+            "Ja": "反神羅組織アバランチのメンバーであり、\nクラウドの幼馴染。\n七番街スラムの『セブンスヘブン』を切り盛り\nしている。",
+            "En": "A member of the anti-Shinra organization\nAvalanche, and Cloud's childhood friend.\nRuns Seventh Heaven in the Sector 7 slums."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500110004,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 110004,
-                            "Name": {
-                                "Ja": "星空の思い出",
-                                "En": "Starlit Memories"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 10003
     },
     {
@@ -120,35 +45,10 @@
             "En": "Aerith Gainsborough"
         },
         "Description": {
-            "Ja": "花売りの少女。\n伍番街スラムに住み、地域の外れに\nある寂れた教会に咲く花の世話をし\nている。",
-            "En": "A young woman who sells flowers. She lives in the Sector 5 slums and tends to the flowers that bloom in an abandoned church on the edge of town."
+            "Ja": "伍番街スラムに住む花売り。\n地域の外れにある寂れた教会に咲く花の世話を\nしている。",
+            "En": "A young woman who sells flowers.\nShe lives in the Sector 5 slums and tends\nto the flowers that bloom in an abandoned\nchurch on the edge of town."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500110010,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 110010,
-                            "Name": {
-                                "Ja": "花畑の語らい",
-                                "En": "A Chat among the Flowers"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 10004
     },
     {
@@ -158,38 +58,34 @@
             "En": "Red XIII"
         },
         "Description": {
-            "Ja": "尾に炎を灯す、赤い毛の獣。\n人語を操る長命の種族で宝条博士の\n研究所に研究サンプルとして監禁さ\nれている。",
-            "En": "A beast with red fur and a fiery tail. One of a long-lived species with intelligence equal to that of humans, he is held captive in Professor Hojo's lab as a research specimen."
+            "Ja": "尾に炎を灯す、赤い毛の獣。\n人語を操る長命の種族で宝条博士の研究所に\n研究サンプルとして監禁されている。",
+            "En": "A beast with red fur and a fiery tail.\nOne of a long-lived species with\nintelligence equal to that of humans, \nhe is held captive in Professor Hojo's lab as\na research specimen."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 10005
     },
     {
-        "Id": 10012,
+        "Id": 10010,
         "Title": {
-            "Ja": "レノ",
-            "En": "Reno"
+            "Ja": "セフィロス",
+            "En": "Sephiroth"
         },
         "Description": {
-            "Ja": "神羅カンパニーの総務部調査課\n『タークス』のメンバー。\n額のゴーグルと燃えるような赤髪が\nトレードマークの飄々とした男。",
-            "En": "A member of the Turks, a special task force within Shinra's General Affairs Division. His fiery-red hair and goggles set this cavalier man apart from his peers."
+            "Ja": "かつて英雄と呼ばれたソルジャー1ST。\nある任務で死亡したと言われているが、詳細は\n不明。この任務に同行していたクラウドとは\n浅からぬ因縁がある。",
+            "En": "A SOLDIER: First Class who was once\nrevered as a hero. He was presumed to have\ndied during a certain mission, but the details\nof his death are unknown. \nHis fate is seemingly intertwined with that of\nCloud's, a fellow SOLDIER who had\naccompanied him on that mission."
+        },
+        "ConditionSet": null,
+        "ResourceId": 10010
+    },
+    {
+        "Id": 10020,
+        "Title": {
+            "Ja": "ザックス・フェア",
+            "En": "Zack Fair"
+        },
+        "Description": {
+            "Ja": "神羅カンパニーのソルジャー。\nセフィロスのような英雄になることを夢見て、\n功績をあげる機会を待ち望んでいる。",
+            "En": "A member of SOLDIER. \nHe dreams of becoming a hero like\nSephiroth and eagerly awaits opportunities\nto prove his merit."
         },
         "ConditionSet": {
             "Operator": "And",
@@ -217,175 +113,23 @@
                 }
             ]
         },
-        "ResourceId": 10012
-    },
-    {
-        "Id": 10016,
-        "Title": {
-            "Ja": "ビッグス",
-            "En": "Biggs"
-        },
-        "Description": {
-            "Ja": "反神羅組織アバランチのメンバー。\nチームきってのキレ者で、\n作戦立案を担当する。",
-            "En": "A member of the anti-Shinra organization Avalanche. The shrewdest member of the team, he is in charge of planning their missions."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500120005,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 120005,
-                            "Name": {
-                                "Ja": "ビッグスの心配事",
-                                "En": "Biggs' Nerves"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 10016
-    },
-    {
-        "Id": 10017,
-        "Title": {
-            "Ja": "ジェシー",
-            "En": "Jessie"
-        },
-        "Description": {
-            "Ja": "反神羅組織アバランチのメンバー。\n顔の広さや愛嬌を生かして、\n情報収集や反対勢力の懐柔を\n行っている。",
-            "En": "A member of the anti-Shinra organization Avalanche. She manufactures whatever material the group needs for their missions, ranging from fake IDs to explosive devices."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500120007,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 120007,
-                            "Name": {
-                                "Ja": "ジェシーの調査依頼",
-                                "En": "Jessie's Favor"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 10017
-    },
-    {
-        "Id": 10018,
-        "Title": {
-            "Ja": "ウェッジ",
-            "En": "Wedge"
-        },
-        "Description": {
-            "Ja": "反神羅組織アバランチのメンバー。\n爆弾や偽造IDなど、作戦に必要な\nものであれば、なんでも創り出す。",
-            "En": "A member of the anti-Shinra organization Avalanche. Likable and well connected, he gathers the group's intel and support."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500120006,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 120006,
-                            "Name": {
-                                "Ja": "ウェッジのキャンディ",
-                                "En": "Wedge and Candy"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 10018
-    },
-    {
-        "Id": 10020,
-        "Title": {
-            "Ja": "ザックス・フェア",
-            "En": "Zack Fair"
-        },
-        "Description": {
-            "Ja": "神羅カンパニーのソルジャー。\nセフィロスのような英雄に\nなることを夢見て、功績をあげる\n機会を待ち望んでいる。",
-            "En": "A member of SOLDIER. He dreams of becoming a hero like Sephiroth and eagerly awaits opportunities to prove his merit."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 500210127,
-                    "Category": "UserEpisode",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [
-                        {
-                            "Id": 210127,
-                            "Name": {
-                                "Ja": "闘う者達",
-                                "En": "Soldiers in Battle"
-                            }
-                        }
-                    ],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
         "ResourceId": 10020
     },
     {
-        "Id": 10048,
+        "Id": 10049,
         "Title": {
-            "Ja": "アンジール・ヒューレー",
-            "En": "Angeal Hewley"
+            "Ja": "セフィロス",
+            "En": "Sephiroth"
         },
         "Description": {
-            "Ja": "神羅カンパニーの\nソルジャー・クラス1ST。\n曲者ぞろいの1STの中で唯一の良心。\nザックスに慕われている。",
-            "En": "SOLDIER: First Class. The lone conscience among the other idiosyncratic firsts. Adored by Zack."
+            "Ja": "若きソルジャー1ST。\nすでに英雄として名をはせており、敵地にて\n年上兵士ばかりのグレン班を統率する。",
+            "En": "A young SOLDIER: First Class who is\nrecognized by many as a hero.\nThough the youngest member of Glenn's\nteam, he fearlessly leads them through\nenemy territory."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 500220130,
+                    "Id": 500310260,
                     "Category": "UserEpisode",
                     "Date": {
                         "Start": "2020-03-31T15:00:00",
@@ -393,10 +137,10 @@
                     },
                     "Targets": [
                         {
-                            "Id": 220130,
+                            "Id": 310260,
                             "Name": {
-                                "Ja": "アンジールの忠告",
-                                "En": "Angeal's Advice"
+                                "Ja": "戦火に舞い降りた扶翼",
+                                "En": "Help from Above"
                             }
                         }
                     ],
@@ -407,23 +151,23 @@
                 }
             ]
         },
-        "ResourceId": 10048
+        "ResourceId": 10049
     },
     {
-        "Id": 10203,
+        "Id": 10050,
         "Title": {
-            "Ja": "ラザード",
-            "En": "Lazard"
+            "Ja": "グレン・ロズブローク",
+            "En": "Glenn Lodbrok"
         },
         "Description": {
-            "Ja": "神羅カンパニーの\nソルジャー部門統括。\n任務における人員の割り振りや\n作戦の立案などを行っている。",
-            "En": "Director of SOLDIER at Shinra. Responsible for assigning personnel to missions and developing strategy."
+            "Ja": "神羅カンパニーのソルジャー・クラスP0。\n多額の報酬をあてこみ、敵地での\n魔晄炉建設用地を探す危険な任務に志願した。",
+            "En": "Shinra SOLDIER: P0 Class.\nHe volunteers for a dangerous mission in\nenemy territory—one with a large reward—to\nlocate a site for the construction of a mako\nreactor."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 500210133,
+                    "Id": 500210140,
                     "Category": "UserEpisode",
                     "Date": {
                         "Start": "2020-03-31T15:00:00",
@@ -431,10 +175,10 @@
                     },
                     "Targets": [
                         {
-                            "Id": 210133,
+                            "Id": 210140,
                             "Name": {
-                                "Ja": "待ちわびた召集",
-                                "En": "Mass Desertion at SOLDIER"
+                                "Ja": "ジェネシス・コピー",
+                                "En": "Genesis Copies"
                             }
                         }
                     ],
@@ -445,89 +189,37 @@
                 }
             ]
         },
-        "ResourceId": 10203
+        "ResourceId": 10050
     },
     {
-        "Id": 10204,
+        "Id": 10051,
         "Title": {
-            "Ja": "ジェネシス・ラプソードス",
-            "En": "Genesis Rhapsodos"
+            "Ja": "マット・ウィンザード",
+            "En": "Matt Winsord"
         },
         "Description": {
-            "Ja": "神羅カンパニーの\nソルジャー・クラス1ST。\n同じ1STのセフィロス、アンジール\nとは親友だった。",
-            "En": "SOLDIER: First Class. His fellow firsts Sephiroth and Angeal were dear friends."
+            "Ja": "神羅カンパニーのソルジャー・クラスP0。\nハカセとあだ名されるほどの記憶力と判断力を\n生かして、グレンとともに危険な任務にあたる。",
+            "En": "Shinra SOLDIER: P0 Class.\nHe uses his memory and judgment that\nearned him the nickname \"Professor\" as\nhe joins Glenn on his mission."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
+                    "Id": 500210140,
+                    "Category": "UserEpisode",
                     "Date": {
                         "Start": "2020-03-31T15:00:00",
                         "End": "2099-04-01T15:00:00"
                     },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 10204
-    },
-    {
-        "Id": 11001,
-        "Title": {
-            "Ja": "ミッドガル",
-            "En": "Midgar"
-        },
-        "Description": {
-            "Ja": "神羅カンパニーが建造した都市。\n8つの柱に支えられて空中に浮かぶ\n円形の都市で、各エリアには\n魔晄炉が設置されている。",
-            "En": "A metropolis built by the Shinra Electric Power Company. The disc-shaped city is supported in the air by eight pillars, with a mako reactor in each sector."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 11001
-    },
-    {
-        "Id": 11002,
-        "Title": {
-            "Ja": "セブンスヘブン",
-            "En": "7th Heaven"
-        },
-        "Description": {
-            "Ja": "七番街スラムにある酒場。\nアバランチの拠点であり店の収入は\n活動資金に回されている。",
-            "En": "A bar in the Sector 7 slums. Avalanche makes their base here, and its revenue funds their activities."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
+                    "Targets": [
+                        {
+                            "Id": 210140,
+                            "Name": {
+                                "Ja": "ジェネシス・コピー",
+                                "En": "Genesis Copies"
+                            }
+                        }
+                    ],
                     "Values": [
                         1,
                         0
@@ -535,29 +227,37 @@
                 }
             ]
         },
-        "ResourceId": 11002
+        "ResourceId": 10051
     },
     {
-        "Id": 11003,
+        "Id": 10052,
         "Title": {
-            "Ja": "タンブリン砦",
-            "En": "Fort Tamblin"
+            "Ja": "ルティア・リン",
+            "En": "Lucia Lin"
         },
         "Description": {
-            "Ja": "タンブリン山に築かれたウータイ軍\nの要塞のひとつ。堅牢な防壁の中は\n侵入した敵を惑わすための回廊と\nなっており、多数の兵士が配備され\nている。",
-            "En": "A fort in Mt. Tamblin belonging to the Wutai army. Within its thick walls is a heavily-guarded entryway with a corridor meant to disorient invaders."
+            "Ja": "神羅カンパニーのソルジャー・クラスP0。\n神羅軍の指導担当官だが、狙撃に没頭したいが\nために、グレンとともに危険な任務にあたる。\n",
+            "En": "Shinra SOLDIER: P0 Class.\nAn advisory officer for the military, she joins\nGlenn on his mission to exercise her skills as\na sniper."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
+                    "Id": 500210140,
+                    "Category": "UserEpisode",
                     "Date": {
                         "Start": "2020-03-31T15:00:00",
                         "End": "2099-04-01T15:00:00"
                     },
-                    "Targets": [],
+                    "Targets": [
+                        {
+                            "Id": 210140,
+                            "Name": {
+                                "Ja": "ジェネシス・コピー",
+                                "En": "Genesis Copies"
+                            }
+                        }
+                    ],
                     "Values": [
                         1,
                         0
@@ -565,331 +265,52 @@
                 }
             ]
         },
-        "ResourceId": 11003
+        "ResourceId": 10052
     },
     {
-        "Id": 11004,
+        "Id": 20001,
         "Title": {
             "Ja": "スラムの教会",
             "En": "The Church"
         },
         "Description": {
-            "Ja": "伍番街スラムのはずれに建てられた\n古い教会。荒廃したスラムの地に\nあるにもかかわらず、自生する花が\n咲き誇っている。",
-            "En": "An old church at the edge of the Sector 5 Slums. Despite the desolate environment, flowers bloom inside its walls."
+            "Ja": "伍番街スラムのはずれに建てられた古い教会。\n荒廃したスラムの地にあるにもかかわらず、\n自生する花が咲き誇っている。",
+            "En": "An old church at the edge of the Sector 5\nSlums. Despite the desolate environment,\nflowers bloom inside its walls."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 11004
-    },
-    {
-        "Id": 11005,
-        "Title": {
-            "Ja": "闘技場",
-            "En": "The Arena"
-        },
-        "Description": {
-            "Ja": "タンブリン砦の中庭に建てられた\n楼閣。ウータイ兵の戦闘訓練用施設\nだが、神羅軍の侵攻に備えて、\n対ソルジャー用の大型モンスターが\n配備されている。",
-            "En": "A multi-story pavilion in the inner garden of Fort Tamblin. Though a training facility for Wutai soldiers, large anti-SOLDIER monsters stand ready in case of enemy invasions."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 11005
-    },
-    {
-        "Id": 11006,
-        "Title": {
-            "Ja": "トレーニングルーム",
-            "En": "The Training Room"
-        },
-        "Description": {
-            "Ja": "神羅ビル内に設けられた、\nソルジャー用のトレーニング施設。\nVR技術により、様々な状況を想定\nした戦闘訓練を行うことができる。",
-            "En": "A SOLDIER training facility within the Shinra Building. The VR technology allows for combat training in various situations."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 11006
-    },
-    {
-        "Id": 11007,
-        "Title": {
-            "Ja": "ソルジャーフロア",
-            "En": "The SOLDIER Area"
-        },
-        "Description": {
-            "Ja": "ソルジャーが待機するフロア。\nミーティングやトレーニングを行う\n部屋に通じている。ソルジャー用の\nマテリアを開発する研究者なども\n出入りしている。",
-            "En": "An area for SOLDIERs on standby. It has rooms for meetings and training that are also utilized by scientists researching combat materia."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 11007
-    },
-    {
-        "Id": 12001,
-        "Title": {
-            "Ja": "神羅カンパニー",
-            "En": "Shinra Electric Power Company"
-        },
-        "Description": {
-            "Ja": "実質的に世界を支配する会社。\n元は兵器会社だったが魔晄の供給を\n始めたことで、確固たる影響力を\n確立した。",
-            "En": "A corporation that virtually rules the world. Once a weapons manufacturer, it gained influence over the years after they began to supply the world with mako."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 12001
-    },
-    {
-        "Id": 12002,
-        "Title": {
-            "Ja": "魔晄炉",
-            "En": "Mako Reactors"
-        },
-        "Description": {
-            "Ja": "地中から魔晄エネルギーをくみ上げ\n電力に転換する施設。\nミッドガルのほかに、魔晄が豊富な\n各地に建設されている。",
-            "En": "Facilities that draw up mako energy from within the planet and covert it to electric power. Aside from Midgar, they have also been built in other regions rich in mako."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 12002
-    },
-    {
-        "Id": 12003,
-        "Title": {
-            "Ja": "LOVELESS",
-            "En": "Loveless"
-        },
-        "Description": {
-            "Ja": "古来より伝わる叙事詩。\n様々な解釈で演劇や映像に\nされており、八番街の劇場では\nロングラン公演されるほど人気。",
-            "En": "An epic poem passed down from ancient times. Many interpretations of the work exist, including plays and films, and it is currently enjoying a popular run at the playhouse in Sector 8."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 12003
-    },
-    {
-        "Id": 12004,
-        "Title": {
-            "Ja": "チョコボファーム",
-            "En": "Chocobo Farm"
-        },
-        "Description": {
-            "Ja": "チョコボを飼育する牧場。\nグラスランドエリアにある\nグリン＆グリングリン牧場も\nそのひとつ。チョコボメダルを\nチョコボと交換したり、チョコボを\n遠征に出したりできる。",
-            "En": "Farms for raising chocobos. At the chocobo farm run by Bill in the Grasslands Area, you can trade chocobo medals for chocobos or go on expeditions with your feathered friends."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 12004
-    },
-    {
-        "Id": 12005,
-        "Title": {
-            "Ja": "列車",
-            "En": "Trains"
-        },
-        "Description": {
-            "Ja": "ミッドガルの主要な移動手段の\nひとつで、神羅カンパニーの\n鉄道部門が運行している。\nプレート上の市街地のみならず、\nスラムにも往来することができる。",
-            "En": "The main means of transportation in Midgar, run by Shinra's railway division. The trains provide service to atop the plates as well as the slums."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 12005
-    },
-    {
-        "Id": 20001,
-        "Title": {
-            "Ja": "補助マテリア",
-            "En": "Support Materia"
-        },
-        "Description": {
-            "Ja": "武器に固定された特殊なマテリア。\n解放することで対応する\n様々な効果を発揮する。",
-            "En": "Special materia embedded in weapons. Unlocking them activates their respective effects."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 20001
     },
     {
         "Id": 20002,
         "Title": {
-            "Ja": "合成の書",
-            "En": "Synthesis Recipes"
+            "Ja": "チョコボファーム",
+            "En": "Chocobo Farm"
         },
         "Description": {
-            "Ja": "合成に必要となる設計図。\n入手した合成の書は\n繰り返し利用出来る。",
-            "En": "A blueprint required for synthesis. Recipes are not consumed upon use."
+            "Ja": "チョコボを飼育する牧場。\nグラスランドエリアにある\nグリン＆グリングリン牧場もそのひとつ。\nチョコボメダルをチョコボと交換したり、\nチョコボを遠征に出したりできる。",
+            "En": "Farms for raising chocobos. At the chocobo\nfarm run by Bill in the Grasslands Area, you\ncan trade chocobo medals for chocobos or\ngo on expeditions with your feathered\nfriends."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 1160000000023,
-                    "Category": "None",
+                    "Id": 500110011,
+                    "Category": "UserEpisode",
                     "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
+                        "Start": "2020-03-31T15:00:00",
+                        "End": "2099-04-01T15:00:00"
                     },
-                    "Targets": [],
+                    "Targets": [
+                        {
+                            "Id": 110011,
+                            "Name": {
+                                "Ja": "タークスのレノ",
+                                "En": "The Turks: Reno"
+                            }
+                        }
+                    ],
                     "Values": [
-                        0,
+                        1,
                         0
                     ]
                 }
@@ -900,26 +321,34 @@
     {
         "Id": 20003,
         "Title": {
-            "Ja": "マテリアの進化",
-            "En": "Upgrading Materia"
+            "Ja": "タンブリン砦",
+            "En": "Fort Tamblin"
         },
         "Description": {
-            "Ja": "マテリアをより強い\nアビリティへと進化させる事",
-            "En": "Some materia can be upgraded, allowing you to wield stronger versions of existing abilities."
+            "Ja": "タンブリン山に築かれたウータイ軍の\n要塞のひとつ。堅牢な防壁の中は侵入した敵を\n惑わすための回廊となっており、多数の兵士が\n配備されている。",
+            "En": "A fort in Mt. Tamblin belonging to the\nWutaian army. Within its thick walls is a\nheavily-guarded entryway with a corridor\nmeant to disorient invaders."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 1160000000037,
-                    "Category": "None",
+                    "Id": 500110011,
+                    "Category": "UserEpisode",
                     "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
+                        "Start": "2020-03-31T15:00:00",
+                        "End": "2099-04-01T15:00:00"
                     },
-                    "Targets": [],
+                    "Targets": [
+                        {
+                            "Id": 110011,
+                            "Name": {
+                                "Ja": "タークスのレノ",
+                                "En": "The Turks: Reno"
+                            }
+                        }
+                    ],
                     "Values": [
-                        0,
+                        1,
                         0
                     ]
                 }
@@ -930,144 +359,84 @@
     {
         "Id": 20004,
         "Title": {
-            "Ja": "武器のレアリティアップ",
-            "En": "Increasing Weapon Rarity"
+            "Ja": "闘技場",
+            "En": "The Arena"
         },
         "Description": {
-            "Ja": "ガチャで入手する以外に\n同名の武器パーツでレアリティ\nアップさせることもできる。",
-            "En": "Weapon rarity can be increased with parts from the same weapon. Higher rarity weapons can also be obtained through draws."
+            "Ja": "タンブリン砦の中庭に建てられた楼閣。\nウータイ兵の戦闘訓練用施設だが神羅軍の侵攻に\n備えて、対ソルジャー用の大型モンスターが配備\nされている。",
+            "En": "A multi-story pavilion in the inner garden of\nFort Tamblin. Though a training facility for\nWutaian fighters, large monsters stand ready\nin case of invasion by Shinra troopers."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 20004
     },
     {
         "Id": 20005,
         "Title": {
-            "Ja": "武器保管庫",
-            "En": "The Armory"
+            "Ja": "トレーニングルーム",
+            "En": "The Training Room"
         },
         "Description": {
-            "Ja": "重複した武器が\n自動的に保管される場所。\n武器パーツに変換できる。",
-            "En": "A place where duplicate weapons are automatically transferred and can be converted into weapon parts."
+            "Ja": "神羅ビル内に設けられた、ソルジャー用の\nトレーニング施設。VR技術により様々な状況を\n想定した戦闘訓練を行うことができる。",
+            "En": "A SOLDIER training facility within the\nShinra Building. The VR technology allows\nfor combat training in various situations."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        1,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 20005
     },
     {
         "Id": 20006,
         "Title": {
-            "Ja": "武器パーツの変換",
-            "En": "Converting Weapon Parts"
+            "Ja": "ソルジャーフロア",
+            "En": "The SOLDIER Area"
         },
         "Description": {
-            "Ja": "不要になった武器パーツを\n交換用アイテムに変換できる。",
-            "En": "Excess weapon parts can be converted into weapon components that can be traded for items."
+            "Ja": "ソルジャーが待機するフロア。ミーティングや\nトレーニングを行う部屋に通じている。\nソルジャー用のマテリアを開発する研究者なども\n出入りしている。",
+            "En": "An area for SOLDIERs on standby.\nIt has rooms for meetings and training that\nare also utilized by scientists researching\ncombat materia."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 20006
     },
     {
         "Id": 20007,
         "Title": {
-            "Ja": "ステータスストリーム",
-            "En": "Statstreams"
+            "Ja": "列車",
+            "En": "Trains"
         },
         "Description": {
-            "Ja": "キャラクターと召喚獣の強化要素。\nリミットブレイクや召喚獣アビリティ\nの入手もできる。",
-            "En": "A feature that allows the strengthening of characters and summons. Limit breaks and summon abilities can be obtained through statstreams."
+            "Ja": "ミッドガルの主要な移動手段のひとつで、\n神羅カンパニーの鉄道部門が運行している。\nプレート上の市街地のみならず、スラムにも往来\nすることができる。",
+            "En": "The main means of transportation in Midgar,\nrun by Shinra's railway division.\nThe trains provide service to atop the plates\nas well as the slums."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000016,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
+        "ConditionSet": null,
         "ResourceId": 20007
     },
     {
         "Id": 20008,
         "Title": {
-            "Ja": "リミットブレイク",
-            "En": "Limit Breaks"
+            "Ja": "ラディオル群島",
+            "En": "Rhadore Archipelago"
         },
         "Description": {
-            "Ja": "LIMITゲージ使う必殺技。\n連携して発動させることで威力を\n底上げする事が出来る。",
-            "En": "Ultimate attacks that consume the limit gauge. Link these attacks to boost their power."
+            "Ja": "海に囲まれた群島。\n独自の文化を持つ地域でかつて神羅カンパニーと\n同盟を組んでいた。\nしかし、10年前の同盟からの離脱を機に神羅に\nよって滅ぼされた。",
+            "En": "An archipelago inhabited by a people with a\nunique culture who were once allied with\nShinra. After they withdrew from the alliance\na decade ago, they were subsequently\nannihilated by Shinra forces."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
+                    "Id": 500210140,
+                    "Category": "UserEpisode",
                     "Date": {
                         "Start": "2020-03-31T15:00:00",
                         "End": "2099-04-01T15:00:00"
                     },
-                    "Targets": [],
+                    "Targets": [
+                        {
+                            "Id": 210140,
+                            "Name": {
+                                "Ja": "ジェネシス・コピー",
+                                "En": "Genesis Copies"
+                            }
+                        }
+                    ],
                     "Values": [
                         1,
                         0
@@ -1080,40 +449,83 @@
     {
         "Id": 20009,
         "Title": {
-            "Ja": "召喚獣アビリティ",
-            "En": "Summon Abilities"
+            "Ja": "煙突",
+            "En": "The Chimney"
         },
         "Description": {
-            "Ja": "SUMMONゲージを使う必殺技。\n召喚獣アビリティは\n全てのキャラクターに装備可能。",
-            "En": "Ultimate attacks that consume the summon gauge. Summon abilities can be equipped by all characters."
+            "Ja": "海域の状態をラディオル本島に知らせる手段。\n通常は白い煙だが煙が黄色は異変の予兆あり\n赤は緊急避難を示す。\n赤い煙は「ラディオルの目」の命の危険を意味\nする。",
+            "En": "A means to communicate with those on\nthe main island of Rhadore. White smoke\nindicates that all is well, yellow irregularity, \nand red the need for immediate evacuation\n—and danger for the Eye of Rhadore."
         },
         "ConditionSet": {
             "Operator": "And",
-            "Related": []
+            "Related": [
+                {
+                    "Id": 500310185,
+                    "Category": "UserEpisode",
+                    "Date": {
+                        "Start": "2020-03-31T15:00:00",
+                        "End": "2099-04-01T15:00:00"
+                    },
+                    "Targets": [
+                        {
+                            "Id": 310185,
+                            "Name": {
+                                "Ja": "命より大切な煙突",
+                                "En": "A Chimney Dearer Than Life Itself"
+                            }
+                        }
+                    ],
+                    "Values": [
+                        1,
+                        0
+                    ]
+                }
+            ]
         },
         "ResourceId": 20009
     },
     {
-        "Id": 20010,
+        "Id": 30002,
         "Title": {
-            "Ja": "バトルウェア",
-            "En": "Battle Gear"
+            "Ja": "LOVELESS",
+            "En": "Loveless"
         },
         "Description": {
-            "Ja": "各キャラクターごとの固有衣装。\n装備すると見た目・ステータスが変動する。\n見た目だけを変更するコスチューム装備もできる。",
-            "En": "A battle set unique to each character. Equipping battle gear changes a character's aesthetics and stats. When equipped as a costume, only the aesthetics change."
+            "Ja": "古来より伝わる叙事詩。\n様々な解釈で演劇や映像にされており、八番街の\n劇場ではロングラン公演されるほど人気。",
+            "En": "An epic poem passed down from ancient\ntimes. Many interpretations of the work exist,\nincluding plays and films, and it is currently\nenjoying a popular run at the playhouse in\nSector 8."
+        },
+        "ConditionSet": null,
+        "ResourceId": 30002
+    },
+    {
+        "Id": 30004,
+        "Title": {
+            "Ja": "ソルジャー・クラスP0",
+            "En": "SOLDIER: P0 Class"
+        },
+        "Description": {
+            "Ja": "パッシブタイプと呼ばれる初期型ソルジャーを\n指す階級。\nアクティブタイプソルジャーであるセフィロスの\n登場をきっかけに役目を終えつつある。",
+            "En": "A class used to refer to early passive-model\nSOLDIERs. They are soon to be replaced\nwith active-grade SOLDIERs like Sephiroth."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
-                    "Category": "UserStatusRank",
+                    "Id": 500210140,
+                    "Category": "UserEpisode",
                     "Date": {
                         "Start": "2020-03-31T15:00:00",
                         "End": "2099-04-01T15:00:00"
                     },
-                    "Targets": [],
+                    "Targets": [
+                        {
+                            "Id": 210140,
+                            "Name": {
+                                "Ja": "ジェネシス・コピー",
+                                "En": "Genesis Copies"
+                            }
+                        }
+                    ],
                     "Values": [
                         1,
                         0
@@ -1121,696 +533,393 @@
                 }
             ]
         },
-        "ResourceId": 20010
+        "ResourceId": 30004
     },
     {
-        "Id": 20011,
+        "Id": 40001,
         "Title": {
-            "Ja": "ストーリーパーティーモード",
-            "En": "Story Party Mode"
+            "Ja": "おすすめ編成を活用しよう",
+            "En": "Utilizing Recommended Formation"
         },
         "Description": {
-            "Ja": "原作のエピソードに即した\nパーティ編成で挑戦する\nバトルモードになります。\n特別な報酬も貰えます。",
-            "En": "A battle mode that can be challenged with party formations matching the original story. Special rewards can be obtained in this manner."
+            "Ja": "バトル開始前に使用すると、\n推奨属性やサインを自動的に編成します。\n編成に迷ったときは、使ってみましょう。",
+            "En": "If you're having trouble creating a party for\na battle, use Recommended Formation. \nThis method takes elements and sigils into\nconsideration and automatically forms an\noptimal party."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 100,
+                    "Id": 1410000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 20011
-    },
-    {
-        "Id": 20012,
-        "Title": {
-            "Ja": "ストーリークエストの経験値",
-            "En": "Story Quest EXP"
-        },
-        "Description": {
-            "Ja": "ストーリークエストでは\n編成されていないキャラクターにも\n経験値が入ります。",
-            "En": "During story quests, all characters receive EXP regardless of whether or not they are in the party."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 20012
-    },
-    {
-        "Id": 20013,
-        "Title": {
-            "Ja": "フリーパーティーモード",
-            "En": "Free Party Mode"
-        },
-        "Description": {
-            "Ja": "原作のエピソード関わらず\n自由なパーティ編成で挑戦する\nバトルモードになります",
-            "En": "A battle mode that allows for free party formations regardless of the story."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 20013
-    },
-    {
-        "Id": 20014,
-        "Title": {
-            "Ja": "ライズアビリティ",
-            "En": "Support Abilities"
-        },
-        "Description": {
-            "Ja": "武器などに設定された常時発動する\n常時発動型のアビリティです。\n同じライズアビリティを一定以上\n重ねることで能力を強化出来ます。",
-            "En": "Passive abilities that are set to weapons. Stacking the same support ability increases its effect."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 100,
-                    "Category": "UserStatusRank",
-                    "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        99999,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 20014
-    },
-    {
-        "Id": 21001,
-        "Title": {
-            "Ja": "マルチバトル",
-            "En": "Multi Battles"
-        },
-        "Description": {
-            "Ja": "他のプレイヤーと\n協力して戦うバトル。\nフレンドと戦うことで\nより多くの恩恵が得られる",
-            "En": "A co-op battle with other players. Take on battles with friends to gain various benefits."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000003,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
                         0,
-                        0
+                        15
                     ]
                 }
             ]
         },
-        "ResourceId": 21001
+        "ResourceId": 40001
     },
     {
-        "Id": 21002,
+        "Id": 40002,
         "Title": {
-            "Ja": "コマンドシフト",
-            "En": "Command Shift"
+            "Ja": "キャラクターのレベルを上げよう",
+            "En": "Raising Characters' Levels"
         },
         "Description": {
-            "Ja": "攻撃強化のアタックシフト。\n防御強化のディフェンスシフト。\nバトル中はいつでも変更可能。\n設定してから経過した時間により\nコマンドシフトの効果が上昇。",
-            "En": "Attack Shift focuses on offensive actions, and Defense Shit on defensive actions. They can be swapped at any time during battle. The effects of the command shift increase the longer its active."
+            "Ja": "HP、攻撃力、治癒力がアップします。\n「キャラ成長クエスト」で効率良く\nレベルを上げることができます。",
+            "En": "Raising a character's level increases their\nHP, attack, and heal strength. Training\nquests are the most efficient way to raise\nlevels.\n"
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
+                    "Id": 1410000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        1,
-                        0
+                        0,
+                        15
                     ]
                 }
             ]
         },
-        "ResourceId": 21002
+        "ResourceId": 40002
     },
     {
-        "Id": 21003,
+        "Id": 40003,
         "Title": {
-            "Ja": "ストリームフェイズ",
-            "En": "Stream Phase"
+            "Ja": "武器を強化しよう",
+            "En": "Enhancing Weapons"
         },
         "Description": {
-            "Ja": "ストリームフェイズに表示される\nサインを破壊するアクション。\nサイン一致アビリティが有利。",
-            "En": "Destroy sigils that appear during an enemy's stream phase. Rely on sigil-matching abilities for greater effect."
+            "Ja": "武器のレベルを上げると攻撃力がアップします。\nまた、レベル上限解放で上限が上がります。\n素材は「武器強化クエスト」で入手できます。",
+            "En": "Raising the level of a weapon increases its\npower. A weapon's level can also be\nuncapped and raised even further.\nNecessary materials can be obtained from\nweapon enhancement quests."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 100,
+                    "Id": 1410000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        99999,
-                        0
+                        0,
+                        15
                     ]
                 }
             ]
         },
-        "ResourceId": 21003
+        "ResourceId": 40002
     },
     {
-        "Id": 21004,
+        "Id": 40004,
         "Title": {
-            "Ja": "物理と魔法",
-            "En": "Physical & Magic"
+            "Ja": "キャラクターストリームを進めよう",
+            "En": "Unlocking Character Stream Nodes"
         },
         "Description": {
-            "Ja": "物理攻撃力は物理防御に対応し\n魔法攻撃力は魔法防御に対応する。\n物理防御力がどんなに高くても\n魔法攻撃は軽減出来ない。",
-            "En": "Physical strength corresponds to physical defense, and magic strength to magic defense. Conversely, high physical defense won't reduce damage taken by magic attacks, nor will magic defense affect physical damage."
+            "Ja": "各種ステータスをアップできるほか、\nリミットブレイクの獲得・強化を行えます。\n素材は「キャラ成長クエスト」や\n「高位強化クエスト」で入手できます。",
+            "En": "Unlocking nodes can increase a character's\nstats and be used to acquire and enhance \nlimit breaks. Necessary materials can be\nobtained from training quests and premium\nquests."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
+                    "Id": 1410000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        1,
-                        0
+                        0,
+                        15
                     ]
                 }
             ]
         },
-        "ResourceId": 21004
+        "ResourceId": 40002
     },
     {
-        "Id": 21005,
+        "Id": 40005,
         "Title": {
-            "Ja": "弱点と耐性",
-            "En": "Weaknesses & Resistances"
+            "Ja": "推奨サインを考えて編成しよう",
+            "En": "Forming Parties: Sigils"
         },
         "Description": {
-            "Ja": "エネミーによって異なる\n弱点や耐性となる属性が存在する。\n弱点属性で攻撃すれば\nダメージは上昇するが\n耐性属性で攻撃すれば\nダメージは減少してしまう。",
-            "En": "Enemies have various elemental weaknesses and resistances. Elemental attacks an enemy is weak against will deal more damage, but those an enemy is resistant to will deal less."
+            "Ja": "敵のストリームフェイズは、特定のサインを持つ\nアビリティを使用すると止められます。\n推奨サインを編成するようにしましょう。",
+            "En": "Abilities with the requisite sigils can be used\nto interrupt an enemy's stream phase. Make\nsure to pay attention to the recommended\nsigils when forming a party."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 100,
+                    "Id": 1400000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        99999,
+                        15,
                         0
                     ]
                 }
             ]
         },
-        "ResourceId": 21005
+        "ResourceId": 40001
     },
     {
-        "Id": 21006,
+        "Id": 40006,
         "Title": {
-            "Ja": "状態異常",
-            "En": "Status Effects"
+            "Ja": "弱点属性を考えて編成しよう",
+            "En": "Forming Parties: Weaknesses"
         },
         "Description": {
-            "Ja": "バトルには状態異常が存在し\nそれぞれ異なる効果をもたらす。",
-            "En": "Various status effects may be observed in battle."
+            "Ja": "弱点属性を持つ敵の場合、その属性で攻撃すると\n大きなダメージを与えることができます。\n敵ごとにアビリティを使い分けましょう。",
+            "En": "When fighting an enemy with weaknesses,\nattacks with the corresponding elements can\ndeal great damage. Choose the right abilities\nfor each battle."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
+                    "Id": 1400000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        1,
+                        15,
                         0
                     ]
                 }
             ]
         },
-        "ResourceId": 21006
+        "ResourceId": 40001
     },
     {
-        "Id": 21007,
+        "Id": 40007,
         "Title": {
-            "Ja": "バフとデバフ",
-            "En": "Buffs & Debuffs"
+            "Ja": "バフやデバフを活用しよう",
+            "En": "Using Buffs and Debuffs"
         },
         "Description": {
-            "Ja": "バフはステータス等の上昇\nデバフは反対にステータス等の\n減少を表している。",
-            "En": "Buffs improve your stats and condition, while debuffs have the opposite effect."
+            "Ja": "敵の強力な攻撃に耐えきれないときは、\n敵の攻撃力ダウンや、味方の防御力アップの\nアビリティを使ってみましょう。",
+            "En": "When facing enemies with powerful attacks, \ntry using abilities that lower their strength or\nboost your party's defense."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
+                    "Id": 1400000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        1,
+                        15,
                         0
                     ]
                 }
             ]
         },
-        "ResourceId": 21007
+        "ResourceId": 40001
     },
     {
-        "Id": 21008,
+        "Id": 40008,
         "Title": {
-            "Ja": "サインとインタラプト",
-            "En": "Sigils & Interrupts"
+            "Ja": "武器をレアリティアップしよう",
+            "En": "Increasing Weapon Rarity"
         },
         "Description": {
-            "Ja": "サイン破壊のボーナスタイム。\n味方に時間加速などの効果が\n発生し反撃のチャンスとなる。",
-            "En": "Bonus time to destroy sigils. Allies gain effects such as time warp during this opportunity to retaliate."
+            "Ja": "武器が<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>になると、Cアビリティが\n強力な効果を持つものに変化します。\nまた、Rアビリティも強化されます。",
+            "En": "When a weapon becomes <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>, \nC. abilities gain powerful effects and\nR. abilities become stronger."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
+                    "Id": 1400000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        1,
+                        15,
                         0
                     ]
                 }
             ]
         },
-        "ResourceId": 21008
+        "ResourceId": 40002
     },
     {
-        "Id": 21009,
+        "Id": 40009,
         "Title": {
-            "Ja": "操作モード",
-            "En": "Control Mode"
+            "Ja": "マテリアを合成しよう",
+            "En": "Synthesizing Materia"
         },
         "Description": {
-            "Ja": "バトルの操作モード変更。\nアイコンのタップによって\nそれぞれのモードに\n変更する事が出来る。",
-            "En": "The battle control mode can be changed by tapping the respective icons."
+            "Ja": "マテリアには様々な種類があり、\nレシピを集めると合成できるようになります。\nレアリティの高いマテリアは効果が強力なため、\n何度も合成してみましょう。",
+            "En": "Materia come in different types and can be\nsynthesized with recipes. Rare materia have\npowerful effects, so the more you have, the\nmore powerful your party."
         },
         "ConditionSet": {
             "Operator": "And",
             "Related": [
                 {
-                    "Id": 200,
+                    "Id": 1400000015,
                     "Category": "UserStatusRank",
                     "Date": {
-                        "Start": "2020-03-31T15:00:00",
-                        "End": "2099-04-01T15:00:00"
+                        "Start": "1969-12-31T15:00:00",
+                        "End": "2040-12-31T14:59:59"
                     },
                     "Targets": [],
                     "Values": [
-                        1,
+                        15,
                         0
                     ]
                 }
             ]
         },
-        "ResourceId": 21009
+        "ResourceId": 40002
     },
     {
-        "Id": 21010,
+        "Id": 40010,
         "Title": {
-            "Ja": "レイズ（マルチバトル）",
-            "En": "Raise (Multi Battle)"
+            "Ja": "コマンドシフトを切り替えよう",
+            "En": "Changing Command Stances"
         },
         "Description": {
-            "Ja": "マルチバトル限定のコマンド\n戦闘不能になった自分以外の\nキャラを復活させる事が出来る。",
-            "En": "An ally that has been KO'd can be revived with this multi-battle command."
+            "Ja": "コマンドゲージを高く維持することで、\nバトルを通して高い効果を得やすくなります。\nアタックシフトでゲージが上がり、\nディフェンスシフトでゲージが下がります。",
+            "En": "Keep the command gauge filled for greater\neffects throughout battle. The gauge fills\nduring Attack Stance and depletes during\nDefense Stance."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000003,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 21010
+        "ConditionSet": null,
+        "ResourceId": 40003
     },
     {
-        "Id": 21011,
+        "Id": 40011,
         "Title": {
-            "Ja": "コマンドシフト（マルチバトル）",
-            "En": "Command Shift (Multi Battle)"
+            "Ja": "アタックシフトで攻めよう",
+            "En": "Striking with Attack Stance"
         },
         "Description": {
-            "Ja": "マルチバトル中、パーティー毎の\n作戦を一致させることで、作戦の\n効果を上昇させるボーナスが入る。",
-            "En": "In multi battle, matching the strategy of each party results in a strategy bonus boost."
+            "Ja": "敵に与えるダメージがアップするほか、\nサインを破壊しやすくなります。\n味方は攻撃を重視して行動します。",
+            "En": "Your party deals more damage, and sigils\nare easier to destroy. Allies will focus on\noffensive actions."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000003,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 21011
+        "ConditionSet": null,
+        "ResourceId": 40003
     },
     {
-        "Id": 22001,
+        "Id": 40012,
         "Title": {
-            "Ja": "アナザーダンジョン",
-            "En": "Criterion Dungeons"
+            "Ja": "ディフェンスシフトで守ろう",
+            "En": "Guarding with Defense Stance"
         },
         "Description": {
-            "Ja": "強敵が待ち受けるダンジョンの\nクリアを目指す高難度チャレンジ。\n強力なエネミーやボスが登場するが\n希少な報酬アイテムも出現する。",
-            "En": "A difficult challenge to clear a dungeon full of powerful foes. Rare rewards can be obtained by undertaking them."
+            "Ja": "味方が受けるダメージがダウンするほか、\n回復アビリティの効果がアップします。\n味方は防御や回復を重視して行動します。",
+            "En": "Your party takes less damage, and recovery\neffects from abilities are boosted. Allies will\nfocus on defensive actions."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000004,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 22001
+        "ConditionSet": null,
+        "ResourceId": 40003
     },
     {
-        "Id": 22002,
+        "Id": 40013,
         "Title": {
-            "Ja": "レア宝箱（アナザーダンジョン）",
-            "En": "Rare Treasures (Criterion Dungeons)"
+            "Ja": "強力なアビリティを防ごう",
+            "En": "Bracing for Powerful Attacks"
         },
         "Description": {
-            "Ja": "アナザーダンジョンに出現する\n１回だけ入手できる宝箱。",
-            "En": "Treasure chests in Criterion Dungeons that can be obtained only once."
+            "Ja": "敵は様々な効果のアビリティを使用します。\n危険なアビリティは名前が表示されるので、\n対処する準備をしましょう。",
+            "En": "Enemies use abilities with various effects.\nThe names of powerful abilities will be\ndisplayed when executed, so be prepared\nwhen you see them."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000004,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 22002
+        "ConditionSet": null,
+        "ResourceId": 40003
     },
     {
-        "Id": 22003,
+        "Id": 40014,
         "Title": {
-            "Ja": "インスタントアイテム",
-            "En": "Support Items"
+            "Ja": "ストリームフェイズを止めよう",
+            "En": "Interrupting Stream Phase"
         },
         "Description": {
-            "Ja": "アナザーダンジョンのみで\n使用出来る特殊なアイテム。\n消耗したHPを回復したり\nLIMITゲージを上昇させる\nアイテムなどがある。",
-            "En": "Special items that can only be used in Criterion Dungeons. They have a variety of effects, such as restoring HP or filling the limit gauge."
+            "Ja": "サインを破壊しストリームフェイズを止めると、\nインタラプトが発生して一方的に行動できます。\n体勢の立て直しや一斉攻撃を行いましょう。",
+            "En": "Destroy sigils to interrupt an enemy's stream\nphase, incapacitating them and affording you\ntime to regroup or focus your attacks."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000004,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 22003
+        "ConditionSet": null,
+        "ResourceId": 40003
     },
     {
-        "Id": 22004,
+        "Id": 40015,
         "Title": {
-            "Ja": "クライシスレベル",
-            "En": "Crisis Level"
+            "Ja": "最大HPの減少に注意しよう",
+            "En": "Caution: Max HP Reduction"
         },
         "Description": {
-            "Ja": "現在のダンジョン危険度指標。\nシンボルエネミーの撃破など\n様々な要素により上昇する。",
-            "En": "The dungeon's current danger index. It rises based on various factors, such as when a symbol enemy has been defeated."
+            "Ja": "アナザーダンジョンやクライシスダンジョンでは\n攻撃を受けると、最大HPも少し減少します。\nバトル終了後も回復しないため、\n大きなダメージを受けないようにしましょう。",
+            "En": "In Criterion and Crisis Dungeons, taking\ndamage decreases your max. HP. This lost\nHP will not be restored after battle, so avoid\ntaking damage if possible."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000004,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 22004
+        "ConditionSet": null,
+        "ResourceId": 40004
     },
     {
-        "Id": 22005,
+        "Id": 40016,
         "Title": {
-            "Ja": "トランスアビリティ",
-            "En": "Trance Abilities"
+            "Ja": "ダンジョン専用のアイテムを使おう",
+            "En": "Using Dungeon-Specific Items"
         },
         "Description": {
-            "Ja": "ダンジョンでシンボルエネミーを\n撃破する毎に選択できる特殊効果\nパーティに有利な効果をもたらす。",
-            "En": "A special bonus granted to the party every time a symbol enemy is defeated in a dungeon."
+            "Ja": "ダンジョンによっては、最大HPの回復や\nLIMITゲージの増加など、様々な効果を持つ\nアイテムが手に入る場合があります。\n持ち出せないため、惜しまずに使いましょう。",
+            "En": "In some dungeons, you can obtain items that\nrestore your max. HP, fill your limit gauge, or\nprovide other benefits. These items cannot\nbe taken outside the dungeon, so make sure\nto use them."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000004,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 22005
+        "ConditionSet": null,
+        "ResourceId": 40004
     },
     {
-        "Id": 23001,
+        "Id": 40017,
         "Title": {
-            "Ja": "チョコボ農場",
-            "En": "Chocobo Farms"
+            "Ja": "ボスを倒す順番に注意しよう",
+            "En": "Order of Defeating Bosses"
         },
         "Description": {
-            "Ja": "チョコボを管理している農場。\nチョコボ遠征などを行えるほか\n飼育しているチョコボに会える。",
-            "En": "On chocobo farms, you can spend time with your chocobo or go on expeditions with them."
+            "Ja": "クライシスダンジョンでは、ボスを倒すごとに\n出現する敵のレベルがアップします。\n苦手なボスをいつ倒すか、\n倒さずにクリアするか、様々な戦略があります。",
+            "En": "Every time you defeat a boss in Crisis\nDungeons, the enemies' levels increase.\nKeep this in mind to build a strategy that\nworks for you."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000006,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 23001
+        "ConditionSet": null,
+        "ResourceId": 40004
     },
     {
-        "Id": 23002,
+        "Id": 40018,
         "Title": {
-            "Ja": "チョコボ遠征",
-            "En": "Chocobo Expeditions"
+            "Ja": "有効なトランスアビリティを選ぼう",
+            "En": "Selecting Trance Abilities"
         },
         "Description": {
-            "Ja": "チョコボと乗り手を遠征に送ると\n一定時間が経過した際に経験値と\n遠征地に応じた報酬が得られる",
-            "En": "Send out a chocobo with a rider, and after a set period of time, you will gain EXP and rewards based on the location of the expedition."
+            "Ja": "味方の編成や出現するボスに合わせた\nトランスアビリティを取得しましょう。\n慣れてきたら、よりトランスアビリティを\n活用できる編成を考えてみましょう。",
+            "En": "Select trance abilities based on your party or\nthe dungeons' bosses. Once you get the\nhang of it, try and form parties to maximize\ntrance ability effects."
         },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000006,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 23002
-    },
-    {
-        "Id": 23003,
-        "Title": {
-            "Ja": "チョコボ宝箱",
-            "En": "Chocobo Treasures"
-        },
-        "Description": {
-            "Ja": "チョコボ農場に出現する宝箱。\n毎日ランダムな位置に出現し\n様々な報酬が得る事が出来る。",
-            "En": "A treasure chest that appears on chocobo farms. They can be found in random spots every day and are filled with all kinds of rewards."
-        },
-        "ConditionSet": {
-            "Operator": "And",
-            "Related": [
-                {
-                    "Id": 1160000000006,
-                    "Category": "None",
-                    "Date": {
-                        "Start": "1970-01-01T00:00:00",
-                        "End": "2200-01-01T00:00:00"
-                    },
-                    "Targets": [],
-                    "Values": [
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "ResourceId": 23003
+        "ConditionSet": null,
+        "ResourceId": 40004
     }
 ]

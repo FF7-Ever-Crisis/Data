@@ -1,1 +1,57 @@
-{}
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Title": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "SeasonPassStepGroupId": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "OpenConditionSetId": {
+            "type": "integer"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        },
+        "LevelProgressMaxCount": {
+            "type": "integer"
+        },
+        "ExpiredSendGiftStartDatetime": {
+            "type": "string"
+        },
+        "LevelShopItemId": {
+            "type": "integer"
+        },
+        "ExtraShopItemId": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        }
+    }
+}

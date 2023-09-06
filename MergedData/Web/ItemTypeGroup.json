@@ -3,7 +3,7 @@
         "Id": 1,
         "Name": {
             "Ja": "武器強化素材",
-            "En": "Unlock Materials"
+            "En": "Weapon Enhancement"
         },
         "ItemTypes": [
             10,
@@ -11,31 +11,21 @@
         ]
     },
     {
+        "Id": 2,
+        "Name": {
+            "Ja": "マテリア素材",
+            "En": "Synthesis Materials"
+        },
+        "ItemTypes": [
+            4,
+            5,
+            6,
+            7,
+            9
+        ]
+    },
+    {
         "Id": 3,
-        "Name": {
-            "Ja": "メモリー・ピース",
-            "En": "Character Memories"
-        },
-        "ItemTypes": [
-            2,
-            3
-        ]
-    },
-    {
-        "Id": 4,
-        "Name": {
-            "Ja": "チョコボ",
-            "En": "Chocobo"
-        },
-        "ItemTypes": [
-            16,
-            17,
-            28,
-            23
-        ]
-    },
-    {
-        "Id": 5,
         "Name": {
             "Ja": "ウェポンパーツ",
             "En": "Weapon Parts"
@@ -45,17 +35,28 @@
         ]
     },
     {
-        "Id": 6,
+        "Id": 4,
         "Name": {
-            "Ja": "マテリア素材",
-            "En": "Materials"
+            "Ja": "メモリー・ピース",
+            "En": "Memories/Pieces"
         },
         "ItemTypes": [
-            4,
-            5,
-            6,
-            7,
-            9
+            2,
+            3,
+            28
+        ]
+    },
+    {
+        "Id": 5,
+        "Name": {
+            "Ja": "チョコボ",
+            "En": "Chocobo"
+        },
+        "ItemTypes": [
+            16,
+            17,
+            28,
+            23
         ]
     },
     {

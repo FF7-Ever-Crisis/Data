@@ -26,6 +26,17 @@
                 }
             }
         },
+        "TitleSynopsis": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
         "StorySectionId": {
             "type": "integer"
         },
@@ -85,6 +96,9 @@
         },
         "IsInitialDownload": {
             "type": "boolean"
+        },
+        "ResourceId": {
+            "type": "integer"
         }
     }
 }

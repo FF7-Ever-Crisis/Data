@@ -15,6 +15,17 @@
                 }
             }
         },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
         "DisplayConditionSetId": {
             "type": "integer"
         },

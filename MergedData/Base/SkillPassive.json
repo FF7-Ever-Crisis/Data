@@ -3,7 +3,7 @@
         "Id": 10101,
         "Name": {
             "Ja": "HPアップ",
-            "En": "HP Up"
+            "En": "Boost HP"
         },
         "PassiveSkillEffectGroupId": 10101,
         "ResourceId": 10101,
@@ -13,7 +13,7 @@
         "Id": 10201,
         "Name": {
             "Ja": "物理攻撃力アップ",
-            "En": "Physical Strength Up"
+            "En": "Boost PATK"
         },
         "PassiveSkillEffectGroupId": 10201,
         "ResourceId": 10201,
@@ -23,7 +23,7 @@
         "Id": 10301,
         "Name": {
             "Ja": "魔法攻撃力アップ",
-            "En": "Magic Strength Up"
+            "En": "Boost MATK"
         },
         "PassiveSkillEffectGroupId": 10301,
         "ResourceId": 10301,
@@ -33,7 +33,7 @@
         "Id": 10401,
         "Name": {
             "Ja": "物理防御力アップ",
-            "En": "Physical Defense Up"
+            "En": "Boost PDEF"
         },
         "PassiveSkillEffectGroupId": 10401,
         "ResourceId": 10401,
@@ -43,7 +43,7 @@
         "Id": 10501,
         "Name": {
             "Ja": "魔法防御力アップ",
-            "En": "Magic Defense Up"
+            "En": "Boost MDEF"
         },
         "PassiveSkillEffectGroupId": 10501,
         "ResourceId": 10501,
@@ -53,7 +53,7 @@
         "Id": 10601,
         "Name": {
             "Ja": "治癒力アップ",
-            "En": "Healing Strength Up"
+            "En": "Boost HEAL"
         },
         "PassiveSkillEffectGroupId": 10601,
         "ResourceId": 10601,
@@ -63,7 +63,7 @@
         "Id": 10801,
         "Name": {
             "Ja": "クリティカル威力アップ",
-            "En": "Critical Potency Up"
+            "En": "Boost Crit. Pot."
         },
         "PassiveSkillEffectGroupId": 10801,
         "ResourceId": 10801,
@@ -73,7 +73,7 @@
         "Id": 11001,
         "Name": {
             "Ja": "攻撃力アップ",
-            "En": "Strength Up"
+            "En": "Boost ATK"
         },
         "PassiveSkillEffectGroupId": 11001,
         "ResourceId": 11001,
@@ -83,7 +83,7 @@
         "Id": 20201,
         "Name": {
             "Ja": "炎属性威力アップ",
-            "En": "Fire Potency Up"
+            "En": "Boost Fire Pot."
         },
         "PassiveSkillEffectGroupId": 20201,
         "ResourceId": 20201,
@@ -93,7 +93,7 @@
         "Id": 20301,
         "Name": {
             "Ja": "冷属性威力アップ",
-            "En": "Ice Potency Up"
+            "En": "Boost Ice Pot."
         },
         "PassiveSkillEffectGroupId": 20301,
         "ResourceId": 20301,
@@ -103,17 +103,27 @@
         "Id": 20401,
         "Name": {
             "Ja": "雷属性威力アップ",
-            "En": "Lightning Potency Up"
+            "En": "Boost Lightning Pot."
         },
         "PassiveSkillEffectGroupId": 20401,
         "ResourceId": 20401,
         "PassiveSkillCategoryType": 2
     },
     {
+        "Id": 20403,
+        "Name": {
+            "Ja": "雷刃の奥義",
+            "En": "Levinblade Arcanum"
+        },
+        "PassiveSkillEffectGroupId": 20403,
+        "ResourceId": 20403,
+        "PassiveSkillCategoryType": 2
+    },
+    {
         "Id": 20501,
         "Name": {
             "Ja": "土属性威力アップ",
-            "En": "Earth Potency Up"
+            "En": "Boost Earth Pot."
         },
         "PassiveSkillEffectGroupId": 20501,
         "ResourceId": 20501,
@@ -123,7 +133,7 @@
         "Id": 20601,
         "Name": {
             "Ja": "水属性威力アップ",
-            "En": "Water Potency Up"
+            "En": "Boost Water Pot."
         },
         "PassiveSkillEffectGroupId": 20601,
         "ResourceId": 20601,
@@ -133,7 +143,7 @@
         "Id": 20701,
         "Name": {
             "Ja": "風属性威力アップ",
-            "En": "Wind Potency Up"
+            "En": "Boost Wind Pot."
         },
         "PassiveSkillEffectGroupId": 20701,
         "ResourceId": 20701,
@@ -143,7 +153,7 @@
         "Id": 30201,
         "Name": {
             "Ja": "炎属性耐性アップ",
-            "En": "Fire Resistance Up"
+            "En": "Boost Fire Resist."
         },
         "PassiveSkillEffectGroupId": 30201,
         "ResourceId": 30201,
@@ -153,7 +163,7 @@
         "Id": 30301,
         "Name": {
             "Ja": "冷属性耐性アップ",
-            "En": "Ice Resistance Up"
+            "En": "Boost Ice Resist."
         },
         "PassiveSkillEffectGroupId": 30301,
         "ResourceId": 30301,
@@ -163,7 +173,7 @@
         "Id": 30401,
         "Name": {
             "Ja": "雷属性耐性アップ",
-            "En": "Lightning Resistance Up"
+            "En": "Boost Lightning Resist."
         },
         "PassiveSkillEffectGroupId": 30401,
         "ResourceId": 30401,
@@ -173,7 +183,7 @@
         "Id": 30501,
         "Name": {
             "Ja": "土属性耐性アップ",
-            "En": "Earth Resistance Up"
+            "En": "Boost Earth Resist."
         },
         "PassiveSkillEffectGroupId": 30501,
         "ResourceId": 30501,
@@ -183,7 +193,7 @@
         "Id": 30601,
         "Name": {
             "Ja": "水属性耐性アップ",
-            "En": "Water Resistance Up"
+            "En": "Boost Water Resist."
         },
         "PassiveSkillEffectGroupId": 30601,
         "ResourceId": 30601,
@@ -193,7 +203,7 @@
         "Id": 30701,
         "Name": {
             "Ja": "風属性耐性アップ",
-            "En": "Wind Resistance Up"
+            "En": "Boost Wind Resist."
         },
         "PassiveSkillEffectGroupId": 30701,
         "ResourceId": 30701,
@@ -203,7 +213,7 @@
         "Id": 51301,
         "Name": {
             "Ja": "アビリティ威力アップ",
-            "En": "Ability Potency Up"
+            "En": "Boost Ability Pot."
         },
         "PassiveSkillEffectGroupId": 51301,
         "ResourceId": 51301,
@@ -213,7 +223,7 @@
         "Id": 51401,
         "Name": {
             "Ja": "物理アビリティ威力アップ",
-            "En": "Physical Ability Potency Up"
+            "En": "Boost Phys. Ability Pot."
         },
         "PassiveSkillEffectGroupId": 51401,
         "ResourceId": 51401,
@@ -223,20 +233,20 @@
         "Id": 51501,
         "Name": {
             "Ja": "魔法アビリティ威力アップ",
-            "En": "Magic Ability Potency Up"
+            "En": "Boost Mag. Ability Pot."
         },
         "PassiveSkillEffectGroupId": 51501,
         "ResourceId": 51501,
         "PassiveSkillCategoryType": 4
     },
     {
-        "Id": 51601,
+        "Id": 51701,
         "Name": {
-            "Ja": "召喚獣アビリティ威力アップ",
-            "En": "Summon Ability Potency Up"
+            "Ja": "リミットブレイク威力アップ",
+            "En": "Boost Limit Break Pot."
         },
-        "PassiveSkillEffectGroupId": 51601,
-        "ResourceId": 51601,
+        "PassiveSkillEffectGroupId": 51701,
+        "ResourceId": 51701,
         "PassiveSkillCategoryType": 4
     }
 ]

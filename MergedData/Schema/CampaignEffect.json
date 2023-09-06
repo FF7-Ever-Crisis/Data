@@ -1,1 +1,39 @@
-{}
+{
+    "type": "object",
+    "properties": {
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "CampaignEffectGroupId": {
+            "type": "integer"
+        },
+        "CampaignEffectType": {
+            "type": "integer"
+        },
+        "EffectValue": {
+            "type": "integer"
+        },
+        "TargetId": {
+            "type": "integer"
+        }
+    }
+}

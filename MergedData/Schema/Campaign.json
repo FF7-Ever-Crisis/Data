@@ -1,1 +1,41 @@
-{}
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "CampaignType": {
+            "type": "integer"
+        },
+        "CampaignEffectGroupId": {
+            "type": "integer"
+        },
+        "TargetCampaignCharacterGroupId": {
+            "type": "integer"
+        },
+        "CharacterMaxLevel": {
+            "type": "integer"
+        },
+        "UserRankMax": {
+            "type": "integer"
+        },
+        "CampaignTargetTypeGroupId": {
+            "type": "integer"
+        },
+        "DisableCampaignTargetGroupId": {
+            "type": "boolean"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        },
+        "StartDatetime": {
+            "type": "string"
+        },
+        "EndDatetime": {
+            "type": "string"
+        },
+        "EcPassItemId": {
+            "type": "integer"
+        }
+    }
+}

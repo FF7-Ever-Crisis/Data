@@ -15,12 +15,12 @@
     {
         "Id": 30101012,
         "Name": {
-            "Ja": "すべてのレアアイテムを獲得する",
-            "En": "Obtain all rare items"
+            "Ja": "一撃最大ダメージ280以上でクリアする",
+            "En": "Clear and deal 280+ damage with one hit"
         },
-        "DungeonMissionType": 11,
+        "DungeonMissionType": 4,
         "TargetId": 0,
-        "TargetValue": 0,
+        "TargetValue": 280,
         "TargetElementType": 0,
         "RewardSetId": 31010101201,
         "IsHide": false
@@ -54,12 +54,12 @@
     {
         "Id": 30102012,
         "Name": {
-            "Ja": "すべてのシンボルエネミーを撃破する",
-            "En": "Defeat all Symbol enemies"
+            "Ja": "一撃最大ダメージ410以上でクリアする",
+            "En": "Clear and deal 410+ damage with one hit"
         },
-        "DungeonMissionType": 10,
+        "DungeonMissionType": 4,
         "TargetId": 0,
-        "TargetValue": 0,
+        "TargetValue": 410,
         "TargetElementType": 0,
         "RewardSetId": 31010201201,
         "IsHide": false
@@ -67,12 +67,12 @@
     {
         "Id": 30102013,
         "Name": {
-            "Ja": "一撃最大ダメージ850以上でクリアする",
-            "En": "Clear and deal 850+ damage with one hit"
+            "Ja": "すべてのシンボルエネミーを撃破する",
+            "En": "Defeat all Symbol enemies"
         },
-        "DungeonMissionType": 4,
+        "DungeonMissionType": 10,
         "TargetId": 0,
-        "TargetValue": 850,
+        "TargetValue": 0,
         "TargetElementType": 0,
         "RewardSetId": 31010201301,
         "IsHide": true
@@ -93,12 +93,12 @@
     {
         "Id": 30201012,
         "Name": {
-            "Ja": "すべてのレアアイテムを獲得する",
-            "En": "Obtain all rare items"
+            "Ja": "一撃最大ダメージ540以上でクリアする",
+            "En": "Clear and deal 540+ damage with one hit"
         },
-        "DungeonMissionType": 11,
+        "DungeonMissionType": 4,
         "TargetId": 0,
-        "TargetValue": 0,
+        "TargetValue": 540,
         "TargetElementType": 0,
         "RewardSetId": 31020101201,
         "IsHide": false
@@ -106,12 +106,12 @@
     {
         "Id": 30201013,
         "Name": {
-            "Ja": "一撃最大ダメージ1600以上でクリアする",
-            "En": "Clear and deal 1600+ damage with one hit"
+            "Ja": "すべてのレアアイテムを獲得する",
+            "En": "Obtain all rare items"
         },
-        "DungeonMissionType": 4,
+        "DungeonMissionType": 11,
         "TargetId": 0,
-        "TargetValue": 1600,
+        "TargetValue": 0,
         "TargetElementType": 0,
         "RewardSetId": 31020101301,
         "IsHide": true
@@ -132,6 +132,19 @@
     {
         "Id": 30202012,
         "Name": {
+            "Ja": "すべてのシンボルエネミーを210秒以内に撃破する",
+            "En": "Defeat all Symbol enemies within 210 sec."
+        },
+        "DungeonMissionType": 5,
+        "TargetId": 0,
+        "TargetValue": 210,
+        "TargetElementType": 0,
+        "RewardSetId": 31020201201,
+        "IsHide": false
+    },
+    {
+        "Id": 30202013,
+        "Name": {
             "Ja": "サボテンダーを撃破する",
             "En": "Defeat enemy: Cactuar"
         },
@@ -139,11 +152,63 @@
         "TargetId": 302020106,
         "TargetValue": 0,
         "TargetElementType": 0,
-        "RewardSetId": 31020201201,
+        "RewardSetId": 31020201301,
         "IsHide": true
     },
     {
-        "Id": 30202013,
+        "Id": 30301011,
+        "Name": {
+            "Ja": "1人も戦闘不能にすることなくクリアする",
+            "En": "Clear with all characters remaining alive."
+        },
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030101101,
+        "IsHide": false
+    },
+    {
+        "Id": 30301012,
+        "Name": {
+            "Ja": "すべてのシンボルエネミーを被ダメージ10,900以下で撃破する",
+            "En": "Defeat all Symbol enemies with less than 10,900 damage taken"
+        },
+        "DungeonMissionType": 13,
+        "TargetId": 0,
+        "TargetValue": 10900,
+        "TargetElementType": 0,
+        "RewardSetId": 31030101201,
+        "IsHide": false
+    },
+    {
+        "Id": 30301013,
+        "Name": {
+            "Ja": "すべてのレアアイテムを獲得する",
+            "En": "Obtain all rare items"
+        },
+        "DungeonMissionType": 11,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030101301,
+        "IsHide": true
+    },
+    {
+        "Id": 30302011,
+        "Name": {
+            "Ja": "1人も戦闘不能にすることなくクリアする",
+            "En": "Clear with all characters remaining alive."
+        },
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030201101,
+        "IsHide": false
+    },
+    {
+        "Id": 30302012,
         "Name": {
             "Ja": "すべてのシンボルエネミーを210秒以内に撃破する",
             "En": "Defeat all Symbol enemies within 210 sec."
@@ -152,7 +217,20 @@
         "TargetId": 0,
         "TargetValue": 210,
         "TargetElementType": 0,
-        "RewardSetId": 31020201301,
+        "RewardSetId": 31030201201,
+        "IsHide": false
+    },
+    {
+        "Id": 30302013,
+        "Name": {
+            "Ja": "サボテンダーを撃破する",
+            "En": "Defeat enemy: Cactuar"
+        },
+        "DungeonMissionType": 12,
+        "TargetId": 303020104,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030201301,
         "IsHide": true
     },
     {
@@ -171,6 +249,19 @@
     {
         "Id": 30501012,
         "Name": {
+            "Ja": "炎属性で累計ダメージ16,100以上与えてクリアする",
+            "En": "Clear by dealing 16,100+ Fire-elem. damage."
+        },
+        "DungeonMissionType": 8,
+        "TargetId": 0,
+        "TargetValue": 16100,
+        "TargetElementType": 2,
+        "RewardSetId": 31050101201,
+        "IsHide": false
+    },
+    {
+        "Id": 30501013,
+        "Name": {
             "Ja": "すべてのレアアイテムを獲得する",
             "En": "Obtain all rare items"
         },
@@ -178,19 +269,6 @@
         "TargetId": 0,
         "TargetValue": 0,
         "TargetElementType": 0,
-        "RewardSetId": 31050101201,
-        "IsHide": false
-    },
-    {
-        "Id": 30501013,
-        "Name": {
-            "Ja": "炎属性で累計ダメージ33500以上与えてクリアする",
-            "En": "Clear by dealing 33500+ Fire-elem. damage."
-        },
-        "DungeonMissionType": 8,
-        "TargetId": 0,
-        "TargetValue": 33500,
-        "TargetElementType": 2,
         "RewardSetId": 31050101301,
         "IsHide": true
     },
@@ -210,6 +288,19 @@
     {
         "Id": 30502012,
         "Name": {
+            "Ja": "すべてのシンボルエネミーを210秒以内に撃破する",
+            "En": "Defeat all Symbol enemies within 210 sec."
+        },
+        "DungeonMissionType": 5,
+        "TargetId": 0,
+        "TargetValue": 210,
+        "TargetElementType": 0,
+        "RewardSetId": 31050201201,
+        "IsHide": false
+    },
+    {
+        "Id": 30502013,
+        "Name": {
             "Ja": "サボテンダーを撃破する",
             "En": "Defeat enemy: Cactuar"
         },
@@ -217,11 +308,76 @@
         "TargetId": 305020103,
         "TargetValue": 0,
         "TargetElementType": 0,
-        "RewardSetId": 31050201201,
+        "RewardSetId": 31050201301,
         "IsHide": true
     },
     {
-        "Id": 30502013,
+        "Id": 30601011,
+        "Name": {
+            "Ja": "1人も戦闘不能にすることなくクリアする",
+            "En": "Clear with all characters remaining alive."
+        },
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31060101101,
+        "IsHide": false
+    },
+    {
+        "Id": 30601012,
+        "Name": {
+            "Ja": "すべてのシンボルエネミーを被ダメージ7,600以下で撃破する",
+            "En": "Defeat all Symbol enemies with less than 7,600 damage taken"
+        },
+        "DungeonMissionType": 13,
+        "TargetId": 0,
+        "TargetValue": 7600,
+        "TargetElementType": 0,
+        "RewardSetId": 31060101201,
+        "IsHide": false
+    },
+    {
+        "Id": 30601013,
+        "Name": {
+            "Ja": "サボテンダーを撃破する",
+            "En": "Defeat enemy: Cactuar"
+        },
+        "DungeonMissionType": 12,
+        "TargetId": 306010103,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31060101301,
+        "IsHide": true
+    },
+    {
+        "Id": 30602011,
+        "Name": {
+            "Ja": "1人も戦闘不能にすることなくクリアする",
+            "En": "Clear with all characters remaining alive."
+        },
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31060201101,
+        "IsHide": false
+    },
+    {
+        "Id": 30602012,
+        "Name": {
+            "Ja": "すべてのシンボルエネミーを被ダメージ8,900以下で撃破する",
+            "En": "Defeat all Symbol enemies with less than 8,900 damage taken"
+        },
+        "DungeonMissionType": 13,
+        "TargetId": 0,
+        "TargetValue": 8900,
+        "TargetElementType": 0,
+        "RewardSetId": 31060201201,
+        "IsHide": false
+    },
+    {
+        "Id": 30602013,
         "Name": {
             "Ja": "すべてのシンボルエネミーを210秒以内に撃破する",
             "En": "Defeat all Symbol enemies within 210 sec."
@@ -230,7 +386,163 @@
         "TargetId": 0,
         "TargetValue": 210,
         "TargetElementType": 0,
-        "RewardSetId": 31050201301,
+        "RewardSetId": 31060201301,
+        "IsHide": true
+    },
+    {
+        "Id": 30701011,
+        "Name": {
+            "Ja": "すべてのレアアイテムを獲得する",
+            "En": "Obtain all rare items"
+        },
+        "DungeonMissionType": 11,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070101101,
+        "IsHide": false
+    },
+    {
+        "Id": 30701012,
+        "Name": {
+            "Ja": "弱点属性で累計ダメージ40,800以上与えてクリアする",
+            "En": "Clear by dealing 40,800+ Weakness-elem. dmg."
+        },
+        "DungeonMissionType": 9,
+        "TargetId": 0,
+        "TargetValue": 40800,
+        "TargetElementType": 0,
+        "RewardSetId": 31070101201,
+        "IsHide": false
+    },
+    {
+        "Id": 30701013,
+        "Name": {
+            "Ja": "すべてのシンボルエネミーを撃破する",
+            "En": "Defeat all Symbol enemies"
+        },
+        "DungeonMissionType": 10,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070101301,
+        "IsHide": true
+    },
+    {
+        "Id": 30702011,
+        "Name": {
+            "Ja": "1人も戦闘不能にすることなくクリアする",
+            "En": "Clear with all characters remaining alive."
+        },
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070201101,
+        "IsHide": false
+    },
+    {
+        "Id": 30702012,
+        "Name": {
+            "Ja": "弱点属性で累計ダメージ52,600以上与えてクリアする",
+            "En": "Clear by dealing 52,600+ Weakness-elem. dmg."
+        },
+        "DungeonMissionType": 9,
+        "TargetId": 0,
+        "TargetValue": 52600,
+        "TargetElementType": 0,
+        "RewardSetId": 31070201201,
+        "IsHide": false
+    },
+    {
+        "Id": 30702013,
+        "Name": {
+            "Ja": "サボテンダーを撃破する",
+            "En": "Defeat enemy: Cactuar"
+        },
+        "DungeonMissionType": 12,
+        "TargetId": 307020104,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070201301,
+        "IsHide": true
+    },
+    {
+        "Id": 30801011,
+        "Name": {
+            "Ja": "冷属性で累計ダメージ54,100以上与えてクリアする",
+            "En": "Clear by dealing 54,100+ Ice-elem. damage."
+        },
+        "DungeonMissionType": 8,
+        "TargetId": 0,
+        "TargetValue": 54100,
+        "TargetElementType": 3,
+        "RewardSetId": 31080101101,
+        "IsHide": false
+    },
+    {
+        "Id": 30801012,
+        "Name": {
+            "Ja": "一撃最大ダメージ2,500以上でクリアする",
+            "En": "Clear and deal 2,500+ damage with one hit"
+        },
+        "DungeonMissionType": 4,
+        "TargetId": 0,
+        "TargetValue": 2500,
+        "TargetElementType": 0,
+        "RewardSetId": 31080101201,
+        "IsHide": false
+    },
+    {
+        "Id": 30801013,
+        "Name": {
+            "Ja": "サボテンダーを撃破する",
+            "En": "Defeat enemy: Cactuar"
+        },
+        "DungeonMissionType": 12,
+        "TargetId": 308010103,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31080101301,
+        "IsHide": true
+    },
+    {
+        "Id": 30802011,
+        "Name": {
+            "Ja": "すべてのレアアイテムを獲得する",
+            "En": "Obtain all rare items"
+        },
+        "DungeonMissionType": 11,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31080201101,
+        "IsHide": false
+    },
+    {
+        "Id": 30802012,
+        "Name": {
+            "Ja": "一撃最大ダメージ3,700以上でクリアする",
+            "En": "Clear and deal 3,700+ damage with one hit"
+        },
+        "DungeonMissionType": 4,
+        "TargetId": 0,
+        "TargetValue": 3700,
+        "TargetElementType": 0,
+        "RewardSetId": 31080201201,
+        "IsHide": false
+    },
+    {
+        "Id": 30802013,
+        "Name": {
+            "Ja": "すべてのシンボルエネミーをスコアSで撃破する",
+            "En": "Defeat all Symbol enemies with a score of S"
+        },
+        "DungeonMissionType": 6,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31080201301,
         "IsHide": true
     }
 ]

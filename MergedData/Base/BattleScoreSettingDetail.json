@@ -20,13 +20,13 @@
         "BuffMagicalAttackUpCoefficient": 1000,
         "BuffMagicalDefenseUpCoefficient": 2000,
         "BuffPhysicalAttackDownCoefficient": 2000,
-        "BuffPhysicalDefenseDownCoefficient": 2000,
+        "BuffPhysicalDefenseDownCoefficient": 1000,
         "BuffMagicalAttackDownCoefficient": 2000,
-        "BuffMagicalDefenseDownCoefficient": 2000,
+        "BuffMagicalDefenseDownCoefficient": 1000,
         "BuffHealingPowerUpCoefficient": 2000,
         "BuffHealingPowerDownCoefficient": 2000,
-        "BuffElementResistanceUpCoefficient": 0,
-        "BuffElementResistanceDownCoefficient": 0,
+        "BuffElementResistanceUpCoefficient": 50,
+        "BuffElementResistanceDownCoefficient": 50,
         "SkillStatusConditionPoisonCoefficient": 5,
         "SkillStatusConditionSadnessCoefficient": 10,
         "SkillStatusConditionSilenceCoefficient": 10,
@@ -39,7 +39,7 @@
         "ConditionTimeCoefficient": 20,
         "ResurrectionCoefficient": 1000,
         "RegenerateCoefficient": 10,
-        "SpecialSkillBaseValue": 200
+        "SpecialSkillBaseValue": 50
     },
     {
         "Id": 2,

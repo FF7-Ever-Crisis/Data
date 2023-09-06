@@ -339,21 +339,6 @@
         "WeaponSubPassiveSkillPointCoefficient": {
             "type": "integer"
         },
-        "UserRegisterIntervalMinSec": {
-            "type": "integer"
-        },
-        "UserRegisterIntervalMaxSec": {
-            "type": "integer"
-        },
-        "UserRegisterIntervalIncreaseSec": {
-            "type": "integer"
-        },
-        "UserRegisterIntervalIncreaseCount": {
-            "type": "integer"
-        },
-        "UserRegisterIntervalResetSec": {
-            "type": "integer"
-        },
         "AdvertisementId": {
             "type": "integer"
         },
@@ -451,6 +436,9 @@
             "type": "integer"
         },
         "InAppReviewClearedStoryEpisodeId": {
+            "type": "integer"
+        },
+        "PartyNameUpperLimit": {
             "type": "integer"
         }
     }
