@@ -1,0 +1,63 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "ItemType": {
+            "type": "integer"
+        },
+        "ItemRarityType": {
+            "type": "integer"
+        },
+        "MaxCapacity": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "ObtainCountMax": {
+            "type": "integer"
+        },
+        "ObtainResetId": {
+            "type": "integer"
+        },
+        "ConsumptionCountMax": {
+            "type": "integer"
+        },
+        "ConsumptionResetId": {
+            "type": "integer"
+        },
+        "StartDatetime": {
+            "type": "string"
+        },
+        "EndDatetime": {
+            "type": "string"
+        },
+        "OrderNo": {
+            "type": "integer"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "object",
+    "properties": {
+        "EnemyGroupId": {
+            "type": "integer"
+        },
+        "Idx": {
+            "type": "integer"
+        },
+        "EnemyId": {
+            "type": "integer"
+        },
+        "Level": {
+            "type": "integer"
+        },
+        "IsTarget": {
+            "type": "boolean"
+        },
+        "StatusDisplayType": {
+            "type": "integer"
+        },
+        "RewardSetId": {
+            "type": "integer"
+        },
+        "IsPickup": {
+            "type": "boolean"
+        },
+        "RelocationLinkGroupNo": {
+            "type": "integer"
+        }
+    }
+}

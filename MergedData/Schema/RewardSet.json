@@ -1,0 +1,36 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "RewardChooseType": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        }
+    }
+}

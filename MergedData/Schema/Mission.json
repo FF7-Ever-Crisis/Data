@@ -1,0 +1,87 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "NameTemplate": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "DescriptionTemplate": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "MissionSetId": {
+            "type": "integer"
+        },
+        "MissionSetIdx": {
+            "type": "integer"
+        },
+        "AutoMissionCountType": {
+            "type": "integer"
+        },
+        "MissionType": {
+            "type": "integer"
+        },
+        "TargetId1": {
+            "type": "integer"
+        },
+        "TargetId2": {
+            "type": "integer"
+        },
+        "TargetId3": {
+            "type": "integer"
+        },
+        "TargetValue": {
+            "type": "integer"
+        },
+        "RewardSetId": {
+            "type": "integer"
+        },
+        "OrderNo": {
+            "type": "integer"
+        },
+        "BonusPoint": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "OpenConditionSetId": {
+            "type": "integer"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        },
+        "TransitionType": {
+            "type": "integer"
+        },
+        "TransitionId": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "SupplyConsumptionSetId": {
+            "type": "integer"
+        },
+        "IsRefresh": {
+            "type": "boolean"
+        }
+    }
+}

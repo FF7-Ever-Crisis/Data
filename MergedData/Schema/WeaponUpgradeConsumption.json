@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "WeaponUpgradeConsumptionGroupId": {
+            "type": "integer"
+        },
+        "WeaponUpgradeType": {
+            "type": "integer"
+        },
+        "UpgradeCount": {
+            "type": "integer"
+        },
+        "ConsumptionWeaponMedal": {
+            "type": "integer"
+        },
+        "ConsumptionGil": {
+            "type": "integer"
+        },
+        "WeaponIngredientGroupId": {
+            "type": "integer"
+        }
+    }
+}

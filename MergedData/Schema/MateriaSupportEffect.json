@@ -1,0 +1,31 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "MateriaSupportEffectGroupId": {
+            "type": "integer"
+        },
+        "SupportEffectType": {
+            "type": "integer"
+        },
+        "SupportEffectTriggerType": {
+            "type": "integer"
+        },
+        "MateriaSupportEffectFilterGroupId": {
+            "type": "integer"
+        }
+    }
+}

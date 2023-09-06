@@ -1,0 +1,86 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Title": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "DescriptionTemplate": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "LotRatio": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Stamp": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Complement": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Pickup": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "MaxSheetCount": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "GachaStampLotGroupId": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        }
+    }
+}

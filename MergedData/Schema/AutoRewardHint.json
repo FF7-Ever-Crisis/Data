@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "RewardId": {
+            "type": "integer"
+        },
+        "RewardHintType": {
+            "type": "integer"
+        },
+        "ReferencePk1": {
+            "type": "integer"
+        },
+        "TransitionType": {
+            "type": "integer"
+        },
+        "TransitionId": {
+            "type": "integer"
+        },
+        "OrderNo": {
+            "type": "integer"
+        }
+    }
+}

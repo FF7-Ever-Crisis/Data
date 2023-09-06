@@ -1,0 +1,76 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "ShopGroupId": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        },
+        "OrderNo": {
+            "type": "integer"
+        },
+        "ShopDisplayType": {
+            "type": "integer"
+        },
+        "DisplayCurrencyType": {
+            "type": "integer"
+        },
+        "DisplayCurrencyItemId": {
+            "type": "integer"
+        },
+        "ShopLineupId": {
+            "type": "integer"
+        },
+        "CanLineupReset": {
+            "type": "integer"
+        },
+        "MaxLineupResetCount": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "LineupResetId": {
+            "type": "integer"
+        },
+        "MaxLineupResetId": {
+            "type": "integer"
+        },
+        "CanFilter": {
+            "type": "integer"
+        },
+        "HasBanner": {
+            "type": "boolean"
+        },
+        "PickupCharacterCostumeId0": {
+            "type": "integer"
+        },
+        "PickupCharacterCostumeId1": {
+            "type": "integer"
+        },
+        "PickupCharacterCostumeId2": {
+            "type": "integer"
+        },
+        "ShopEmptyBehaviorType": {
+            "type": "integer"
+        }
+    }
+}

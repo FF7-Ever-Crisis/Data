@@ -1,0 +1,457 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "GiftDebug": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "GiftLimit": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "GiftLoginBonus": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "GiftMissionReward": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "GiftDefault": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "GiftFirstMeeting": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "GiftEcPass": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "UserProfileInitName": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "UserProfileInitMessage": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "GiftSeasonPassReward": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "UserSetupPartyCharacterId0": {
+            "type": "integer"
+        },
+        "UserSetupPartyCharacterId1": {
+            "type": "integer"
+        },
+        "UserSetupPartyCharacterId2": {
+            "type": "integer"
+        },
+        "UserSetupStoryPartyCharacterId0": {
+            "type": "integer"
+        },
+        "UserSetupStoryPartyCharacterId1": {
+            "type": "integer"
+        },
+        "UserSetupStoryPartyCharacterId2": {
+            "type": "integer"
+        },
+        "PartyResetCharacterId0": {
+            "type": "integer"
+        },
+        "PartyResetWeaponId0": {
+            "type": "integer"
+        },
+        "AnotherDungeonMaxHpDamagePermil": {
+            "type": "integer"
+        },
+        "AnotherDungeonMaxHpLowerLimitPermil": {
+            "type": "integer"
+        },
+        "CharacterCriticalMagnificationPermil": {
+            "type": "integer"
+        },
+        "BattleContinueAtbCost": {
+            "type": "integer"
+        },
+        "BattleContinueLimitGaugePermil": {
+            "type": "integer"
+        },
+        "BattleContinueInvincibleSecond": {
+            "type": "integer"
+        },
+        "BattleMultiRestoreAtbCost": {
+            "type": "integer"
+        },
+        "BattleMultiRestoreInvincibleSecond": {
+            "type": "integer"
+        },
+        "ForceUpdateMaster": {
+            "type": "integer"
+        },
+        "BattleScoreSettingId": {
+            "type": "integer"
+        },
+        "BattleMultiIdleLimitSecond": {
+            "type": "integer"
+        },
+        "DefaultAccessoryLimit": {
+            "type": "integer"
+        },
+        "DefaultMateriaLimit": {
+            "type": "integer"
+        },
+        "DefaultCraftLimit": {
+            "type": "integer"
+        },
+        "DefaultChocoboLimit": {
+            "type": "integer"
+        },
+        "AnotherDungeonKeyResetId": {
+            "type": "integer"
+        },
+        "AnotherDungeonKeyGrantCountPerReset": {
+            "type": "integer"
+        },
+        "BattleContinueConsumptionStone": {
+            "type": "integer"
+        },
+        "AccessoryExtensionConsumptionStone": {
+            "type": "integer"
+        },
+        "MateriaExtensionConsumptionStone": {
+            "type": "integer"
+        },
+        "CraftExtensionConsumptionStone": {
+            "type": "integer"
+        },
+        "ChocoboExtensionConsumptionStone": {
+            "type": "integer"
+        },
+        "ChocoboExpeditionShortenCountMax": {
+            "type": "integer"
+        },
+        "StaminaCountMax": {
+            "type": "integer"
+        },
+        "StaminaRecoveryIntervalSec": {
+            "type": "integer"
+        },
+        "UserGiftBoxCount": {
+            "type": "integer"
+        },
+        "UserGiftHistoryCount": {
+            "type": "integer"
+        },
+        "UserProfileInitTopHonorId": {
+            "type": "integer"
+        },
+        "UserProfileInitBottomHonorId": {
+            "type": "integer"
+        },
+        "UserProfileInitBackgroundHonorId": {
+            "type": "integer"
+        },
+        "WeaponMedalCountR": {
+            "type": "integer"
+        },
+        "WeaponMedalCountSr": {
+            "type": "integer"
+        },
+        "WeaponMedalCountSsr": {
+            "type": "integer"
+        },
+        "WeaponMedalToGeneralMedalCount": {
+            "type": "integer"
+        },
+        "DefaultGachaDirectionLotGroupId": {
+            "type": "integer"
+        },
+        "SpecialMissionCoolTimeSec": {
+            "type": "integer"
+        },
+        "PieceExchangeRequiredCount": {
+            "type": "integer"
+        },
+        "TutorialConfigId": {
+            "type": "integer"
+        },
+        "ChocoboFarmDungeonResourceId": {
+            "type": "integer"
+        },
+        "ShopMateriaExtendCount": {
+            "type": "integer"
+        },
+        "ShopAccessoryExtendCount": {
+            "type": "integer"
+        },
+        "ShopChocoboExtendCount": {
+            "type": "integer"
+        },
+        "ShopCraftExtendCount": {
+            "type": "integer"
+        },
+        "DefaultBoostId": {
+            "type": "integer"
+        },
+        "BoostCountMax": {
+            "type": "integer"
+        },
+        "FriendCountMax": {
+            "type": "integer"
+        },
+        "FriendRequestCountMax": {
+            "type": "integer"
+        },
+        "FriendReceiveCountMax": {
+            "type": "integer"
+        },
+        "FriendRequestExpireDayCount": {
+            "type": "integer"
+        },
+        "MultiMedalFriendBonusCoefficient": {
+            "type": "integer"
+        },
+        "PlayRecordAnotherDungeonHighRankClearDungeonRankType": {
+            "type": "integer"
+        },
+        "UserProfileInitIconHonorId": {
+            "type": "integer"
+        },
+        "BattleServerEnterRoomLimitSec": {
+            "type": "integer"
+        },
+        "BattleServerRandomRoomOutgameLimitSec": {
+            "type": "integer"
+        },
+        "BattleServerPrivateRoomOutgameLimitSec": {
+            "type": "integer"
+        },
+        "BattleServerReadyBattleLimitSec": {
+            "type": "integer"
+        },
+        "BattleServerBattleLimitSec": {
+            "type": "integer"
+        },
+        "BattleServerMoveSessionLimitSec": {
+            "type": "integer"
+        },
+        "BattleServerContinueLimitSec": {
+            "type": "integer"
+        },
+        "BattleServerPlayNextBattleLimitSec": {
+            "type": "integer"
+        },
+        "BattleMultiPrivateRoomRequiredUserCount": {
+            "type": "integer"
+        },
+        "BattleMultiPrivateRoomNoDigits": {
+            "type": "integer"
+        },
+        "ScoreBattleRankBaseId": {
+            "type": "integer"
+        },
+        "WeaponMain1ParameterCoefficient": {
+            "type": "integer"
+        },
+        "WeaponMain1PassiveSkillPointCoefficient": {
+            "type": "integer"
+        },
+        "WeaponSubParameterCoefficient": {
+            "type": "integer"
+        },
+        "WeaponSubPassiveSkillPointCoefficient": {
+            "type": "integer"
+        },
+        "UserRegisterIntervalMinSec": {
+            "type": "integer"
+        },
+        "UserRegisterIntervalMaxSec": {
+            "type": "integer"
+        },
+        "UserRegisterIntervalIncreaseSec": {
+            "type": "integer"
+        },
+        "UserRegisterIntervalIncreaseCount": {
+            "type": "integer"
+        },
+        "UserRegisterIntervalResetSec": {
+            "type": "integer"
+        },
+        "AdvertisementId": {
+            "type": "integer"
+        },
+        "MatchInviteSendCountMax": {
+            "type": "integer"
+        },
+        "MatchInviteReceiveCountMax": {
+            "type": "integer"
+        },
+        "ChocoboLimitFoodCount": {
+            "type": "integer"
+        },
+        "ChocoboFoodCountResetId": {
+            "type": "integer"
+        },
+        "DefaultStoneShopId": {
+            "type": "integer"
+        },
+        "DefaultChocoboShopGroupId": {
+            "type": "integer"
+        },
+        "NoticeCheckDurationSec": {
+            "type": "integer"
+        },
+        "DefaultHardMedalShopId": {
+            "type": "integer"
+        },
+        "DefaultMultiMedalShopId": {
+            "type": "integer"
+        },
+        "DefaultEcPassShopId": {
+            "type": "integer"
+        },
+        "SkillDescriptionHealLevelThresholdLow": {
+            "type": "integer"
+        },
+        "SkillDescriptionHealLevelThresholdMiddle": {
+            "type": "integer"
+        },
+        "SkillDescriptionHealLevelThresholdHigh": {
+            "type": "integer"
+        },
+        "BattleServerContinueVoteLimitSec": {
+            "type": "integer"
+        },
+        "StoryStandbyCharacterExpCoefficient": {
+            "type": "integer"
+        },
+        "RewardHintDisplayMaxCount": {
+            "type": "integer"
+        },
+        "CbtCloseDatetime": {
+            "type": "string"
+        },
+        "BattleRemainingTimeDisplayStartSec": {
+            "type": "integer"
+        },
+        "ChocoboAdventureRewardRatePermil": {
+            "type": "integer"
+        },
+        "DungeonSaveCrystalConsumptionCount": {
+            "type": "integer"
+        },
+        "FirstMeetingMultiMedalPermil": {
+            "type": "integer"
+        },
+        "InterjectionDisplayLimit": {
+            "type": "integer"
+        },
+        "SkillDescriptionPenetrationLevelThresholdLow": {
+            "type": "integer"
+        },
+        "SkillDescriptionPenetrationLevelThresholdMiddle": {
+            "type": "integer"
+        },
+        "SkillDescriptionPenetrationLevelThresholdHigh": {
+            "type": "integer"
+        },
+        "ChocoboExpeditionRareDropCoefficient": {
+            "type": "integer"
+        },
+        "ChocoboExpeditionMedalCoefficient": {
+            "type": "integer"
+        },
+        "ChocoboExpeditionGilCoefficient": {
+            "type": "integer"
+        },
+        "ChocoboExpeditionCompareCharacterLevel": {
+            "type": "integer"
+        },
+        "ChocoboExpeditionCharacterExpCoefficient": {
+            "type": "integer"
+        },
+        "DungeonSaveCrystalExchangeMaxPossessionCount": {
+            "type": "integer"
+        },
+        "InAppReviewClearedStoryEpisodeId": {
+            "type": "integer"
+        }
+    }
+}

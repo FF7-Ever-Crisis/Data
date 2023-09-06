@@ -1,0 +1,34 @@
+{
+    "type": "object",
+    "properties": {
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "NotificationOutgameGroupId": {
+            "type": "integer"
+        },
+        "Seq": {
+            "type": "integer"
+        },
+        "ConditionSetId": {
+            "type": "integer"
+        },
+        "NotificationType": {
+            "type": "integer"
+        },
+        "TransitionType": {
+            "type": "integer"
+        },
+        "TransitionId": {
+            "type": "integer"
+        }
+    }
+}

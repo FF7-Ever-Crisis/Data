@@ -1,0 +1,26 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "EpisodeId": {
+            "type": "integer"
+        },
+        "StoryPartyId": {
+            "type": "integer"
+        },
+        "CraftMateriaRecipeId": {
+            "type": "integer"
+        },
+        "CraftMateriaId": {
+            "type": "integer"
+        },
+        "EvolveMateriaId": {
+            "type": "integer"
+        },
+        "TowerId": {
+            "type": "integer"
+        }
+    }
+}

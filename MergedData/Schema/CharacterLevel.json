@@ -1,0 +1,32 @@
+{
+    "type": "object",
+    "properties": {
+        "CharacterId": {
+            "type": "integer"
+        },
+        "Level": {
+            "type": "integer"
+        },
+        "Exp": {
+            "type": "integer"
+        },
+        "Hp": {
+            "type": "integer"
+        },
+        "PhysicalAttack": {
+            "type": "integer"
+        },
+        "MagicalAttack": {
+            "type": "integer"
+        },
+        "PhysicalDefense": {
+            "type": "integer"
+        },
+        "MagicalDefense": {
+            "type": "integer"
+        },
+        "HealingPower": {
+            "type": "integer"
+        }
+    }
+}

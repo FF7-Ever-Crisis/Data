@@ -1,0 +1,26 @@
+{
+    "type": "object",
+    "properties": {
+        "StoryCharacterGroupId": {
+            "type": "integer"
+        },
+        "CharacterId": {
+            "type": "integer"
+        },
+        "DisplayCostumeId": {
+            "type": "integer"
+        },
+        "IsFix": {
+            "type": "boolean"
+        },
+        "IsRental": {
+            "type": "boolean"
+        },
+        "IsProvide": {
+            "type": "boolean"
+        },
+        "DisplayWeaponId": {
+            "type": "integer"
+        }
+    }
+}

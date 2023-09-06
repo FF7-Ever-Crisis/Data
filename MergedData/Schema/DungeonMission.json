@@ -1,0 +1,37 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "DungeonMissionType": {
+            "type": "integer"
+        },
+        "TargetId": {
+            "type": "integer"
+        },
+        "TargetValue": {
+            "type": "integer"
+        },
+        "TargetElementType": {
+            "type": "integer"
+        },
+        "RewardSetId": {
+            "type": "integer"
+        },
+        "IsHide": {
+            "type": "boolean"
+        }
+    }
+}

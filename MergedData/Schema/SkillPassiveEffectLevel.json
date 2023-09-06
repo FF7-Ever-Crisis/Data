@@ -1,0 +1,34 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Level": {
+            "type": "integer"
+        },
+        "EffectValue": {
+            "type": "integer"
+        },
+        "EffectCoefficient": {
+            "type": "integer"
+        },
+        "PassiveSkillTriggerType": {
+            "type": "integer"
+        },
+        "PassiveSkillFilterGroupId": {
+            "type": "integer"
+        }
+    }
+}

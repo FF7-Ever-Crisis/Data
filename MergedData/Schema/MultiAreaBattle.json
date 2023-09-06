@@ -1,0 +1,76 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "MultiAreaId": {
+            "type": "integer"
+        },
+        "DifficultyLevel": {
+            "type": "integer"
+        },
+        "BattleId": {
+            "type": "integer"
+        },
+        "BattleRankGroupId": {
+            "type": "integer"
+        },
+        "StaminaCost": {
+            "type": "integer"
+        },
+        "FirstRewardSetId": {
+            "type": "integer"
+        },
+        "MultiRewardSetId": {
+            "type": "integer"
+        },
+        "MultiBonusRewardSetId": {
+            "type": "integer"
+        },
+        "MultiMedalCount": {
+            "type": "integer"
+        },
+        "ContinueVoteLimitSec": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        },
+        "IngameResourceId": {
+            "type": "integer"
+        },
+        "OutgameResourceId": {
+            "type": "integer"
+        },
+        "RequiredCombatPower": {
+            "type": "integer"
+        },
+        "ResetMaxWinCount": {
+            "type": "integer"
+        },
+        "WinResetId": {
+            "type": "integer"
+        },
+        "OrderNo": {
+            "type": "integer"
+        },
+        "IsExcludedFirstStaminaFree": {
+            "type": "boolean"
+        }
+    }
+}

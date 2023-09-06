@@ -1,0 +1,36 @@
+{
+    "type": "object",
+    "properties": {
+        "Title": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "TutorialPopupGroupId": {
+            "type": "integer"
+        },
+        "Seq": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        }
+    }
+}

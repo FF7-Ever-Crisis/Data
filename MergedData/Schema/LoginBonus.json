@@ -1,0 +1,60 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "LoginBonusType": {
+            "type": "integer"
+        },
+        "ContinuousType": {
+            "type": "integer"
+        },
+        "DisplayPriority": {
+            "type": "integer"
+        },
+        "LoginBonusSheetGroupId": {
+            "type": "integer"
+        },
+        "BackgroundResourceId": {
+            "type": "integer"
+        },
+        "LayoutResourceId": {
+            "type": "integer"
+        },
+        "TriggerConditionSetId": {
+            "type": "integer"
+        },
+        "StartDatetime": {
+            "type": "string"
+        },
+        "TriggerEndDatetime": {
+            "type": "string"
+        },
+        "ReceiveEndDatetime": {
+            "type": "string"
+        }
+    }
+}

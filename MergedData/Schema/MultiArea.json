@@ -1,0 +1,42 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Label": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "OrderNo": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        }
+    }
+}

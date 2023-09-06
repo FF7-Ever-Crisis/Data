@@ -1,0 +1,39 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Title": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "HelpId": {
+            "type": "integer"
+        },
+        "OrderNo": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        }
+    }
+}

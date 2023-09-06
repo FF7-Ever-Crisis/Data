@@ -1,0 +1,66 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Bonus": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Description": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "Seq": {
+            "type": "integer"
+        },
+        "NextSeq": {
+            "type": "integer"
+        },
+        "GachaStepGroupId": {
+            "type": "integer"
+        },
+        "GachaConsumptionType": {
+            "type": "integer"
+        },
+        "ConsumptionCount": {
+            "type": "integer"
+        },
+        "DrawCount": {
+            "type": "integer"
+        },
+        "GachaFixedLotType": {
+            "type": "integer"
+        },
+        "BonusRewardSetId": {
+            "type": "integer"
+        },
+        "DisplayType": {
+            "type": "integer"
+        },
+        "GachaStepNotiType": {
+            "type": "integer"
+        },
+        "GachaNotiValue": {
+            "type": "integer"
+        },
+        "GachaDetailDisplayType": {
+            "type": "integer"
+        }
+    }
+}

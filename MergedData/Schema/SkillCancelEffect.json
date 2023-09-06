@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "SkillCancelType": {
+            "type": "integer"
+        },
+        "BuffDebuffGroupId": {
+            "type": "integer"
+        },
+        "StatusConditionGroupId": {
+            "type": "integer"
+        }
+    }
+}

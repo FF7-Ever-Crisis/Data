@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "DurationMsec": {
+            "type": "integer"
+        },
+        "EffectCoefficient": {
+            "type": "integer"
+        },
+        "MaxEffectCoefficient": {
+            "type": "integer"
+        }
+    }
+}

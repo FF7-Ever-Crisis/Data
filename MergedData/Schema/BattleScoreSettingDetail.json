@@ -1,0 +1,125 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "ParameterHpCoefficient": {
+            "type": "integer"
+        },
+        "ParameterPhysicalAttackCoefficient": {
+            "type": "integer"
+        },
+        "ParameterMagicalAttackCoefficient": {
+            "type": "integer"
+        },
+        "ParameterPhysicalDefenseCoefficient": {
+            "type": "integer"
+        },
+        "ParameterMagicalDefenseCoefficient": {
+            "type": "integer"
+        },
+        "ParameterHealingPowerCoefficient": {
+            "type": "integer"
+        },
+        "ParameterCriticalRateCoefficient": {
+            "type": "integer"
+        },
+        "ParameterCriticalPowerCoefficient": {
+            "type": "integer"
+        },
+        "SkillScoreCalculateType": {
+            "type": "integer"
+        },
+        "SkillScorePhysicalDamageCoefficient": {
+            "type": "integer"
+        },
+        "SkillScoreMagicalDamageCoefficient": {
+            "type": "integer"
+        },
+        "SkillScoreHealCoefficient": {
+            "type": "integer"
+        },
+        "SkillScoreDamageRateCoefficient": {
+            "type": "integer"
+        },
+        "SkillScoreHealRateCoefficient": {
+            "type": "integer"
+        },
+        "BuffPhysicalAttackUpCoefficient": {
+            "type": "integer"
+        },
+        "BuffPhysicalDefenseUpCoefficient": {
+            "type": "integer"
+        },
+        "BuffMagicalAttackUpCoefficient": {
+            "type": "integer"
+        },
+        "BuffMagicalDefenseUpCoefficient": {
+            "type": "integer"
+        },
+        "BuffPhysicalAttackDownCoefficient": {
+            "type": "integer"
+        },
+        "BuffPhysicalDefenseDownCoefficient": {
+            "type": "integer"
+        },
+        "BuffMagicalAttackDownCoefficient": {
+            "type": "integer"
+        },
+        "BuffMagicalDefenseDownCoefficient": {
+            "type": "integer"
+        },
+        "BuffHealingPowerUpCoefficient": {
+            "type": "integer"
+        },
+        "BuffHealingPowerDownCoefficient": {
+            "type": "integer"
+        },
+        "BuffElementResistanceUpCoefficient": {
+            "type": "integer"
+        },
+        "BuffElementResistanceDownCoefficient": {
+            "type": "integer"
+        },
+        "SkillStatusConditionPoisonCoefficient": {
+            "type": "integer"
+        },
+        "SkillStatusConditionSadnessCoefficient": {
+            "type": "integer"
+        },
+        "SkillStatusConditionSilenceCoefficient": {
+            "type": "integer"
+        },
+        "SkillStatusConditionDarknessCoefficient": {
+            "type": "integer"
+        },
+        "SkillStatusConditionStunCoefficient": {
+            "type": "integer"
+        },
+        "SkillStatusConditionPainCoefficient": {
+            "type": "integer"
+        },
+        "SkillStatusConditionForgetCoefficient": {
+            "type": "integer"
+        },
+        "BuffTimeCoefficient": {
+            "type": "integer"
+        },
+        "DebuffTimeCoefficient": {
+            "type": "integer"
+        },
+        "ConditionTimeCoefficient": {
+            "type": "integer"
+        },
+        "ResurrectionCoefficient": {
+            "type": "integer"
+        },
+        "RegenerateCoefficient": {
+            "type": "integer"
+        },
+        "SpecialSkillBaseValue": {
+            "type": "integer"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Banner": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "TransitionType": {
+            "type": "integer"
+        },
+        "TransitionId": {
+            "type": "integer"
+        },
+        "DisplayConditionSetId": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "Priority": {
+            "type": "integer"
+        },
+        "LockConditionSetId": {
+            "type": "integer"
+        }
+    }
+}

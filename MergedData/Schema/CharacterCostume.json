@@ -1,0 +1,52 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "CharacterId": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "SetWeaponId": {
+            "type": "integer"
+        },
+        "CharacterCostumeParameterId": {
+            "type": "integer"
+        },
+        "PassiveSkillId0": {
+            "type": "integer"
+        },
+        "PassiveSkillId1": {
+            "type": "integer"
+        },
+        "PassiveSkillPoint0": {
+            "type": "integer"
+        },
+        "PassiveSkillPoint1": {
+            "type": "integer"
+        },
+        "CharacterNovelCostumeId": {
+            "type": "integer"
+        },
+        "PanelRenderEnvironmentId": {
+            "type": "integer"
+        },
+        "ItemRarityType": {
+            "type": "integer"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "SubName": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "StorySectionId": {
+            "type": "integer"
+        },
+        "StoryEpisodeType": {
+            "type": "integer"
+        },
+        "PremiseStoryEpisodeId": {
+            "type": "integer"
+        },
+        "DungeonId": {
+            "type": "integer"
+        },
+        "OrderNo": {
+            "type": "integer"
+        },
+        "FirstRewardSetId": {
+            "type": "integer"
+        },
+        "FirstRewardCount": {
+            "type": "integer"
+        },
+        "DisplayEnemyGroupId": {
+            "type": "integer"
+        },
+        "StoryPartyCombatValue": {
+            "type": "integer"
+        },
+        "FreePartyCombatValue": {
+            "type": "integer"
+        },
+        "ScriptVersion": {
+            "type": "integer"
+        },
+        "StoryPartyFirstRewardSetId": {
+            "type": "integer"
+        },
+        "StoryPartyCharacterGroupId": {
+            "type": "integer"
+        },
+        "StoryPartyCharacterCount": {
+            "type": "integer"
+        },
+        "StoryBattleId": {
+            "type": "integer"
+        },
+        "ControlCharacterNovelSetId": {
+            "type": "integer"
+        },
+        "IsEpisode": {
+            "type": "boolean"
+        },
+        "IsBattle": {
+            "type": "boolean"
+        },
+        "IsDungeon": {
+            "type": "boolean"
+        },
+        "IsInitialDownload": {
+            "type": "boolean"
+        }
+    }
+}

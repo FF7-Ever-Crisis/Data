@@ -1,0 +1,34 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "Name": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "PositionType": {
+            "type": "integer"
+        },
+        "HonorCategoryId": {
+            "type": "integer"
+        },
+        "ItemRarityType": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "OrderNo": {
+            "type": "integer"
+        }
+    }
+}

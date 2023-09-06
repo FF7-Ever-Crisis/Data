@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "WeaponId": {
+            "type": "integer"
+        },
+        "WeaponUpgradeType": {
+            "type": "integer"
+        },
+        "UpgradeCount": {
+            "type": "integer"
+        },
+        "WeaponSkillId": {
+            "type": "integer"
+        },
+        "AddPassiveSkillPoint0": {
+            "type": "integer"
+        },
+        "AddPassiveSkillPoint1": {
+            "type": "integer"
+        }
+    }
+}

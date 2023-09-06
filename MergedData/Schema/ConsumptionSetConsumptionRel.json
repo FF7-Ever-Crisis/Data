@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "ConsumptionSetId": {
+            "type": "integer"
+        },
+        "RewardId": {
+            "type": "integer"
+        },
+        "ConsumptionCount": {
+            "type": "integer"
+        }
+    }
+}

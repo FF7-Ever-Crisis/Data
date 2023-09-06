@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "SupportConditionType": {
+            "type": "integer"
+        },
+        "MinValue": {
+            "type": "integer"
+        },
+        "MaxValue": {
+            "type": "integer"
+        }
+    }
+}

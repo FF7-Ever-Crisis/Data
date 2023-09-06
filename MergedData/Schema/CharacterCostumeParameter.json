@@ -1,0 +1,26 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "HpCoefficient": {
+            "type": "integer"
+        },
+        "PhysicalAttackCoefficient": {
+            "type": "integer"
+        },
+        "MagicalAttackCoefficient": {
+            "type": "integer"
+        },
+        "PhysicalDefenseCoefficient": {
+            "type": "integer"
+        },
+        "MagicalDefenseCoefficient": {
+            "type": "integer"
+        },
+        "HealingPowerCoefficient": {
+            "type": "integer"
+        }
+    }
+}

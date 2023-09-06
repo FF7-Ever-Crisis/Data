@@ -1,0 +1,28 @@
+{
+    "type": "object",
+    "properties": {
+        "BossCaution": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "EnemyLevelConstantGroupId": {
+            "type": "integer"
+        },
+        "Level": {
+            "type": "integer"
+        },
+        "ResourceId": {
+            "type": "integer"
+        },
+        "EnemySkillLevelId": {
+            "type": "integer"
+        }
+    }
+}

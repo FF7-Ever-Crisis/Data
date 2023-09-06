@@ -1,0 +1,25 @@
+{
+    "type": "object",
+    "properties": {
+        "Id": {
+            "type": "integer"
+        },
+        "SkillName": {
+            "type": "object",
+            "properties": {
+                "Ja": {
+                    "type": "string"
+                },
+                "En": {
+                    "type": "string"
+                }
+            }
+        },
+        "PhaseActionControlType": {
+            "type": "integer"
+        },
+        "IsHideSkillName": {
+            "type": "boolean"
+        }
+    }
+}
