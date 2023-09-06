@@ -11,9 +11,9 @@
     },
     {
         "Id": 30101012,
-        "DungeonMissionType": 11,
+        "DungeonMissionType": 4,
         "TargetId": 0,
-        "TargetValue": 0,
+        "TargetValue": 280,
         "TargetElementType": 0,
         "RewardSetId": 31010101201,
         "NameLanguageId": 450000030101012,
@@ -41,9 +41,9 @@
     },
     {
         "Id": 30102012,
-        "DungeonMissionType": 10,
+        "DungeonMissionType": 4,
         "TargetId": 0,
-        "TargetValue": 0,
+        "TargetValue": 410,
         "TargetElementType": 0,
         "RewardSetId": 31010201201,
         "NameLanguageId": 450000030102012,
@@ -51,9 +51,9 @@
     },
     {
         "Id": 30102013,
-        "DungeonMissionType": 4,
+        "DungeonMissionType": 10,
         "TargetId": 0,
-        "TargetValue": 850,
+        "TargetValue": 0,
         "TargetElementType": 0,
         "RewardSetId": 31010201301,
         "NameLanguageId": 450000030102013,
@@ -71,9 +71,9 @@
     },
     {
         "Id": 30201012,
-        "DungeonMissionType": 11,
+        "DungeonMissionType": 4,
         "TargetId": 0,
-        "TargetValue": 0,
+        "TargetValue": 540,
         "TargetElementType": 0,
         "RewardSetId": 31020101201,
         "NameLanguageId": 450000030201012,
@@ -81,9 +81,9 @@
     },
     {
         "Id": 30201013,
-        "DungeonMissionType": 4,
+        "DungeonMissionType": 11,
         "TargetId": 0,
-        "TargetValue": 1600,
+        "TargetValue": 0,
         "TargetElementType": 0,
         "RewardSetId": 31020101301,
         "NameLanguageId": 450000030201013,
@@ -101,22 +101,82 @@
     },
     {
         "Id": 30202012,
-        "DungeonMissionType": 12,
-        "TargetId": 302020106,
-        "TargetValue": 0,
-        "TargetElementType": 0,
-        "RewardSetId": 31020201201,
-        "NameLanguageId": 450000030202012,
-        "IsHide": true
-    },
-    {
-        "Id": 30202013,
         "DungeonMissionType": 5,
         "TargetId": 0,
         "TargetValue": 210,
         "TargetElementType": 0,
+        "RewardSetId": 31020201201,
+        "NameLanguageId": 450000030202012,
+        "IsHide": false
+    },
+    {
+        "Id": 30202013,
+        "DungeonMissionType": 12,
+        "TargetId": 302020106,
+        "TargetValue": 0,
+        "TargetElementType": 0,
         "RewardSetId": 31020201301,
         "NameLanguageId": 450000030202013,
+        "IsHide": true
+    },
+    {
+        "Id": 30301011,
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030101101,
+        "NameLanguageId": 450000030301011,
+        "IsHide": false
+    },
+    {
+        "Id": 30301012,
+        "DungeonMissionType": 13,
+        "TargetId": 0,
+        "TargetValue": 10900,
+        "TargetElementType": 0,
+        "RewardSetId": 31030101201,
+        "NameLanguageId": 450000030301012,
+        "IsHide": false
+    },
+    {
+        "Id": 30301013,
+        "DungeonMissionType": 11,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030101301,
+        "NameLanguageId": 450000030301013,
+        "IsHide": true
+    },
+    {
+        "Id": 30302011,
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030201101,
+        "NameLanguageId": 450000030302011,
+        "IsHide": false
+    },
+    {
+        "Id": 30302012,
+        "DungeonMissionType": 5,
+        "TargetId": 0,
+        "TargetValue": 210,
+        "TargetElementType": 0,
+        "RewardSetId": 31030201201,
+        "NameLanguageId": 450000030302012,
+        "IsHide": false
+    },
+    {
+        "Id": 30302013,
+        "DungeonMissionType": 12,
+        "TargetId": 303020104,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31030201301,
+        "NameLanguageId": 450000030302013,
         "IsHide": true
     },
     {
@@ -131,20 +191,20 @@
     },
     {
         "Id": 30501012,
-        "DungeonMissionType": 11,
+        "DungeonMissionType": 8,
         "TargetId": 0,
-        "TargetValue": 0,
-        "TargetElementType": 0,
+        "TargetValue": 16100,
+        "TargetElementType": 2,
         "RewardSetId": 31050101201,
         "NameLanguageId": 450000030501012,
         "IsHide": false
     },
     {
         "Id": 30501013,
-        "DungeonMissionType": 8,
+        "DungeonMissionType": 11,
         "TargetId": 0,
-        "TargetValue": 33500,
-        "TargetElementType": 2,
+        "TargetValue": 0,
+        "TargetElementType": 0,
         "RewardSetId": 31050101301,
         "NameLanguageId": 450000030501013,
         "IsHide": true
@@ -161,22 +221,202 @@
     },
     {
         "Id": 30502012,
-        "DungeonMissionType": 12,
-        "TargetId": 305020103,
-        "TargetValue": 0,
-        "TargetElementType": 0,
-        "RewardSetId": 31050201201,
-        "NameLanguageId": 450000030502012,
-        "IsHide": true
-    },
-    {
-        "Id": 30502013,
         "DungeonMissionType": 5,
         "TargetId": 0,
         "TargetValue": 210,
         "TargetElementType": 0,
+        "RewardSetId": 31050201201,
+        "NameLanguageId": 450000030502012,
+        "IsHide": false
+    },
+    {
+        "Id": 30502013,
+        "DungeonMissionType": 12,
+        "TargetId": 305020103,
+        "TargetValue": 0,
+        "TargetElementType": 0,
         "RewardSetId": 31050201301,
         "NameLanguageId": 450000030502013,
+        "IsHide": true
+    },
+    {
+        "Id": 30601011,
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31060101101,
+        "NameLanguageId": 450000030601011,
+        "IsHide": false
+    },
+    {
+        "Id": 30601012,
+        "DungeonMissionType": 13,
+        "TargetId": 0,
+        "TargetValue": 7600,
+        "TargetElementType": 0,
+        "RewardSetId": 31060101201,
+        "NameLanguageId": 450000030601012,
+        "IsHide": false
+    },
+    {
+        "Id": 30601013,
+        "DungeonMissionType": 12,
+        "TargetId": 306010103,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31060101301,
+        "NameLanguageId": 450000030601013,
+        "IsHide": true
+    },
+    {
+        "Id": 30602011,
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31060201101,
+        "NameLanguageId": 450000030602011,
+        "IsHide": false
+    },
+    {
+        "Id": 30602012,
+        "DungeonMissionType": 13,
+        "TargetId": 0,
+        "TargetValue": 8900,
+        "TargetElementType": 0,
+        "RewardSetId": 31060201201,
+        "NameLanguageId": 450000030602012,
+        "IsHide": false
+    },
+    {
+        "Id": 30602013,
+        "DungeonMissionType": 5,
+        "TargetId": 0,
+        "TargetValue": 210,
+        "TargetElementType": 0,
+        "RewardSetId": 31060201301,
+        "NameLanguageId": 450000030602013,
+        "IsHide": true
+    },
+    {
+        "Id": 30701011,
+        "DungeonMissionType": 11,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070101101,
+        "NameLanguageId": 450000030701011,
+        "IsHide": false
+    },
+    {
+        "Id": 30701012,
+        "DungeonMissionType": 9,
+        "TargetId": 0,
+        "TargetValue": 40800,
+        "TargetElementType": 0,
+        "RewardSetId": 31070101201,
+        "NameLanguageId": 450000030701012,
+        "IsHide": false
+    },
+    {
+        "Id": 30701013,
+        "DungeonMissionType": 10,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070101301,
+        "NameLanguageId": 450000030701013,
+        "IsHide": true
+    },
+    {
+        "Id": 30702011,
+        "DungeonMissionType": 1,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070201101,
+        "NameLanguageId": 450000030702011,
+        "IsHide": false
+    },
+    {
+        "Id": 30702012,
+        "DungeonMissionType": 9,
+        "TargetId": 0,
+        "TargetValue": 52600,
+        "TargetElementType": 0,
+        "RewardSetId": 31070201201,
+        "NameLanguageId": 450000030702012,
+        "IsHide": false
+    },
+    {
+        "Id": 30702013,
+        "DungeonMissionType": 12,
+        "TargetId": 307020104,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31070201301,
+        "NameLanguageId": 450000030702013,
+        "IsHide": true
+    },
+    {
+        "Id": 30801011,
+        "DungeonMissionType": 8,
+        "TargetId": 0,
+        "TargetValue": 54100,
+        "TargetElementType": 3,
+        "RewardSetId": 31080101101,
+        "NameLanguageId": 450000030801011,
+        "IsHide": false
+    },
+    {
+        "Id": 30801012,
+        "DungeonMissionType": 4,
+        "TargetId": 0,
+        "TargetValue": 2500,
+        "TargetElementType": 0,
+        "RewardSetId": 31080101201,
+        "NameLanguageId": 450000030801012,
+        "IsHide": false
+    },
+    {
+        "Id": 30801013,
+        "DungeonMissionType": 12,
+        "TargetId": 308010103,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31080101301,
+        "NameLanguageId": 450000030801013,
+        "IsHide": true
+    },
+    {
+        "Id": 30802011,
+        "DungeonMissionType": 11,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31080201101,
+        "NameLanguageId": 450000030802011,
+        "IsHide": false
+    },
+    {
+        "Id": 30802012,
+        "DungeonMissionType": 4,
+        "TargetId": 0,
+        "TargetValue": 3700,
+        "TargetElementType": 0,
+        "RewardSetId": 31080201201,
+        "NameLanguageId": 450000030802012,
+        "IsHide": false
+    },
+    {
+        "Id": 30802013,
+        "DungeonMissionType": 6,
+        "TargetId": 0,
+        "TargetValue": 0,
+        "TargetElementType": 0,
+        "RewardSetId": 31080201301,
+        "NameLanguageId": 450000030802013,
         "IsHide": true
     }
 ]

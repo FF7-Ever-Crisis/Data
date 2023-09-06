@@ -2,139 +2,183 @@
     "data": [
         {
             "id": 130000001010030,
-            "value": ""
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nUnable to read..."
         },
         {
             "id": 130000001012031,
-            "value": "Immune to darkness and silence.\n \nUses many <color=#89D9FF>lightning-element physical attacks</color>. Grants self Lightning Resistance Up with <color=#FFFFD8>Greater Voltage</color>, which grows stronger as time passes. Uses <color=#FFFFD8>Pyramid</color> to incapacitate a single target."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence\n \nUses many <color=#95C7FF>lightning-element physical attacks</color>. Also uses <color=#D9DA59>Pyramid</color> to incapacitate a single target."
+        },
+        {
+            "id": 130000001015031,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> with <color=#D9DA59>Tread Softly</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Up in Smoke</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002001001,
-            "value": "No immunities.\n \nHas high physical attack and attacks often."
+            "value": "Immunities: None\n \nHas high physical attack and attacks often."
         },
         {
             "id": 130000002001101,
-            "value": "No immunities.\n \nHas high physical attack and attacks often. Inflicts DEF Down with <color=#FFFFD8>Breaking Whip</color>."
+            "value": "Immunities: None\n \nHas high physical attack and attacks often. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> with <color=#D9DA59>Breaking Whip</color>."
         },
         {
             "id": 130000002001201,
-            "value": "Immune to poison.\n \nHas high physical attack and attacks often. Inflicts poison with <color=#FFFFD8>Virulent Bite</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nHas high physical attack and attacks often. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> with <color=#D9DA59>Virulent Bite</color>."
+        },
+        {
+            "id": 130000002001331,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many abilities to support <color=#95C7FF>Rufus</color>, such as <color=#D9DA59>Curaga</color> to <color=#95C7FF>restore his HP</color>.\n \nInstead of focusing on Rufus, <color=#95C7FF>defeating Darkstar first</color> is an effective strategy."
         },
         {
             "id": 130000002002001,
-            "value": "No immunities.\n \nHas extremely low magic defense."
+            "value": "Immunities: None\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002002101,
-            "value": "No immunities.\n \nHas extremely low magic defense. Inflicts poison with <color=#FFFFD8>Poison Gas Grenade</color>."
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> with <color=#D9DA59>Poison Gas Grenade</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002002201,
-            "value": "No immunities.\n \nHas extremely low magic defense. Grants all allies ATK Up and MATK Up with <color=#FFFFD8>Order to Attack</color>."
+            "value": "Immunities: None\n \nGrants all allies <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color> with <color=#D9DA59>Order to Attack</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002006001,
-            "value": "No immunities.\n \nHas extremely high magic defense, but extremely low physical defense. Inflicts MDEF Down and unleashes a powerful ice-element magic attack with <color=#FFFFD8>Double Claw</color>."
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Double Claw</color>, and subsequently uses the <color=#95C7FF>ice-element magic attack</color> <color=#D9DA59>Frigid Breath</color> on that same target.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002006101,
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Double Claw</color>, and subsequently uses the <color=#95C7FF>non-elemental magic attack</color> <color=#D9DA59>Oppressive Breath</color> on that same target.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002007001,
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>ATK Down</color> with <color=#D9DA59>Putrid Discharge</color> and <color=#D9DA59>Putrid Spray</color>. After a certain amount of time, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color> with <color=#D9DA59>Guard</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002007101,
-            "value": "No immunities.\n \nHas extremely high physical defense, but extremely low magic defense. After a certain amount of time, grants self greater DEF Up with <color=#FFFFD8>Guard</color>."
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Scissor Spark</color>. After a certain amount of time, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color> with <color=#D9DA59>Guard</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002008001,
-            "value": "No immunities.\n \nAt the start of battle, grants self ATK Up with <color=#FFFFD8>Amp Up</color>."
+            "value": "Immunities: None\n \nAt the start of battle, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Amp Up</color>."
         },
         {
             "id": 130000002008101,
-            "value": "No immunities. \n \nAt the start of battle, grants self ATK Up with <color=#FFFFD8>Amp Up</color>. When allies are defeated, uses <color=#FFFFD8>Jump</color>, a powerful physical attack."
+            "value": "Immunities: None\n \nAt the start of battle, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Amp Up</color>. When allies are defeated, uses the <color=#95C7FF>powerful physical attack</color> <color=#D9DA59>Jump</color>."
         },
         {
             "id": 130000002008102,
-            "value": "No immunities. \n \nUses many <color=#89D9FF>physical attacks</color>. When allies are present, grants all allies ATK Up, DEF Up, and MDEF Up with <color=#FFFFD8>Declaration of War</color>. Frequently grants self ATK Up with <color=#FFFFD8>Amp Up</color>."
+            "value": "Immunities: None\n \nFrequently grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Amp Up</color>. Grants all allies <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color>, <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color>, and <color=#95C7FF><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <color=#D9DA59>Declaration of War</color>."
         },
         {
             "id": 130000002011001,
-            "value": "Immune to silence and fog.\n \nCasts and inflicts <color=#FFFFD8>Fog</color>. When allies are defeated, uses <color=#FFFFD8>Concentration</color> to grant self greater ATK Up and MATK UP."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog</color>. When allies are defeated, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color> with <color=#D9DA59>Concentration</color>."
         },
         {
             "id": 130000002011002,
-            "value": "Immune to silence and fog.\n \nUses <color=#89D9FF>ice-element magic attacks</color> and linked attacks with other SOLDIER: Third Class allies. Casts and inflicts <color=#FFFFD8>Fog</color>. When allies are defeated, uses <color=#FFFFD8>Concentration</color> to grant self greater ATK Up and MATK Up."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog</color>. Teams up with other SOLDIER: Third Class allies to unleash a <color=#95C7FF>powerful ice-element magic attack</color>.\n \n<color=#95C7FF>Multi-target attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002012001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nAt the start of battle, uses the <color=#95C7FF>lightning-element magic attack</color> <color=#D9DA59>High Voltage</color>."
+        },
+        {
+            "id": 130000002012035,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nUses many <color=#95C7FF>lightning-element magic attacks</color>. After a certain amount of time or when HP falls below a certain amount, its <color=#D9DA59>Charge Level</color> increases and it grants itself <color=#95C7FF><sprite=\"tmp_icon\" index=612>Lightning Potency Up</color>."
+        },
+        {
+            "id": 130000002013001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nHas high magic attack and attacks often. After a certain amount of time, uses the <color=#95C7FF>powerful magic attack</color> <color=#D9DA59>Self-Destruct</color> and reduces own HP to 0.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002015001,
-            "value": "No immunities.\n \nHas extremely high physical attack, low physical defense, and is <color=#89D9FF>extremely vulnerable to wind-element attacks</color>. Uses <color=#89D9FF>wind-element physical attacks</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>wind-element physical attacks</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002015005,
-            "value": "No immunities.\n \nHas extremely high physical attack, but low physical defense and is <color=#89D9FF>extremely vulnerable to wind-element attacks</color>. Uses <color=#89D9FF>wind-element physical attacks</color>.\n \nWhen HP falls below a certain amount, uses <color=#FFFFD8>Blusterous Veil</color> to grant self Wind Potency Up and Physical Resistance."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>wind-element physical attacks</color>. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=610>Wind Potency Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=594>Physical Resistance</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=681>Wind Resistance Down</color> on self with <color=#D9DA59>Blusterous Veil</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy. <color=#95C7FF>Magic attacks</color> are effective for destroying sigils."
         },
         {
             "id": 130000002015101,
-            "value": "No immunities.\n \nHas extremely high physical attack, low physical defense, and is <color=#89D9FF>extremely vulnerable to ice-element attacks</color>. Uses <color=#89D9FF>fire-element physical attacks</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>fire-element physical attacks</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002015105,
-            "value": "No immunities.\n \nHas extremely high physical attack, but low physical defense and is <color=#89D9FF>extremely vulnerable to ice-element attacks</color>. Uses <color=#89D9FF>fire-element physical attacks</color>.\n \nWhen HP falls below a certain amount, uses [<color=#FFFFD8>Fiery Veil</color> to grant self Fire Potency Up and Physical Resistance."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>fire-element physical attacks</color>. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=578>Fire Potency Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=594>Physical Resistance</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=684>Ice Resistance Down</color> on self with <color=#D9DA59>Fiery Veil</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy. <color=#95C7FF>Magic attacks</color> are effective for destroying sigils."
         },
         {
             "id": 130000002015201,
-            "value": "No immunities.\n \nHas extremely high physical attack, low physical defense, and is <color=#89D9FF>extremely vulnerable to fire-element attacks</color>. Uses <color=#89D9FF>ice-element physical attacks</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>ice-element physical attacks</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002015205,
-            "value": "No immunities.\n \nHas extremely high physical attack, but low physical defense and is <color=#89D9FF>extremely vulnerable to fire-element attacks</color>. Uses <color=#89D9FF>ice-element physical attacks</color>.\n \nWhen HP falls below a certain amount, uses <color=#FFFFD8>Icy Veil</color> to grant self Ice Potency Up and Physical Resistance."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>ice-element physical attacks</color>. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=576>Ice Potency Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=594>Physical Resistance</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=686>Fire Resistance Down</color> on self with <color=#D9DA59>Icy Veil</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy. <color=#95C7FF>Magic attacks</color> are effective for destroying sigils."
+        },
+        {
+            "id": 130000002016101,
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Screech</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002016201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Screech</color>. Deals damage proportionate to the target's current HP with <color=#D9DA59>Dance of Terror</color> and <color=#D9DA59>Dance of Despair</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002022001,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nHas extremely high physical defense, but extremely low magic defense. Uses many <color=#89D9FF>physical attacks</color> including the powerful fire-element attack <color=#FFFFD8>Fire Blast</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color> including the <color=#95C7FF>powerful fire-element attack</color> <color=#D9DA59>Fire Blast</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002022009,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nHas extremely high physical defense, but extremely low magic defense. Uses many <color=#89D9FF>physical attacks</color>. Inflicts DEF Down with <color=#FFFFD8>Devastating Chainguns</color>.\n \nWhen HP falls below a certain amount, uses <color=#FFFFD8>Shield Deployment</color>. If this action is interrupted, their physical defense is greatly lowered."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> with <color=#D9DA59>Devastating Chainguns</color>. Uses <color=#D9DA59>Shield Deployment</color> when HP falls below a certain amount, and interrupting it will inflict <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002022101,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nHas extremely high physical defense, but extremely low magic defense. Uses many <color=#89D9FF>physical attacks</color> including the powerful <color=#FFFFD8>Matra Magic</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color> including the <color=#95C7FF>powerful non-elemental attack</color> <color=#D9DA59>Matra Magic</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002022109,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nHas extremely high physical defense, but extremely low magic defense. Uses many <color=#89D9FF>physical attacks</color>. Inflicts poison with <color=#FFFFD8>Poison Blast</color>.\n \nWhen HP falls below a certain amount, uses <color=#FFFFD8>Shield Deployment</color>. Interrupting this action greatly lowers their physical defense."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> with <color=#D9DA59>Poison Blast</color>. Uses <color=#D9DA59>Shield Deployment</color> when HP falls below a certain amount, and interrupting it will inflict <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002022201,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nHas extremely high physical defense, but extremely low magic defense. Uses many <color=#89D9FF>physical attacks</color> including the powerful fire-element attack <color=#FFFFD8>Fire Blast</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color> including the frequent use of the <color=#95C7FF>powerful fire-element physical attack</color> <color=#D9DA59>Fire Blast</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002022209,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nHas extremely high physical defense, but extremely low magic defense. Uses many <color=#89D9FF>physical attacks</color> including <color=#FFFFD8>Fire Blast</color>, a powerful multi-target fire-element attack.\n \nWhen HP falls below a certain amount, uses <color=#FFFFD8>Shield Deployment</color>. If this action is interrupted, their physical defense is greatly lowered."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color> including the <color=#95C7FF>multi-target fire-element attack</color> <color=#D9DA59>Fire Blast</color>. Uses <color=#D9DA59>Shield Deployment</color> when HP falls below a certain amount, and interrupting it will inflict <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002023001,
-            "value": "No immunities.\n \nInflicts ATK Down with <color=#FFFFD8>Pacifying Shot</color>."
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>ATK Down</color> with <color=#D9DA59>Pacifying Shot</color>."
         },
         {
             "id": 130000002023101,
-            "value": "No immunities.\n \nGrants self ATK Up with <color=#FFFFD8>stimulants</color>."
+            "value": "Immunities: None\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>stimulants</color>."
         },
         {
             "id": 130000002023201,
-            "value": "No immunities.\n \nRestores HP of self and allies with <color=#FFFFD8>potions</color>."
+            "value": "Immunities: None\n \n<color=#95C7FF>Restores HP</color> of self and allies with <color=#D9DA59>potions</color>."
         },
         {
             "id": 130000002024001,
-            "value": "Immune to poison.\n \nHas extremely high magic defense, but extremely low physical defense. At the start of battle, uses the powerful fire-element magic attack <color=#FFFFD8>Flame Dance</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nAt the start of battle, uses the <color=#95C7FF>fire-element magic attack</color> <color=#D9DA59>Flame Dance</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002024101,
-            "value": "Immune to poison.\n \nHas extremely high magic defense, but extremely low physical defense. At the start of battle, uses the powerful water-element magic attack <color=#FFFFD8>Water Dance</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nAt the start of battle, uses the <color=#95C7FF>water-element magic attack</color> <color=#D9DA59>Water Dance</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002024201,
-            "value": "Immune to poison.\n \nHas extremely high magic defense, but extremely low physical defense. At the start of battle, uses the powerful lightning-element magic attack <color=#FFFFD8>Thunder Dance</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nAt the start of battle, uses the <color=#95C7FF>lightning-element magic attack</color> <color=#D9DA59>Thunder Dance</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002025001,
-            "value": "Immune to poison, darkness, silence, stun, fatigue, fog, ATK Down, DEF Down, MATK Down, and MDEF Down.\n \nUses <color=#FFFFD8>Flee</color> to escape from battle. If successful, no rewards will be obtained from them."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#D9DA59>Flee</color> to escape from battle. If successful, <color=#95C7FF>no rewards will be obtained</color> from them."
+        },
+        {
+            "id": 130000002025101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nUses <color=#D9DA59>Flee</color> to escape from battle. If successful, <color=#95C7FF>no rewards will be obtained from them</color>.\n \nHas high resistance to all attacks."
+        },
+        {
+            "id": 130000002025201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nUses <color=#D9DA59>Flee</color> to escape from battle. If successful, <color=#95C7FF>no rewards will be obtained from them</color>.\n \nHas high resistance to all attacks."
         },
         {
             "id": 130000002026001,
@@ -145,104 +189,204 @@
             "value": "Immune to stun.\n  \n<color=#89D9FF>Extremely vulnerable to fire-element attacks.</color> When HP falls below a certain amount, uses the powerful multi-target fire-element attack <color=#FFFFD8>Burst</color> and reduces own HP to 0."
         },
         {
+            "id": 130000002026401,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n \nWhen HP falls below a certain amount, uses the <color=#95C7FF>powerful lightning-element magic attack</color> <color=#D9DA59>Burst</color> and reduces own HP to 0."
+        },
+        {
             "id": 130000002027001,
-            "value": "No immunities.\n \n<color=#89D9FF>Extremely vulnerable to earth-element attacks.</color>"
+            "value": "Immunities: None\n \nAfter a certain amount of time, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Angered</color>."
         },
         {
             "id": 130000002027101,
-            "value": "No immunities.\n \n<color=#89D9FF>Extremely vulnerable to earth-element attacks.</color> Uses many <color=#89D9FF>water-element magic attacks</color>."
+            "value": "Immunities: None\n \nUses many <color=#95C7FF>water-element magic attacks</color>."
         },
         {
             "id": 130000002027201,
-            "value": "No immunities.\n \n<color=#89D9FF>Extremely vulnerable to earth-element attacks.</color> Uses <color=#89D9FF>earth-element physical attacks</color>. Inflicts fatigue with <color=#FFFFD8>Resin Bomb</color>. When allies are present, grants all allies MDEF Up with <color=#FFFFD8>Unearthly Rain</color>."
+            "value": "Immunities: None\n \nUses <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Resin Bomb</color>, and grants all allies <color=#95C7FF><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <color=#D9DA59>Unearthly Rain</color>."
         },
         {
             "id": 130000002027205,
-            "value": "No immunities.\n \n<color=#89D9FF>Extremely vulnerable to earth-element attacks.</color> Uses <color=#89D9FF>earth-element physical attacks</color>. Inflicts fatigue with <color=#FFFFD8>Resin Bomb</color>.\n \nWhen allies are present, grants all allies MDEF Up with <color=#FFFFD8>Unearthly Rain</color>. When allies are defeated, uses <color=#FFFFD8>Queen's Lament</color>, which greatly increases physical and magic attack but lowers physical and magic defense."
+            "value": "Immunities: None\n \nUses <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Resin Bomb</color>, and grants all allies <color=#95C7FF><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <color=#D9DA59>Unearthly Rain</color>.\n \n<color=#95C7FF>Multi-target attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002027301,
-            "value": "No immunities.\n \n<color=#89D9FF>Extremely vulnerable to earth-element attacks.</color> Inflicts DEF Down on all enemies with <color=#FFFFD8>Intimidate</color>."
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> on all targets with <color=#D9DA59>Intimidate</color>."
         },
         {
             "id": 130000002031001,
-            "value": "No immunities.\n \nAfter a certain amount of time, grants self greater ATK Up with <color=#FFFFD8>Mutation</color>."
+            "value": "Immunities: None\n \nAfter a certain amount of time, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Mutation</color>."
+        },
+        {
+            "id": 130000002031101,
+            "value": "Immunities: None\n \nUses <color=#95C7FF>fire-element physical attacks</color>. After a certain amount of time, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Mutation</color>."
         },
         {
             "id": 130000002033001,
-            "value": "Immune to poison.\n \nAfter a certain amount of time, grants self greater DEF Up with <color=#FFFFD8>Vulcanize</color> and inflicts poison with <color=#FFFFD8>Poison Sting</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> with <color=#D9DA59>Poison Sting</color>. When HP falls below a certain amount, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color> with <color=#D9DA59>Vulcanize</color>."
+        },
+        {
+            "id": 130000002033101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Toxic Sting</color>. When HP falls below a certain amount, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> on self with <color=#D9DA59>Molt</color>."
+        },
+        {
+            "id": 130000002033201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nAt the start of battle, uses the <color=#95C7FF>powerful physical attack</color> <color=#D9DA59>Rising Dagger</color>."
         },
         {
             "id": 130000002034001,
-            "value": "Immune to poison, darkness, and fatigue.\n \nUses many <color=#89D9FF>physical attacks</color>. Inflicts poison with <color=#FFFFD8>Poison Sting</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> with <color=#D9DA59>Poison Sting</color>. When HP falls below a certain amount or allies are defeated, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color> with <color=#D9DA59>Vulcanize</color>."
         },
         {
             "id": 130000002034004,
-            "value": "Immune to poison, darkness, and fatigue.\n \nUses many <color=#89D9FF>physical attacks</color>. Inflicts poison with <color=#FFFFD8>Poison Sting</color>. Frequently inflicts fatigue and DEF Down with <color=#FFFFD8>Royal Webbing</color>. When HP falls below a certain amount, grants self greater DEF Up with <color=#FFFFD8>Vulcanize</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> with <color=#D9DA59>Poison Sting</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> and <sprite=\"tmp_icon\" index=384><color=#95C7FF>fatigue</color> with <color=#D9DA59>Royal Webbing</color>."
+        },
+        {
+            "id": 130000002034101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Toxic Sting</color>. When HP falls below a certain amount or allies are defeated, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> on self with <color=#D9DA59>Molt</color>."
+        },
+        {
+            "id": 130000002034104,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Toxic Sting</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Royal Webbing</color>."
+        },
+        {
+            "id": 130000002035001,
+            "value": "Immunities: None\n \nWhen HP falls below a certain amount, uses the <color=#95C7FF>powerful physical attack</color> <color=#D9DA59>Hellish Spikes</color>."
+        },
+        {
+            "id": 130000002035101,
+            "value": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> on all targets with <color=#D9DA59>Spume Spray</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002038001,
+            "value": "Immunities: None\n \nHas high physical attack and attacks often. When allies are defeated, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> on self with <color=#D9DA59>Last Stand</color>."
+        },
+        {
+            "id": 130000002039001,
+            "value": "Immunities: None\n \nSupports allies by granting <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color> or <color=#95C7FF>restoring their HP</color>. When allies are defeated, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> on self with <color=#D9DA59>Last Stand</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002045001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants allies <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and <sprite=\"tmp_icon\" index=326><color=#95C7FF>MATK Up</color> with <color=#D9DA59>Tremors of Fire</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Explosion</color> to <color=#95C7FF>deal damage to and remove the buffs of allies</color> and reduce own HP to 0."
+        },
+        {
+            "id": 130000002045101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants allies <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color> and <sprite=\"tmp_icon\" index=325><color=#95C7FF>MDEF Up</color> with <color=#D9DA59>Tremors of Ice</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Explosion</color> to <color=#95C7FF>deal damage to and remove the buffs of allies</color> and reduce own HP to 0."
+        },
+        {
+            "id": 130000002045201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> and <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> with <color=#D9DA59>Tremors of Lightning</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Torrent</color> to <color=#95C7FF>inflict <sprite=\"tmp_icon\" index=387>DEF Down and <sprite=\"tmp_icon\" index=389>MDEF Down on allies</color>, <color=#95C7FF>remove enemy debuffs</color>, and reduce own HP to 0."
+        },
+        {
+            "id": 130000002045301,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Tremors of Wind</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Torrent</color> to <color=#95C7FF>inflict <sprite=\"tmp_icon\" index=387>DEF Down and <sprite=\"tmp_icon\" index=389>MDEF Down on allies</color>, <color=#95C7FF>remove enemy ailments</color>, and reduce own HP to 0."
+        },
+        {
+            "id": 130000002045401,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>ATK Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=390>MATK Down</color> with <color=#D9DA59>Tremors of Earth</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Torrent</color> to <color=#95C7FF>inflict <sprite=\"tmp_icon\" index=387>DEF Down and <sprite=\"tmp_icon\" index=389>MDEF Down on allies</color>, <color=#95C7FF>remove enemy debuffs</color>, and reduce own HP to 0."
+        },
+        {
+            "id": 130000002045501,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<color=#95C7FF>Restores HP</color> of allies with <color=#D9DA59>Tremors of Water</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Explosion</color> to <color=#95C7FF>deal damage to allies</color> and reduce own HP to 0."
+        },
+        {
+            "id": 130000002051001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nFills <color=#95C7FF>Ramuh</color>'s Force Gauge: <color=#D9DA59>Lightning</color>."
         },
         {
             "id": 130000002501001,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nUses many <color=#89D9FF>fire-element physical attacks</color>. Also uses a variety of stream phase skills such as <color=#FFFFD8>Protection Wall</color> to lessen damage, and <color=#FFFFD8>Target Scanner</color> to focus attacks on a single target.\n \nUnleashes powerful counterattacks during <color=#FFFFD8>Counter Mode</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses the <color=#95C7FF>powerful magic attack</color> <color=#D9DA59>Tail Laser</color>. Also uses <color=#95C7FF>a wide variety of stream phase skills</color>, such as <color=#D9DA59>Counter Mode</color> to unleash counterattacks, or <color=#D9DA59>Target Scanner</color> to focus attacks on a single target.\n\n<color=#95C7FF>Quickly destroying sigils</color> is an effective strategy."
         },
         {
             "id": 130000002501131,
-            "value": "Immune to poison, darkness, silence, fatigue, and fog.\n \nUses many <color=#89D9FF>ice-element physical attacks</color>. Inflicts poison with <color=#FFFFD8>Poison Missiles</color>. Frequently grants self <color=#89D9FF>ATK Up</color>. Also uses <color=#FFFFD8>Mark 99 Launchers</color>, an extremely powerful multi-target attack that greatly lowers physical attack, physical defense, and magic defense after use."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color> with <color=#D9DA59>Increase Power</color>, and subsequently uses the <color=#95C7FF>powerful multi-target magic attack</color> <color=#D9DA59>Tail Laser A</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> with <color=#D9DA59>Poison Missiles</color>."
         },
         {
             "id": 130000002501231,
-            "value": "Immune to poison, darkness, silence, fatigue, fog, DEF Down, and MDEF Down.\n \nUses many <color=#89D9FF>lightning-element physical attacks</color>. Switches between <color=#FFFFD8>Water Wall</color>, making them resistant to water and weak to lightning, and <color=#FFFFD8>Thunder Wall</color>, making them resistant to lightning and weak to water."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#D9DA59>Tail Laser A</color>, the <color=#95C7FF>powerful multi-target magic attack</color> that gradually grows in strength. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=598>Water Resistance Up</color>, <color=#95C7FF><sprite=\"tmp_icon\" index=323>PDEF Up</color>, and <sprite=\"tmp_icon\" index=325><color=#95C7FF>MDEF Up</color> with <color=#D9DA59>Water Wall</color>."
         },
         {
             "id": 130000002502001,
-            "value": "Immune to poison, darkness, silence, stun, fatigue, fog, ATK Down, DEF Down, MATK Down, and MDEF Down.\n \nUses many <color=#89D9FF>physical attacks</color> including the powerful multi-target attack <color=#FFFFD8>Big Bomber</color>. Inflicts DEF Down with <color=#FFFFD8>EM Field</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <color=#95C7FF>physical attacks</color> including the <color=#95C7FF>powerful multi-target attack</color> <color=#D9DA59>Big Bomber</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> and <sprite=\"tmp_icon\" index=389>MDEF Down on all targets with <color=#D9DA59>EM Field.</color>"
         },
         {
             "id": 130000002502101,
-            "value": "Immune to poison, darkness, silence, stun, fatigue, fog, ATK Down, DEF Down, MATK Down, and MDEF Down.\n \nUses many <color=#89D9FF>physical attacks</color> including the extremely powerful single-target attack <color=#FFFFD8>Tankbuster</color>. Tankbuster's potency is based on the time it takes to interrupt the preceding stream phase."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> to all targets with <color=#D9DA59>EM Field.</color> <color=#D9DA59>Tankbuster</color>'s potency is based on <color=#95C7FF>the time it takes to interrupt the stream phase</color>."
+        },
+        {
+            "id": 130000002505001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>poison</color> on all targets with <color=#D9DA59>Mako Expulsion</color>. When HP falls below a certain amount, calls for allies with <color=#D9DA59>Regurgitate</color>.\n \n<color=#95C7FF>Physical attacks</color> and <color=#95C7FF>multi-target attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002506001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses the <color=#95C7FF>powerful fire-element magic attack</color> <color=#D9DA59>Rolling Fire</color>. Becomes more aggressive the more time has passed during stream phase."
         },
         {
             "id": 130000002507131,
-            "value": "Immune to darkness, silence, stun, and fog.\n \nHas high physical and magic defense, but is <color=#89D9FF>extremely vulnerable to fire-element attacks</color>. Uses many <color=#89D9FF>ice-element magic attacks</color> including the powerful <color=#FFFFD8>Blue Dragon Screech</color>. Focuses attacks on a single target during <color=#FFFFD8>On the Hunt</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <color=#95C7FF>ice-element magic attacks</color> including <color=#D9DA59>Blue Dragon Screech</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Breath</color>."
         },
         {
             "id": 130000002507201,
-            "value": "Immune to darkness, silence, stun, and fog.\n \nHas high physical and magic defense, but is <color=#89D9FF>extremely vulnerable to ice-element attacks</color>. Uses many <color=#89D9FF>fire-element magic attacks</color> including the powerful <color=#FFFFD8>Red Dragon Screech</color>. Focuses attacks on a single target during <color=#FFFFD8>On the Hunt</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down\n \nUses many <color=#95C7FF>fire-element magic attacks</color> including <color=#D9DA59>Red Dragon Screech</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Breath</color>."
+        },
+        {
+            "id": 130000002509101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Bravery</color>, and subsequently uses many <color=#95C7FF>physical attacks</color>. Has high elemental resistance and reduces damage of <color=#95C7FF>all elemental attacks</color>."
         },
         {
             "id": 130000002510001,
-            "value": "Immune to darkness, silence, stun, fatigue, fog, ATK Down, and MATK Down.\n \nUses many <color=#89D9FF>fire-element attacks</color> including the powerful multi-target attack <color=#FFFFD8>Hellfire</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses many <color=#95C7FF>fire-element attacks</color>."
         },
         {
             "id": 130000002510002,
-            "value": "Immune to darkness, silence, stun, fatigue, fog, ATK Down, and MATK Down.\n\nSince it frequently uses<color=#89D9FF>fire-element attacks</color>, <color=#89D9FF>Fire Resistance Up</color> is effective.\nForce Gauge: <color=#FFFFD8>Ignition</color> can only be depleted with <color=#89D9FF>ice-element attacks</color>. \nDestroying sigils quickly during <color=#FFFFD8>Incinerate</color> lowers the potency of <color=#FFFFD8>Hellfire</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \n<color=#95C7FF>Fire potency</color> changes based on Force Gauge: <color=#D9DA59>Ignition</color>. The gauge can only be depleted with <color=#95C7FF>ice-element abilities</color>. Destroying more sigils during <color=#D9DA59>Incinerate</color> lowers the potency of <color=#D9DA59>Hellfire</color>."
         },
         {
             "id": 130000002512001,
-            "value": "Immune to poison, darkness, silence, stun, fatigue, and fog.\n \nHas extremely high physical defense. Uses many <color=#89D9FF>ice-element magic attacks</color> including the powerful multi-target attack <color=#FFFFD8>Diamond Dust</color>. Force Gauge: <color=#FFFFD8>Ice Age</color> can only be depleted with <color=#89D9FF>fire-element attacks</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>ice-element magic attacks</color>. <color=#95C7FF>Fire resistance</color> changes based on Force Gauge: <color=#D9DA59>Ice Age</color>. The gauge can only be depleted with <color=#95C7FF>fire-element abilities</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002513001,
-            "value": "Immune to darkness, stun, ATK Down, DEF Down, MATK Down, and MDEF Down.\n \nHas extremely high physical attack and uses many <color=#89D9FF>physical attacks</color>. Unleashes a powerful linked attack with Vajradhara Tai, but afterward becomes incapacitated with greatly lowered physical defense."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <color=#95C7FF>physical attacks</color>. Unleashes a powerful linked attack with <color=#95C7FF>Vajradhara Tai</color>, but afterward becomes <color=#95C7FF>incapacitated</color> for a certain amount of time and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> on self."
         },
         {
             "id": 130000002513101,
-            "value": "Immune to darkness, stun, ATK Down, DEF Down, MATK Down, and MDEF Down.\n \nHas extremely low physical and magic defense and uses many <color=#89D9FF>physical attacks</color>. Unleashes a powerful linked attack with Vajradhara Lin, and afterward grants self <color=#89D9FF>Physical Resistance or Magic Resistance</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <color=#95C7FF>physical attacks</color>. Unleashes a powerful linked attack with <color=#95C7FF>Vajradhara Lin</color>, and afterward grants self <color=#95C7FF><sprite=\"tmp_icon\" index=594>Physical Resistance</color> or <color=#95C7FF><sprite=\"tmp_icon\" index=595>Magic Resistance</color>."
         },
         {
             "id": 130000002514001,
-            "value": "Immune to darkness, stun, ATK Down, DEF Down, MATK Down, and MDEF Down.\n \nHas extremely high physical attack and uses many <color=#89D9FF>physical attacks</color>. Unleashes a powerful linked attack with Vajradhara Wu, but afterward becomes incapacitated with greatly lowered physical defense."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <color=#95C7FF>physical attacks</color>. Unleashes a powerful linked attack with <color=#95C7FF>Vajradhara Wu</color>, but afterward becomes <color=#95C7FF>incapacitated</color> for a certain amount of time and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> on self."
         },
         {
             "id": 130000002514101,
-            "value": "Immune to darkness, stun, ATK Down, DEF Down, MATK Down, and MDEF Down.\n \nHas extremely low physical and magic defense and uses many <color=#89D9FF>physical attacks</color>. Unleashes a powerful linked attack with Vajradhara Tamb, and afterward grants self <color=#89D9FF>Physical Resistance or Magic Resistance</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <color=#95C7FF>physical attacks</color>. Unleashes a powerful linked attack with <color=#95C7FF>Vajradhara Tamb</color>, and afterward grants self <color=#95C7FF><sprite=\"tmp_icon\" index=594>Physical Resistance</color> or <color=#95C7FF><sprite=\"tmp_icon\" index=595>Magic Resistance</color>."
+        },
+        {
+            "id": 130000002516031,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n \n<color=#95C7FF>ATK</color> changes based on Force Gauge: <color=#D9DA59>Charge</color>. The gauge can be depleted with damage. <color=#95C7FF>Restores own HP</color> during stream phase <color=#D9DA59>Mend</color>.\n \nAbilities that deal great damage and buffs like <color=#95C7FF><sprite=\"tmp_icon\" index=323>DEF Up</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002516036,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n \nAt the start of battle, inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> on all targets with <color=#D9DA59>Rush</color>. Uses <color=#D9DA59>Bolt Bomb</color> to attack targets inflicted with <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color>."
         },
         {
             "id": 130000002517001,
-            "value": "No immunities.\n \n<color=#89D9FF>Extremely vulnerable to earth-element attacks.</color> Uses <color=#89D9FF>water-element magic attacks</color> including the powerful multi-target attack <color=#FFFFD8>Water Surge</color>.\n \nCalls additional allies to battle, and becomes aggressive when allies are defeated. Uses many powerful abilities to support allies, such as <color=#FFFFD8>Spur</color>, which grants ATK Up and MATK Up."
+            "value": "Immunities: None\n \nUses <color=#95C7FF>water-element magic attacks</color> including the <color=#95C7FF>powerful multi-target attack</color> <color=#D9DA59>Water Surge</color>. Calls additional allies to battle, and becomes aggressive when allies are defeated.\n \n<color=#95C7FF>Magic attacks</color> and <color=#95C7FF>multi-target attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002518001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#D9DA59>Threat Assessment I</color> to determine the <color=#95C7FF>elements</color> of the target's powerful abilities, and acquire <color=#95C7FF>resistances to those elements</color>.\n \n<color=#95C7FF>Resistance</color> to only one element can be acquired at a time."
+        },
+        {
+            "id": 130000002518101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#D9DA59>Threat Assessment II</color> to determine the elements and physical or magic properties of the target's powerful abilities, and acquire resistances to those elements and properties.\n \n<color=#95C7FF>Resistances</color> to only one element and one property can be acquired at a time."
         },
         {
             "id": 130000002521001,
-            "value": "Immune to poison, darkness, silence, stun, fatigue, and fog, DEF Down, and MDEF Down.\n \nHas high physical defense and uses many <color=#89D9FF>physical attacks</color>. Frequently grants self ATK Up with <color=#FFFFD8>Furious Tantrum</color>. Counters with magic attacks during <color=#FFFFD8>Alert</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nFrequently grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Furious Tantrum</color>. <color=#95C7FF>Counters magic attacks</color> during <color=#D9DA59>Alert</color>.\n \nPhysical attacks</color> are effective during <color=#D9DA59>Alert</color>."
+        },
+        {
+            "id": 130000002530001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<color=#95C7FF>Lightning potency</color> changes based on Force Gauge: <color=#D9DA59>Lightning</color>. The gauge can be depleted with damage. During <color=#D9DA59>Stormcharge</color>, the gauge fills quickly."
         }
     ]
 }

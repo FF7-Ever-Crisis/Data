@@ -73,6 +73,14 @@
             "value": "The next attack will destroy the remaining sigils. \nTry using an ability."
         },
         {
+            "id": 970000101101102,
+            "value": "By destroying all the sigils, you have interrupted the enemy,\ncausing them to become incapacitated."
+        },
+        {
+            "id": 970000101101103,
+            "value": "While the enemy is in this state, the ATB gauge fills faster.\nUse this chance to attack or help your party recover."
+        },
+        {
             "id": 970000101101201,
             "value": "Unleashing a limit break simultaneously with other characters \nhas benefits such as increased damage."
         },
@@ -83,6 +91,10 @@
         {
             "id": 970000101101301,
             "value": "Unleash the limit breaks of the other characters."
+        },
+        {
+            "id": 970000101400101,
+            "value": "Story Selection"
         },
         {
             "id": 970000201000101,
@@ -110,7 +122,7 @@
         },
         {
             "id": 970000201100104,
-            "value": "R. abilities (Reinforcement abilities) have passive benefits that are always in effect \nwhen equipped with a main weapon, ability weapon, or sub weapon."
+            "value": "R. abilities (Reinforcement abilities) have passive benefits that are always in \neffect when equipped with a main weapon, ability weapon, or sub weapon."
         },
         {
             "id": 970000201100105,
@@ -119,6 +131,10 @@
         {
             "id": 970000201100106,
             "value": "Further equipment details can be viewed from Help."
+        },
+        {
+            "id": 970000201100107,
+            "value": "L. abilities (Limit abilities) can be used during battle if limit breaks\nor summon abilities are equipped."
         },
         {
             "id": 970000201300101,
@@ -161,12 +177,8 @@
             "value": "The Workshop"
         },
         {
-            "id": 970000203000101,
-            "value": "Materia can be enhanced using materials and other materia."
-        },
-        {
-            "id": 970000203000102,
-            "value": "You can also sell materia you no longer need."
+            "id": 970000203000103,
+            "value": "Enhancing/Selling Materia"
         },
         {
             "id": 970000203100101,
@@ -186,7 +198,7 @@
         },
         {
             "id": 970000203300105,
-            "value": "The materia's details will then be displayed. \nIts rarity and sub stats will not be determined until it is complete."
+            "value": "The materia's details will then be displayed. \nIts rarity and sub stats will not be determined\nuntil it is complete."
         },
         {
             "id": 970000203300106,
@@ -225,40 +237,8 @@
             "value": "Use synthesis to obtain your ideal materia."
         },
         {
-            "id": 970000203400101,
-            "value": "You can now add additional materials."
-        },
-        {
-            "id": 970000203400102,
-            "value": "Try and create a Cure materia \nusing additional materials."
-        },
-        {
-            "id": 970000203400104,
-            "value": "Select the materials and amount to add. \nDifferent material combinations have different outcomes."
-        },
-        {
-            "id": 970000203400105,
-            "value": "Add 4 Synth Catalyst - Dawns and 4 Synth Catalyst - Days. \nThey will not be consumed for this attempt."
-        },
-        {
-            "id": 970000203400106,
-            "value": "Try shortening the creation time."
-        },
-        {
-            "id": 970000203400107,
-            "value": "Shortening synthesis duration. \nA Synthesis Bookmark will not be consumed for this attempt."
-        },
-        {
-            "id": 970000203400108,
-            "value": "You can now collect the materia."
-        },
-        {
-            "id": 970000203400109,
-            "value": "The combination and amount of materials used affect a materia's rarity and sub stats."
-        },
-        {
-            "id": 970000203400110,
-            "value": "Try synthesizing materia using different materials."
+            "id": 970000203400111,
+            "value": "Additional Synthesis Materials"
         },
         {
             "id": 970000203500101,
@@ -365,6 +345,10 @@
             "value": "The wishlist contains featured and selectable weapons for each draw."
         },
         {
+            "id": 970000206010104,
+            "value": "From here, you can check the rewards on your Stamp Sheet \nand change the rewards in the 'SELECT' Square."
+        },
+        {
             "id": 970000206100101,
             "value": "Duplicate Weapons 1"
         },
@@ -378,19 +362,19 @@
         },
         {
             "id": 970000207000101,
-            "value": "Multiplayer Battles"
+            "value": "Co-op Battles"
         },
         {
             "id": 970000207100101,
-            "value": "Attempting Multiplayer Battles 1"
+            "value": "Attempting Co-op Battles 1"
         },
         {
             "id": 970000207100102,
-            "value": "Attempting Multiplayer Battles 2"
+            "value": "Attempting Co-op Battles 2"
         },
         {
             "id": 970000207100103,
-            "value": "Attempting Multiplayer Battles 3"
+            "value": "Attempting Co-op Battles 3"
         },
         {
             "id": 970000207100104,
@@ -418,15 +402,11 @@
         },
         {
             "id": 970000208200301,
-            "value": "Dungeon-Specific Items"
+            "value": "Dungeon-Instant Items"
         },
         {
             "id": 970000209100101,
             "value": "In the home screen, you'll find the Mission Guide,\na feature that shows your next task."
-        },
-        {
-            "id": 970000209100102,
-            "value": "Obtain a weapon from the mission guide."
         },
         {
             "id": 970000209100103,
@@ -506,7 +486,7 @@
         },
         {
             "id": 970000213210102,
-            "value": "Tap Change Expedition, then select a destination \nand team to send on a new expedition."
+            "value": "Tap Expd., then select a destination and team\nto send on a new expedition."
         },
         {
             "id": 970000214000101,
@@ -526,7 +506,7 @@
         },
         {
             "id": 970000216100203,
-            "value": "In the Sealed Tower of the Cetra, aim for the bottom by clearing battles."
+            "value": "In the Sealed Tower of the Cetra,\naim for the bottom by clearing battles."
         },
         {
             "id": 970000216100204,
@@ -534,11 +514,19 @@
         },
         {
             "id": 970000216100205,
-            "value": "There are also environmental effects within the\nbattle tower that influence your party during battle."
+            "value": "There are also Battle Effects within the\nbattle tower that influence your party during battle."
         },
         {
             "id": 970000216100206,
             "value": "Give it a try."
+        },
+        {
+            "id": 970000216100207,
+            "value": "Recommended Party feature (Rcmd. Party) \nautomatically forms the optimal party for the stage."
+        },
+        {
+            "id": 970000216100208,
+            "value": "Now that you have a party, attempt a battle."
         },
         {
             "id": 970000217000101,
@@ -606,15 +594,19 @@
         },
         {
             "id": 970000220100101,
-            "value": "Character Story Quests"
-        },
-        {
-            "id": 970000221000101,
-            "value": "You can change your wallpaper from the menu screen."
+            "value": "Character Quests"
         },
         {
             "id": 970000221000103,
             "value": "Select a wallpaper to display."
+        },
+        {
+            "id": 970000221000104,
+            "value": "You can change your wallpaper."
+        },
+        {
+            "id": 970000221000105,
+            "value": "Select \"In Order\" to display selected wallpapers in order."
         },
         {
             "id": 970000222000101,
@@ -622,7 +614,11 @@
         },
         {
             "id": 970000222000102,
-            "value": "Premium Route rewards can be obtained\nby purchasing additional routes."
+            "value": "Premium Hunt rewards can be obtained\nby purchasing additional routes."
+        },
+        {
+            "id": 970000223000101,
+            "value": "Extra Sections"
         },
         {
             "id": 970000301000101,
@@ -634,7 +630,7 @@
         },
         {
             "id": 970000301000103,
-            "value": "The Double Speed feature is now available.\nThis allows you to toggle the speed of battles."
+            "value": "The Accelerated Mode feature is now available.\nThis allows you to toggle the speed of battles."
         },
         {
             "id": 970000301010101,
@@ -649,8 +645,16 @@
             "value": "Pyramid"
         },
         {
+            "id": 970003000000031,
+            "value": "Changing Gears"
+        },
+        {
             "id": 970003000000041,
             "value": "Incinerate"
+        },
+        {
+            "id": 970003100000011,
+            "value": "Force Gauge: Charge"
         },
         {
             "id": 970003100000021,
@@ -661,220 +665,252 @@
             "value": "Force Gauge: Ice Age"
         },
         {
+            "id": 970003100000041,
+            "value": "Force Gauge: Lightning"
+        },
+        {
+            "id": 971000101400101,
+            "value": "In story selection, you can choose from various tales in the FINAL FANTASY VII compilation."
+        },
+        {
             "id": 971000201000101,
-            "value": "A single party is comprised of <color=#95C7FF>up to 3 characters.</color> You can tap to switch characters or equipment.\n \n<color=#9DB2CC>*The party leader is the character you control at the beginning of battle.</color>"
+            "value": "A single party is comprised of <command_color=common_03>up to 3 characters.</color> You can tap to switch characters or equipment.\n \n<command_color=common_02>*The party leader is the character you control at the beginning of battle.</color>"
         },
         {
             "id": 971000201000102,
-            "value": "You can <color=#95C7FF>check the details of a battle</color> beforehand. Tap <color=#95C7FF>Recommended Formation</color> to automatically create an optimal party for that battle."
+            "value": "You can <command_color=common_03>check the details of a battle</color> beforehand. Tap <command_color=common_03>Recommended Formation</color> to automatically create an optimal party for that battle."
         },
         {
             "id": 971000201000103,
-            "value": "A character's <color=#95C7FF>power</color> is determined by their attributes and equipment, and a party's <color=#95C7FF>total power</color> by the sum of all characters' power. Every battle has a <color=#95C7FF>recommended power</color> value that indicates the battle's difficulty.\n<color=#9DB2CC>*Recommended power is only displayed before battle.</color>"
+            "value": "A character's <command_color=common_03>power</color> is determined by their attributes and equipment, and a party's <command_color=common_03>total power</color> by the sum of all characters' power. Every battle has a <command_color=common_03>recommended power</color> value that indicates the battle's difficulty.\n<command_color=common_02>*Recommended power is only displayed before battle.</color>"
         },
         {
             "id": 971000201400101,
-            "value": "A cooldown timer is triggered when starting a summon stream mission. The timer is shared across all summons.\n  \n<color=#9DB2CC>*The cooldown timer is not triggered when changing missions for the first time.</color>"
+            "value": "Binding a summon allows you to equip their ability <command_color=common_03>in place of a limit break</color>.\n\n<command_color=common_02>*Each summon ability can be equipped by only one member in your party.</color>"
         },
         {
             "id": 971000202300101,
-            "value": "At the workshop, weapon parts can be converted into <color=#95C7FF>weapon medals</color>, which can then be used at the exchange."
+            "value": "At the workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
+        },
+        {
+            "id": 971000203000101,
+            "value": "Materia can be enhanced using <command_color=common_03>materials and other materia</color>. You can also sell materia you no longer need."
         },
         {
             "id": 971000203100101,
-            "value": "<color=#95C7FF>Synthesis</color> has been unlocked. You can now <color=#95C7FF>synthesize materia</color> through Enhance."
+            "value": "<command_color=common_03>Synthesis</color> has been unlocked. You can now <command_color=common_03>synthesize materia</color> through Enhance."
+        },
+        {
+            "id": 971000203400111,
+            "value": "<command_color=common_03>Additional materials</color> can now be used during synthesis. Adding a certain amount of materials will affect the materia's outcome.\n \n<command_color=common_02>*The additional materials that can be used vary with each materia type.</color>"
         },
         {
             "id": 971000203600101,
-            "value": "<color=#95C7FF>Upgrade Materia</color> has been unlocked. You can <color=#95C7FF>further enhance materia</color> through Enhance Materia."
+            "value": "<command_color=common_03>Upgrade Materia</color> has been unlocked. You can <command_color=common_03>further enhance materia</color> through Enhance Materia."
         },
         {
             "id": 971000204000101,
-            "value": "<color=#95C7FF>Character streams</color> have been unlocked. You can <color=#95C7FF>boost characters' stats</color> as well as <color=#95C7FF>acquire and enhance their limit breaks</color>.\n \nCharacter streams can be accessed from Growth."
+            "value": "<command_color=common_03>Character streams</color> have been unlocked. You can <command_color=common_03>boost characters' stats</color> as well as <command_color=common_03>acquire and enhance their limit breaks</color>.\n \nCharacter streams can be accessed from Growth."
         },
         {
             "id": 971000204100101,
-            "value": "<color=#95C7FF>Unlocking statstream nodes increases the stat as shown on the node.</color>\n \n<color=#9DB2CC>*Character-specific or common memories are required to unlock nodes.</color>"
+            "value": "<command_color=common_03>Unlocking Character Stream nodes increases the stat as shown on the node.</color>\n \n<command_color=common_02>*Character-specific memories or common pieces are required to unlock nodes.</color>"
         },
         {
             "id": 971000204200101,
-            "value": "New limit breaks can now be acquired through <color=#95C7FF>character streams</color>."
+            "value": "New limit breaks can now be acquired through <command_color=common_03>Character Streams</color>."
         },
         {
             "id": 971000205000101,
-            "value": "<color=#95C7FF>Summon streams</color> have been unlocked. You can bind summons to acquire and enhance their abilities.\n \nSummon streams can be accessed from Growth."
+            "value": "<command_color=common_03>Summon streams</color> have been unlocked. \nThey can be accessed from the growth menu.\n\nYou can bind summons to acquire and enhance their abilities.\nTry acccessing Summon streams to learn more."
         },
         {
             "id": 971000205100101,
-            "value": "<color=#95C7FF>Completing the Pact Missions</color> of a summon allows you to bind that summon and equip one of their abilities as <color=#95C7FF>an L. ability in place of a limit break</color>.\n  \n<color=#9DB2CC>*Pact Mission details can be viewed from the list of stream missions.</color>"
+            "value": "<command_color=common_03>Completing the Pact Missions</color> of a summon allows you to bind that summon and equip one of their abilities as <command_color=common_03>an L. ability in place of a limit break</color>.\n  \n<command_color=common_02>*Pact Mission details can be viewed from the list of stream missions.</color>"
         },
         {
             "id": 971000205100103,
-            "value": "A <color=#95C7FF>cooldown timer</color> is triggered when starting or changing missions. <color=#95C7FF>Until the timer is up, you must wait to begin or change missions.</color>\n<color=#9DB2CC>*The cooldown timer is shared across all summons.\n*The cooldown timer is not triggered when changing missions for the first time.</color>"
+            "value": "A <command_color=common_03>cooldown timer</color> is triggered when starting or changing missions. <command_color=common_03>Until the timer is up, you must wait to begin or change missions.</color>\n<command_color=common_02>*The cooldown timer is shared across all summons.\n*The cooldown timer is not triggered when changing missions for the first time.</color>"
         },
         {
             "id": 971000206000101,
-            "value": "There are three types of <color=#95C7FF>draws:</color>\n  \n- Stamp draw: A draw that yields a stamp for every Draw 10\n- Special draw: A special draw\n- Ticket draw: A draw that requires tickets"
+            "value": "There are three types of <command_color=common_03>draws</color>:\n- Special: A unique type of draw\n- Featured: A draw that yields a stamp for every 10 Draw\n- Tickets: A draw that requires tickets"
         },
         {
             "id": 971000206000102,
-            "value": "In a <color=#95C7FF>stamp draw</color>, a <color=#95C7FF>Draw 10</color> yields one or several stamps for your <color=#95C7FF>stamp card.</color> You will <color=#95C7FF>obtain the rewards on the stamped squares.</color>\n \n<color=#9DB2CC>*Progress can be viewed from stamp card details.</color>"
+            "value": "In a <command_color=common_03>New Weapon Featured Draw</color>, a <command_color=common_03>Draw 10</color> yields one or several stamps for your <command_color=common_03>stamp card.</color> You will <command_color=common_03>obtain the rewards on the stamped squares.</color>\n \n<command_color=common_02>*Progress can be viewed from stamp card details.</color>"
         },
         {
             "id": 971000206000105,
-            "value": "<color=#95C7FF>Gear</color> can be obtained from stamp cards. Gear changes your appearance and shares the effects of its R. abilities (Reinforcement abilities)."
+            "value": "<command_color=common_03>Gear</color> can be obtained from stamp cards. Gear changes your appearance and shares the effects of its R. abilities (Reinforcement abilities)."
         },
         {
             "id": 971000206100101,
-            "value": "When obtaining <color=#95C7FF>a duplicate weapon of a higher rarity</color>, the rarity of <color=#95C7FF>your currently-held weapon will increase to match</color> that of the new weapon."
+            "value": "When obtaining <command_color=common_03>a duplicate weapon of a higher rarity</color>, the rarity of <command_color=common_03>your currently-held weapon will increase to match</color> that of the new weapon."
         },
         {
             "id": 971000206100102,
-            "value": "<color=#95C7FF>The duplicate weapon</color> will then be sent to <color=#95C7FF>the armory</color>.\n  \nIf it was of a <color=#95C7FF>higher rarity</color> than the one held, the <color=#95C7FF>rarity will decrease to match that of the one held.</color>"
+            "value": "<command_color=common_03>The duplicate weapon</color> will then be sent to <command_color=common_03>the armory</color>.\n  \nIf it was of a <command_color=common_03>higher rarity</color> than the one held, the <command_color=common_03>rarity will decrease to match that of the one held.</color>"
         },
         {
             "id": 971000206200101,
-            "value": "Stamp cards have <color=#95C7FF>\"Select\" squares</color> that allow you to select one reward from several.\n \n<color=#9DB2CC>*If a \"Select\" square reward has not yet been obtained, it can be changed from the stamp card details.</color>"
+            "value": "Stamp cards have <command_color=common_03>\"Select\" squares</color> that allow you to select one reward from several.\n \n<command_color=common_02>*If a \"Select\" square reward has not yet been obtained, it can be changed from the stamp card details.</color>"
         },
         {
             "id": 971000207000101,
-            "value": "<color=#95C7FF>Multiplayer battles</color> have been unlocked. <color=#95C7FF>Team up with other players</color> to take on enemies in battle.\n \nMultiplayer battles can be accessed from Multiplayer Content."
+            "value": "<command_color=common_03>Co-op battles</color> have been unlocked. <command_color=common_03>Team up with other players</color> to take on enemies in battle.\n \nCo-op battles can be accessed from Co-op Content."
         },
         {
             "id": 971000207100101,
-            "value": "You can create a lobby to search for other players, or join another player's lobby by invitation or the room ID search."
+            "value": "To take part in a Co-op battle, you can <command_color=common_03>Join Co-op to search for other players</color>, or <command_color=common_03>join another player's lobby by invitation or the room ID search.</color>"
         },
         {
             "id": 971000207100102,
-            "value": "There are two ways to look for party members.\n \nPrivate matches allow you to invite friends, while random matches automatically group you with other players who wish to partake in the same battle."
+            "value": "There are two ways to look for party members.\n \n<command_color=common_03>Private matches allow you to invite friends,</color> while <command_color=common_03>random matches automatically group you with other players</color> who wish to partake in the same battle."
         },
         {
             "id": 971000207100103,
-            "value": "To participate in random matches, your power must meet the required power shown in the stage details.\n \n*Stamina will not be consumed until after your first victory."
+            "value": "To participate in <command_color=common_03>Random Matches</color>, your Power must meet the <command_color=common_03>Required Power</color> shown in the Stage Info.\n \n<command_color=common_02>*Stamina will not be consumed until after your first victory.</color>"
         },
         {
             "id": 971000207100104,
-            "value": "In multiplayer battles, you can revive allies with the special ability Raise.\n \n*Each ally can only be revived once."
+            "value": "In co-op battles, you can <command_color=common_03>revive</color> allies with the special ability <command_color=common_03>Raise.</color>\n \n<command_color=common_02>*Each ally can only be revived once.</color>"
         },
         {
             "id": 971000207100105,
-            "value": "When teaming up with a player for the first time, you will receive a first-time matching reward after the battle."
+            "value": "When teaming up with a player for the first time, you will receive a <command_color=common_03>First-Time Match Reward</color> after the battle."
         },
         {
             "id": 971000207200101,
-            "value": "The reward varies based on the number of players matched.\n \n1 - 20 players: 50 blue crystals\n21 - 200 players: 20 blue crystals\n201+ players: Multiplayer medals"
+            "value": "The reward varies based on the number of players matched.\n<command_color=common_03> 1-30 players: Blue Crystal x100\n31-50 players: Blue Crystal x50\n51-200 players: Blue Crystal x10\n201+ players: Co-op Medals</color>"
         },
         {
             "id": 971000208000101,
-            "value": "<color=#95C7FF>Criterion Dungeons</color> have been unlocked. This feature allows you to <color=#95C7FF>explore dungeons from the story</color> once more. The higher the dungeon difficulty and the higher your rank, the better the rewards.\n \nCriterion Dungeons can be accessed from Solo Content."
+            "value": "<command_color=common_03>Criterion Dungeons</color> have been unlocked.\nThey can be accessed from Solo Content.\nThis feature allows you to <command_color=common_03>explore dungeons from the story</color> once more.\nClear the dungeon for rewards, and complete dungeon-specific missions for additional rewards.\n"
         },
         {
             "id": 971000208100101,
-            "value": "Criterion Dungeons allow you to revisit dungeons from the story for further exploration or to take on battles.\n \n*Completing missions yield additional rewards."
+            "value": "<command_color=common_03>Criterion Dungeons</color> allow you to revisit dungeons from the story for further exploration or to take on battles.\n \n<command_color=common_02>*Completing missions yield additional rewards.</color>"
         },
         {
             "id": 971000208200101,
-            "value": "Touching a symbol will trigger a boss battle. Not only will HP not be restored after each battle, but damage taken will also lower your max HP."
+            "value": "Touching a symbol will trigger a boss battle. \nNot only will <command_color=common_03>HP not be restored after each battle, but damage taken will also lower your max HP.</color>"
         },
         {
             "id": 971000208200301,
-            "value": "Dungeon-specific items can only be used within the respective dungeons. They can be accessed from the bag icon in the upper right."
+            "value": "Dungeon-Instant items can <command_color=common_03>only be used within the respective dungeons.</color>\nThey can be <command_color=common_03>accessed from the bag icon</color> in the upper right."
         },
         {
             "id": 971000212000101,
-            "value": "<color=#95C7FF>Enhancement quests</color> have been unlocked. These quests yield lots of EXP and the materials necessary to <color=#95C7FF>enhance characters and equipment</color>. \n \nEnhancement quests can be accessed from Solo Content."
+            "value": "<command_color=common_03>Enhancement quests</color> have been unlocked. These quests yield lots of EXP and the materials necessary to <command_color=common_03>enhance characters and equipment</color>. \n \nEnhancement quests can be accessed from Solo Content."
         },
         {
             "id": 971000212100101,
-            "value": "<color=#95C7FF>EXP, enhance materials, and synthesis materials</color> can be obtained from each quest.\n \n<color=#9DB2CC>*<sprite=\"tmp_icon\" index=782>(Stamina) is required to attempt these quests.</color>"
+            "value": "<command_color=common_03>EXP, enhance materials, and synthesis materials</color> can be obtained from each quest.\n \n<command_color=common_02>*<sprite=\"tmp_icon\" index=782>(Stamina) is required to attempt these quests.</color>"
         },
         {
             "id": 971000213000101,
-            "value": "The <color=#95C7FF>chocobo farm</color> has been unlocked. Here, you can <color=#95C7FF>purchase chocobos</color> or go on <color=#95C7FF>expeditions</color>.\n \nThe chocobo farm can be accessed from Chocobos."
+            "value": "The <command_color=common_03>chocobo farm</color> has been unlocked. Here, you can <command_color=common_03>purchase chocobos</color> or go on <command_color=common_03>expeditions</color>.\n \nThe chocobo farm can be accessed from Chocobos."
         },
         {
             "id": 971000213200101,
-            "value": "Through <color=#661A00>chocobo expeditions</color>, you will <color=#661A00>discover items after a set amount of time</color>. The time and items vary with each chocobo's abilities. Characters sent on an expedition will <color=#661A00>earn EXP</color>."
+            "value": "Through <command_color=common_03>chocobo expeditions</color>, you will <command_color=common_03>discover items after a set amount of time</color>. The time and items vary with each chocobo's abilities. Characters sent on an expedition will <command_color=common_03>earn EXP</color>."
         },
         {
             "id": 971000213200102,
-            "value": "There are <color=#661A00>different types</color> of expedition areas, and <color=#661A00>only chocobos that can traverse the respective areas</color> can be dispatched. Tap and hold on a chocobo to view their details."
+            "value": "Expedition areas each have a <command_color=common_03>field aptitude</color>, and <command_color=common_03>only chocobos with the corresponding field aptitude</color> can be dispatched. \nTap and hold on a chocobo to view their field aptitude."
         },
         {
             "id": 971000214000101,
-            "value": "Completed battles can be reattempted with <sprite=\"tmp_icon\" index=781>(<color=#95C7FF>Stamina Boost</color>), which yields <color=#95C7FF>proportional EXP and rewards</color> for <sprite=\"tmp_icon\" index=782>(stamina) consumed in a single attempt.\n \n<color=#9DB2CC>*Stamina Boost cannot be used for all battles.</color>"
+            "value": "Completed battles can be reattempted with <sprite=\"tmp_icon\" index=781>(<command_color=common_03>Stamina Boost</color>), which yields <command_color=common_03>proportional EXP and rewards</color> for <sprite=\"tmp_icon\" index=782>(stamina) consumed in a single attempt.\n \n<command_color=common_02>*Stamina Boost cannot be used for all battles.</color>"
         },
         {
             "id": 971000215000101,
-            "value": "You can check the items in your inventory from <color=#95C7FF>Items</color>.\n  \nYou can also <color=#95C7FF>jump to the locations where items can be obtained</color> from \"Acquired via.\""
+            "value": "You can check the items in your inventory from <command_color=common_03>Items</color>.\n  \nYou can also <command_color=common_03>jump to the locations where items can be obtained</color> from \"Acquired via.\""
         },
         {
             "id": 971000216000101,
-            "value": "The <color=#95C7FF>battle tower</color> has been unlocked. Progressing through this feature yields various rewards.\n \nThe tower can be accessed from Solo Content."
+            "value": "The <command_color=common_03>battle tower</color> has been unlocked. Progressing through this feature yields various rewards.\n \nThe tower can be accessed from Solo Content."
         },
         {
             "id": 971000217000101,
-            "value": "<color=#95C7FF>Crisis Dungeons</color> have been unlocked. These dungeons have a higher difficulty than criterion dungeons.\n \nCrisis Dungeons can be accessed from Solo Content."
+            "value": "<command_color=common_03>Crisis Dungeons</color> have been unlocked. These dungeons have a higher difficulty than criterion dungeons.\n \nCrisis Dungeons can be accessed from Solo Content."
         },
         {
             "id": 971000217100101,
-            "value": "The objective is to explore the dungeon and aim for a high score. The harder the difficulty and higher your rank, the better the rewards."
+            "value": "The objective of <command_color=common_03>Crisis Dungeons</color> is to explore the dungeon and <command_color=common_03>aim for a high score.</color> The harder the difficulty and higher your rank, the better the rewards."
         },
         {
             "id": 971000217100102,
-            "value": "Rewards include <color=#95C7FF>recipes for materia synthesis and <sprite=\"tmp_icon\" index=772>(crisis medals)</color>. Create new materia to strengthen your party and achieve even higher scores."
+            "value": "Rewards include <command_color=common_03>recipes for materia synthesis and <sprite=\"tmp_icon\" index=772>(crisis medals)</color>. Create new materia to strengthen your party and achieve even higher scores."
         },
         {
             "id": 971000217100103,
-            "value": "<sprite=\"tmp_icon\" index=775><color=#95C7FF>(Dungeon keys)</color> are required to attempt Crisis Dungeons. One is replenished <color=#95C7FF>daily</color>, but they can also be obtained with <color=#95C7FF>crystals</color>."
+            "value": "<sprite=\"tmp_icon\" index=775><command_color=common_03>(Dungeon keys)</color> are required to attempt Crisis Dungeons. One is replenished <command_color=common_03>daily</color>, but they can also be obtained with <command_color=common_03>crystals</color>."
         },
         {
             "id": 971000217300101,
-            "value": "After defeating a Symbol enemy, you will be awarded a Trance Ability.\n*You can choose 1 Trance Ability upon defeating a Symbol enemy."
+            "value": "After defeating a Symbol enemy, you will be awarded a <command_color=common_03>Trance Ability.</color>\n<command_color=common_02>*You can choose 1 Trance Ability upon defeating a Symbol enemy.</color>"
         },
         {
             "id": 971000218000101,
-            "value": "Completing <color=#95C7FF>summon quests</color> unlocks <color=#95C7FF>Pact Missions</color> in summon streams. They also yield <color=#95C7FF>quest-exclusive weapons</color> and <color=#95C7FF>memories</color> used to unlock summon stream nodes."
+            "value": "Completing <command_color=common_03>Summon Quests</color> unlocks <command_color=common_03>Pact Missions</color> in summon streams. They also yield <command_color=common_03>quest-exclusive weapons</color> and <command_color=common_03>memories</color> used to unlock Summon Stream nodes."
         },
         {
             "id": 971000218100101,
-            "value": "<color=#95C7FF>Summon quests</color> allow you to battle summons and obtain <color=#95C7FF>summon weapons and summon enhance materials</color>. Completing summon battles unlocks the <color=#95C7FF>respective summon streams</color>."
+            "value": "<command_color=common_03>Summon quests</color> allow you to battle summons and obtain <command_color=common_03>Summon weapons and Summon enhancement materials</color>. Completing Summon battles unlocks the <command_color=common_03>respective Summon Streams</color>."
         },
         {
             "id": 971000219000101,
-            "value": "<color=#95C7FF>Daily quests</color> have been unlocked. The quests are comprised of <color=#95C7FF>requests</color> that are updated <color=#95C7FF>every day</color>.\n \nDaily quests can be accessed from Solo Content."
+            "value": "<command_color=common_03>Daily quests</color> have been unlocked. The quests are comprised of <command_color=common_03>requests</color> that are updated <command_color=common_03>every day</color>.\n \nDaily quests can be accessed from Solo Content."
         },
         {
             "id": 971000219100101,
-            "value": "<color=#95C7FF>Daily quests</color> are comprised of <color=#95C7FF>different types of requests</color>, and each type has different rewards. Some requests allow you to <color=#95C7FF>select the reward of your choice.</color>"
+            "value": "<command_color=common_03>Daily quests</color> are comprised of <command_color=common_03>different types of requests</color>, and each type has different rewards. Some requests allow you to <command_color=common_03>select the reward of your choice.</color>"
         },
         {
             "id": 971000220000101,
-            "value": "Story quests have been unlocked. They can be accessed from Solo Content.\n \nThese stories allow you to learn the original stories of each character."
+            "value": "<command_color=common_03>Story quests</color> have been unlocked. They can be accessed from Solo Content.\n \nThese stories allow you to <command_color=common_03>learn more about each character.</color>"
         },
         {
             "id": 971000220100101,
-            "value": "Original stories and titles can be obtained from character story quests."
+            "value": "Learn more about each character and <command_color=common_03>obtain Profile Pieces</color> from <command_color=common_03>Character quests</color>."
+        },
+        {
+            "id": 971000223000101,
+            "value": "In Extra Sections, you can challenge <command_color=common_03>a stronger version of the boss</color> from that chapter. Make sure you're prepared before taking on these difficult battles.\n \n<command_color=common_02>*Extra Sections do not affect story progression.</color>"
         },
         {
             "id": 971003000000011,
-            "value": "Getting hit with abilities fills an enemy's counter gauge, and when the gauge is full, they can unleash a counterattack. Depending on the enemy, the counter gauge fills with either physical or magic attacks. Check the icons displayed for this information."
+            "value": "Getting hit with abilities fills an enemy's <command_color=common_03>counter gauge</color>, and <command_color=common_03>when the gauge is full, they can unleash a counterattack.</color> Depending on the enemy, the counter gauge fills with either physical or magic attacks.\n<command_color=common_03>Check the icons displayed for this information.</color>"
         },
         {
             "id": 971003000000021,
-            "value": "This ability imprisons and incapacitates a character, preventing them from using abilities or filling their ATB gauge. The incapacitated character cannot be freed by abilities and must wait until the stream phrase is over."
+            "value": "This ability imprisons and <command_color=common_03>incapacitates</color> a character, <command_color=common_03>preventing them from using abilities or filling their ATB gauge.</color> The incapacitated character cannot be freed by abilities and <command_color=common_03>must wait until the stream phase is over.</color>"
+        },
+        {
+            "id": 971003000000031,
+            "value": "The more time passes, <command_color=common_03>the stronger the enemy's attacks become</color>.\nDuring the stream phase, they will periodically shift to a higher <command_color=common_03>gear</color> and <command_color=common_03>use powerful abilities based on their gear</color>."
         },
         {
             "id": 971003000000041,
-            "value": "The <color=#89D9FF>Hellfire gauge</color> fills over time, and when the gauge is filled, the enemy can unleash a powerful ability.\n \nThe <color=#89D9FF>number of sigils remaining</color> when the gauge is filled will determine the ability's power. The <color=#89D9FF>fewer</color> sigils remaining, the <color=#89D9FF>weaker</color> the ability."
+            "value": "The <command_color=common_03>Hellfire gauge</color> fills over time, and when the gauge is filled, the enemy can unleash a powerful ability.\n \nThe <command_color=common_03>number of sigils remaining</color> when the gauge is filled will determine the ability's power. The <command_color=common_03>fewer</color> sigils remaining, the <command_color=common_03>weaker</color> the ability."
+        },
+        {
+            "id": 971003100000011,
+            "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>ATK</color>.\n \n<command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time."
         },
         {
             "id": 971003100000021,
-            "value": "The enemy's force gauge fills <color=#89D9FF>as they use their abilities</color>. The more the gauge is filled, the stronger their <color=#89D9FF>fire-based power</color>.\n \nDealing damage with <color=#89D9FF>ice-element abilities</color> will deplete the gauge."
+            "value": "The enemy's force gauge fills <command_color=common_03>as they use their abilities</color>. The more the gauge is filled, the stronger their <command_color=common_03>fire-based power</color>.\n \nDealing damage with <command_color=common_03>ice-element abilities</color> will deplete the gauge."
         },
         {
             "id": 971003100000031,
-            "value": "The enemy's force gauge fills <color=#89D9FF>as they use their abilities</color>. The more the gauge is filled, the stronger their <color=#89D9FF>fire-resistance</color>.\n \nDealing damage with <color=#89D9FF>fire-element abilities</color> will deplete the gauge. When the gauge is fully depleted, <color=#89D9FF>the enemy will become incapacitated</color> for a set amount of time."
+            "value": "The enemy's force gauge fills <command_color=common_03>as they use their abilities</color>. The more the gauge is filled, the stronger their <command_color=common_03>fire-resistance</color>.\n \nDealing damage with <command_color=common_03>fire-element abilities</color> will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time."
+        },
+        {
+            "id": 971003100000041,
+            "value": "The more the force gauge is filled, the stronger the enemy's <command_color=common_03>Lightning Potency</color> will become.\n<command_color=common_03>Damaging the enemy</color> will reduce the force gauge.\nThe force gauge <command_color=common_03>accumulates over time and when enemies use abilities.</color>"
         }
     ]
 }

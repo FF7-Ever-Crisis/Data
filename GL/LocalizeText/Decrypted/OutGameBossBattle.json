@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 212001,
-            "value": "Multi Battle"
+            "value": "Co-op Battle"
         },
         {
             "id": 212002,
@@ -34,15 +34,15 @@
         },
         {
             "id": 212010,
-            "value": "Enキャンペーン"
+            "value": "Campaigns"
         },
         {
             "id": 212011,
-            "value": "Enキャンペーン"
+            "value": "Campaigns"
         },
         {
             "id": 212012,
-            "value": "Enイベント"
+            "value": "Events"
         },
         {
             "id": 212013,
@@ -98,7 +98,7 @@
         },
         {
             "id": 212040,
-            "value": "Multiplayer Battles"
+            "value": "Co-op Battles"
         },
         {
             "id": 212041,
@@ -150,7 +150,7 @@
         },
         {
             "id": 212060,
-            "value": "*Random Match cannot be turned on if there is a player in the room\\nwithout the required Power."
+            "value": "*Random Match cannot be turned on if there are\\nplayers who have not reached the Req. Power."
         },
         {
             "id": 212061,
@@ -174,7 +174,7 @@
         },
         {
             "id": 212073,
-            "value": "Leave"
+            "value": "Exit"
         },
         {
             "id": 212074,
@@ -209,20 +209,28 @@
             "value": "From: "
         },
         {
+            "id": 212086,
+            "value": "Disband in:"
+        },
+        {
             "id": 212087,
-            "value": "A player is below the recommended power."
+            "value": "There are players who have not reached the Req. Power."
         },
         {
             "id": 212090,
-            "value": "Insufficient number of party members."
+            "value": "Not enough number of party members."
         },
         {
             "id": 212091,
             "value": "Lobby exited due to lost connection."
         },
         {
+            "id": 212092,
+            "value": "There is a player missing from the lobby."
+        },
+        {
             "id": 212093,
-            "value": "Enルームからは移動できません"
+            "value": "Can not enter the room."
         },
         {
             "id": 212094,
@@ -234,7 +242,7 @@
         },
         {
             "id": 212096,
-            "value": "Matching Count Reward"
+            "value": "Co-op Medal Rewards *Clear with friends x{0}"
         },
         {
             "id": 212097,
@@ -250,7 +258,7 @@
         },
         {
             "id": 212100,
-            "value": "Enバトル挑戦条件を満たしていません"
+            "value": "Requirements for this battle not met."
         },
         {
             "id": 212101,
@@ -270,7 +278,7 @@
         },
         {
             "id": 212105,
-            "value": "*Maximum amount of MP Medals held."
+            "value": "*Cannot hold any more Co-op Medals."
         },
         {
             "id": 212106,
@@ -278,7 +286,7 @@
         },
         {
             "id": 212107,
-            "value": "The party is full."
+            "value": "The lobby is full."
         },
         {
             "id": 212108,
@@ -286,7 +294,7 @@
         },
         {
             "id": 212109,
-            "value": "Multiplayer Battle Ended"
+            "value": "Co-op Battle Ended"
         },
         {
             "id": 212110,
@@ -294,7 +302,7 @@
         },
         {
             "id": 212111,
-            "value": "The multiplayer battle that you were participating in has ended."
+            "value": "The co-op battle that you were participating in has ended."
         },
         {
             "id": 212112,
@@ -370,11 +378,11 @@
         },
         {
             "id": 212130,
-            "value": "Notes Destroyed"
+            "value": "Sigils Destroyed"
         },
         {
             "id": 212131,
-            "value": "Notes Destroyed"
+            "value": "Weakness Exploited"
         },
         {
             "id": 212132,
@@ -434,7 +442,7 @@
         },
         {
             "id": 212146,
-            "value": ""
+            "value": "s"
         },
         {
             "id": 212147,
@@ -447,6 +455,10 @@
         {
             "id": 212149,
             "value": "Invitation available."
+        },
+        {
+            "id": 212150,
+            "value": "Already participating in another lobby.\\nTo accept a different invitation, tap <sprite=\"tmp_icon\" index=833> at the top left of the screen, and exit the current lobby."
         }
     ]
 }

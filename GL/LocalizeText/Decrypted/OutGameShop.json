@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 214001,
-            "value": "Consumables"
+            "value": "Consumable"
         },
         {
             "id": 214002,
@@ -10,7 +10,7 @@
         },
         {
             "id": 214003,
-            "value": "Customer Support"
+            "value": "Inquiries"
         },
         {
             "id": 214005,
@@ -18,7 +18,7 @@
         },
         {
             "id": 214014,
-            "value": "Purchase Bundle Pack"
+            "value": "Purchase Pack"
         },
         {
             "id": 214016,
@@ -114,7 +114,7 @@
         },
         {
             "id": 214085,
-            "value": "En次の入荷をお待ちください"
+            "value": "Please wait for the next refill."
         },
         {
             "id": 214087,
@@ -122,23 +122,23 @@
         },
         {
             "id": 214088,
-            "value": "Auto-refills in {0} day(s)."
+            "value": "Auto-refills in {0}d."
         },
         {
             "id": 214089,
-            "value": "Auto-refills in {0} hr."
+            "value": "Auto-refills in {0}h."
         },
         {
             "id": 214090,
-            "value": "Auto-refills in {0} min."
+            "value": "Auto-refills in {0}m."
         },
         {
             "id": 214091,
-            "value": "Auto-refills in {0} sec."
+            "value": "Auto-refills in {0}s."
         },
         {
             "id": 214092,
-            "value": "En{0}x{1}を消費して、交換しますか?"
+            "value": "Exchange {0} x{1}?"
         },
         {
             "id": 214093,
@@ -158,7 +158,7 @@
         },
         {
             "id": 214097,
-            "value": "En年齢確認"
+            "value": "Confirm Age"
         },
         {
             "id": 214098,
@@ -206,23 +206,23 @@
         },
         {
             "id": 214109,
-            "value": "En生年月を以下で登録しました。"
+            "value": "Please confirm your date of birth."
         },
         {
             "id": 214110,
-            "value": "En不正な生年月です。\\n正しい生年月を入力してください。"
+            "value": "Invalid date of birth. \\nPlease try again."
         },
         {
             "id": 214111,
-            "value": "Enあなたの登録年月"
+            "value": "Registered Birthdate"
         },
         {
             "id": 214112,
-            "value": "En{0}年{1}月"
+            "value": "{1}/{0}"
         },
         {
             "id": 214113,
-            "value": "En今月の課金上限に達しているため、購入できません"
+            "value": "Purchase failed. Monthly purchase limit has been reached."
         },
         {
             "id": 214114,
@@ -230,15 +230,15 @@
         },
         {
             "id": 214115,
-            "value": "En※この表示は「購入アラート」の設定から変更できます。"
+            "value": "*You can adjust this in Transaction Alerts"
         },
         {
             "id": 214116,
-            "value": "En購入できませんでした。\\nもう一度やり直してください。"
+            "value": "Unable to complete purchase.\\nPlease try again."
         },
         {
             "id": 214117,
-            "value": "En生年月を以下で登録します。\\nよろしいですか？"
+            "value": "Register your date of birth?"
         },
         {
             "id": 214118,
@@ -286,7 +286,7 @@
         },
         {
             "id": 214133,
-            "value": "Enウェア追加"
+            "value": "New Gear"
         },
         {
             "id": 214134,
@@ -294,7 +294,7 @@
         },
         {
             "id": 214135,
-            "value": "Enおすすめ"
+            "value": "Recommended"
         },
         {
             "id": 214137,
@@ -310,7 +310,7 @@
         },
         {
             "id": 214141,
-            "value": "En生年月が入力されていません"
+            "value": "Please enter a date of birth."
         },
         {
             "id": 214142,
@@ -337,6 +337,10 @@
             "value": "Cost"
         },
         {
+            "id": 214148,
+            "value": "¥"
+        },
+        {
             "id": 214149,
             "value": "N/A"
         },
@@ -353,6 +357,10 @@
             "value": "*The rarity of weapons already obtained will be upgraded based on certain conditions.\n*Weapons will be converted or sent to the armory based on auto-convert settings."
         },
         {
+            "id": 214153,
+            "value": "Shop Update"
+        },
+        {
             "id": 214154,
             "value": "Purchase Error"
         },
@@ -362,79 +370,79 @@
         },
         {
             "id": 214156,
-            "value": "En※ギルが不足しています。"
+            "value": "*Not enough gil."
         },
         {
             "id": 214157,
-            "value": "Consumables"
+            "value": "Consumable"
         },
         {
             "id": 214158,
-            "value": "En不明なエラーが発生し商品がありません。\\n状況が改善されない場合はお問い合わせください。"
+            "value": "An unknown error has occurred.\\nIf the situation persists, please contact us."
         },
         {
             "id": 214159,
-            "value": "Enアプリ内課金が利用できません。\\nお客様の端末の課金設定をご確認ください。"
+            "value": "In-app purchases are not available.\n\\nPlease check your device's billing settings."
         },
         {
             "id": 214160,
-            "value": "En不明なエラーが発生しました。"
+            "value": "An unknown error has occurred."
         },
         {
             "id": 214161,
-            "value": "En今月の購入金額が{0}円を超えます。\\n購入を続けますか？"
+            "value": "This month's purchase amount exceeds {0} yen.\n\\nPurchase?"
         },
         {
             "id": 214162,
-            "value": "En※ この表示は「課金購入アラート」より変更できます。"
+            "value": "*You can change whether to receive this in the settings."
         },
         {
             "id": 214163,
-            "value": "Enアプリ内課金が利用できない状態です。"
+            "value": "The purchase process has failed.\\nIf the situation does not improve, please contact us."
         },
         {
             "id": 214164,
-            "value": "En処理に失敗しました。\\n状況が改善されない場合はお問い合わせください。"
+            "value": "The purchase has failed."
         },
         {
             "id": 214165,
-            "value": "En購入処理に失敗しました。"
+            "value": "The purchase has failed."
         },
         {
             "id": 214166,
-            "value": "En購入処理に失敗しました。\\n時間をおいてから再度お試しください。"
+            "value": "The purchase has failed."
         },
         {
             "id": 214167,
-            "value": "En支払いがキャンセルされました。"
+            "value": "The purchase process has failed.\\nIf the situation does not improve, please contact us."
         },
         {
             "id": 214168,
-            "value": "En購入処理に失敗しました。\\n時間をおいてから再度お試しください。\\n\\n状況が改善されない場合はお問い合わせください。"
+            "value": "The purchase has failed."
         },
         {
             "id": 214169,
-            "value": "En購入が中断されました。"
+            "value": "The purchase has failed."
         },
         {
             "id": 214170,
-            "value": "En無効な処理が検出されました。\\n状況が改善されない場合はお問い合わせください。"
+            "value": "The purchase has failed."
         },
         {
             "id": 214171,
-            "value": "En無効な処理が検出されました。\\n問題解決のため「問い合わせる」より\\nお問い合わせください。"
+            "value": "The purchase process has failed.\\nIf the situation does not improve, please contact us."
         },
         {
             "id": 214172,
-            "value": "En購入処理に失敗しました。\\nGoogle Playにログインした状態で\\n時間をおいてから再度お試しください。\\n\\n状況が改善されない場合はお問い合わせください。"
+            "value": "The purchase process has failed.\\nPlease try again after logging into Google Play.\n\\n\\nIf the situation does not improve, please contact us."
         },
         {
             "id": 214173,
-            "value": "En返金処理に異常を確認しました。\\n現在、課金を制限しています。"
+            "value": "The purchase process has failed."
         },
         {
             "id": 214174,
-            "value": "Enレッドクリスタルの所持数が一定数を超えているため、\\n対象の商品を購入できません。"
+            "value": "The purchase process has failed.\\nYou cannot purchase the item as the number of\\nRed Crystals you have exceeds  the limit."
         },
         {
             "id": 214175,
@@ -446,11 +454,15 @@
         },
         {
             "id": 214177,
-            "value": "En1ヶ月の購入上限は{0}円までです。"
+            "value": "Your monthly purchase limit is {0} yen."
         },
         {
             "id": 214178,
-            "value": "Enあなたは{0}の未成年です。"
+            "value": "You are a minor. ({0})"
+        },
+        {
+            "id": 214179,
+            "value": "30,000 yen/month (tax incl.)"
         },
         {
             "id": 214180,
@@ -466,7 +478,7 @@
         },
         {
             "id": 214183,
-            "value": "*Unclaimed items will be sent to your gift box."
+            "value": "*Items will be sent to your gift box if your inv. is full."
         },
         {
             "id": 214184,
@@ -474,7 +486,7 @@
         },
         {
             "id": 214185,
-            "value": "En所持上限数を超えているため、購入できません。"
+            "value": "You cannot make this purchase as it exceeds the possession limit."
         },
         {
             "id": 214186,
@@ -482,7 +494,7 @@
         },
         {
             "id": 214187,
-            "value": "En特定商取引法に基づく表示/資金決済法に基づく表示"
+            "value": "Transactions Acts"
         },
         {
             "id": 214188,
@@ -490,11 +502,11 @@
         },
         {
             "id": 214189,
-            "value": "En{0}購入確認"
+            "value": "{0} Purchase Confirmation"
         },
         {
             "id": 214190,
-            "value": "Confirm"
+            "value": "Purchase Confirmation"
         },
         {
             "id": 214191,
@@ -502,7 +514,7 @@
         },
         {
             "id": 214192,
-            "value": "EnSOLD OUT"
+            "value": "Sold Out"
         },
         {
             "id": 214193,
@@ -514,7 +526,35 @@
         },
         {
             "id": 214195,
-            "value": "En確認"
+            "value": "Purchase"
+        },
+        {
+            "id": 214196,
+            "value": "Next purchasable:"
+        },
+        {
+            "id": 214197,
+            "value": "{0}'s Premium Hunt"
+        },
+        {
+            "id": 214198,
+            "value": "EC Pass"
+        },
+        {
+            "id": 214199,
+            "value": "Season Pass"
+        },
+        {
+            "id": 214200,
+            "value": "Items"
+        },
+        {
+            "id": 214201,
+            "value": "{0}\\n"
+        },
+        {
+            "id": 214202,
+            "value": "The target exchange is not found."
         }
     ]
 }

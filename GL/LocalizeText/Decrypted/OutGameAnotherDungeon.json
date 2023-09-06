@@ -38,7 +38,7 @@
         },
         {
             "id": 213010,
-            "value": "Enシンボルエネミー情報"
+            "value": "Symbol Enemies"
         },
         {
             "id": 213011,
@@ -58,15 +58,15 @@
         },
         {
             "id": 213015,
-            "value": "En- EVENT DUNGEON -"
+            "value": "Event Dungeon"
         },
         {
             "id": 213016,
-            "value": "En期間が過ぎているため、中断データを破棄しました。"
+            "value": "The Event has ended. Suspended data has been discarded."
         },
         {
             "id": 213017,
-            "value": "En期間が過ぎています。"
+            "value": "The Event has ended."
         },
         {
             "id": 213045,
@@ -222,11 +222,11 @@
         },
         {
             "id": 213109,
-            "value": "Insufficient items."
+            "value": "Not enough items."
         },
         {
             "id": 213110,
-            "value": "Cannot hold any more dungeon keys.\\n*Max.: {0}"
+            "value": "Cannot hold any more Dungeon Keys.\\n*Max.: {0}"
         },
         {
             "id": 213111,
@@ -298,11 +298,11 @@
         },
         {
             "id": 213130,
-            "value": ""
+            "value": "SS"
         },
         {
             "id": 213131,
-            "value": "Enアナザーダンジョンのチュートリアルが終わってません\\n再開しますか？\\n※チュートリアルが終わるまで他のダンジョンに挑戦できません"
+            "value": "The Criterion Dungeon tutorial is still in progress. Recommence?\n*Until completed, you cannot enter another dungeon."
         },
         {
             "id": 213132,
@@ -310,15 +310,15 @@
         },
         {
             "id": 213133,
-            "value": "En魔晄石またはクリスタル"
+            "value": "Crystals"
         },
         {
             "id": 213134,
-            "value": "En{0}個消費で{1}個交換"
+            "value": "Exchange {1} for {0}"
         },
         {
             "id": 213135,
-            "value": "En本日の交換可能数"
+            "value": "Today's exchanges:"
         },
         {
             "id": 213136,
@@ -346,11 +346,11 @@
         },
         {
             "id": 213142,
-            "value": "Missions"
+            "value": "Mission Info"
         },
         {
             "id": 213143,
-            "value": "Symbol Enemies"
+            "value": "Symbol Enemy Info"
         },
         {
             "id": 213144,
@@ -382,11 +382,11 @@
         },
         {
             "id": 213151,
-            "value": "En中断データがあります。\\n途中から再開しますか？\\n※再開しない場合、データは破棄されます。"
+            "value": "\"There is suspended data.\nDo you want to resume?\n*If you choose not, the data will be discarded.\""
         },
         {
             "id": 213152,
-            "value": "En中断データがあります。\\n途中から再開しますか？"
+            "value": "There is suspended data.\nDo you want to resume?"
         },
         {
             "id": 213153,
@@ -429,6 +429,10 @@
             "value": "Dungeon Missions"
         },
         {
+            "id": 213163,
+            "value": "*{2} Dungeon Key(s) are replenished every {3} at {1}."
+        },
+        {
             "id": 213164,
             "value": "Criterion Dungeon"
         },
@@ -461,6 +465,10 @@
             "value": "Initial"
         },
         {
+            "id": 213172,
+            "value": "Exchange"
+        },
+        {
             "id": 213173,
             "value": "Daily Exchanges"
         },
@@ -482,7 +490,7 @@
         },
         {
             "id": 213178,
-            "value": "Dungeon Details"
+            "value": "Dungeon Info"
         },
         {
             "id": 213179,
@@ -506,7 +514,23 @@
         },
         {
             "id": 213184,
-            "value": ""
+            "value": "Save Data Available"
+        },
+        {
+            "id": 213185,
+            "value": "Normal"
+        },
+        {
+            "id": 213186,
+            "value": "Hard"
+        },
+        {
+            "id": 213187,
+            "value": "Very Hard"
+        },
+        {
+            "id": 213188,
+            "value": "Extra"
         }
     ]
 }

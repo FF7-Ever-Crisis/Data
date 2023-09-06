@@ -21,6 +21,10 @@
             "value": "Stats"
         },
         {
+            "id": 204010,
+            "value": "Confirm"
+        },
+        {
             "id": 204011,
             "value": "Held"
         },
@@ -58,7 +62,7 @@
         },
         {
             "id": 204046,
-            "value": "Weapon Parts Exchange"
+            "value": "Claim Weapon Parts"
         },
         {
             "id": 204048,
@@ -74,11 +78,11 @@
         },
         {
             "id": 204052,
-            "value": ""
+            "value": "Weapon Medal"
         },
         {
             "id": 204056,
-            "value": "pts."
+            "value": "pts"
         },
         {
             "id": 204058,
@@ -102,7 +106,7 @@
         },
         {
             "id": 204074,
-            "value": "En→"
+            "value": "→"
         },
         {
             "id": 204075,
@@ -118,11 +122,15 @@
         },
         {
             "id": 204081,
-            "value": "No medals selected."
+            "value": "No Weapon Parts selected."
+        },
+        {
+            "id": 204082,
+            "value": "Switch"
         },
         {
             "id": 204083,
-            "value": "En{0} → {1}"
+            "value": "{0} → {1}"
         },
         {
             "id": 204085,
@@ -131,6 +139,10 @@
         {
             "id": 204086,
             "value": "No weapon selected."
+        },
+        {
+            "id": 204087,
+            "value": "Wielder:"
         },
         {
             "id": 204088,
@@ -174,11 +186,11 @@
         },
         {
             "id": 204098,
-            "value": "Insufficient materials."
+            "value": "Not enough materials."
         },
         {
             "id": 204099,
-            "value": "Insufficient Gil."
+            "value": "Not enough Gil."
         },
         {
             "id": 204100,
@@ -186,7 +198,7 @@
         },
         {
             "id": 204101,
-            "value": "Enhance?"
+            "value": "Consume the following to enhance?"
         },
         {
             "id": 204102,
@@ -198,7 +210,7 @@
         },
         {
             "id": 204104,
-            "value": "Uncap level?"
+            "value": "Consume the following to Uncap Level?"
         },
         {
             "id": 204105,
@@ -210,7 +222,7 @@
         },
         {
             "id": 204107,
-            "value": "Upgrade rarity?"
+            "value": "Consume the following to Upgrade Rarity?"
         },
         {
             "id": 204108,
@@ -218,7 +230,7 @@
         },
         {
             "id": 204109,
-            "value": "Overboost these weapons?"
+            "value": "Consume the following to Overboost?"
         },
         {
             "id": 204110,
@@ -226,7 +238,7 @@
         },
         {
             "id": 204111,
-            "value": "Overboost+ these weapons?"
+            "value": "Consume the following to Overboost+?"
         },
         {
             "id": 204112,
@@ -234,7 +246,7 @@
         },
         {
             "id": 204113,
-            "value": "Unlocked when main weapon's max. level is {0}."
+            "value": "Unlocked when Max. level of main weapon is {0}."
         },
         {
             "id": 204114,
@@ -254,7 +266,7 @@
         },
         {
             "id": 204118,
-            "value": "Unlockable at Max. level {0}."
+            "value": "Unlocked at Max. level {0}."
         },
         {
             "id": 204120,
@@ -266,7 +278,7 @@
         },
         {
             "id": 204122,
-            "value": "Convert weapon parts into weapon medals?"
+            "value": "Convert Weapon Parts into Weapon Medals?"
         },
         {
             "id": 204123,
@@ -278,7 +290,7 @@
         },
         {
             "id": 204125,
-            "value": "No materials selected."
+            "value": "Not enough materials."
         },
         {
             "id": 204129,
@@ -290,7 +302,11 @@
         },
         {
             "id": 204131,
-            "value": "EnSアビリティ"
+            "value": "S. Ability"
+        },
+        {
+            "id": 204132,
+            "value": "Switch Character"
         },
         {
             "id": 204133,
@@ -330,7 +346,7 @@
         },
         {
             "id": 204142,
-            "value": "*At Lv. 90 and overboost tier 6."
+            "value": "*Stats shown at Lv. 90 and <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197> rarity."
         },
         {
             "id": 204143,
@@ -338,11 +354,11 @@
         },
         {
             "id": 204144,
-            "value": "*Stats shown at Lv. 90 and Overboost tier 10."
+            "value": "*Stats shown at Lv. 90 and <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> rarity."
         },
         {
             "id": 204145,
-            "value": "Weapon Medals Exchange"
+            "value": "Claim Weapon Medals"
         },
         {
             "id": 204146,
@@ -354,7 +370,7 @@
         },
         {
             "id": 204148,
-            "value": "*Duplicate weapons can only be converted into weapon parts."
+            "value": "*Duplicate weapons can only be converted into Weapon Parts."
         },
         {
             "id": 204149,
@@ -366,7 +382,7 @@
         },
         {
             "id": 204151,
-            "value": "No weapon parts to convert."
+            "value": "No Weapon Parts to convert."
         },
         {
             "id": 204152,
@@ -374,7 +390,7 @@
         },
         {
             "id": 204153,
-            "value": "En表示できる武器はありません。"
+            "value": "No weapon to display."
         },
         {
             "id": 204154,
@@ -382,19 +398,23 @@
         },
         {
             "id": 204155,
-            "value": "En※素材は{0}個必要です"
+            "value": "*x{0} is required."
         },
         {
             "id": 204156,
-            "value": "Enhance"
+            "value": "Returned materials"
         },
         {
             "id": 204157,
-            "value": "The following items were returned."
+            "value": "The following materials were returned."
         },
         {
             "id": 204158,
             "value": "Unlocked after {0} times of uncap level"
+        },
+        {
+            "id": 204159,
+            "value": "Unlocked at Max. level {0}."
         }
     ]
 }

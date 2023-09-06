@@ -154,7 +154,7 @@
         },
         {
             "id": 220058,
-            "value": "10回引く（{0}回限定）"
+            "value": "{0}回引く（{1}回限定）"
         },
         {
             "id": 220059,
@@ -270,15 +270,15 @@
         },
         {
             "id": 220090,
-            "value": "このマスにスタンプが押された時に引いたガチャの10個目の景品が、ピックアップ対象の<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器になります。\\nピックアップ対象武器がない場合は当ガチャの排出に含まれる<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器になります。"
+            "value": "このマスにスタンプが押された時、引いたガチャの景品の1つが\\nピックアップ対象の<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器になります。\\nピックアップ対象武器がない場合は当ガチャの\\n提供割合に含まれる<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器になります。"
         },
         {
             "id": 220091,
-            "value": "このマスにスタンプが押された時に引いたガチャの10個目の景品が、当ガチャの排出に含まれる<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器になります。"
+            "value": "このマスにスタンプが押された時、引いたガチャの景品の1つが\\n当ガチャの提供割合に含まれる<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器になります。"
         },
         {
             "id": 220092,
-            "value": "このマスにスタンプが押された時に引いたガチャの10個目の景品が、当ガチャの排出に含まれる<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>以上の武器になります。"
+            "value": "このマスにスタンプが押された時、引いたガチャの景品の1つが\\n当ガチャの提供割合に含まれる<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>以上の武器になります。"
         },
         {
             "id": 220093,
@@ -374,7 +374,7 @@
         },
         {
             "id": 220120,
-            "value": "出現武器 選択"
+            "value": "出現武器選択"
         },
         {
             "id": 220121,
@@ -406,7 +406,7 @@
         },
         {
             "id": 220128,
-            "value": "入手済み"
+            "value": "所持済"
         },
         {
             "id": 220129,
@@ -578,7 +578,7 @@
         },
         {
             "id": 220171,
-            "value": "※選択したアイテムは後からでも変更できます\\n※表示されているステータスはLvMAX時の状態となり、入手時はレアリティ<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>でLv1の状態になります"
+            "value": "※選択したアイテムは後からでも変更できます"
         },
         {
             "id": 220172,
@@ -605,10 +605,6 @@
             "value": "ガチャを引く"
         },
         {
-            "id": 220178,
-            "value": "出現★5武器"
-        },
-        {
             "id": 220179,
             "value": "ウィッシュリスト詳細"
         },
@@ -619,6 +615,34 @@
         {
             "id": 220181,
             "value": "ガチャ報酬受取"
+        },
+        {
+            "id": 220182,
+            "value": "※選択したアイテムは後からでも変更できます。"
+        },
+        {
+            "id": 220183,
+            "value": "ピックアップ\\n対象"
+        },
+        {
+            "id": 220184,
+            "value": "ピックアップ対象の武器のため選択できません"
+        },
+        {
+            "id": 220185,
+            "value": "所持状況を表示"
+        },
+        {
+            "id": 220186,
+            "value": "ガチャ確認"
+        },
+        {
+            "id": 220187,
+            "value": "{0}を\\n{1}回引きますか？"
+        },
+        {
+            "id": 220188,
+            "value": "引く"
         }
     ]
 }

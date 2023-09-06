@@ -2,35 +2,35 @@
     "data": [
         {
             "id": 504001,
-            "value": "En ・{0}/{1}/威力{2}%"
+            "value": "{0}/{1}/Pot.<param2>{2}</param2>%"
         },
         {
             "id": 504002,
-            "value": "{0}{3} is {5} [Pot.: {4}]{2}{1} [Dur.: {6}s]{7}."
+            "value": "{0}{3} is {5}. [Pot.: {4}]{2}{1} [Dur.: {6}s]{7}"
         },
         {
             "id": 504003,
-            "value": "{0}{3} is applied{2}{1} [Dur.: {4}s]."
+            "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Extended: +{0}s]"
         },
         {
             "id": 504004,
-            "value": "{0}{3} is applied{2}{1} [Dur.: {4}s]."
+            "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Extended: +{0}s]"
         },
         {
             "id": 504005,
-            "value": " when critical"
+            "value": "When hitting critical, "
         },
         {
             "id": 504006,
-            "value": " when attacking target's weakness"
+            "value": "When hitting target's weakness, "
         },
         {
             "id": 504007,
-            "value": "When hitting a resistant enemy,"
+            "value": "When hitting target's resistance, "
         },
         {
             "id": 504008,
-            "value": "When matching Sigils are destroyed, "
+            "value": "When matching sigils are destroyed, "
         },
         {
             "id": 504009,
@@ -46,11 +46,11 @@
         },
         {
             "id": 504012,
-            "value": " when {0}'s HP is {1}"
+            "value": "When {0}'s HP is {1}, "
         },
         {
             "id": 504013,
-            "value": " when {0} {1}"
+            "value": "When {1} is granted to {0}, "
         },
         {
             "id": 504014,
@@ -70,15 +70,15 @@
         },
         {
             "id": 504018,
-            "value": "En {0}に{1}が{2}ついている時"
+            "value": "When {2} {1} are granted to {0}, "
         },
         {
             "id": 504019,
-            "value": "En ・サイン破壊量+{0}"
+            "value": "Sigil Destruction +{0}"
         },
         {
             "id": 504020,
-            "value": " when {0} {1} {2}"
+            "value": "When {2} {1} are granted to {0}, "
         },
         {
             "id": 504021,
@@ -94,7 +94,7 @@
         },
         {
             "id": 504024,
-            "value": " [Critical hit rate: {0}%]"
+            "value": " [Crit rate: {0}%]"
         },
         {
             "id": 504029,
@@ -114,7 +114,7 @@
         },
         {
             "id": 504036,
-            "value": "{0}% of heal strength"
+            "value": "{0}% of Healing Pot."
         },
         {
             "id": 504041,
@@ -146,11 +146,11 @@
         },
         {
             "id": 504048,
-            "value": "Light-elemental"
+            "value": "Light"
         },
         {
             "id": 504049,
-            "value": "Dark-elemental"
+            "value": "Dark"
         },
         {
             "id": 504050,
@@ -162,7 +162,7 @@
         },
         {
             "id": 504052,
-            "value": "{0} deal {3}% {5} {4} damage{1}{2}{6}."
+            "value": "{0}Deal {3}% {5} {4} damage{1}{2}{6}."
         },
         {
             "id": 504053,
@@ -170,7 +170,7 @@
         },
         {
             "id": 504054,
-            "value": "{0}{4} heal is cast [Pot.: {3}]{2}{1}."
+            "value": "{0}{4} heal is cast. [Pot.: {3}]{2}{1}"
         },
         {
             "id": 504055,
@@ -178,15 +178,15 @@
         },
         {
             "id": 504056,
-            "value": "En Triggers {1}  Lv. {2} with {0}% chance for {3} seconds ({4} seconds if stacked)"
+            "value": "Grant/{0} <color=#76FBFD>Lv.{1}</color> for <color=#76FBFD>{2}s</color>"
         },
         {
             "id": 504057,
-            "value": "En Grants {0} for {1} seconds ({2} seconds if stacked)"
+            "value": "Grant/{0} for <color=#76FBFD>{1}s</color>"
         },
         {
             "id": 504058,
-            "value": "En Become {1} with {0}% chance for {2} seconds ({3} seconds if stacked)"
+            "value": "Grant/{0} for <color=#76FBFD>{1}s</color>"
         },
         {
             "id": 504059,
@@ -202,23 +202,23 @@
         },
         {
             "id": 504062,
-            "value": "En HP{0}以上"
+            "value": "HP {0} or more"
         },
         {
             "id": 504063,
-            "value": "En if HP is {0} or less"
+            "value": "HP {0} or less"
         },
         {
             "id": 504064,
-            "value": "En HP{0}%～{1}%"
+            "value": "HP {0}%–{1}%"
         },
         {
             "id": 504065,
-            "value": "En ・治療/{0}"
+            "value": "HEAL/{0}"
         },
         {
             "id": 504066,
-            "value": "{0} {1}"
+            "value": "{0}\\n{1}"
         },
         {
             "id": 504067,
@@ -226,11 +226,11 @@
         },
         {
             "id": 504068,
-            "value": "En <{0}>\\n"
+            "value": "<{0}>\\n"
         },
         {
             "id": 504069,
-            "value": "When striking a target outside of their weakness,"
+            "value": "When hitting a target without weaknesses, "
         },
         {
             "id": 504070,
@@ -306,15 +306,15 @@
         },
         {
             "id": 504116,
-            "value": "PHY"
+            "value": "Phys."
         },
         {
             "id": 504117,
-            "value": "MAG"
+            "value": "Mag."
         },
         {
             "id": 504118,
-            "value": "PHY/MAG"
+            "value": "Phys./Mag."
         },
         {
             "id": 504119,
@@ -326,55 +326,55 @@
         },
         {
             "id": 504121,
-            "value": "Attack"
+            "value": "PATK"
         },
         {
             "id": 504122,
-            "value": "Defense"
+            "value": "PDEF"
         },
         {
             "id": 504123,
-            "value": "Magic Attack"
+            "value": "MATK"
         },
         {
             "id": 504124,
-            "value": "Magic Defense"
+            "value": "MDEF"
         },
         {
             "id": 504125,
-            "value": "Heal Strength"
+            "value": "HEAL"
         },
         {
             "id": 504128,
-            "value": "PHY ATK Up"
+            "value": "PATK Up"
         },
         {
             "id": 504129,
-            "value": "PHY ATK Down"
+            "value": "PATK Down"
         },
         {
             "id": 504130,
-            "value": "MAG ATK Up"
+            "value": "MATK Up"
         },
         {
             "id": 504131,
-            "value": "MAG ATK Down"
+            "value": "MATK Down"
         },
         {
             "id": 504132,
-            "value": "PHY DEF Up"
+            "value": "PDEF Up"
         },
         {
             "id": 504133,
-            "value": "PHY DEF Down"
+            "value": "PDEF Down"
         },
         {
             "id": 504134,
-            "value": "MAG DEF Up"
+            "value": "MDEF Up"
         },
         {
             "id": 504135,
-            "value": "MAG DEF Down"
+            "value": "MDEF Down"
         },
         {
             "id": 504136,
@@ -458,7 +458,7 @@
         },
         {
             "id": 504156,
-            "value": " [Stacked: +{0}s] [Max. pot.: {1}]"
+            "value": " [Extended: +{0}s] [Max. pot.: {1}]"
         }
     ]
 }
