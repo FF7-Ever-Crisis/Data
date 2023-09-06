@@ -1,41 +1,41 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "TargetType": {
-            "type": "integer"
-        },
-        "SkillEffectType": {
-            "type": "integer"
-        },
-        "SkillEffectDetailId": {
-            "type": "integer"
-        },
-        "MinTriggerPermil": {
-            "type": "integer"
-        },
-        "MaxTriggerPermil": {
-            "type": "integer"
-        },
-        "TriggerType": {
-            "type": "integer"
-        },
-        "TriggerConditionId": {
-            "type": "integer"
-        },
-        "ConditionTargetType": {
-            "type": "integer"
-        },
-        "IsInvertTriggerCondition": {
-            "type": "boolean"
-        },
-        "PenetrationPermil": {
-            "type": "integer"
-        },
-        "SkillEffectDescriptionGroupId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "TargetType": {
+      "type": "integer"
+    },
+    "SkillEffectType": {
+      "type": "integer"
+    },
+    "SkillEffectDetailId": {
+      "type": "integer"
+    },
+    "MinTriggerPermil": {
+      "type": "integer"
+    },
+    "MaxTriggerPermil": {
+      "type": "integer"
+    },
+    "TriggerType": {
+      "type": "integer"
+    },
+    "TriggerConditionId": {
+      "type": "integer"
+    },
+    "ConditionTargetType": {
+      "type": "integer"
+    },
+    "IsInvertTriggerCondition": {
+      "type": "boolean"
+    },
+    "PenetrationPermil": {
+      "type": "integer"
+    },
+    "SkillEffectDescriptionGroupId": {
+      "type": "integer"
     }
+  }
 }

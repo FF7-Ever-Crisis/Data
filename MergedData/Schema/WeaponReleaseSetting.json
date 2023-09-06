@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "WeaponReleaseSettingGroupId": {
-            "type": "integer"
-        },
-        "ReleaseCount": {
-            "type": "integer"
-        },
-        "LevelLimit": {
-            "type": "integer"
-        },
-        "WeaponIngredientGroupId": {
-            "type": "integer"
-        },
-        "ConsumptionGil": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "WeaponReleaseSettingGroupId": {
+      "type": "integer"
+    },
+    "ReleaseCount": {
+      "type": "integer"
+    },
+    "LevelLimit": {
+      "type": "integer"
+    },
+    "WeaponIngredientGroupId": {
+      "type": "integer"
+    },
+    "ConsumptionGil": {
+      "type": "integer"
     }
+  }
 }

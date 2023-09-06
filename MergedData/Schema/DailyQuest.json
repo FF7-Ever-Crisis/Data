@@ -1,46 +1,46 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "DifficultyLevel": {
-            "type": "integer"
-        },
-        "DailyQuestType": {
-            "type": "integer"
-        },
-        "BaseGil": {
-            "type": "integer"
-        },
-        "BattleId": {
-            "type": "integer"
-        },
-        "DailyQuestJudgeRewardGroupId": {
-            "type": "integer"
-        },
-        "DailyQuestJudgeRewardLotGroupId": {
-            "type": "integer"
-        },
-        "DropRewardCount": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        },
-        "IsSpecial": {
-            "type": "boolean"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "DifficultyLevel": {
+      "type": "integer"
+    },
+    "DailyQuestType": {
+      "type": "integer"
+    },
+    "BaseGil": {
+      "type": "integer"
+    },
+    "BattleId": {
+      "type": "integer"
+    },
+    "DailyQuestJudgeRewardGroupId": {
+      "type": "integer"
+    },
+    "DailyQuestJudgeRewardLotGroupId": {
+      "type": "integer"
+    },
+    "DropRewardCount": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
+    },
+    "IsSpecial": {
+      "type": "boolean"
     }
+  }
 }

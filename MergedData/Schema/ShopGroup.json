@@ -1,37 +1,37 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "ShopGroupCategory": {
-            "type": "integer"
-        },
-        "OrderNo": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "ShopGroupNotiType": {
-            "type": "integer"
-        },
-        "DisplayConditionSetId": {
-            "type": "integer"
-        },
-        "LockConditionSetId": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "ShopGroupCategory": {
+      "type": "integer"
+    },
+    "OrderNo": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "ShopGroupNotiType": {
+      "type": "integer"
+    },
+    "DisplayConditionSetId": {
+      "type": "integer"
+    },
+    "LockConditionSetId": {
+      "type": "integer"
     }
+  }
 }

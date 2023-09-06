@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "SkillSpecialId": {
-            "type": "integer"
-        },
-        "Level": {
-            "type": "integer"
-        },
-        "Cost": {
-            "type": "integer"
-        },
-        "DamageCoefficient": {
-            "type": "integer"
-        },
-        "SkillEffectGroupId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "SkillSpecialId": {
+      "type": "integer"
+    },
+    "Level": {
+      "type": "integer"
+    },
+    "Cost": {
+      "type": "integer"
+    },
+    "DamageCoefficient": {
+      "type": "integer"
+    },
+    "SkillEffectGroupId": {
+      "type": "integer"
     }
+  }
 }

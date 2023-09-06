@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "GachaStampSheetCellChoiceType": {
-            "type": "integer"
-        },
-        "GachaStampSheetCellChoiceGroupId": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "GachaStampSheetCellChoiceType": {
+      "type": "integer"
+    },
+    "GachaStampSheetCellChoiceGroupId": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
     }
+  }
 }

@@ -1,52 +1,52 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "DefaultName": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "DefaultName": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "ChocoboType": {
-            "type": "integer"
-        },
-        "SexType": {
-            "type": "integer"
-        },
-        "ChocoboRarityType": {
-            "type": "integer"
-        },
-        "ChocoboAreaTypeGroupId": {
-            "type": "integer"
-        },
-        "ChocoboRankPotentialId": {
-            "type": "integer"
-        },
-        "ChocoboParameterRatioId": {
-            "type": "integer"
-        },
-        "ChocoboRankGroupId": {
-            "type": "integer"
-        },
-        "ChocoboExpeditionParameterGroupId": {
-            "type": "integer"
-        },
-        "ChocoboRankSaleGroupId": {
-            "type": "integer"
-        },
-        "ChocoboParameterDifferenceGroupId": {
-            "type": "integer"
-        },
-        "LimitRankParameterCoefficientBp": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "ChocoboType": {
+      "type": "integer"
+    },
+    "SexType": {
+      "type": "integer"
+    },
+    "ChocoboRarityType": {
+      "type": "integer"
+    },
+    "ChocoboAreaTypeGroupId": {
+      "type": "integer"
+    },
+    "ChocoboRankPotentialId": {
+      "type": "integer"
+    },
+    "ChocoboParameterRatioId": {
+      "type": "integer"
+    },
+    "ChocoboRankGroupId": {
+      "type": "integer"
+    },
+    "ChocoboExpeditionParameterGroupId": {
+      "type": "integer"
+    },
+    "ChocoboRankSaleGroupId": {
+      "type": "integer"
+    },
+    "ChocoboParameterDifferenceGroupId": {
+      "type": "integer"
+    },
+    "LimitRankParameterCoefficientBp": {
+      "type": "integer"
     }
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "MissionBonusGroupId": {
-            "type": "integer"
-        },
-        "Idx": {
-            "type": "integer"
-        },
-        "MissionBonusType": {
-            "type": "integer"
-        },
-        "BonusPoint": {
-            "type": "integer"
-        },
-        "Level": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "MissionBonusGroupId": {
+      "type": "integer"
+    },
+    "Idx": {
+      "type": "integer"
+    },
+    "MissionBonusType": {
+      "type": "integer"
+    },
+    "BonusPoint": {
+      "type": "integer"
+    },
+    "Level": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
     }
+  }
 }

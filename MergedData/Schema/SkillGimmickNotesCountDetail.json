@@ -1,23 +1,23 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "Idx": {
-            "type": "integer"
-        },
-        "NotesCount": {
-            "type": "integer"
-        },
-        "EffectCount": {
-            "type": "integer"
-        },
-        "SkillBaseId": {
-            "type": "integer"
-        },
-        "DurationSec": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Idx": {
+      "type": "integer"
+    },
+    "NotesCount": {
+      "type": "integer"
+    },
+    "EffectCount": {
+      "type": "integer"
+    },
+    "SkillBaseId": {
+      "type": "integer"
+    },
+    "DurationSec": {
+      "type": "integer"
     }
+  }
 }

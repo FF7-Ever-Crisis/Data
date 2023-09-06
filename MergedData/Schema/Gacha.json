@@ -1,152 +1,152 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "Description": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "Attention": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "Summary": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "GachaEmissionRate": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "WeaponEmissionRate": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "GachaGroupId": {
-            "type": "integer"
-        },
-        "GachaType": {
-            "type": "integer"
-        },
-        "DisplayConditionSetId": {
-            "type": "integer"
-        },
-        "LockConditionSetId": {
-            "type": "integer"
-        },
-        "GachaDetailTemplateType": {
-            "type": "integer"
-        },
-        "TicketItemId": {
-            "type": "integer"
-        },
-        "GachaDirectionLotGroupId": {
-            "type": "integer"
-        },
-        "GachaAppealId0": {
-            "type": "integer"
-        },
-        "GachaAppealId1": {
-            "type": "integer"
-        },
-        "GachaAppealId2": {
-            "type": "integer"
-        },
-        "GachaAppealId3": {
-            "type": "integer"
-        },
-        "GachaAppealId4": {
-            "type": "integer"
-        },
-        "GachaAppealId5": {
-            "type": "integer"
-        },
-        "GachaAppealId6": {
-            "type": "integer"
-        },
-        "GachaAppealId7": {
-            "type": "integer"
-        },
-        "GachaAppealId8": {
-            "type": "integer"
-        },
-        "GachaAppealId9": {
-            "type": "integer"
-        },
-        "GachaStampSheetGroupId": {
-            "type": "integer"
-        },
-        "GachaRarityLotGroupId": {
-            "type": "integer"
-        },
-        "GachaWeaponLotSetId": {
-            "type": "integer"
-        },
-        "PickupGachaRarityLotGroupId": {
-            "type": "integer"
-        },
-        "PickupGachaWeaponLotSetId": {
-            "type": "integer"
-        },
-        "GachaNotiType": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "Priority": {
-            "type": "integer"
-        },
-        "GachaWishId": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "Description": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
+        },
+        "En": {
+          "type": "string"
+        }
+      }
+    },
+    "Attention": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
+        },
+        "En": {
+          "type": "string"
+        }
+      }
+    },
+    "Summary": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
+        },
+        "En": {
+          "type": "string"
+        }
+      }
+    },
+    "GachaEmissionRate": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
+        },
+        "En": {
+          "type": "string"
+        }
+      }
+    },
+    "WeaponEmissionRate": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
+        },
+        "En": {
+          "type": "string"
+        }
+      }
+    },
+    "GachaGroupId": {
+      "type": "integer"
+    },
+    "GachaType": {
+      "type": "integer"
+    },
+    "DisplayConditionSetId": {
+      "type": "integer"
+    },
+    "LockConditionSetId": {
+      "type": "integer"
+    },
+    "GachaDetailTemplateType": {
+      "type": "integer"
+    },
+    "TicketItemId": {
+      "type": "integer"
+    },
+    "GachaDirectionLotGroupId": {
+      "type": "integer"
+    },
+    "GachaAppealId0": {
+      "type": "integer"
+    },
+    "GachaAppealId1": {
+      "type": "integer"
+    },
+    "GachaAppealId2": {
+      "type": "integer"
+    },
+    "GachaAppealId3": {
+      "type": "integer"
+    },
+    "GachaAppealId4": {
+      "type": "integer"
+    },
+    "GachaAppealId5": {
+      "type": "integer"
+    },
+    "GachaAppealId6": {
+      "type": "integer"
+    },
+    "GachaAppealId7": {
+      "type": "integer"
+    },
+    "GachaAppealId8": {
+      "type": "integer"
+    },
+    "GachaAppealId9": {
+      "type": "integer"
+    },
+    "GachaStampSheetGroupId": {
+      "type": "integer"
+    },
+    "GachaRarityLotGroupId": {
+      "type": "integer"
+    },
+    "GachaWeaponLotSetId": {
+      "type": "integer"
+    },
+    "PickupGachaRarityLotGroupId": {
+      "type": "integer"
+    },
+    "PickupGachaWeaponLotSetId": {
+      "type": "integer"
+    },
+    "GachaNotiType": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "Priority": {
+      "type": "integer"
+    },
+    "GachaWishId": {
+      "type": "integer"
     }
+  }
 }

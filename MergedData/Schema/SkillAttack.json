@@ -1,23 +1,23 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "SkillBaseId": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "RecastTimeSec": {
-            "type": "integer"
-        },
-        "MaxLevelRecastTimeSec": {
-            "type": "integer"
-        },
-        "StartRecastTimeSec": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "SkillBaseId": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "RecastTimeSec": {
+      "type": "integer"
+    },
+    "MaxLevelRecastTimeSec": {
+      "type": "integer"
+    },
+    "StartRecastTimeSec": {
+      "type": "integer"
     }
+  }
 }

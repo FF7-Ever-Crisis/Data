@@ -1,76 +1,76 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "BaseCharacterExp": {
-            "type": "integer"
-        },
-        "BaseUserExp": {
-            "type": "integer"
-        },
-        "BaseGil": {
-            "type": "integer"
-        },
-        "BgmCueName": {
-            "type": "string"
-        },
-        "HpCoefficient": {
-            "type": "integer"
-        },
-        "LbHpCoefficient": {
-            "type": "integer"
-        },
-        "PhysicalAttackCoefficient": {
-            "type": "integer"
-        },
-        "MagicalAttackCoefficient": {
-            "type": "integer"
-        },
-        "PhysicalDefenseCoefficient": {
-            "type": "integer"
-        },
-        "MagicalDefenseCoefficient": {
-            "type": "integer"
-        },
-        "HealingPowerCoefficient": {
-            "type": "integer"
-        },
-        "BaseCriticalPermil": {
-            "type": "integer"
-        },
-        "EnemyLevelParameterBaseGroupId": {
-            "type": "integer"
-        },
-        "EnemyLevelConstantGroupId": {
-            "type": "integer"
-        },
-        "ResistBuffDebuffId": {
-            "type": "integer"
-        },
-        "ResistDamageId": {
-            "type": "integer"
-        },
-        "ResistElementId": {
-            "type": "integer"
-        },
-        "ResistStatusConditionId": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "BaseCharacterExp": {
+      "type": "integer"
+    },
+    "BaseUserExp": {
+      "type": "integer"
+    },
+    "BaseGil": {
+      "type": "integer"
+    },
+    "BgmCueName": {
+      "type": "string"
+    },
+    "HpCoefficient": {
+      "type": "integer"
+    },
+    "LbHpCoefficient": {
+      "type": "integer"
+    },
+    "PhysicalAttackCoefficient": {
+      "type": "integer"
+    },
+    "MagicalAttackCoefficient": {
+      "type": "integer"
+    },
+    "PhysicalDefenseCoefficient": {
+      "type": "integer"
+    },
+    "MagicalDefenseCoefficient": {
+      "type": "integer"
+    },
+    "HealingPowerCoefficient": {
+      "type": "integer"
+    },
+    "BaseCriticalPermil": {
+      "type": "integer"
+    },
+    "EnemyLevelParameterBaseGroupId": {
+      "type": "integer"
+    },
+    "EnemyLevelConstantGroupId": {
+      "type": "integer"
+    },
+    "ResistBuffDebuffId": {
+      "type": "integer"
+    },
+    "ResistDamageId": {
+      "type": "integer"
+    },
+    "ResistElementId": {
+      "type": "integer"
+    },
+    "ResistStatusConditionId": {
+      "type": "integer"
     }
+  }
 }

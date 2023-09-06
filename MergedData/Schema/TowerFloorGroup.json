@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "TowerId": {
-            "type": "integer"
-        },
-        "DisplayConditionSetId": {
-            "type": "integer"
-        },
-        "LockConditionSetId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "TowerId": {
+      "type": "integer"
+    },
+    "DisplayConditionSetId": {
+      "type": "integer"
+    },
+    "LockConditionSetId": {
+      "type": "integer"
     }
+  }
 }

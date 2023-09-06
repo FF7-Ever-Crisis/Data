@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "Priority": {
-            "type": "integer"
-        },
-        "LockConditionSetId": {
-            "type": "integer"
-        },
-        "SubDailyQuestId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Priority": {
+      "type": "integer"
+    },
+    "LockConditionSetId": {
+      "type": "integer"
+    },
+    "SubDailyQuestId": {
+      "type": "integer"
     }
+  }
 }

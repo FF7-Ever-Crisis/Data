@@ -1,59 +1,59 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "WeaponId": {
-            "type": "integer"
-        },
-        "RarityType": {
-            "type": "integer"
-        },
-        "BaseHp": {
-            "type": "integer"
-        },
-        "BasePhysicalAttack": {
-            "type": "integer"
-        },
-        "BaseMagicalAttack": {
-            "type": "integer"
-        },
-        "BasePhysicalDefense": {
-            "type": "integer"
-        },
-        "BaseMagicalDefense": {
-            "type": "integer"
-        },
-        "BaseHealingPower": {
-            "type": "integer"
-        },
-        "GrowthBaseHp": {
-            "type": "integer"
-        },
-        "GrowthBasePhysicalAttack": {
-            "type": "integer"
-        },
-        "GrowthBaseMagicalAttack": {
-            "type": "integer"
-        },
-        "GrowthBasePhysicalDefense": {
-            "type": "integer"
-        },
-        "GrowthBaseMagicalDefense": {
-            "type": "integer"
-        },
-        "GrowthBaseHealingPower": {
-            "type": "integer"
-        },
-        "WeaponSkillId": {
-            "type": "integer"
-        },
-        "PassiveSkillPoint0": {
-            "type": "integer"
-        },
-        "PassiveSkillPoint1": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "WeaponId": {
+      "type": "integer"
+    },
+    "RarityType": {
+      "type": "integer"
+    },
+    "BaseHp": {
+      "type": "integer"
+    },
+    "BasePhysicalAttack": {
+      "type": "integer"
+    },
+    "BaseMagicalAttack": {
+      "type": "integer"
+    },
+    "BasePhysicalDefense": {
+      "type": "integer"
+    },
+    "BaseMagicalDefense": {
+      "type": "integer"
+    },
+    "BaseHealingPower": {
+      "type": "integer"
+    },
+    "GrowthBaseHp": {
+      "type": "integer"
+    },
+    "GrowthBasePhysicalAttack": {
+      "type": "integer"
+    },
+    "GrowthBaseMagicalAttack": {
+      "type": "integer"
+    },
+    "GrowthBasePhysicalDefense": {
+      "type": "integer"
+    },
+    "GrowthBaseMagicalDefense": {
+      "type": "integer"
+    },
+    "GrowthBaseHealingPower": {
+      "type": "integer"
+    },
+    "WeaponSkillId": {
+      "type": "integer"
+    },
+    "PassiveSkillPoint0": {
+      "type": "integer"
+    },
+    "PassiveSkillPoint1": {
+      "type": "integer"
     }
+  }
 }

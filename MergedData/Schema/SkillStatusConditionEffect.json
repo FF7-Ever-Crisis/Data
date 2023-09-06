@@ -1,26 +1,26 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "SkillStatusConditionType": {
-            "type": "integer"
-        },
-        "MinDurationSec": {
-            "type": "integer"
-        },
-        "MaxDurationSec": {
-            "type": "integer"
-        },
-        "MinDuplicationDurationSec": {
-            "type": "integer"
-        },
-        "MaxDuplicationDurationSec": {
-            "type": "integer"
-        },
-        "IgnoreResist": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "SkillStatusConditionType": {
+      "type": "integer"
+    },
+    "MinDurationSec": {
+      "type": "integer"
+    },
+    "MaxDurationSec": {
+      "type": "integer"
+    },
+    "MinDuplicationDurationSec": {
+      "type": "integer"
+    },
+    "MaxDuplicationDurationSec": {
+      "type": "integer"
+    },
+    "IgnoreResist": {
+      "type": "integer"
     }
+  }
 }

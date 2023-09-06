@@ -1,26 +1,26 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "ScoreBattleRankDeathCountId": {
-            "type": "integer"
-        },
-        "TimeBaseSecond": {
-            "type": "integer"
-        },
-        "TimeScoreBattleRankCoefficientId": {
-            "type": "integer"
-        },
-        "TimeScoreBattleAdditionalScoreGroupId": {
-            "type": "integer"
-        },
-        "WeakElementHitCountScoreBattleAdditionalScoreGroupId": {
-            "type": "integer"
-        },
-        "NotesBreakCountScoreBattleAdditionalScoreGroupId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "ScoreBattleRankDeathCountId": {
+      "type": "integer"
+    },
+    "TimeBaseSecond": {
+      "type": "integer"
+    },
+    "TimeScoreBattleRankCoefficientId": {
+      "type": "integer"
+    },
+    "TimeScoreBattleAdditionalScoreGroupId": {
+      "type": "integer"
+    },
+    "WeakElementHitCountScoreBattleAdditionalScoreGroupId": {
+      "type": "integer"
+    },
+    "NotesBreakCountScoreBattleAdditionalScoreGroupId": {
+      "type": "integer"
     }
+  }
 }

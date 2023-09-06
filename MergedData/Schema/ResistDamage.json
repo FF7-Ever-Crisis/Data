@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "TriggerCoefficient": {
-            "type": "integer"
-        },
-        "CriticalDamageCoefficient": {
-            "type": "integer"
-        },
-        "PhysicalDamageCoefficient": {
-            "type": "integer"
-        },
-        "MagicalDamageCoefficient": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "TriggerCoefficient": {
+      "type": "integer"
+    },
+    "CriticalDamageCoefficient": {
+      "type": "integer"
+    },
+    "PhysicalDamageCoefficient": {
+      "type": "integer"
+    },
+    "MagicalDamageCoefficient": {
+      "type": "integer"
     }
+  }
 }

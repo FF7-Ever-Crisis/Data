@@ -1,23 +1,23 @@
 {
-    "type": "object",
-    "properties": {
-        "ItemId": {
-            "type": "integer"
-        },
-        "EffectiveMin": {
-            "type": "integer"
-        },
-        "ShopItemId": {
-            "type": "integer"
-        },
-        "CampaignId": {
-            "type": "integer"
-        },
-        "DailyRewardGroupId": {
-            "type": "integer"
-        },
-        "EcPassType": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "ItemId": {
+      "type": "integer"
+    },
+    "EffectiveMin": {
+      "type": "integer"
+    },
+    "ShopItemId": {
+      "type": "integer"
+    },
+    "CampaignId": {
+      "type": "integer"
+    },
+    "DailyRewardGroupId": {
+      "type": "integer"
+    },
+    "EcPassType": {
+      "type": "integer"
     }
+  }
 }

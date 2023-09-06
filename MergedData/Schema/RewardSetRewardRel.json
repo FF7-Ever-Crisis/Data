@@ -1,26 +1,26 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        },
-        "RewardId": {
-            "type": "integer"
-        },
-        "OrderNo": {
-            "type": "integer"
-        },
-        "MinCount": {
-            "type": "integer"
-        },
-        "MaxCount": {
-            "type": "integer"
-        },
-        "IsPickup": {
-            "type": "boolean"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
+    },
+    "RewardId": {
+      "type": "integer"
+    },
+    "OrderNo": {
+      "type": "integer"
+    },
+    "MinCount": {
+      "type": "integer"
+    },
+    "MaxCount": {
+      "type": "integer"
+    },
+    "IsPickup": {
+      "type": "boolean"
     }
+  }
 }

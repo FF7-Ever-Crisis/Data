@@ -1,39 +1,39 @@
 {
-    "type": "object",
-    "properties": {
-        "Talk": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
+  "type": "object",
+  "properties": {
+    "Talk": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "BattleWaveTalkGroupId": {
-            "type": "integer"
-        },
-        "Seq": {
-            "type": "integer"
-        },
-        "PrinterName": {
-            "type": "string"
-        },
-        "CharacterNovelSetId": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
+        },
+        "En": {
+          "type": "string"
+        }
+      }
+    },
+    "BattleWaveTalkGroupId": {
+      "type": "integer"
+    },
+    "Seq": {
+      "type": "integer"
+    },
+    "PrinterName": {
+      "type": "string"
+    },
+    "CharacterNovelSetId": {
+      "type": "integer"
     }
+  }
 }

@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "MateriaLevelGroupId": {
-            "type": "integer"
-        },
-        "Level": {
-            "type": "integer"
-        },
-        "ExpCoefficient": {
-            "type": "integer"
-        },
-        "IngredientExpCoefficient": {
-            "type": "integer"
-        },
-        "SaleGilCoefficient": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "MateriaLevelGroupId": {
+      "type": "integer"
+    },
+    "Level": {
+      "type": "integer"
+    },
+    "ExpCoefficient": {
+      "type": "integer"
+    },
+    "IngredientExpCoefficient": {
+      "type": "integer"
+    },
+    "SaleGilCoefficient": {
+      "type": "integer"
     }
+  }
 }

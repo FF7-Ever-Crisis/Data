@@ -1,1427 +1,1427 @@
 [
-    {
-        "Id": 101,
-        "Title": {
-            "Ja": "ストーリーについて",
-            "En": "The Story"
-        },
-        "Description": {
-            "Ja": "ストーリーでは<command_color=common_03>「FINAL FANTASY VII」の\n様々なコンピレーション作品のエピソードを体験</color>できます。\n<command_color=common_02>※ストーリーを進めることで、他タイトルのエピソードもプレイできるようになります。</color>",
-            "En": "Re-experience the <command_color=common_03> episodes of Final Fantasy VII</color>. \nAs you proceed through the story, you will unlock episodes of other titles from within the FFVII series."
-        },
-        "HelpPopupGroupId": 1,
-        "Seq": 1,
-        "ResourceId": 101,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 201,
-        "Title": {
-            "Ja": "パーティ編成について1",
-            "En": "Party Formation 1"
-        },
-        "Description": {
-            "Ja": "1パーティには、<command_color=common_03>最大3人のキャラクターを編成</color>します。\nキャラクターや変更したい装備をタップすると変更できます。\n<command_color=common_02>※中央のキャラクターは「LEADER」となり、バトル開始時の操作キャラクターになります。</color>",
-            "En": "A single party is comprised of <command_color=common_03>up to three characters.</color> Tap to change characters and their equipment.\n<command_color=common_02>*The character in the center is the party leader and the one you control at the beginning of battle.</color>"
-        },
-        "HelpPopupGroupId": 2,
-        "Seq": 1,
-        "ResourceId": 201,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 202,
-        "Title": {
-            "Ja": "パーティ編成について2",
-            "En": "Party Formation 2"
-        },
-        "Description": {
-            "Ja": "編成したキャラクターと装備で<command_color=common_03>「戦力」</color>が決まり、パーティの合計で<command_color=common_03>「総戦力」</color>が決まります。\n各バトルには<command_color=common_03>「推奨戦力」</color>があり、バトルの強さの指標となります。\n<command_color=common_02>※「推奨戦力」はバトル前でのみ表示されます。</color>",
-            "En": "A character's <command_color=common_03>Power</color> is determined by their attributes and equipment, \nand a party's <command_color=common_03>Total Power</color> by the sum of all characters' power. \nEvery battle has a <command_color=common_03>recommended power value</color> that indicates the battle's difficulty.\n<command_color=common_02>*Recommended power is only displayed before battle.</color>"
-        },
-        "HelpPopupGroupId": 2,
-        "Seq": 2,
-        "ResourceId": 202,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 203,
-        "Title": {
-            "Ja": "バトル情報とおすすめ編成について",
-            "En": "Battle Details and Recommended Party"
-        },
-        "Description": {
-            "Ja": "バトル前には<command_color=common_03>挑戦するバトルの情報が確認</color>でき、\n<command_color=common_03>「おすすめ編成」</color>ボタンをタップすると、そのバトルに適した編成をすることができます。",
-            "En": "You can check the <command_color=common_03>details of a battle beforehand.</color> \nTap <command_color=common_03>Recommended Party</color> to automatically create an optimal party for that battle."
-        },
-        "HelpPopupGroupId": 2,
-        "Seq": 3,
-        "ResourceId": 203,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 204,
-        "Title": {
-            "Ja": "「ストーリーパーティ」モードの編成について",
-            "En": "Story Party Formations"
-        },
-        "Description": {
-            "Ja": "「ストーリーパーティ」モードでは<command_color=common_03>毎回自動的にパーティ編成</color>されます。\n自動で編成されたキャラクターも装備を自由に変更できます。",
-            "En": "In Story Party mode, <command_color=common_03>parties are created automatically,</color> but you can change the characters' equipment."
-        },
-        "HelpPopupGroupId": 2,
-        "Seq": 4,
-        "ResourceId": 204,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 301,
-        "Title": {
-            "Ja": "シングルコンテンツについて",
-            "En": "Solo Content"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「シングルコンテンツ」</color>には武器の強化素材を集めたり、\n強化したパーティで高難度のバトルに挑戦したりなど、様々なコンテンツがあります。",
-            "En": "In <command_color=common_03>Solo Content,</color> you can take on quests to collect weapon enhancement materials \nor attempt difficult battles with a stronger party."
-        },
-        "HelpPopupGroupId": 3,
-        "Seq": 1,
-        "ResourceId": 301,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 302,
-        "Title": {
-            "Ja": "デイリークエストについて",
-            "En": "Daily Quests"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「デイリークエスト」</color>は毎日届く依頼を達成するコンテンツです。\n届く依頼には様々な種類や報酬があります。\n<command_color=common_02>※依頼は毎日5:00に更新されます。</color>",
-            "En": "<command_color=common_03>Daily quests</color> are comprised of different types of requests that yield rewards.\n<command_color=common_02>*Requests reset at every day.</color>"
-        },
-        "HelpPopupGroupId": 3,
-        "Seq": 2,
-        "ResourceId": 302,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 303,
-        "Title": {
-            "Ja": "強化クエストについて",
-            "En": "Enhancement Quests"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「強化クエスト」</color>は武器強化やマテリア合成、キャラクター育成のためのコンテンツです。\n<command_color=common_03>素材を入手</color>したり、<command_color=common_03>経験値を多く獲得</color>したりすることができます。\n<command_color=common_02>※強化クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
-            "En": "<command_color=common_03>Enhancement quests</color> reward materials and lots of EXP, making them <command_color=common_03>vital for \nenhancing weapons, synthesizing materia, and strengthening characters.</color>\n<command_color=common_02>*Enhancement quests require <sprite=\"tmp_icon\" index=782>(stamina).</color>"
-        },
-        "HelpPopupGroupId": 3,
-        "Seq": 3,
-        "ResourceId": 303,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 304,
-        "Title": {
-            "Ja": "召喚獣クエストについて",
-            "En": "Summon Quests"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「召喚獣クエスト」</color>は様々な召喚獣と戦うコンテンツです。\n召喚獣と戦うことで<command_color=common_03>召喚獣ストリーム</color>が解放されます。\n<command_color=common_02>※召喚獣クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
-            "En": "<command_color=common_03>Summon quests</color> allow you to battle different summons,\nafter which you can unlock their <command_color=common_03>Summon Streams.</color>\n<command_color=common_02>*Summon quests require <sprite=\"tmp_icon\" index=782>(stamina).</color>"
-        },
-        "HelpPopupGroupId": 3,
-        "Seq": 4,
-        "ResourceId": 304,
-        "ConditionSetId": 160000000046
-    },
-    {
-        "Id": 305,
-        "Title": {
-            "Ja": "バトルタワーについて",
-            "En": "The Battle Tower"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「バトルタワー」</color>は進めていくことで<command_color=common_03>新しい機能の解放</color>ができるコンテンツです。\nタワー固有のルールとして<command_color=common_03>「バトル効果」</color>があり、<command_color=common_03>バトルで常に効果を発揮</color>します。\n効果を考えた攻略が重要になります。",
-            "En": "Progress through the <command_color=common_03>Battle Tower</color> to <command_color=common_03>unlock new features</color>. \nThe tower's <command_color=common_03>Battle Effect</color> will <command_color=common_03>influence your party's performance</color>. \nTherefore, it's crucial to strategize considering this effect."
-        },
-        "HelpPopupGroupId": 3,
-        "Seq": 5,
-        "ResourceId": 305,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 306,
-        "Title": {
-            "Ja": "ストーリークエストについて",
-            "En": "Story Quests"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ストーリークエスト」</color>は各キャラクターをより深く知ることができるコンテンツです。",
-            "En": "Through <command_color=common_03>Story quests</color>, you can learn more about characters' backgrounds."
-        },
-        "HelpPopupGroupId": 3,
-        "Seq": 6,
-        "ResourceId": 306,
-        "ConditionSetId": 160000000018
-    },
-    {
-        "Id": 307,
-        "Title": {
-            "Ja": "ダンジョンについて",
-            "En": "Dungeons"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ダンジョン」</color>はストーリーで体験したダンジョンを新たに冒険するコンテンツです。\nダンジョンのエリアはストーリーを進めることで増えていきます。",
-            "En": "You can revisit and explore the <command_color=common_03>dungeons</color> from the story. As you make progress, more will be unlocked."
-        },
-        "HelpPopupGroupId": 3,
-        "Seq": 7,
-        "ResourceId": 307,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 401,
-        "Title": {
-            "Ja": "パーティ編成について1",
-            "En": "Party Formation 1"
-        },
-        "Description": {
-            "Ja": "1パーティには、<command_color=common_03>最大3人のキャラクターを編成</color>します。\nキャラクターや変更したい装備をタップすると変更できます。\n<command_color=common_02>※中央のキャラクターは「LEADER」となり、バトル開始時の操作キャラクターになります。</color>",
-            "En": "A single party is comprised of <command_color=common_03>up to 3 characters.</color>\nTap to change characters and their equipment.\n<command_color=common_02>*The character in the center is the party leader and the one you control at the beginning of battle.</color>"
-        },
-        "HelpPopupGroupId": 4,
-        "Seq": 1,
-        "ResourceId": 401,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 402,
-        "Title": {
-            "Ja": "パーティ編成について2",
-            "En": "Party Formation 2"
-        },
-        "Description": {
-            "Ja": "編成したキャラクターと装備で<command_color=common_03>「戦力」</color>が決まり、パーティの合計で<command_color=common_03>「総戦力」</color>が決まります。\n各バトルには<command_color=common_03>「推奨戦力」</color>があり、バトルの強さの指標となります。\n<command_color=common_02>※「推奨戦力」はバトル前でのみ表示されます。</color>",
-            "En": "<command_color=common_03>Power</color> is determined by character's stats and equipment, and a <command_color=common_03>Total Power</color> by the sum of all power. \nEvery battle has a <command_color=common_03>Recommended Power</color> that indicates the battle's difficulty.\n<command_color=common_02>*Recommended power is only displayed before battle.</color>"
-        },
-        "HelpPopupGroupId": 4,
-        "Seq": 2,
-        "ResourceId": 402,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 403,
-        "Title": {
-            "Ja": "バトル情報とおすすめ編成について",
-            "En": "Battle Details and Recommended Party"
-        },
-        "Description": {
-            "Ja": "バトル前には<command_color=common_03>挑戦するバトルの情報が確認</color>でき、\n<command_color=common_03>「おすすめ編成」</color>ボタンをタップすると、そのバトルに適した編成をすることができます。",
-            "En": "You can <command_color=common_03>check the details of a battle</color> beforehand. \nTap <command_color=common_03>Rcmd. Party</color> to automatically create an optimal party for that battle."
-        },
-        "HelpPopupGroupId": 4,
-        "Seq": 3,
-        "ResourceId": 403,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 501,
-        "Title": {
-            "Ja": "マルチのパーティ編成について",
-            "En": "Co-op Party Formations"
-        },
-        "Description": {
-            "Ja": "マルチでは、各プレイヤーがキャラクター1体を編成してパーティを結成します。\n<command_color=common_03>ランダムマッチではパーティは必ず3人の編成</color>となりますが、\n<command_color=common_03>プライベートマッチであれば2人編成</color>でも開始できます。",
-            "En": "In Co-op, players control one character and form parties with others.\n<command_color=common_03>Random matches require 3 characters to form a party</color>, while private matches <command_color=common_03>only require 2.</color>"
-        },
-        "HelpPopupGroupId": 5,
-        "Seq": 1,
-        "ResourceId": 501,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 502,
-        "Title": {
-            "Ja": "ランダムマッチの必須戦力について",
-            "En": "Required Power for Random Matches"
-        },
-        "Description": {
-            "Ja": "ランダムマッチには<command_color=common_03>「必須戦力」</color>があり、\n開始するには<command_color=common_03>自身の戦力が必須戦力を超えている必要</color>があります。\n<command_color=common_02>※プライベートマッチでは「必須戦力」を気にせずプレイできます。</color>",
-            "En": "Random matches have a <command_color=common_03>required Power value</color> that you must meet.\n<command_color=common_02>*This is not required for private matches.</color>"
-        },
-        "HelpPopupGroupId": 5,
-        "Seq": 2,
-        "ResourceId": 502,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 601,
-        "Title": {
-            "Ja": "アナザーダンジョンについて1",
-            "En": "Criterion Dungeons 1"
-        },
-        "Description": {
-            "Ja": "「アナザーダンジョン」は、<command_color=common_03>ストーリーで登場したダンジョンをもう一度体験</color>できます。\nクリアで報酬を獲得でき、ダンジョン別のミッションのクリアでも追加の報酬を獲得できます。",
-            "En": "This feature allows you to <command_color=common_03>explore dungeons from the story</color> once more.\nClear the dungeon for rewards, and complete dungeon-specific missions for additional rewards."
-        },
-        "HelpPopupGroupId": 6,
-        "Seq": 1,
-        "ResourceId": 601,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 602,
-        "Title": {
-            "Ja": "アナザーダンジョンについて2",
-            "En": "Criterion Dungeons 2"
-        },
-        "Description": {
-            "Ja": "アナザーダンジョンには<command_color=common_03>「エネミーシンボル」</color>があり、 <command_color=common_03>接触するとバトルが開始</color>します。 \nまた、<command_color=common_03>バトルで受けたダメージにより、 HPの最大値が減少</color>します。",
-            "En": "<command_color=common_03>Criterion Dungeons</color> contain Symbol enemies, and if you encounter them, <command_color=common_03>a battle will begin.</color>\nDamage taken during the battle <command_color=common_03>will affect your max HP.</color>"
-        },
-        "HelpPopupGroupId": 6,
-        "Seq": 2,
-        "ResourceId": 602,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 603,
-        "Title": {
-            "Ja": "ダンジョン専用アイテムについて",
-            "En": "Dungeon-Specific Items"
-        },
-        "Description": {
-            "Ja": "ダンジョン内の<command_color=common_03>専用アイテム</color>は<command_color=common_03>ダンジョン内でのみ使用</color>できます。\n<command_color=common_02>※専用アイテムはダンジョンの外に持ち出すことはできません。</color>",
-            "En": "<command_color=common_03>Items specific to dungeons</color> can only be used <command_color=common_03>inside each respective dungeon</color>.\n\n<command_color=common_02>*Items specific to dungeons cannot be taken outside.</color>"
-        },
-        "HelpPopupGroupId": 6,
-        "Seq": 3,
-        "ResourceId": 603,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 701,
-        "Title": {
-            "Ja": "クライシスダンジョンについて",
-            "En": "Crisis Dungeons"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「クライシスダンジョン」</color>は、アナザーダンジョンよりさらに高難度の\nダンジョン踏破コンテンツです。",
-            "En": "<command_color=common_03>Crisis Dungeons</color> are Criterion Dungeons with a higher difficulty level."
-        },
-        "HelpPopupGroupId": 7,
-        "Seq": 1,
-        "ResourceId": 701,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 702,
-        "Title": {
-            "Ja": "ダンジョンキーについて",
-            "En": "Dungeon Keys"
-        },
-        "Description": {
-            "Ja": "クライシスダンジョンに挑戦するには、<command_color=common_03>「<sprite=\"tmp_icon\" index=775>(ダンジョンキー)」を消費</color>します。\n<sprite=\"tmp_icon\" index=775>は<command_color=common_03>1週間に3個補充</color>され、<command_color=common_03>クリスタルを消費して交換</color>もできます。",
-            "En": "Crisis Dungeons require <command_color=common_03><sprite=\"tmp_icon\" index=775>(dungeon keys).</color>\n3<sprite=\"tmp_icon\" index=775> are <command_color=common_03>replenished weekly, but they can also be <command_color=common_03>obtained with crystals.</color>"
-        },
-        "HelpPopupGroupId": 7,
-        "Seq": 2,
-        "ResourceId": 702,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 703,
-        "Title": {
-            "Ja": "トランスアビリティについて",
-            "En": "Trance Abilities"
-        },
-        "Description": {
-            "Ja": "ダンジョンごとに様々な効果を及ぼす<command_color=common_03>「トランスアビリティ」</color>があります。\nシンボルエネミーを倒すと、「トランスアビリティ」を<command_color=common_03>追加で取得</color>できます。\n <command_color=common_02>※シンボルエネミーを倒して選べるのは選択肢から1つだけです。</color>",
-            "En": "Each dungeon has<command_color=common_03> Trance Abilities</color> with various effects. \nAfter defeating a Symbol enemy, you will be <command_color=common_03>awarded an additional Trance Ability.</color>\n <command_color=common_02>*You can choose 1 Trance Ability upon defeating a Symbol enemy.</color>"
-        },
-        "HelpPopupGroupId": 7,
-        "Seq": 3,
-        "ResourceId": 703,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 704,
-        "Title": {
-            "Ja": "クライシスレベルについて",
-            "En": "Crisis Levels"
-        },
-        "Description": {
-            "Ja": "シンボルエネミーを倒すことで<command_color=common_03>「クライシスレベル」</color>が上昇します。\n「クライシスレベル」の上昇に応じて、ダンジョン内の敵も強くなります。",
-            "En": "Defeating a symbol enemy will <command_color=common_03>increase the Crisis Level,</color> which will in turn make enemies stronger."
-        },
-        "HelpPopupGroupId": 7,
-        "Seq": 4,
-        "ResourceId": 704,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 801,
-        "Title": {
-            "Ja": "マルチバトルの挑戦方法 1",
-            "En": "Attempting Co-op Battles 1"
-        },
-        "Description": {
-            "Ja": "マルチバトルは、<command_color=common_03>自分で参加メンバーを募集する「マルチに参加」</color>か、\n<command_color=common_03>「フレンド招待リスト」や「ルームID入力」から作成済みのルームへ参加</color>することで\n開始できます。",
-            "En": "To participate in Co-op battles, you can <command_color=common_03>create a lobby to search for other players,</color> \nor <command_color=common_03>join another player's lobby by invitation or lobby ID search.</color>"
-        },
-        "HelpPopupGroupId": 8,
-        "Seq": 1,
-        "ResourceId": 801,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 802,
-        "Title": {
-            "Ja": "マルチバトルの挑戦方法 2",
-            "En": "Attempting Co-op Battles 2"
-        },
-        "Description": {
-            "Ja": "マルチバトルには<command_color=common_03>「プライベートマッチ」</color>と<command_color=common_03>「ランダムマッチ」</color>の2種類があります。\n「プライベートマッチ」では、<command_color=common_03>フレンドとパーティを組む</color>ことができ、\n「ランダムマッチ」では、<command_color=common_03>自動的にパーティを組む</color>ことができます。",
-            "En": "There are two types of Co-op battles: <command_color=common_03>private matches and random matches.</color>\nTeam up with friends in private matches or automatically join a party by randomly matching with other players."
-        },
-        "HelpPopupGroupId": 8,
-        "Seq": 2,
-        "ResourceId": 802,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 803,
-        "Title": {
-            "Ja": "マルチバトルの挑戦方法 3",
-            "En": "Attempting Co-op Battles 3"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ランダムマッチ」</color>をする場合、自身の戦力が\nステージ情報から確認できる<command_color=common_03>「必須戦力」</color>以上である必要があります。\n\nまた、マルチバトルでは<command_color=common_03>初回クリアするまで<sprite=\"tmp_icon\" index=782>(スタミナ)を消費しない</color>で挑戦できます。",
-            "En": "To participate in <command_color=common_03>random matches</color>, your Power must meet the required Power value shown in the stage details.\n\nIn addition, in <command_color=common_03>Co-op battles</color>, you can challenge without consuming <sprite=\"tmp_icon\" index=782>(Stamina)\nuntil you clear it for the first time."
-        },
-        "HelpPopupGroupId": 8,
-        "Seq": 3,
-        "ResourceId": 803,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 804,
-        "Title": {
-            "Ja": "レイズについて",
-            "En": "Raise"
-        },
-        "Description": {
-            "Ja": "マルチバトル中では、特殊なアビリティ<command_color=common_03>「レイズ」</color>が使えます。\n「レイズ」を使うと、<command_color=common_03>戦闘不能の味方が復活</color>します。\n<command_color=common_02>※同じプレイヤーのキャラクターは一度しか復活できません。</color>",
-            "En": "In Co-op battles, you can use the special ability <command_color=common_03>Raise</color>.\nUsing Raise will <command_color=common_03>revive fallen allies</color>.\n<command_color=common_02>*Each character can only be revived once per player.</color>"
-        },
-        "HelpPopupGroupId": 8,
-        "Seq": 4,
-        "ResourceId": 804,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 805,
-        "Title": {
-            "Ja": "マルチバトルの報酬について",
-            "En": "Co-op Battle Rewards"
-        },
-        "Description": {
-            "Ja": "マルチバトルをクリアすると、<command_color=common_03>「<sprite=\"tmp_icon\" index=771>マルチメダル」</color>を獲得できます。\n<sprite=\"tmp_icon\" index=771>マルチメダルは交換所で使用できます。\n\nフレンドと一緒に挑戦すると1回のバトルで獲得できる量が増えます。\n<command_color=common_02>※<sprite=\"tmp_icon\" index=771>マルチメダルは1週間で獲得できる量に制限があります。</color>",
-            "En": "Upon completing Co-op battles, you can acquire <command_color=common_03><sprite=\"tmp_icon\" index=771>Co-op medals</color>.\n<sprite=\"tmp_icon\" index=771>Co-op medals can be used at the exchange.\nTeaming up with friends increases the amount of medals earned per battle.\n<command_color=common_02>*There is a limit to the amount of <sprite=\"tmp_icon\" index=771>Co-op medals that can be obtained within a week.</color>"
-        },
-        "HelpPopupGroupId": 8,
-        "Seq": 5,
-        "ResourceId": 805,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 806,
-        "Title": {
-            "Ja": "初マッチング報酬について",
-            "En": "First-Time Matching Rewards"
-        },
-        "Description": {
-            "Ja": "初めて協力したプレイヤーがいた場合、<command_color=common_03>「初マッチング報酬」</color>を獲得できます。\n<command_color=common_03>・1~30人目 ：ブルークリスタル×100個\n・31~50人目 ：ブルークリスタル×50個\n・51~200人目：ブルークリスタル×10個\n・201人目〜 ：マルチメダル</color>",
-            "En": "When teaming up with another player for the 1st time, you will receive a <command_color=common_03>first time match reward.</color>\n<command_color=common_03>1-30 players: Blue Crystal x100\n31-50 players: Blue Crystal x50\n51-200 players: Blue Crystal x10\n201+ players: Co-op Medals</color>"
-        },
-        "HelpPopupGroupId": 8,
-        "Seq": 6,
-        "ResourceId": 806,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 901,
-        "Title": {
-            "Ja": "チョコボファームについて",
-            "En": "Chocobo Farm"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「チョコボファーム」</color>では、グリンから<command_color=common_03>チョコボ遠征</color>、\nクリンから<command_color=common_03>チョコボの交換</color>、グリングリンから<command_color=common_03>チョコボの確認と引退</color>ができます。",
-            "En": "At the <command_color=common_03>Chocobo Farm</color>, Bill oversees the <command_color=common_03>chocobo expeditions</color>, Chloe runs <command_color=common_03>the exchange</color>, \nand Billy tends the stables that allow you to <command_color=common_03>view and retire your chocobos</color>."
-        },
-        "HelpPopupGroupId": 9,
-        "Seq": 1,
-        "ResourceId": 901,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1001,
-        "Title": {
-            "Ja": "チョコボ遠征について1",
-            "En": "Chocobo Expeditions 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「チョコボ遠征」</color>をすると、<command_color=common_03>一定時間経過でアイテムを発見</color>します。\nチョコボの能力により、必要な時間や獲得できるアイテムが変わります。\nまた、遠征に一緒に向かう<command_color=common_03>キャラクターの経験値を獲得</color>できます。",
-            "En": "Through <command_color=common_03>chocobo expeditions</color>, you will <command_color=common_03>discover items after a set amount of time</color>. \nThe time and items vary with each chocobo's abilities.\nCharacters sent on an expedition will <command_color=common_03>earn EXP</color>."
-        },
-        "HelpPopupGroupId": 10,
-        "Seq": 1,
-        "ResourceId": 1001,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1002,
-        "Title": {
-            "Ja": "チョコボ遠征について2",
-            "En": "Chocobo Expeditions 2"
-        },
-        "Description": {
-            "Ja": "遠征先には<command_color=common_03>「フィールド適性」</color>があり、<command_color=common_03>対応するフィールド適性を持つチョコボでのみ</color>遠征可能です。\nチョコボのフィールド適性は、チョコボを長押しして表示する詳細からも確認できます。",
-            "En": "Expedition areas feature various terrain, and only chocobos <command_color=common_03>capable of traversing the corresponding terrain</color> can be dispatched. Tap and hold on a chocobo to view their <command_color=common_03>field aptitude</color>."
-        },
-        "HelpPopupGroupId": 10,
-        "Seq": 2,
-        "ResourceId": 1002,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1101,
-        "Title": {
-            "Ja": "成長について",
-            "En": "Character Growth"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイクの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。",
-            "En": "In <command_color=common_03>Characters</color>, you can <command_color=common_03>boost characters' stats or acquire and enhance Limit Breaks.</color>\nIn <command_color=common_03>Summons</color>, you can <command_color=common_03>bind Summons and acquire and enhance their abilities.</color>"
-        },
-        "HelpPopupGroupId": 11,
-        "Seq": 1,
-        "ResourceId": 1101,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1201,
-        "Title": {
-            "Ja": "キャラクターストリームについて1",
-            "En": "Character Streams 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>マスを解放</color>することで、 記載されたステータスが上昇します。\nまた<command_color=common_03>新たなリミットブレイクの獲得</color>もできるようになります。\n<command_color=common_02>※マスの解放には専用素材や各キャラクターのメモリーが必要です。</color>",
-            "En": "<command_color=common_03>Unlocking nodes</color> increases the stat as shown on the node. You can also acquire <command_color=common_03>new Limit Breaks</color> in this fashion.\n\n<command_color=common_02>*Character-specific or common memories are required to unlock nodes.</color>"
-        },
-        "HelpPopupGroupId": 12,
-        "Seq": 1,
-        "ResourceId": 1201,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1202,
-        "Title": {
-            "Ja": "キャラクターストリームについて2",
-            "En": "Character Streams 2"
-        },
-        "Description": {
-            "Ja": "新たなリミットブレイクは<command_color=common_03>「獲得ミッション」を全てクリア</color>することで獲得できます。 \n獲得ミッションは、 <command_color=common_03>1キャラクターで同時に1つまで挑戦</color>できます。 \n<command_color=common_02>※ミッション開始後に変更するには、待機時間が経過する必要があります。</color>",
-            "En": "New limit breaks can be acquired by <command_color=common_03>completing all requisite Unlock Missions.</color>\n<command_color=common_03>One mission per character can be attempted at once.</color>\n<command_color=common_02>*Starting a mission triggers a cooldown timer. You must wait before you can select a different mission.</color>"
-        },
-        "HelpPopupGroupId": 12,
-        "Seq": 2,
-        "ResourceId": 1202,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1203,
-        "Title": {
-            "Ja": "ミッションの確認方法について",
-            "En": "Viewing Missions"
-        },
-        "Description": {
-            "Ja": "ミッションはキャラクターストリーム以外の場所でも、\nメニューにある<command_color=common_03>「ストリームミッション」</color>から確認できます。",
-            "En": "Missions can also be viewed from <command_color=common_03>Stream Missions</color> in the menu screen."
-        },
-        "HelpPopupGroupId": 12,
-        "Seq": 3,
-        "ResourceId": 1203,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1301,
-        "Title": {
-            "Ja": "召喚獣ストリームについて1",
-            "En": "Summon Streams 1"
-        },
-        "Description": {
-            "Ja": "召喚獣は<command_color=common_03>「契約ミッション」を全てクリアすることで契約</color>でき、マスの解放で<command_color=common_03>強化</color>できます。\nまた、<command_color=common_03>「獲得ミッション」を全てクリア</color>することで<command_color=common_03>新たなアビリティを獲得</color>できます。\n<command_color=common_02>※解放には各召喚獣用のメモリーが必要です。</color>",
-            "En": "Summons can be bound by completing the respective <command_color=common_03>Pact Missions</color> and enhanced by unlocking their nodes. \nCompletion of the corresponding <command_color=common_03>Unlock Missions</color> awards new abilities.\n\n<command_color=common_02>*Summon memories are required to unlock nodes.</color>"
-        },
-        "HelpPopupGroupId": 13,
-        "Seq": 1,
-        "ResourceId": 1301,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1302,
-        "Title": {
-            "Ja": "召喚獣ストリームについて2",
-            "En": "Summon Streams 2"
-        },
-        "Description": {
-            "Ja": "契約ミッションや獲得ミッションは、<command_color=common_03> 全召喚獣共通で同時に1つまで挑戦</color>できます。 \n<command_color=common_02>※ミッション開始後に変更するには、待機時間が経過する必要があります。</color>",
-            "En": "Only one Pact and Unlock Mission <command_color=common_03>across all summons can be attempted at once.</color>\n<command_color=common_02>*Starting a mission triggers a cooldown timer. You must wait before you can select a different mission.</color>"
-        },
-        "HelpPopupGroupId": 13,
-        "Seq": 2,
-        "ResourceId": 1302,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1303,
-        "Title": {
-            "Ja": "ミッションの確認方法について",
-            "En": "Viewing Missions"
-        },
-        "Description": {
-            "Ja": "ミッションは召喚獣ストリーム以外の場所でも、\nメニューにある<command_color=common_03>「ストリームミッション」</color>から確認できます。",
-            "En": "Missions can also be viewed from <command_color=common_03>Stream Missions</color> in the menu screen."
-        },
-        "HelpPopupGroupId": 13,
-        "Seq": 3,
-        "ResourceId": 1303,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1401,
-        "Title": {
-            "Ja": "強化について",
-            "En": "Enhancements"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「武器強化」</color>では、<command_color=common_03>所持している武器の強化</color>ができます。\n<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>所持しているマテリアの強化と売却</color>ができます。\n<command_color=common_03>「マテリア合成」</color>では、<command_color=common_03>所持しているレシピからマテリアの合成</color>ができます。",
-            "En": "<command_color=common_03>Enhance Weapons</color> allows you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
-        },
-        "HelpPopupGroupId": 14,
-        "Seq": 1,
-        "ResourceId": 1401,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1501,
-        "Title": {
-            "Ja": "マテリア強化について",
-            "En": "Enhancing Materia"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>「強化」</color>をすることでマテリアをレベルアップできます。\n「強化」は素材、または不要なマテリアを消費することで行えます。\n\n レベルが上がると<command_color=common_03>アビリティの効果が強化</color>され、\n一定レベルで<command_color=common_03>サブステータスが解放、強化</color>されます。\n",
-            "En": "<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and level up your materia using materials and other materia.</color>\nWhen you level up a materia, <command_color=common_03>its ability's effects are enhanced,</color> and at certain levels, <command_color=common_03>sub stats are unlocked or enhanced.</color>"
-        },
-        "HelpPopupGroupId": 15,
-        "Seq": 1,
-        "ResourceId": 1501,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1502,
-        "Title": {
-            "Ja": "マテリア進化について",
-            "En": "Upgrading Materia"
-        },
-        "Description": {
-            "Ja": "マテリアはレベルが最大になると<command_color=common_03>「進化」</color>が可能となります。\n「進化」をすると<command_color=common_03>上位のマテリア</color>に変わります。\nその際に<command_color=common_03>レアリティが上昇する</color>こともあります。",
-            "En": "When a materia reaches max level, it can be <command_color=common_03>upgraded</color> into a more powerful materia. \n<command_color=common_03>Upgrading a materia may also increase its rarity.</color>"
-        },
-        "HelpPopupGroupId": 15,
-        "Seq": 2,
-        "ResourceId": 1502,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1601,
-        "Title": {
-            "Ja": "武器強化について1",
-            "En": "Enhancing Weapons 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「武器強化」</color>では、<command_color=common_03>「強化」</color>をすることで武器をレベルアップできます。\nレベルが最大になると<command_color=common_03>「レベル上限解放」</color>が可能となります。\n「レベル上限解放」をすると、\n<command_color=common_03>Rアビリティの解放と強化、サポートマテリアが解放</color>されます。",
-            "En": "<command_color=common_03>Enhance Weapons</color> allows you to strengthen and level up your weapons. \nWhen a weapon reaches max level, its level can be <command_color=common_03>uncapped.</color> \nUncapping a weapon's level <command_color=common_03>unlocks and strengthens R. abilities, as well as unlocking support materia.</color>"
-        },
-        "HelpPopupGroupId": 16,
-        "Seq": 1,
-        "ResourceId": 1601,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1602,
-        "Title": {
-            "Ja": "武器強化について2",
-            "En": "Enhancing Weapons 2"
-        },
-        "Description": {
-            "Ja": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>以下の武器は<command_color=common_03>「レアリティアップ」</color>でき、<command_color=common_03>最大レベルが上昇</color>します。\n\n<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>の武器は<command_color=common_03>「限界突破」</color>が可能です。 \n「限界突破」をすると、<command_color=common_03>ステータス、Cアビリティ、 Rアビリティが強化</color>されます。\n<command_color=common_02>※11段階以降は<sprite=\"tmp_icon\" index=198>の横に「+」として表示されます。</color>",
-            "En": "The rarity of <sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192> weapons or lower can be increased, <command_color=common_03>raising its max level</color>.\n  \n<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> weapons can be <command_color=common_03>overboosted</color>, enhancing stats, C. Abilities, and R. Abilities.\n\n<command_color=common_02>*A + will appear next to <sprite=\"tmp_icon\" index=198> from the 11th tier onward.</color>"
-        },
-        "HelpPopupGroupId": 16,
-        "Seq": 2,
-        "ResourceId": 1602,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1603,
-        "Title": {
-            "Ja": "武器のステータスについて1",
-            "En": "Weapon Stats 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。",
-            "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt."
-        },
-        "HelpPopupGroupId": 16,
-        "Seq": 3,
-        "ResourceId": 1603,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1604,
-        "Title": {
-            "Ja": "武器のステータスについて2",
-            "En": "Weapon Stats 2"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。",
-            "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP recovered."
-        },
-        "HelpPopupGroupId": 16,
-        "Seq": 4,
-        "ResourceId": 1604,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1605,
-        "Title": {
-            "Ja": "武器のアビリティについて",
-            "En": "Weapon Abilities"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>C（コマンド）アビリティ</color>・・・バトル時にATBゲージを消費して使用するアビリティです。\n<command_color=common_03>R（ライズ）アビリティ</color>・・・常に効果を発揮するアビリティです。",
-            "En": "<command_color=common_03>C. abilities (Command abilities):</color> Abilities used in battle that consume ATB.\n<command_color=common_03>R. abilities (Reinforcement abilities):</color> Passive abilities that are always in effect."
-        },
-        "HelpPopupGroupId": 16,
-        "Seq": 5,
-        "ResourceId": 1605,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1606,
-        "Title": {
-            "Ja": "サポートマテリアについて",
-            "En": "Support Materia"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「サポートマテリア」</color>は武器毎に3つセットされている固定マテリアです。\n <command_color=common_03>武器レベルが一定まで上がることで解放</color>されます。 \n\nサポートマテリアの<command_color=common_03>S（サポート）アビリティは対となるマテリアに効果</color>を与えます。\nマテリアの組み合わせ次第では効果が発揮されないこともあります。",
-            "En": "Each weapon has three <command_color=common_03>Support Materia</color> that become unlocked at certain levels.\nThe <command_color=common_03>S. abilities (Support abilities) of support materia affect the materia with which they're paired.</color>\nDepending on the pairing, these abilities may have no effect."
-        },
-        "HelpPopupGroupId": 16,
-        "Seq": 6,
-        "ResourceId": 1606,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1607,
-        "Title": {
-            "Ja": "武器詳細から武器強化へ",
-            "En": "Weapon Details to Enhance Weapons"
-        },
-        "Description": {
-            "Ja": "所持している武器で強化したい武器があれば、\n武器詳細からも武器強化へ移動することができます。",
-            "En": "If you have a weapon you'd like to enhance, you can go to Enhance Weapons from the Weapon Details screen."
-        },
-        "HelpPopupGroupId": 16,
-        "Seq": 7,
-        "ResourceId": 1607,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1701,
-        "Title": {
-            "Ja": "保管庫について",
-            "En": "The Armory"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>重複して獲得した武器は「保管庫」に保管</color>され、\nレアリティアップや限界突破に使用する<command_color=common_03>各ウェポンパーツに変換</color>できます。\n<command_color=common_02>※「自動変換機能」をONにすると武器保管庫に送られてきた武器を自動的に変換します。</color>",
-            "En": "Duplicate weapons are stored in the Armory and can be <command_color=common_03>converted to weapon parts \nused to increase the rarity of or overboost weapons.</color>\n<command_color=common_02>*Turning on auto-convert will automatically convert any weapons sent to the armory.</color>"
-        },
-        "HelpPopupGroupId": 17,
-        "Seq": 1,
-        "ResourceId": 1701,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1801,
-        "Title": {
-            "Ja": "マテリア合成について",
-            "En": "Synthesis"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「合成」で作成したいマテリアを選択</color>し、<command_color=common_03>完了まで時間が経過</color>することで作成できます。\nマテリアの作成には<command_color=common_03>レシピが必要</color>となります。\n\n<command_color=common_03>レアリティ、サブステータスは合成完了時に判明</color>します。\nレシピの入手場所は、レシピを長押しして表示する詳細から確認できます。",
-            "En": "You can <command_color=common_03>select a materia to create</color>, and after a set amount of time, <command_color=common_03>the materia will be complete.</color>\n<command_color=common_03>A recipe is needed to create materia.</color>\n \nA materia's <command_color=common_03>rarity and sub stats are determined upon completion.</color>\nTap and hold recipes to view details, such as where it can be obtained."
-        },
-        "HelpPopupGroupId": 18,
-        "Seq": 1,
-        "ResourceId": 1801,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1802,
-        "Title": {
-            "Ja": "合成素材の追加について",
-            "En": "Additional Synthesis Materials"
-        },
-        "Description": {
-            "Ja": "「マテリア合成」にて<command_color=common_03>素材を追加</color>できるようになりました。\n一定の量を追加することで、合成結果に影響を与えます。\n<command_color=common_02>※追加できる素材はマテリアの種類ごとに異なります。</color>",
-            "En": "<command_color=common_03>Additional materials</color> can now be used during synthesis. Adding a certain amount of materials will affect the materia's outcome.\n \n<command_color=common_02>*The additional materials that can be used vary with each materia type.</color>"
-        },
-        "HelpPopupGroupId": 18,
-        "Seq": 2,
-        "ResourceId": 1802,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1803,
-        "Title": {
-            "Ja": "合成の時間短縮について",
-            "En": "Shortening Synthesis Duration"
-        },
-        "Description": {
-            "Ja": "合成にかかる時間は<command_color=common_03>「時間短縮」ボタンから短縮</color>ができます。 \n<command_color=common_02>※時間短縮には専用アイテムの「合成の栞」が必要です。</color>",
-            "En": "Materia creation can be expedited through <command_color=common_03>Shorten Duration.</color>\n<command_color=common_02>*A synthesis bookmark is required.</color>"
-        },
-        "HelpPopupGroupId": 18,
-        "Seq": 3,
-        "ResourceId": 1803,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 1901,
-        "Title": {
-            "Ja": "編成について",
-            "En": "Formations"
-        },
-        "Description": {
-            "Ja": "編成では「シングル」用、「マルチ」用の編成ができます。\n<command_color=common_03>「シングル」</color>では最大3人でパーティを編成します。\n<command_color=common_03>「マルチ」</color>ではマルチバトルで使用する1人を編成します。",
-            "En": "You can create different parties for solo and co-op. <command_color=common_03>Solo formations</color> are comprised of a party of up to three characters.\n<command_color=common_03>Co-op formations</color> contain a single character for use in battle."
-        },
-        "HelpPopupGroupId": 19,
-        "Seq": 1,
-        "ResourceId": 1901,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2001,
-        "Title": {
-            "Ja": "個別編成について",
-            "En": "Solo Formation"
-        },
-        "Description": {
-            "Ja": "各装備を編成することで\n<command_color=common_03>「戦力」「ステータス」「C（コマンド）アビリティ」\n「L（リミット）アビリティ」「R（ライズ）アビリティ」</color>が決まります。",
-            "En": "Equipment affects a character's <command_color=common_03>Power, stats, C. Abilities (Command Abilities), \nL. Abilities (Limit Abilities), and R. Abilities (Reinforcement Abilities).</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 1,
-        "ResourceId": 2001,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2002,
-        "Title": {
-            "Ja": "ステータスについて1",
-            "En": "Stats 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
-            "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 2,
-        "ResourceId": 2002,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2003,
-        "Title": {
-            "Ja": "ステータスについて2",
-            "En": "Stats 2"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
-            "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP restored.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 3,
-        "ResourceId": 2003,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2004,
-        "Title": {
-            "Ja": "C（コマンド）アビリティについて",
-            "En": "C. Abilities (Command Abilities)"
-        },
-        "Description": {
-            "Ja": "バトル時にATBゲージを消費して使用するアビリティです。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「マテリア」のCアビリティが反映されます。</color>",
-            "En": "These abilities are used in battle and consume the ATB gauge.\n<command_color=common_02>*The C. abilities of main weapons, ability weapons, and materia are reflected.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 4,
-        "ResourceId": 2004,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2005,
-        "Title": {
-            "Ja": "L（リミット）アビリティについて1",
-            "En": "L. Abilities (Limit Abilities) 1"
-        },
-        "Description": {
-            "Ja": "バトル時にLIMITゲージを消費して使用する強力なアビリティです。\n<command_color=common_03>「リミットブレイク」</color>と<command_color=common_03>「召喚獣アビリティ」</color>のどちらかを装備できます。",
-            "En": "These powerful abilities are used in battle and consume the limit gauge. \nEither a <command_color=common_03>Limit Break</color> or <command_color=common_03>Summon Ability</color> can be equipped."
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 5,
-        "ResourceId": 2005,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2006,
-        "Title": {
-            "Ja": "L（リミット）アビリティについて2",
-            "En": "L. Abilities (Limit Abilities) 2"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>リミットブレイク</color>・・・各キャラクター固有のアビリティです。\n<command_color=common_03>召喚獣アビリティ</color>・・・召喚獣と契約することで使用できるアビリティです。\n<command_color=common_02>※1つのパーティで同じ召喚獣のアビリティを複数装備できません。</color>",
-            "En": "<command_color=common_03>Limit Break:</color> An ability specific to each character.\n<command_color=common_03>Summon ability:</color> An ability that can be used once a summon is bound.\n<command_color=common_02>*Each summon ability can be equipped by only one character in a party.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 6,
-        "ResourceId": 2006,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2007,
-        "Title": {
-            "Ja": "R（ライズ）アビリティについて",
-            "En": "R. Abilities (Reinforcement Abilities)"
-        },
-        "Description": {
-            "Ja": "バトル時に常に効果を発揮するアビリティです。\npt（ポイント）の合計でレベルが上がり、効果が強くなります。\n<command_color=common_02>※「メイン武器」「ウェア」「アビリティ武器」「サブ武器」のRアビリティが反映されます。\n※「アビリティ武器」「サブ武器」のptは50%が反映されます。</color>",
-            "En": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 7,
-        "ResourceId": 2007,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2008,
-        "Title": {
-            "Ja": "S（サポート）アビリティについて",
-            "En": "S. Abilities (Support Abilities)"
-        },
-        "Description": {
-            "Ja": "対となるマテリアに効果を与えるアビリティです。\n隣に装備したマテリアの効果が強くなります。\n<command_color=common_02>※適切な組み合わせの時のみ効果を与えます。</color>",
-            "En": "These abilities affect and strengthen the effects of the materia with which they're paired.\n<command_color=common_02>*Abilities may not have any effect depending on the pairing.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 8,
-        "ResourceId": 2008,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2009,
-        "Title": {
-            "Ja": "メイン武器について",
-            "En": "Main Weapons"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「メイン武器」</color>にはステータス、Cアビリティ、Rアビリティが反映され、\nここに装備した武器がバトル中の見た目にも反映されます。\n\nまた、メイン武器の<command_color=common_03>「サポートマテリア」</color>が反映されます。\n<command_color=common_02>※メイン武器は自身の武器のみ装備できます。</color>",
-            "En": "Stats, C. abilities, R. abilities, and <command_color=common_03>support materia</color> of <command_color=common_03>main weapons</color> are reflected as well as the weapon's appearance.\n<command_color=common_02>*Only character-specific weapons can be equipped.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 9,
-        "ResourceId": 2009,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2010,
-        "Title": {
-            "Ja": "サポートマテリアについて",
-            "En": "Support Materia"
-        },
-        "Description": {
-            "Ja": "「サポートマテリア」は武器の<command_color=common_03>レベル上限によって効果を発揮</color>します。\n「サポートマテリア」の<command_color=common_03>「Sアビリティ」は対となるマテリアに効果</color>を与えます。\nマテリアの組み合わせ次第では効果が発揮されないこともあります。",
-            "En": "The <command_color=common_03>effects of support materia are triggered based on a weapon's max level.</color> The <command_color=common_03>S. abilities of support materia affect the materia with which they're paired.</color> Depending on the pairing, these abilities may have no effect."
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 10,
-        "ResourceId": 2010,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2011,
-        "Title": {
-            "Ja": "ウェアについて",
-            "En": "Gear"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ウェア」</color>では<command_color=common_03>キャラクターの見た目</color>と<command_color=common_03>Rアビリティ</color>が反映されます。\n<command_color=common_03>「ビジュアル」</color>に装備すると、<command_color=common_03>Rアビリティは反映されず見た目のみ反映</color>されます。",
-            "En": "The appearance and R. abilities of <command_color=common_03>gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 11,
-        "ResourceId": 2011,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2012,
-        "Title": {
-            "Ja": "アビリティ武器について",
-            "En": "Ability Weapons"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「アビリティ武器」</color>はステータス、Cアビリティ、Rアビリティが反映されます。\n<command_color=common_02>※自身の武器のみ装備できます。\n※キャラクターの見た目には反映されません。\n※ステータスは50%が反映されます。\n※Rアビリティのptは50%が反映されます。</color>",
-            "En": "The <command_color=common_03>stats, C. abilities, and R. abilities of ability weapons are reflected.</color>\n<command_color=common_02>*Only character-specific weapons can be equipped.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. ability points are reflected.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 12,
-        "ResourceId": 2012,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2013,
-        "Title": {
-            "Ja": "マテリアについて",
-            "En": "Materia"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「マテリア」</color>はCアビリティ、サブステータスが反映されます。\nまた、対となる「サポートマテリア」によって効果が高まります。",
-            "En": "The C. Abilities and sub stats of <command_color=common_03>materia</color> are reflected. Their effects are increased based on the support materia with which they're paired."
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 13,
-        "ResourceId": 2013,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2014,
-        "Title": {
-            "Ja": "サブ武器について",
-            "En": "Sub Weapons"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「サブ武器」</color>はステータス、Rアビリティが反映されます。\n<command_color=common_02>※キャラクターの見た目には反映されません。\n※ステータスは50%が反映されます。\n※Rアビリティのptは50%が反映されます。</color>",
-            "En": "The stats and R. Abilities of <command_color=common_03>sub weapons</color> are reflected.\n<command_color=common_02>*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. Ability pts are reflected.</color>"
-        },
-        "HelpPopupGroupId": 20,
-        "Seq": 14,
-        "ResourceId": 2014,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2101,
-        "Title": {
-            "Ja": "ガチャの種類について",
-            "En": "Draw Types"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ガチャ」</color>には以下の3種類があります。\n・スペシャル・・・様々な種類のガチャ\n・新武器PU・・・「10回引く」とスタンプが押されるガチャ\n・チケット・・・チケットを使って引くガチャ",
-            "En": "There are three types of <command_color=common_03>draws:</color>\n \n- Special: Various types of draw\n- Featured: A draw that yields a stamp for every Draw 10\n- Ticket: A draw that requires tickets"
-        },
-        "HelpPopupGroupId": 21,
-        "Seq": 1,
-        "ResourceId": 2101,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2102,
-        "Title": {
-            "Ja": "スタンプシートについて1",
-            "En": "Stamp Cards 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「新武器PUガチャ」で「10回引く」</color>と、<command_color=common_03>「スタンプシート」</color>にスタンプが押されます。\nスタンプが押されると、そのマスの報酬が獲得できます。\n<command_color=common_02>※スタンプシートは詳細から確認できます。</color>",
-            "En": "In <command_color=common_03>New Weapon Featured Draw</color>, a <command_color=common_03>Draw 10</color> will yield one or several stamps for your <command_color=common_03>stamp card</color>.\nOnce stamped, you will receive the reward in a given square.\n<command_color=common_02>*Stamp cards can be viewed from stamp card details.</color>"
-        },
-        "HelpPopupGroupId": 21,
-        "Seq": 2,
-        "ResourceId": 2102,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2103,
-        "Title": {
-            "Ja": "スタンプシートについて2",
-            "En": "Stamp Cards 2"
-        },
-        "Description": {
-            "Ja": "スタンプシートには<command_color=common_03>「セレクトマス」</color>があることがあります。\n「セレクトマス」では<command_color=common_03>複数の報酬から任意の報酬を選択</color>できます。\n<command_color=common_02>※報酬獲得前であれば、スタンプシート詳細から報酬を変更できます。</color>",
-            "En": "Stamp cards sometimes have <command_color=common_03>Select squares</color> that allow you to <command_color=common_03>select one reward from several.</color>\n<command_color=common_02>*It is possible to change the reward from stamp card details before that square is stamped.</color>"
-        },
-        "HelpPopupGroupId": 21,
-        "Seq": 3,
-        "ResourceId": 2103,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2104,
-        "Title": {
-            "Ja": "ウィッシュリストについて",
-            "En": "Wish List"
-        },
-        "Description": {
-            "Ja": "「新武器PUガチャ」には<command_color=common_03>「ウィッシュリスト」</color>があります。\n「ウィッシュリスト」とは<command_color=common_03>選択された武器の排出率が上がる機能</color>です。\n開催されている新武器PUガチャのピックアップ武器は固定で選択されており、\n<command_color=common_03>ピックアップ武器と任意に選択した武器が排出率が上がる対象</color>となります。",
-            "En": "Stamp draws have a <command_color=common_03>Wish List</color>. Weapons in the Wish List have <command_color=common_03>better odds of being obtained.</color>\nThe featured weapons in the ongoing stamp draw are pre-determined. The odds are increased for both these<command_color=common_03> featured weapons and selected weapon</color>."
-        },
-        "HelpPopupGroupId": 21,
-        "Seq": 4,
-        "ResourceId": 2104,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2105,
-        "Title": {
-            "Ja": "武器の重複獲得について1",
-            "En": "Duplicate Weapons 1"
-        },
-        "Description": {
-            "Ja": "所持している武器を<command_color=common_03>より高いレアリティ武器で重複して獲得</color>すると、\n<command_color=common_03>所持武器がそのレアリティに更新</color>されます。",
-            "En": "If a <command_color=common_03>duplicate weapon of a higher rarity is obtained</color>, the <command_color=common_03>rarity of the same weapon currently held will increase to match.</color>"
-        },
-        "HelpPopupGroupId": 21,
-        "Seq": 5,
-        "ResourceId": 2105,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2106,
-        "Title": {
-            "Ja": "武器の重複獲得について2",
-            "En": "Duplicate Weapons 2"
-        },
-        "Description": {
-            "Ja": "また、<command_color=common_03>重複して入手した武器は武器保管庫に</color>送られます。\n送られる武器のレアリティは、レアリティアップした場合は<command_color=common_03>レアリティアップ前</color>の、\nしなかった場合は<command_color=common_03>入手武器のレアリティ</color>となります。",
-            "En": "Additionally, any <command_color=common_03>duplicate weapons obtained will be sent to the armory</color>. The rarity of the weapons sent is determined by <command_color=common_03>their rarity before upgrades</color>, if an upgrade occurred. If no upgrade occurred, the <command_color=common_03>obtained weapon's original rarity</color> is used."
-        },
-        "HelpPopupGroupId": 21,
-        "Seq": 6,
-        "ResourceId": 2106,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2201,
-        "Title": {
-            "Ja": "イベントについて",
-            "En": "Events"
-        },
-        "Description": {
-            "Ja": "イベントは<command_color=common_03>期間限定で開催される特別なコンテンツ</color>です。\n中には<command_color=common_03>参加条件が設定されているイベント</color>もあります。",
-            "En": "Events are <command_color=common_03>special limited-time content.</color> Some events <command_color=common_03>have requirements for participation.</color>"
-        },
-        "HelpPopupGroupId": 22,
-        "Seq": 1,
-        "ResourceId": 2201,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2301,
-        "Title": {
-            "Ja": "ミッションについて",
-            "En": "Missions"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ミッション」</color>として定められた<command_color=common_03>目的を達成することで、様々な報酬を獲得</color>できます。\nホームの「ミッション」や、 メニュー内の各ミッションから確認できます。",
-            "En": "Completing <command_color=common_03>missions</color> yields <command_color=common_03>various rewards</color>. They can be viewed from Missions in the home screen or from the menu screen."
-        },
-        "HelpPopupGroupId": 23,
-        "Seq": 1,
-        "ResourceId": 2301,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2302,
-        "Title": {
-            "Ja": "デイリー、ウィークリーミッションについて",
-            "En": "Daily and Weekly Missions"
-        },
-        "Description": {
-            "Ja": "「デイリーミッション」と「ウィークリーミッション」では、\n<command_color=common_03>達成することでpt（ポイント）を獲得</color>できます。\n一定のptに到達するごとに報酬を獲得できます。\n<command_color=common_02>※デイリーは毎日、ウィークリーは毎週ptやミッション内容がリセットされます。</color>",
-            "En": "In Daily Missions and Weekly Missions, you can earn <command_color=common_03>pts by completing them</color>. You can receive rewards each time you reach certain point thresholds.\n<command_color=common_02>*Pts and mission details for Daily Missions reset daily, and Weekly Missions reset weekly.</color>"
-        },
-        "HelpPopupGroupId": 23,
-        "Seq": 2,
-        "ResourceId": 2302,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2401,
-        "Title": {
-            "Ja": "ショップについて",
-            "En": "Shops"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ショップ」</color>では、<command_color=common_03>クリスタルやギルを消費して様々なアイテムを購入</color>できます。 \n一部のショップ・商品には、期限や回数の制限があります。",
-            "En": "In the <command_color=common_03>shop</color>, <command_color=common_03>crystals and gil can be used to purchase different items.</color> Some shops and items are only available for a limited time or have a limited quantity."
-        },
-        "HelpPopupGroupId": 24,
-        "Seq": 1,
-        "ResourceId": 2401,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2402,
-        "Title": {
-            "Ja": "ラインナップの更新について",
-            "En": "Refilling Lineups"
-        },
-        "Description": {
-            "Ja": "一部のショップでは、商品ラインナップが<command_color=common_03>時間経過により自動で更新</color>されます。\n また、プレイヤーの任意で内容を更新することが可能なショップもあります。 \n<command_color=common_02>※1日あたりに更新可能な回数には上限があります。\n※一部の交換所や商品には、期限や回数の制限があります。</color>",
-            "En": "In some shops, the <command_color=common_03>lineup is refilled automatically after a set amount of time.</color> They may also allow you to refill items at will.\n<command_color=common_02>*There is a limit to the number of times items can be refilled in a day.\n*Some exchanges or items are only available for a limited time or have a limited quantity.</color> "
-        },
-        "HelpPopupGroupId": 24,
-        "Seq": 2,
-        "ResourceId": 2402,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2501,
-        "Title": {
-            "Ja": "交換所について",
-            "En": "The Exchange"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「交換所」</color>では、<command_color=common_03>メダルなどの所持しているアイテムを別のアイテムと交換</color>できます。\n <command_color=common_02>※一部の交換所や商品には、期限や回数の制限があります。</color>",
-            "En": "At the <command_color=common_03>Exchange</color>, items such as medals <command_color=common_03>can be traded for other items.</color>\n <command_color=common_02>*Some shops and items are only available for a limited time or have a limited quantity.</color>"
-        },
-        "HelpPopupGroupId": 25,
-        "Seq": 1,
-        "ResourceId": 2501,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2601,
-        "Title": {
-            "Ja": "所持アイテムについて",
-            "En": "Held Items"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「所持アイテム」</color>では所持しているアイテムを確認できます。\nまた、<command_color=common_03>「入手場所」から入手できる場所へ移動</color>できます。",
-            "En": "You can check the items in your inventory from <command_color=common_03>Items</color>. You can also <command_color=common_03>jump to the locations where items can be obtained from Acquired Via.</color>"
-        },
-        "HelpPopupGroupId": 26,
-        "Seq": 1,
-        "ResourceId": 2601,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2701,
-        "Title": {
-            "Ja": "セトラの封印塔について",
-            "En": "Sealed Tower of the Cetra"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「セトラの封印塔」</color>では、各階層でバトルし最下層を目指します。\n階層ごとに様々な影響を与える<command_color=common_03>「バトル効果」があり、バトル中に常に効果を発揮</color>します。\n効果を考えた攻略が重要になります。",
-            "En": "In the Sealed Tower of the Cetra, strive to reach the bottom level while undertaking battles on each floor. Each floor has a Battle Effect that will influence your party's performance. Form parties that make the most of these effects."
-        },
-        "HelpPopupGroupId": 27,
-        "Seq": 1,
-        "ResourceId": 2701,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2901,
-        "Title": {
-            "Ja": "デイリークエストについて",
-            "En": "Daily Quests"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「デイリークエスト」</color>では、毎日届く依頼を達成するごとに報酬がもらえます。\n <command_color=common_02>※依頼は毎日5:00に更新されます。</color>",
-            "En": "<command_color=common_03>Daily Quests</color> are comprised of requests that yield rewards.\n <command_color=common_02>*Requests reset at 5AM every day.</color>"
-        },
-        "HelpPopupGroupId": 29,
-        "Seq": 1,
-        "ResourceId": 2901,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 2902,
-        "Title": {
-            "Ja": "デイリークエストの報酬について",
-            "En": "Daily Quest Rewards"
-        },
-        "Description": {
-            "Ja": "デイリークエストの依頼には、<command_color=common_03>獲得したい報酬を指定できる依頼</color>があります。\n<command_color=common_03>指定した中から抽選で報酬として獲得</color>できます。\n\nまた、時折普段より報酬が多く手に入る<command_color=common_03>「特別報酬依頼」</color>や、\n通常の報酬とは別に追加の報酬を獲得することがあります。",
-            "En": "Some requests allow you to <command_color=common_03>choose the rewards you want.</color> Upon completion, <command_color=common_03>one will be awarded at random from your selection.</color>\n \nThere are <command_color=common_03>special requests</color> that yield more rewards, and some that yield additional rewards."
-        },
-        "HelpPopupGroupId": 29,
-        "Seq": 2,
-        "ResourceId": 2902,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3001,
-        "Title": {
-            "Ja": "召喚獣クエストについて",
-            "En": "Summon Quests"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「召喚獣クエスト」</color>では、様々な召喚獣と戦うことができます。\n召喚獣と戦うことで<command_color=common_03>召喚獣ストリームが解放</color>されます。\n <command_color=common_02>※召喚獣クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
-            "En": "<command_color=common_03>Summon Quests</color> allow you to battle different Summons, after which you can unlock their respective Summon Streams.\n <command_color=common_02>*Summon quests require <sprite=\"tmp_icon\" index=782>(stamina).</color>"
-        },
-        "HelpPopupGroupId": 30,
-        "Seq": 1,
-        "ResourceId": 3001,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3101,
-        "Title": {
-            "Ja": "ストーリークエストについて",
-            "En": "Story Quests"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>「ストーリークエスト」</color>では\n各キャラクターを<command_color=common_03>より深く知ることができるストーリー</color>などを体験できます。",
-            "En": "Through <command_color=common_03>Story Quests</color>, you can <command_color=common_03>learn more about characters' backgrounds.</color>"
-        },
-        "HelpPopupGroupId": 31,
-        "Seq": 1,
-        "ResourceId": 3101,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3201,
-        "Title": {
-            "Ja": "チョコボのステータスについて1",
-            "En": "Chocobo Stats 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>性別</color>・・・チョコボの性別です。\n<command_color=common_03>ランク </color>・・・チョコボの優秀さです。\n<command_color=common_03>フィールド適性</color>・・・探索できる遠征地の適性です。",
-            "En": "<command_color=common_03>Gender</color>: The chocobo's gender.\n<command_color=common_03>Rank</color>: The chocobo's performance.\n<command_color=common_03>Field Aptitude</color>: The terrain to which the chocobo is suited to traverse."
-        },
-        "HelpPopupGroupId": 32,
-        "Seq": 1,
-        "ResourceId": 3201,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3202,
-        "Title": {
-            "Ja": "チョコボのステータスについて2",
-            "En": "Chocobo Stats 2"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>スピード</color>・・・遠征にかかる時間に影響します。\n<command_color=common_03>体力</color>・・・遠征報酬の量に影響します。\n<command_color=common_03>賢さ</color>・・・遠征報酬でレアアイテムやチョコボメダルの手に入りやすさに影響します。\n<command_color=common_03>適応力</color>・・・遠征で獲得するキャラクターの経験値に影響します。",
-            "En": "<command_color=common_03>Speed</color>: This affects the time it takes to complete an expedition.\n<command_color=common_03>Stamina</color>: This affects the amount of expedition rewards obtained.\n<command_color=common_03>Intellect</color>: This affects the chance to obtain rare items or chocobo medals on expeditions.\n<command_color=common_03>Adaptability</color>: This affects the amount of character EXP obtained during expeditions."
-        },
-        "HelpPopupGroupId": 32,
-        "Seq": 2,
-        "ResourceId": 3202,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3301,
-        "Title": {
-            "Ja": "強化クエストについて",
-            "En": "Enhancement Quests"
-        },
-        "Description": {
-            "Ja": "「強化クエスト」では<command_color=common_03>武器やマテリアの強化素材</color>や<command_color=common_03>合成の素材</color>、<command_color=common_03>経験値を獲得</color>できます。\n<command_color=common_02>※強化クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
-            "En": "<command_color=common_03>EXP, enhancement materials</color>, and <command_color=common_03>synthesis materials</color> can be obtained from each quest.\n \n<command_color=common_02>*<sprite=\"tmp_icon\" index=782>(Stamina) is required to attempt these quests.</color>"
-        },
-        "HelpPopupGroupId": 33,
-        "Seq": 1,
-        "ResourceId": 3301,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3401,
-        "Title": {
-            "Ja": "変換所について",
-            "En": "The Workshop"
-        },
-        "Description": {
-            "Ja": "「変換所」では、各ウェポンパーツを<command_color=common_03>ウェポンメダルに変換</color>できます。\nウェポンメダルは交換所で使用できます。",
-            "En": "At the Workshop, weapon parts can be <command_color=common_03>converted to weapon medals</color>, which can be used at the exchange."
-        },
-        "HelpPopupGroupId": 34,
-        "Seq": 1,
-        "ResourceId": 3401,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3501,
-        "Title": {
-            "Ja": "ストーリーの進行について",
-            "En": "Story Progression"
-        },
-        "Description": {
-            "Ja": "ストーリーは各EP（エピソード）として進みます。\nダンジョンやバトルを含むEPや、お話だけのEPがあります。",
-            "En": "The story is divided into EP (episodes), with some that include dungeons and battles."
-        },
-        "HelpPopupGroupId": 35,
-        "Seq": 1,
-        "ResourceId": 3501,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3502,
-        "Title": {
-            "Ja": "ストーリーバトルのパーティ編成モードについて",
-            "En": "Story Battle Party Modes"
-        },
-        "Description": {
-            "Ja": "ストーリーのバトルでは、ストーリーに合わせたパーティ編成に制限する\n<command_color=common_03>「ストーリーパーティ」</color>モード、自由に編成できる<command_color=common_03>「フリーパーティ」</color>モードが選択できます。\n\n「ストーリーパーティ」モードで<command_color=common_03>クリアすることでボーナス報酬を獲得</color>できます。\n<command_color=common_02>※「フリーパーティ」モードはストーリーを進めると選択できるようになります。</color>",
-            "En": "You can take on story battles in <command_color=common_03>Story Party</color> mode, which limits the formation to characters pertinent to the story, or <command_color=common_03>Free Party</color> mode, which allows you to form parties of your choice.\n \nStory Party mode yields <command_color=common_03>bonus rewards.</color>\n<command_color=common_02>*Free Party mode becomes available as you progress through the story.</color>"
-        },
-        "HelpPopupGroupId": 35,
-        "Seq": 2,
-        "ResourceId": 3502,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3701,
-        "Title": {
-            "Ja": "チョコボのステータスについて1",
-            "En": "Chocobo Stats 1"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>性別</color>・・・チョコボの性別です。\n<command_color=common_03>ランク </color>・・・チョコボの優秀さです。\n<command_color=common_03>フィールド適性</color>・・・探索できる遠征地の適性です。",
-            "En": "<command_color=common_03>Gender</color>: The chocobo's gender.\n<command_color=common_03>Rank</color>: The chocobo's performance.\n<command_color=common_03>Field Aptitude</color>: The terrain to which the chocobo is suited to traverse."
-        },
-        "HelpPopupGroupId": 37,
-        "Seq": 1,
-        "ResourceId": 3201,
-        "ConditionSetId": 0
-    },
-    {
-        "Id": 3702,
-        "Title": {
-            "Ja": "チョコボのステータスについて2",
-            "En": "Chocobo Stats 2"
-        },
-        "Description": {
-            "Ja": "<command_color=common_03>スピード</color>・・・遠征にかかる時間に影響します。\n<command_color=common_03>体力</color>・・・遠征報酬の量に影響します。\n<command_color=common_03>賢さ</color>・・・遠征報酬でレアアイテムやチョコボメダルの手に入りやすさに影響します。\n<command_color=common_03>適応力</color>・・・遠征で獲得するキャラクターの経験値に影響します。",
-            "En": "<command_color=common_03>Speed</color>: This affects the time it takes to complete an expedition.\n<command_color=common_03>Stamina</color>: This affects the amount of expedition rewards obtained.\n<command_color=common_03>Intellect</color>: This affects the chance to obtain rare items or chocobo medals on expeditions.\n<command_color=common_03>Adaptability</color>: This affects the amount of character EXP obtained during expeditions."
-        },
-        "HelpPopupGroupId": 37,
-        "Seq": 2,
-        "ResourceId": 3202,
-        "ConditionSetId": 0
-    }
+  {
+    "Id": 101,
+    "Title": {
+      "Ja": "ストーリーについて",
+      "En": "The Story"
+    },
+    "Description": {
+      "Ja": "ストーリーでは<command_color=common_03>「FINAL FANTASY VII」の\n様々なコンピレーション作品のエピソードを体験</color>できます。\n<command_color=common_02>※ストーリーを進めることで、他タイトルのエピソードもプレイできるようになります。</color>",
+      "En": "Re-experience the <command_color=common_03> episodes of Final Fantasy VII</color>. \nAs you proceed through the story, you will unlock episodes of other titles from within the FFVII series."
+    },
+    "HelpPopupGroupId": 1,
+    "Seq": 1,
+    "ResourceId": 101,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 201,
+    "Title": {
+      "Ja": "パーティ編成について1",
+      "En": "Party Formation 1"
+    },
+    "Description": {
+      "Ja": "1パーティには、<command_color=common_03>最大3人のキャラクターを編成</color>します。\nキャラクターや変更したい装備をタップすると変更できます。\n<command_color=common_02>※中央のキャラクターは「LEADER」となり、バトル開始時の操作キャラクターになります。</color>",
+      "En": "A single party is comprised of <command_color=common_03>up to three characters.</color> Tap to change characters and their equipment.\n<command_color=common_02>*The character in the center is the party leader and the one you control at the beginning of battle.</color>"
+    },
+    "HelpPopupGroupId": 2,
+    "Seq": 1,
+    "ResourceId": 201,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 202,
+    "Title": {
+      "Ja": "パーティ編成について2",
+      "En": "Party Formation 2"
+    },
+    "Description": {
+      "Ja": "編成したキャラクターと装備で<command_color=common_03>「戦力」</color>が決まり、パーティの合計で<command_color=common_03>「総戦力」</color>が決まります。\n各バトルには<command_color=common_03>「推奨戦力」</color>があり、バトルの強さの指標となります。\n<command_color=common_02>※「推奨戦力」はバトル前でのみ表示されます。</color>",
+      "En": "A character's <command_color=common_03>Power</color> is determined by their attributes and equipment, \nand a party's <command_color=common_03>Total Power</color> by the sum of all characters' power. \nEvery battle has a <command_color=common_03>recommended power value</color> that indicates the battle's difficulty.\n<command_color=common_02>*Recommended power is only displayed before battle.</color>"
+    },
+    "HelpPopupGroupId": 2,
+    "Seq": 2,
+    "ResourceId": 202,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 203,
+    "Title": {
+      "Ja": "バトル情報とおすすめ編成について",
+      "En": "Battle Details and Recommended Party"
+    },
+    "Description": {
+      "Ja": "バトル前には<command_color=common_03>挑戦するバトルの情報が確認</color>でき、\n<command_color=common_03>「おすすめ編成」</color>ボタンをタップすると、そのバトルに適した編成をすることができます。",
+      "En": "You can check the <command_color=common_03>details of a battle beforehand.</color> \nTap <command_color=common_03>Recommended Party</color> to automatically create an optimal party for that battle."
+    },
+    "HelpPopupGroupId": 2,
+    "Seq": 3,
+    "ResourceId": 203,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 204,
+    "Title": {
+      "Ja": "「ストーリーパーティ」モードの編成について",
+      "En": "Story Party Formations"
+    },
+    "Description": {
+      "Ja": "「ストーリーパーティ」モードでは<command_color=common_03>毎回自動的にパーティ編成</color>されます。\n自動で編成されたキャラクターも装備を自由に変更できます。",
+      "En": "In Story Party mode, <command_color=common_03>parties are created automatically,</color> but you can change the characters' equipment."
+    },
+    "HelpPopupGroupId": 2,
+    "Seq": 4,
+    "ResourceId": 204,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 301,
+    "Title": {
+      "Ja": "シングルコンテンツについて",
+      "En": "Solo Content"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「シングルコンテンツ」</color>には武器の強化素材を集めたり、\n強化したパーティで高難度のバトルに挑戦したりなど、様々なコンテンツがあります。",
+      "En": "In <command_color=common_03>Solo Content,</color> you can take on quests to collect weapon enhancement materials \nor attempt difficult battles with a stronger party."
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 1,
+    "ResourceId": 301,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 302,
+    "Title": {
+      "Ja": "デイリークエストについて",
+      "En": "Daily Quests"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「デイリークエスト」</color>は毎日届く依頼を達成するコンテンツです。\n届く依頼には様々な種類や報酬があります。\n<command_color=common_02>※依頼は毎日5:00に更新されます。</color>",
+      "En": "<command_color=common_03>Daily quests</color> are comprised of different types of requests that yield rewards.\n<command_color=common_02>*Requests reset at every day.</color>"
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 2,
+    "ResourceId": 302,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 303,
+    "Title": {
+      "Ja": "強化クエストについて",
+      "En": "Enhancement Quests"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「強化クエスト」</color>は武器強化やマテリア合成、キャラクター育成のためのコンテンツです。\n<command_color=common_03>素材を入手</color>したり、<command_color=common_03>経験値を多く獲得</color>したりすることができます。\n<command_color=common_02>※強化クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
+      "En": "<command_color=common_03>Enhancement quests</color> reward materials and lots of EXP, making them <command_color=common_03>vital for \nenhancing weapons, synthesizing materia, and strengthening characters.</color>\n<command_color=common_02>*Enhancement quests require <sprite=\"tmp_icon\" index=782>(stamina).</color>"
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 3,
+    "ResourceId": 303,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 304,
+    "Title": {
+      "Ja": "召喚獣クエストについて",
+      "En": "Summon Quests"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「召喚獣クエスト」</color>は様々な召喚獣と戦うコンテンツです。\n召喚獣と戦うことで<command_color=common_03>召喚獣ストリーム</color>が解放されます。\n<command_color=common_02>※召喚獣クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
+      "En": "<command_color=common_03>Summon quests</color> allow you to battle different summons,\nafter which you can unlock their <command_color=common_03>Summon Streams.</color>\n<command_color=common_02>*Summon quests require <sprite=\"tmp_icon\" index=782>(stamina).</color>"
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 4,
+    "ResourceId": 304,
+    "ConditionSetId": 160000000046
+  },
+  {
+    "Id": 305,
+    "Title": {
+      "Ja": "バトルタワーについて",
+      "En": "The Battle Tower"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「バトルタワー」</color>は進めていくことで<command_color=common_03>新しい機能の解放</color>ができるコンテンツです。\nタワー固有のルールとして<command_color=common_03>「バトル効果」</color>があり、<command_color=common_03>バトルで常に効果を発揮</color>します。\n効果を考えた攻略が重要になります。",
+      "En": "Progress through the <command_color=common_03>Battle Tower</color> to <command_color=common_03>unlock new features</color>. \nThe tower's <command_color=common_03>Battle Effect</color> will <command_color=common_03>influence your party's performance</color>. \nTherefore, it's crucial to strategize considering this effect."
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 5,
+    "ResourceId": 305,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 306,
+    "Title": {
+      "Ja": "ストーリークエストについて",
+      "En": "Story Quests"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ストーリークエスト」</color>は各キャラクターをより深く知ることができるコンテンツです。",
+      "En": "Through <command_color=common_03>Story quests</color>, you can learn more about characters' backgrounds."
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 6,
+    "ResourceId": 306,
+    "ConditionSetId": 160000000018
+  },
+  {
+    "Id": 307,
+    "Title": {
+      "Ja": "ダンジョンについて",
+      "En": "Dungeons"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ダンジョン」</color>はストーリーで体験したダンジョンを新たに冒険するコンテンツです。\nダンジョンのエリアはストーリーを進めることで増えていきます。",
+      "En": "You can revisit and explore the <command_color=common_03>dungeons</color> from the story. As you make progress, more will be unlocked."
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 7,
+    "ResourceId": 307,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 401,
+    "Title": {
+      "Ja": "パーティ編成について1",
+      "En": "Party Formation 1"
+    },
+    "Description": {
+      "Ja": "1パーティには、<command_color=common_03>最大3人のキャラクターを編成</color>します。\nキャラクターや変更したい装備をタップすると変更できます。\n<command_color=common_02>※中央のキャラクターは「LEADER」となり、バトル開始時の操作キャラクターになります。</color>",
+      "En": "A single party is comprised of <command_color=common_03>up to 3 characters.</color>\nTap to change characters and their equipment.\n<command_color=common_02>*The character in the center is the party leader and the one you control at the beginning of battle.</color>"
+    },
+    "HelpPopupGroupId": 4,
+    "Seq": 1,
+    "ResourceId": 401,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 402,
+    "Title": {
+      "Ja": "パーティ編成について2",
+      "En": "Party Formation 2"
+    },
+    "Description": {
+      "Ja": "編成したキャラクターと装備で<command_color=common_03>「戦力」</color>が決まり、パーティの合計で<command_color=common_03>「総戦力」</color>が決まります。\n各バトルには<command_color=common_03>「推奨戦力」</color>があり、バトルの強さの指標となります。\n<command_color=common_02>※「推奨戦力」はバトル前でのみ表示されます。</color>",
+      "En": "<command_color=common_03>Power</color> is determined by character's stats and equipment, and a <command_color=common_03>Total Power</color> by the sum of all power. \nEvery battle has a <command_color=common_03>Recommended Power</color> that indicates the battle's difficulty.\n<command_color=common_02>*Recommended power is only displayed before battle.</color>"
+    },
+    "HelpPopupGroupId": 4,
+    "Seq": 2,
+    "ResourceId": 402,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 403,
+    "Title": {
+      "Ja": "バトル情報とおすすめ編成について",
+      "En": "Battle Details and Recommended Party"
+    },
+    "Description": {
+      "Ja": "バトル前には<command_color=common_03>挑戦するバトルの情報が確認</color>でき、\n<command_color=common_03>「おすすめ編成」</color>ボタンをタップすると、そのバトルに適した編成をすることができます。",
+      "En": "You can <command_color=common_03>check the details of a battle</color> beforehand. \nTap <command_color=common_03>Rcmd. Party</color> to automatically create an optimal party for that battle."
+    },
+    "HelpPopupGroupId": 4,
+    "Seq": 3,
+    "ResourceId": 403,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 501,
+    "Title": {
+      "Ja": "マルチのパーティ編成について",
+      "En": "Co-op Party Formations"
+    },
+    "Description": {
+      "Ja": "マルチでは、各プレイヤーがキャラクター1体を編成してパーティを結成します。\n<command_color=common_03>ランダムマッチではパーティは必ず3人の編成</color>となりますが、\n<command_color=common_03>プライベートマッチであれば2人編成</color>でも開始できます。",
+      "En": "In Co-op, players control one character and form parties with others.\n<command_color=common_03>Random matches require 3 characters to form a party</color>, while private matches <command_color=common_03>only require 2.</color>"
+    },
+    "HelpPopupGroupId": 5,
+    "Seq": 1,
+    "ResourceId": 501,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 502,
+    "Title": {
+      "Ja": "ランダムマッチの必須戦力について",
+      "En": "Required Power for Random Matches"
+    },
+    "Description": {
+      "Ja": "ランダムマッチには<command_color=common_03>「必須戦力」</color>があり、\n開始するには<command_color=common_03>自身の戦力が必須戦力を超えている必要</color>があります。\n<command_color=common_02>※プライベートマッチでは「必須戦力」を気にせずプレイできます。</color>",
+      "En": "Random matches have a <command_color=common_03>required Power value</color> that you must meet.\n<command_color=common_02>*This is not required for private matches.</color>"
+    },
+    "HelpPopupGroupId": 5,
+    "Seq": 2,
+    "ResourceId": 502,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 601,
+    "Title": {
+      "Ja": "アナザーダンジョンについて1",
+      "En": "Criterion Dungeons 1"
+    },
+    "Description": {
+      "Ja": "「アナザーダンジョン」は、<command_color=common_03>ストーリーで登場したダンジョンをもう一度体験</color>できます。\nクリアで報酬を獲得でき、ダンジョン別のミッションのクリアでも追加の報酬を獲得できます。",
+      "En": "This feature allows you to <command_color=common_03>explore dungeons from the story</color> once more.\nClear the dungeon for rewards, and complete dungeon-specific missions for additional rewards."
+    },
+    "HelpPopupGroupId": 6,
+    "Seq": 1,
+    "ResourceId": 601,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 602,
+    "Title": {
+      "Ja": "アナザーダンジョンについて2",
+      "En": "Criterion Dungeons 2"
+    },
+    "Description": {
+      "Ja": "アナザーダンジョンには<command_color=common_03>「エネミーシンボル」</color>があり、 <command_color=common_03>接触するとバトルが開始</color>します。 \nまた、<command_color=common_03>バトルで受けたダメージにより、 HPの最大値が減少</color>します。",
+      "En": "<command_color=common_03>Criterion Dungeons</color> contain Symbol enemies, and if you encounter them, <command_color=common_03>a battle will begin.</color>\nDamage taken during the battle <command_color=common_03>will affect your max HP.</color>"
+    },
+    "HelpPopupGroupId": 6,
+    "Seq": 2,
+    "ResourceId": 602,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 603,
+    "Title": {
+      "Ja": "ダンジョン専用アイテムについて",
+      "En": "Dungeon-Specific Items"
+    },
+    "Description": {
+      "Ja": "ダンジョン内の<command_color=common_03>専用アイテム</color>は<command_color=common_03>ダンジョン内でのみ使用</color>できます。\n<command_color=common_02>※専用アイテムはダンジョンの外に持ち出すことはできません。</color>",
+      "En": "<command_color=common_03>Items specific to dungeons</color> can only be used <command_color=common_03>inside each respective dungeon</color>.\n\n<command_color=common_02>*Items specific to dungeons cannot be taken outside.</color>"
+    },
+    "HelpPopupGroupId": 6,
+    "Seq": 3,
+    "ResourceId": 603,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 701,
+    "Title": {
+      "Ja": "クライシスダンジョンについて",
+      "En": "Crisis Dungeons"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「クライシスダンジョン」</color>は、アナザーダンジョンよりさらに高難度の\nダンジョン踏破コンテンツです。",
+      "En": "<command_color=common_03>Crisis Dungeons</color> are Criterion Dungeons with a higher difficulty level."
+    },
+    "HelpPopupGroupId": 7,
+    "Seq": 1,
+    "ResourceId": 701,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 702,
+    "Title": {
+      "Ja": "ダンジョンキーについて",
+      "En": "Dungeon Keys"
+    },
+    "Description": {
+      "Ja": "クライシスダンジョンに挑戦するには、<command_color=common_03>「<sprite=\"tmp_icon\" index=775>(ダンジョンキー)」を消費</color>します。\n<sprite=\"tmp_icon\" index=775>は<command_color=common_03>1週間に3個補充</color>され、<command_color=common_03>クリスタルを消費して交換</color>もできます。",
+      "En": "Crisis Dungeons require <command_color=common_03><sprite=\"tmp_icon\" index=775>(dungeon keys).</color>\n3<sprite=\"tmp_icon\" index=775> are <command_color=common_03>replenished weekly, but they can also be <command_color=common_03>obtained with crystals.</color>"
+    },
+    "HelpPopupGroupId": 7,
+    "Seq": 2,
+    "ResourceId": 702,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 703,
+    "Title": {
+      "Ja": "トランスアビリティについて",
+      "En": "Trance Abilities"
+    },
+    "Description": {
+      "Ja": "ダンジョンごとに様々な効果を及ぼす<command_color=common_03>「トランスアビリティ」</color>があります。\nシンボルエネミーを倒すと、「トランスアビリティ」を<command_color=common_03>追加で取得</color>できます。\n <command_color=common_02>※シンボルエネミーを倒して選べるのは選択肢から1つだけです。</color>",
+      "En": "Each dungeon has<command_color=common_03> Trance Abilities</color> with various effects. \nAfter defeating a Symbol enemy, you will be <command_color=common_03>awarded an additional Trance Ability.</color>\n <command_color=common_02>*You can choose 1 Trance Ability upon defeating a Symbol enemy.</color>"
+    },
+    "HelpPopupGroupId": 7,
+    "Seq": 3,
+    "ResourceId": 703,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 704,
+    "Title": {
+      "Ja": "クライシスレベルについて",
+      "En": "Crisis Levels"
+    },
+    "Description": {
+      "Ja": "シンボルエネミーを倒すことで<command_color=common_03>「クライシスレベル」</color>が上昇します。\n「クライシスレベル」の上昇に応じて、ダンジョン内の敵も強くなります。",
+      "En": "Defeating a symbol enemy will <command_color=common_03>increase the Crisis Level,</color> which will in turn make enemies stronger."
+    },
+    "HelpPopupGroupId": 7,
+    "Seq": 4,
+    "ResourceId": 704,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 801,
+    "Title": {
+      "Ja": "マルチバトルの挑戦方法 1",
+      "En": "Attempting Co-op Battles 1"
+    },
+    "Description": {
+      "Ja": "マルチバトルは、<command_color=common_03>自分で参加メンバーを募集する「マルチに参加」</color>か、\n<command_color=common_03>「フレンド招待リスト」や「ルームID入力」から作成済みのルームへ参加</color>することで\n開始できます。",
+      "En": "To participate in Co-op battles, you can <command_color=common_03>create a lobby to search for other players,</color> \nor <command_color=common_03>join another player's lobby by invitation or lobby ID search.</color>"
+    },
+    "HelpPopupGroupId": 8,
+    "Seq": 1,
+    "ResourceId": 801,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 802,
+    "Title": {
+      "Ja": "マルチバトルの挑戦方法 2",
+      "En": "Attempting Co-op Battles 2"
+    },
+    "Description": {
+      "Ja": "マルチバトルには<command_color=common_03>「プライベートマッチ」</color>と<command_color=common_03>「ランダムマッチ」</color>の2種類があります。\n「プライベートマッチ」では、<command_color=common_03>フレンドとパーティを組む</color>ことができ、\n「ランダムマッチ」では、<command_color=common_03>自動的にパーティを組む</color>ことができます。",
+      "En": "There are two types of Co-op battles: <command_color=common_03>private matches and random matches.</color>\nTeam up with friends in private matches or automatically join a party by randomly matching with other players."
+    },
+    "HelpPopupGroupId": 8,
+    "Seq": 2,
+    "ResourceId": 802,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 803,
+    "Title": {
+      "Ja": "マルチバトルの挑戦方法 3",
+      "En": "Attempting Co-op Battles 3"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ランダムマッチ」</color>をする場合、自身の戦力が\nステージ情報から確認できる<command_color=common_03>「必須戦力」</color>以上である必要があります。\n\nまた、マルチバトルでは<command_color=common_03>初回クリアするまで<sprite=\"tmp_icon\" index=782>(スタミナ)を消費しない</color>で挑戦できます。",
+      "En": "To participate in <command_color=common_03>random matches</color>, your Power must meet the required Power value shown in the stage details.\n\nIn addition, in <command_color=common_03>Co-op battles</color>, you can challenge without consuming <sprite=\"tmp_icon\" index=782>(Stamina)\nuntil you clear it for the first time."
+    },
+    "HelpPopupGroupId": 8,
+    "Seq": 3,
+    "ResourceId": 803,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 804,
+    "Title": {
+      "Ja": "レイズについて",
+      "En": "Raise"
+    },
+    "Description": {
+      "Ja": "マルチバトル中では、特殊なアビリティ<command_color=common_03>「レイズ」</color>が使えます。\n「レイズ」を使うと、<command_color=common_03>戦闘不能の味方が復活</color>します。\n<command_color=common_02>※同じプレイヤーのキャラクターは一度しか復活できません。</color>",
+      "En": "In Co-op battles, you can use the special ability <command_color=common_03>Raise</color>.\nUsing Raise will <command_color=common_03>revive fallen allies</color>.\n<command_color=common_02>*Each character can only be revived once per player.</color>"
+    },
+    "HelpPopupGroupId": 8,
+    "Seq": 4,
+    "ResourceId": 804,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 805,
+    "Title": {
+      "Ja": "マルチバトルの報酬について",
+      "En": "Co-op Battle Rewards"
+    },
+    "Description": {
+      "Ja": "マルチバトルをクリアすると、<command_color=common_03>「<sprite=\"tmp_icon\" index=771>マルチメダル」</color>を獲得できます。\n<sprite=\"tmp_icon\" index=771>マルチメダルは交換所で使用できます。\n\nフレンドと一緒に挑戦すると1回のバトルで獲得できる量が増えます。\n<command_color=common_02>※<sprite=\"tmp_icon\" index=771>マルチメダルは1週間で獲得できる量に制限があります。</color>",
+      "En": "Upon completing Co-op battles, you can acquire <command_color=common_03><sprite=\"tmp_icon\" index=771>Co-op medals</color>.\n<sprite=\"tmp_icon\" index=771>Co-op medals can be used at the exchange.\nTeaming up with friends increases the amount of medals earned per battle.\n<command_color=common_02>*There is a limit to the amount of <sprite=\"tmp_icon\" index=771>Co-op medals that can be obtained within a week.</color>"
+    },
+    "HelpPopupGroupId": 8,
+    "Seq": 5,
+    "ResourceId": 805,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 806,
+    "Title": {
+      "Ja": "初マッチング報酬について",
+      "En": "First-Time Matching Rewards"
+    },
+    "Description": {
+      "Ja": "初めて協力したプレイヤーがいた場合、<command_color=common_03>「初マッチング報酬」</color>を獲得できます。\n<command_color=common_03>・1~30人目 ：ブルークリスタル×100個\n・31~50人目 ：ブルークリスタル×50個\n・51~200人目：ブルークリスタル×10個\n・201人目〜 ：マルチメダル</color>",
+      "En": "When teaming up with another player for the 1st time, you will receive a <command_color=common_03>first time match reward.</color>\n<command_color=common_03>1-30 players: Blue Crystal x100\n31-50 players: Blue Crystal x50\n51-200 players: Blue Crystal x10\n201+ players: Co-op Medals</color>"
+    },
+    "HelpPopupGroupId": 8,
+    "Seq": 6,
+    "ResourceId": 806,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 901,
+    "Title": {
+      "Ja": "チョコボファームについて",
+      "En": "Chocobo Farm"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「チョコボファーム」</color>では、グリンから<command_color=common_03>チョコボ遠征</color>、\nクリンから<command_color=common_03>チョコボの交換</color>、グリングリンから<command_color=common_03>チョコボの確認と引退</color>ができます。",
+      "En": "At the <command_color=common_03>Chocobo Farm</color>, Bill oversees the <command_color=common_03>chocobo expeditions</color>, Chloe runs <command_color=common_03>the exchange</color>, \nand Billy tends the stables that allow you to <command_color=common_03>view and retire your chocobos</color>."
+    },
+    "HelpPopupGroupId": 9,
+    "Seq": 1,
+    "ResourceId": 901,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1001,
+    "Title": {
+      "Ja": "チョコボ遠征について1",
+      "En": "Chocobo Expeditions 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「チョコボ遠征」</color>をすると、<command_color=common_03>一定時間経過でアイテムを発見</color>します。\nチョコボの能力により、必要な時間や獲得できるアイテムが変わります。\nまた、遠征に一緒に向かう<command_color=common_03>キャラクターの経験値を獲得</color>できます。",
+      "En": "Through <command_color=common_03>chocobo expeditions</color>, you will <command_color=common_03>discover items after a set amount of time</color>. \nThe time and items vary with each chocobo's abilities.\nCharacters sent on an expedition will <command_color=common_03>earn EXP</color>."
+    },
+    "HelpPopupGroupId": 10,
+    "Seq": 1,
+    "ResourceId": 1001,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1002,
+    "Title": {
+      "Ja": "チョコボ遠征について2",
+      "En": "Chocobo Expeditions 2"
+    },
+    "Description": {
+      "Ja": "遠征先には<command_color=common_03>「フィールド適性」</color>があり、<command_color=common_03>対応するフィールド適性を持つチョコボでのみ</color>遠征可能です。\nチョコボのフィールド適性は、チョコボを長押しして表示する詳細からも確認できます。",
+      "En": "Expedition areas feature various terrain, and only chocobos <command_color=common_03>capable of traversing the corresponding terrain</color> can be dispatched. Tap and hold on a chocobo to view their <command_color=common_03>field aptitude</color>."
+    },
+    "HelpPopupGroupId": 10,
+    "Seq": 2,
+    "ResourceId": 1002,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1101,
+    "Title": {
+      "Ja": "成長について",
+      "En": "Character Growth"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイクの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。",
+      "En": "In <command_color=common_03>Characters</color>, you can <command_color=common_03>boost characters' stats or acquire and enhance Limit Breaks.</color>\nIn <command_color=common_03>Summons</color>, you can <command_color=common_03>bind Summons and acquire and enhance their abilities.</color>"
+    },
+    "HelpPopupGroupId": 11,
+    "Seq": 1,
+    "ResourceId": 1101,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1201,
+    "Title": {
+      "Ja": "キャラクターストリームについて1",
+      "En": "Character Streams 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>マスを解放</color>することで、 記載されたステータスが上昇します。\nまた<command_color=common_03>新たなリミットブレイクの獲得</color>もできるようになります。\n<command_color=common_02>※マスの解放には専用素材や各キャラクターのメモリーが必要です。</color>",
+      "En": "<command_color=common_03>Unlocking nodes</color> increases the stat as shown on the node. You can also acquire <command_color=common_03>new Limit Breaks</color> in this fashion.\n\n<command_color=common_02>*Character-specific or common memories are required to unlock nodes.</color>"
+    },
+    "HelpPopupGroupId": 12,
+    "Seq": 1,
+    "ResourceId": 1201,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1202,
+    "Title": {
+      "Ja": "キャラクターストリームについて2",
+      "En": "Character Streams 2"
+    },
+    "Description": {
+      "Ja": "新たなリミットブレイクは<command_color=common_03>「獲得ミッション」を全てクリア</color>することで獲得できます。 \n獲得ミッションは、 <command_color=common_03>1キャラクターで同時に1つまで挑戦</color>できます。 \n<command_color=common_02>※ミッション開始後に変更するには、待機時間が経過する必要があります。</color>",
+      "En": "New limit breaks can be acquired by <command_color=common_03>completing all requisite Unlock Missions.</color>\n<command_color=common_03>One mission per character can be attempted at once.</color>\n<command_color=common_02>*Starting a mission triggers a cooldown timer. You must wait before you can select a different mission.</color>"
+    },
+    "HelpPopupGroupId": 12,
+    "Seq": 2,
+    "ResourceId": 1202,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1203,
+    "Title": {
+      "Ja": "ミッションの確認方法について",
+      "En": "Viewing Missions"
+    },
+    "Description": {
+      "Ja": "ミッションはキャラクターストリーム以外の場所でも、\nメニューにある<command_color=common_03>「ストリームミッション」</color>から確認できます。",
+      "En": "Missions can also be viewed from <command_color=common_03>Stream Missions</color> in the menu screen."
+    },
+    "HelpPopupGroupId": 12,
+    "Seq": 3,
+    "ResourceId": 1203,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1301,
+    "Title": {
+      "Ja": "召喚獣ストリームについて1",
+      "En": "Summon Streams 1"
+    },
+    "Description": {
+      "Ja": "召喚獣は<command_color=common_03>「契約ミッション」を全てクリアすることで契約</color>でき、マスの解放で<command_color=common_03>強化</color>できます。\nまた、<command_color=common_03>「獲得ミッション」を全てクリア</color>することで<command_color=common_03>新たなアビリティを獲得</color>できます。\n<command_color=common_02>※解放には各召喚獣用のメモリーが必要です。</color>",
+      "En": "Summons can be bound by completing the respective <command_color=common_03>Pact Missions</color> and enhanced by unlocking their nodes. \nCompletion of the corresponding <command_color=common_03>Unlock Missions</color> awards new abilities.\n\n<command_color=common_02>*Summon memories are required to unlock nodes.</color>"
+    },
+    "HelpPopupGroupId": 13,
+    "Seq": 1,
+    "ResourceId": 1301,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1302,
+    "Title": {
+      "Ja": "召喚獣ストリームについて2",
+      "En": "Summon Streams 2"
+    },
+    "Description": {
+      "Ja": "契約ミッションや獲得ミッションは、<command_color=common_03> 全召喚獣共通で同時に1つまで挑戦</color>できます。 \n<command_color=common_02>※ミッション開始後に変更するには、待機時間が経過する必要があります。</color>",
+      "En": "Only one Pact and Unlock Mission <command_color=common_03>across all summons can be attempted at once.</color>\n<command_color=common_02>*Starting a mission triggers a cooldown timer. You must wait before you can select a different mission.</color>"
+    },
+    "HelpPopupGroupId": 13,
+    "Seq": 2,
+    "ResourceId": 1302,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1303,
+    "Title": {
+      "Ja": "ミッションの確認方法について",
+      "En": "Viewing Missions"
+    },
+    "Description": {
+      "Ja": "ミッションは召喚獣ストリーム以外の場所でも、\nメニューにある<command_color=common_03>「ストリームミッション」</color>から確認できます。",
+      "En": "Missions can also be viewed from <command_color=common_03>Stream Missions</color> in the menu screen."
+    },
+    "HelpPopupGroupId": 13,
+    "Seq": 3,
+    "ResourceId": 1303,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1401,
+    "Title": {
+      "Ja": "強化について",
+      "En": "Enhancements"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「武器強化」</color>では、<command_color=common_03>所持している武器の強化</color>ができます。\n<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>所持しているマテリアの強化と売却</color>ができます。\n<command_color=common_03>「マテリア合成」</color>では、<command_color=common_03>所持しているレシピからマテリアの合成</color>ができます。",
+      "En": "<command_color=common_03>Enhance Weapons</color> allows you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
+    },
+    "HelpPopupGroupId": 14,
+    "Seq": 1,
+    "ResourceId": 1401,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1501,
+    "Title": {
+      "Ja": "マテリア強化について",
+      "En": "Enhancing Materia"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>「強化」</color>をすることでマテリアをレベルアップできます。\n「強化」は素材、または不要なマテリアを消費することで行えます。\n\n レベルが上がると<command_color=common_03>アビリティの効果が強化</color>され、\n一定レベルで<command_color=common_03>サブステータスが解放、強化</color>されます。\n",
+      "En": "<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and level up your materia using materials and other materia.</color>\nWhen you level up a materia, <command_color=common_03>its ability's effects are enhanced,</color> and at certain levels, <command_color=common_03>sub stats are unlocked or enhanced.</color>"
+    },
+    "HelpPopupGroupId": 15,
+    "Seq": 1,
+    "ResourceId": 1501,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1502,
+    "Title": {
+      "Ja": "マテリア進化について",
+      "En": "Upgrading Materia"
+    },
+    "Description": {
+      "Ja": "マテリアはレベルが最大になると<command_color=common_03>「進化」</color>が可能となります。\n「進化」をすると<command_color=common_03>上位のマテリア</color>に変わります。\nその際に<command_color=common_03>レアリティが上昇する</color>こともあります。",
+      "En": "When a materia reaches max level, it can be <command_color=common_03>upgraded</color> into a more powerful materia. \n<command_color=common_03>Upgrading a materia may also increase its rarity.</color>"
+    },
+    "HelpPopupGroupId": 15,
+    "Seq": 2,
+    "ResourceId": 1502,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1601,
+    "Title": {
+      "Ja": "武器強化について1",
+      "En": "Enhancing Weapons 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「武器強化」</color>では、<command_color=common_03>「強化」</color>をすることで武器をレベルアップできます。\nレベルが最大になると<command_color=common_03>「レベル上限解放」</color>が可能となります。\n「レベル上限解放」をすると、\n<command_color=common_03>Rアビリティの解放と強化、サポートマテリアが解放</color>されます。",
+      "En": "<command_color=common_03>Enhance Weapons</color> allows you to strengthen and level up your weapons. \nWhen a weapon reaches max level, its level can be <command_color=common_03>uncapped.</color> \nUncapping a weapon's level <command_color=common_03>unlocks and strengthens R. abilities, as well as unlocking support materia.</color>"
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 1,
+    "ResourceId": 1601,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1602,
+    "Title": {
+      "Ja": "武器強化について2",
+      "En": "Enhancing Weapons 2"
+    },
+    "Description": {
+      "Ja": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>以下の武器は<command_color=common_03>「レアリティアップ」</color>でき、<command_color=common_03>最大レベルが上昇</color>します。\n\n<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>の武器は<command_color=common_03>「限界突破」</color>が可能です。 \n「限界突破」をすると、<command_color=common_03>ステータス、Cアビリティ、 Rアビリティが強化</color>されます。\n<command_color=common_02>※11段階以降は<sprite=\"tmp_icon\" index=198>の横に「+」として表示されます。</color>",
+      "En": "The rarity of <sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192> weapons or lower can be increased, <command_color=common_03>raising its max level</color>.\n  \n<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> weapons can be <command_color=common_03>overboosted</color>, enhancing stats, C. Abilities, and R. Abilities.\n\n<command_color=common_02>*A + will appear next to <sprite=\"tmp_icon\" index=198> from the 11th tier onward.</color>"
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 2,
+    "ResourceId": 1602,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1603,
+    "Title": {
+      "Ja": "武器のステータスについて1",
+      "En": "Weapon Stats 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。",
+      "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt."
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 3,
+    "ResourceId": 1603,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1604,
+    "Title": {
+      "Ja": "武器のステータスについて2",
+      "En": "Weapon Stats 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。",
+      "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP recovered."
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 4,
+    "ResourceId": 1604,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1605,
+    "Title": {
+      "Ja": "武器のアビリティについて",
+      "En": "Weapon Abilities"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>C（コマンド）アビリティ</color>・・・バトル時にATBゲージを消費して使用するアビリティです。\n<command_color=common_03>R（ライズ）アビリティ</color>・・・常に効果を発揮するアビリティです。",
+      "En": "<command_color=common_03>C. abilities (Command abilities):</color> Abilities used in battle that consume ATB.\n<command_color=common_03>R. abilities (Reinforcement abilities):</color> Passive abilities that are always in effect."
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 5,
+    "ResourceId": 1605,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1606,
+    "Title": {
+      "Ja": "サポートマテリアについて",
+      "En": "Support Materia"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「サポートマテリア」</color>は武器毎に3つセットされている固定マテリアです。\n <command_color=common_03>武器レベルが一定まで上がることで解放</color>されます。 \n\nサポートマテリアの<command_color=common_03>S（サポート）アビリティは対となるマテリアに効果</color>を与えます。\nマテリアの組み合わせ次第では効果が発揮されないこともあります。",
+      "En": "Each weapon has three <command_color=common_03>Support Materia</color> that become unlocked at certain levels.\nThe <command_color=common_03>S. abilities (Support abilities) of support materia affect the materia with which they're paired.</color>\nDepending on the pairing, these abilities may have no effect."
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 6,
+    "ResourceId": 1606,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1607,
+    "Title": {
+      "Ja": "武器詳細から武器強化へ",
+      "En": "Weapon Details to Enhance Weapons"
+    },
+    "Description": {
+      "Ja": "所持している武器で強化したい武器があれば、\n武器詳細からも武器強化へ移動することができます。",
+      "En": "If you have a weapon you'd like to enhance, you can go to Enhance Weapons from the Weapon Details screen."
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 7,
+    "ResourceId": 1607,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1701,
+    "Title": {
+      "Ja": "保管庫について",
+      "En": "The Armory"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>重複して獲得した武器は「保管庫」に保管</color>され、\nレアリティアップや限界突破に使用する<command_color=common_03>各ウェポンパーツに変換</color>できます。\n<command_color=common_02>※「自動変換機能」をONにすると武器保管庫に送られてきた武器を自動的に変換します。</color>",
+      "En": "Duplicate weapons are stored in the Armory and can be <command_color=common_03>converted to weapon parts \nused to increase the rarity of or overboost weapons.</color>\n<command_color=common_02>*Turning on auto-convert will automatically convert any weapons sent to the armory.</color>"
+    },
+    "HelpPopupGroupId": 17,
+    "Seq": 1,
+    "ResourceId": 1701,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1801,
+    "Title": {
+      "Ja": "マテリア合成について",
+      "En": "Synthesis"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「合成」で作成したいマテリアを選択</color>し、<command_color=common_03>完了まで時間が経過</color>することで作成できます。\nマテリアの作成には<command_color=common_03>レシピが必要</color>となります。\n\n<command_color=common_03>レアリティ、サブステータスは合成完了時に判明</color>します。\nレシピの入手場所は、レシピを長押しして表示する詳細から確認できます。",
+      "En": "You can <command_color=common_03>select a materia to create</color>, and after a set amount of time, <command_color=common_03>the materia will be complete.</color>\n<command_color=common_03>A recipe is needed to create materia.</color>\n \nA materia's <command_color=common_03>rarity and sub stats are determined upon completion.</color>\nTap and hold recipes to view details, such as where it can be obtained."
+    },
+    "HelpPopupGroupId": 18,
+    "Seq": 1,
+    "ResourceId": 1801,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1802,
+    "Title": {
+      "Ja": "合成素材の追加について",
+      "En": "Additional Synthesis Materials"
+    },
+    "Description": {
+      "Ja": "「マテリア合成」にて<command_color=common_03>素材を追加</color>できるようになりました。\n一定の量を追加することで、合成結果に影響を与えます。\n<command_color=common_02>※追加できる素材はマテリアの種類ごとに異なります。</color>",
+      "En": "<command_color=common_03>Additional materials</color> can now be used during synthesis. Adding a certain amount of materials will affect the materia's outcome.\n \n<command_color=common_02>*The additional materials that can be used vary with each materia type.</color>"
+    },
+    "HelpPopupGroupId": 18,
+    "Seq": 2,
+    "ResourceId": 1802,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1803,
+    "Title": {
+      "Ja": "合成の時間短縮について",
+      "En": "Shortening Synthesis Duration"
+    },
+    "Description": {
+      "Ja": "合成にかかる時間は<command_color=common_03>「時間短縮」ボタンから短縮</color>ができます。 \n<command_color=common_02>※時間短縮には専用アイテムの「合成の栞」が必要です。</color>",
+      "En": "Materia creation can be expedited through <command_color=common_03>Shorten Duration.</color>\n<command_color=common_02>*A synthesis bookmark is required.</color>"
+    },
+    "HelpPopupGroupId": 18,
+    "Seq": 3,
+    "ResourceId": 1803,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1901,
+    "Title": {
+      "Ja": "編成について",
+      "En": "Formations"
+    },
+    "Description": {
+      "Ja": "編成では「シングル」用、「マルチ」用の編成ができます。\n<command_color=common_03>「シングル」</color>では最大3人でパーティを編成します。\n<command_color=common_03>「マルチ」</color>ではマルチバトルで使用する1人を編成します。",
+      "En": "You can create different parties for solo and co-op. <command_color=common_03>Solo formations</color> are comprised of a party of up to three characters.\n<command_color=common_03>Co-op formations</color> contain a single character for use in battle."
+    },
+    "HelpPopupGroupId": 19,
+    "Seq": 1,
+    "ResourceId": 1901,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2001,
+    "Title": {
+      "Ja": "個別編成について",
+      "En": "Solo Formation"
+    },
+    "Description": {
+      "Ja": "各装備を編成することで\n<command_color=common_03>「戦力」「ステータス」「C（コマンド）アビリティ」\n「L（リミット）アビリティ」「R（ライズ）アビリティ」</color>が決まります。",
+      "En": "Equipment affects a character's <command_color=common_03>Power, stats, C. Abilities (Command Abilities), \nL. Abilities (Limit Abilities), and R. Abilities (Reinforcement Abilities).</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 1,
+    "ResourceId": 2001,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2002,
+    "Title": {
+      "Ja": "ステータスについて1",
+      "En": "Stats 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
+      "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 2,
+    "ResourceId": 2002,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2003,
+    "Title": {
+      "Ja": "ステータスについて2",
+      "En": "Stats 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
+      "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP restored.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 3,
+    "ResourceId": 2003,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2004,
+    "Title": {
+      "Ja": "C（コマンド）アビリティについて",
+      "En": "C. Abilities (Command Abilities)"
+    },
+    "Description": {
+      "Ja": "バトル時にATBゲージを消費して使用するアビリティです。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「マテリア」のCアビリティが反映されます。</color>",
+      "En": "These abilities are used in battle and consume the ATB gauge.\n<command_color=common_02>*The C. abilities of main weapons, ability weapons, and materia are reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 4,
+    "ResourceId": 2004,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2005,
+    "Title": {
+      "Ja": "L（リミット）アビリティについて1",
+      "En": "L. Abilities (Limit Abilities) 1"
+    },
+    "Description": {
+      "Ja": "バトル時にLIMITゲージを消費して使用する強力なアビリティです。\n<command_color=common_03>「リミットブレイク」</color>と<command_color=common_03>「召喚獣アビリティ」</color>のどちらかを装備できます。",
+      "En": "These powerful abilities are used in battle and consume the limit gauge. \nEither a <command_color=common_03>Limit Break</color> or <command_color=common_03>Summon Ability</color> can be equipped."
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 5,
+    "ResourceId": 2005,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2006,
+    "Title": {
+      "Ja": "L（リミット）アビリティについて2",
+      "En": "L. Abilities (Limit Abilities) 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>リミットブレイク</color>・・・各キャラクター固有のアビリティです。\n<command_color=common_03>召喚獣アビリティ</color>・・・召喚獣と契約することで使用できるアビリティです。\n<command_color=common_02>※1つのパーティで同じ召喚獣のアビリティを複数装備できません。</color>",
+      "En": "<command_color=common_03>Limit Break:</color> An ability specific to each character.\n<command_color=common_03>Summon ability:</color> An ability that can be used once a summon is bound.\n<command_color=common_02>*Each summon ability can be equipped by only one character in a party.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 6,
+    "ResourceId": 2006,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2007,
+    "Title": {
+      "Ja": "R（ライズ）アビリティについて",
+      "En": "R. Abilities (Reinforcement Abilities)"
+    },
+    "Description": {
+      "Ja": "バトル時に常に効果を発揮するアビリティです。\npt（ポイント）の合計でレベルが上がり、効果が強くなります。\n<command_color=common_02>※「メイン武器」「ウェア」「アビリティ武器」「サブ武器」のRアビリティが反映されます。\n※「アビリティ武器」「サブ武器」のptは50%が反映されます。</color>",
+      "En": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 7,
+    "ResourceId": 2007,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2008,
+    "Title": {
+      "Ja": "S（サポート）アビリティについて",
+      "En": "S. Abilities (Support Abilities)"
+    },
+    "Description": {
+      "Ja": "対となるマテリアに効果を与えるアビリティです。\n隣に装備したマテリアの効果が強くなります。\n<command_color=common_02>※適切な組み合わせの時のみ効果を与えます。</color>",
+      "En": "These abilities affect and strengthen the effects of the materia with which they're paired.\n<command_color=common_02>*Abilities may not have any effect depending on the pairing.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 8,
+    "ResourceId": 2008,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2009,
+    "Title": {
+      "Ja": "メイン武器について",
+      "En": "Main Weapons"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「メイン武器」</color>にはステータス、Cアビリティ、Rアビリティが反映され、\nここに装備した武器がバトル中の見た目にも反映されます。\n\nまた、メイン武器の<command_color=common_03>「サポートマテリア」</color>が反映されます。\n<command_color=common_02>※メイン武器は自身の武器のみ装備できます。</color>",
+      "En": "Stats, C. abilities, R. abilities, and <command_color=common_03>support materia</color> of <command_color=common_03>main weapons</color> are reflected as well as the weapon's appearance.\n<command_color=common_02>*Only character-specific weapons can be equipped.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 9,
+    "ResourceId": 2009,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2010,
+    "Title": {
+      "Ja": "サポートマテリアについて",
+      "En": "Support Materia"
+    },
+    "Description": {
+      "Ja": "「サポートマテリア」は武器の<command_color=common_03>レベル上限によって効果を発揮</color>します。\n「サポートマテリア」の<command_color=common_03>「Sアビリティ」は対となるマテリアに効果</color>を与えます。\nマテリアの組み合わせ次第では効果が発揮されないこともあります。",
+      "En": "The <command_color=common_03>effects of support materia are triggered based on a weapon's max level.</color> The <command_color=common_03>S. abilities of support materia affect the materia with which they're paired.</color> Depending on the pairing, these abilities may have no effect."
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 10,
+    "ResourceId": 2010,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2011,
+    "Title": {
+      "Ja": "ウェアについて",
+      "En": "Gear"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ウェア」</color>では<command_color=common_03>キャラクターの見た目</color>と<command_color=common_03>Rアビリティ</color>が反映されます。\n<command_color=common_03>「ビジュアル」</color>に装備すると、<command_color=common_03>Rアビリティは反映されず見た目のみ反映</color>されます。",
+      "En": "The appearance and R. abilities of <command_color=common_03>gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 11,
+    "ResourceId": 2011,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2012,
+    "Title": {
+      "Ja": "アビリティ武器について",
+      "En": "Ability Weapons"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「アビリティ武器」</color>はステータス、Cアビリティ、Rアビリティが反映されます。\n<command_color=common_02>※自身の武器のみ装備できます。\n※キャラクターの見た目には反映されません。\n※ステータスは50%が反映されます。\n※Rアビリティのptは50%が反映されます。</color>",
+      "En": "The <command_color=common_03>stats, C. abilities, and R. abilities of ability weapons are reflected.</color>\n<command_color=common_02>*Only character-specific weapons can be equipped.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. ability points are reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 12,
+    "ResourceId": 2012,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2013,
+    "Title": {
+      "Ja": "マテリアについて",
+      "En": "Materia"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「マテリア」</color>はCアビリティ、サブステータスが反映されます。\nまた、対となる「サポートマテリア」によって効果が高まります。",
+      "En": "The C. Abilities and sub stats of <command_color=common_03>materia</color> are reflected. Their effects are increased based on the support materia with which they're paired."
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 13,
+    "ResourceId": 2013,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2014,
+    "Title": {
+      "Ja": "サブ武器について",
+      "En": "Sub Weapons"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「サブ武器」</color>はステータス、Rアビリティが反映されます。\n<command_color=common_02>※キャラクターの見た目には反映されません。\n※ステータスは50%が反映されます。\n※Rアビリティのptは50%が反映されます。</color>",
+      "En": "The stats and R. Abilities of <command_color=common_03>sub weapons</color> are reflected.\n<command_color=common_02>*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. Ability pts are reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 14,
+    "ResourceId": 2014,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2101,
+    "Title": {
+      "Ja": "ガチャの種類について",
+      "En": "Draw Types"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ガチャ」</color>には以下の3種類があります。\n・スペシャル・・・様々な種類のガチャ\n・新武器PU・・・「10回引く」とスタンプが押されるガチャ\n・チケット・・・チケットを使って引くガチャ",
+      "En": "There are three types of <command_color=common_03>draws:</color>\n \n- Special: Various types of draw\n- Featured: A draw that yields a stamp for every Draw 10\n- Ticket: A draw that requires tickets"
+    },
+    "HelpPopupGroupId": 21,
+    "Seq": 1,
+    "ResourceId": 2101,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2102,
+    "Title": {
+      "Ja": "スタンプシートについて1",
+      "En": "Stamp Cards 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「新武器PUガチャ」で「10回引く」</color>と、<command_color=common_03>「スタンプシート」</color>にスタンプが押されます。\nスタンプが押されると、そのマスの報酬が獲得できます。\n<command_color=common_02>※スタンプシートは詳細から確認できます。</color>",
+      "En": "In <command_color=common_03>New Weapon Featured Draw</color>, a <command_color=common_03>Draw 10</color> will yield one or several stamps for your <command_color=common_03>stamp card</color>.\nOnce stamped, you will receive the reward in a given square.\n<command_color=common_02>*Stamp cards can be viewed from stamp card details.</color>"
+    },
+    "HelpPopupGroupId": 21,
+    "Seq": 2,
+    "ResourceId": 2102,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2103,
+    "Title": {
+      "Ja": "スタンプシートについて2",
+      "En": "Stamp Cards 2"
+    },
+    "Description": {
+      "Ja": "スタンプシートには<command_color=common_03>「セレクトマス」</color>があることがあります。\n「セレクトマス」では<command_color=common_03>複数の報酬から任意の報酬を選択</color>できます。\n<command_color=common_02>※報酬獲得前であれば、スタンプシート詳細から報酬を変更できます。</color>",
+      "En": "Stamp cards sometimes have <command_color=common_03>Select squares</color> that allow you to <command_color=common_03>select one reward from several.</color>\n<command_color=common_02>*It is possible to change the reward from stamp card details before that square is stamped.</color>"
+    },
+    "HelpPopupGroupId": 21,
+    "Seq": 3,
+    "ResourceId": 2103,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2104,
+    "Title": {
+      "Ja": "ウィッシュリストについて",
+      "En": "Wish List"
+    },
+    "Description": {
+      "Ja": "「新武器PUガチャ」には<command_color=common_03>「ウィッシュリスト」</color>があります。\n「ウィッシュリスト」とは<command_color=common_03>選択された武器の排出率が上がる機能</color>です。\n開催されている新武器PUガチャのピックアップ武器は固定で選択されており、\n<command_color=common_03>ピックアップ武器と任意に選択した武器が排出率が上がる対象</color>となります。",
+      "En": "Stamp draws have a <command_color=common_03>Wish List</color>. Weapons in the Wish List have <command_color=common_03>better odds of being obtained.</color>\nThe featured weapons in the ongoing stamp draw are pre-determined. The odds are increased for both these<command_color=common_03> featured weapons and selected weapon</color>."
+    },
+    "HelpPopupGroupId": 21,
+    "Seq": 4,
+    "ResourceId": 2104,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2105,
+    "Title": {
+      "Ja": "武器の重複獲得について1",
+      "En": "Duplicate Weapons 1"
+    },
+    "Description": {
+      "Ja": "所持している武器を<command_color=common_03>より高いレアリティ武器で重複して獲得</color>すると、\n<command_color=common_03>所持武器がそのレアリティに更新</color>されます。",
+      "En": "If a <command_color=common_03>duplicate weapon of a higher rarity is obtained</color>, the <command_color=common_03>rarity of the same weapon currently held will increase to match.</color>"
+    },
+    "HelpPopupGroupId": 21,
+    "Seq": 5,
+    "ResourceId": 2105,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2106,
+    "Title": {
+      "Ja": "武器の重複獲得について2",
+      "En": "Duplicate Weapons 2"
+    },
+    "Description": {
+      "Ja": "また、<command_color=common_03>重複して入手した武器は武器保管庫に</color>送られます。\n送られる武器のレアリティは、レアリティアップした場合は<command_color=common_03>レアリティアップ前</color>の、\nしなかった場合は<command_color=common_03>入手武器のレアリティ</color>となります。",
+      "En": "Additionally, any <command_color=common_03>duplicate weapons obtained will be sent to the armory</color>. The rarity of the weapons sent is determined by <command_color=common_03>their rarity before upgrades</color>, if an upgrade occurred. If no upgrade occurred, the <command_color=common_03>obtained weapon's original rarity</color> is used."
+    },
+    "HelpPopupGroupId": 21,
+    "Seq": 6,
+    "ResourceId": 2106,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2201,
+    "Title": {
+      "Ja": "イベントについて",
+      "En": "Events"
+    },
+    "Description": {
+      "Ja": "イベントは<command_color=common_03>期間限定で開催される特別なコンテンツ</color>です。\n中には<command_color=common_03>参加条件が設定されているイベント</color>もあります。",
+      "En": "Events are <command_color=common_03>special limited-time content.</color> Some events <command_color=common_03>have requirements for participation.</color>"
+    },
+    "HelpPopupGroupId": 22,
+    "Seq": 1,
+    "ResourceId": 2201,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2301,
+    "Title": {
+      "Ja": "ミッションについて",
+      "En": "Missions"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ミッション」</color>として定められた<command_color=common_03>目的を達成することで、様々な報酬を獲得</color>できます。\nホームの「ミッション」や、 メニュー内の各ミッションから確認できます。",
+      "En": "Completing <command_color=common_03>missions</color> yields <command_color=common_03>various rewards</color>. They can be viewed from Missions in the home screen or from the menu screen."
+    },
+    "HelpPopupGroupId": 23,
+    "Seq": 1,
+    "ResourceId": 2301,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2302,
+    "Title": {
+      "Ja": "デイリー、ウィークリーミッションについて",
+      "En": "Daily and Weekly Missions"
+    },
+    "Description": {
+      "Ja": "「デイリーミッション」と「ウィークリーミッション」では、\n<command_color=common_03>達成することでpt（ポイント）を獲得</color>できます。\n一定のptに到達するごとに報酬を獲得できます。\n<command_color=common_02>※デイリーは毎日、ウィークリーは毎週ptやミッション内容がリセットされます。</color>",
+      "En": "In Daily Missions and Weekly Missions, you can earn <command_color=common_03>pts by completing them</color>. You can receive rewards each time you reach certain point thresholds.\n<command_color=common_02>*Pts and mission details for Daily Missions reset daily, and Weekly Missions reset weekly.</color>"
+    },
+    "HelpPopupGroupId": 23,
+    "Seq": 2,
+    "ResourceId": 2302,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2401,
+    "Title": {
+      "Ja": "ショップについて",
+      "En": "Shops"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ショップ」</color>では、<command_color=common_03>クリスタルやギルを消費して様々なアイテムを購入</color>できます。 \n一部のショップ・商品には、期限や回数の制限があります。",
+      "En": "In the <command_color=common_03>shop</color>, <command_color=common_03>crystals and gil can be used to purchase different items.</color> Some shops and items are only available for a limited time or have a limited quantity."
+    },
+    "HelpPopupGroupId": 24,
+    "Seq": 1,
+    "ResourceId": 2401,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2402,
+    "Title": {
+      "Ja": "ラインナップの更新について",
+      "En": "Refilling Lineups"
+    },
+    "Description": {
+      "Ja": "一部のショップでは、商品ラインナップが<command_color=common_03>時間経過により自動で更新</color>されます。\n また、プレイヤーの任意で内容を更新することが可能なショップもあります。 \n<command_color=common_02>※1日あたりに更新可能な回数には上限があります。\n※一部の交換所や商品には、期限や回数の制限があります。</color>",
+      "En": "In some shops, the <command_color=common_03>lineup is refilled automatically after a set amount of time.</color> They may also allow you to refill items at will.\n<command_color=common_02>*There is a limit to the number of times items can be refilled in a day.\n*Some exchanges or items are only available for a limited time or have a limited quantity.</color> "
+    },
+    "HelpPopupGroupId": 24,
+    "Seq": 2,
+    "ResourceId": 2402,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2501,
+    "Title": {
+      "Ja": "交換所について",
+      "En": "The Exchange"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「交換所」</color>では、<command_color=common_03>メダルなどの所持しているアイテムを別のアイテムと交換</color>できます。\n <command_color=common_02>※一部の交換所や商品には、期限や回数の制限があります。</color>",
+      "En": "At the <command_color=common_03>Exchange</color>, items such as medals <command_color=common_03>can be traded for other items.</color>\n <command_color=common_02>*Some shops and items are only available for a limited time or have a limited quantity.</color>"
+    },
+    "HelpPopupGroupId": 25,
+    "Seq": 1,
+    "ResourceId": 2501,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2601,
+    "Title": {
+      "Ja": "所持アイテムについて",
+      "En": "Held Items"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「所持アイテム」</color>では所持しているアイテムを確認できます。\nまた、<command_color=common_03>「入手場所」から入手できる場所へ移動</color>できます。",
+      "En": "You can check the items in your inventory from <command_color=common_03>Items</color>. You can also <command_color=common_03>jump to the locations where items can be obtained from Acquired Via.</color>"
+    },
+    "HelpPopupGroupId": 26,
+    "Seq": 1,
+    "ResourceId": 2601,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2701,
+    "Title": {
+      "Ja": "セトラの封印塔について",
+      "En": "Sealed Tower of the Cetra"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「セトラの封印塔」</color>では、各階層でバトルし最下層を目指します。\n階層ごとに様々な影響を与える<command_color=common_03>「バトル効果」があり、バトル中に常に効果を発揮</color>します。\n効果を考えた攻略が重要になります。",
+      "En": "In the Sealed Tower of the Cetra, strive to reach the bottom level while undertaking battles on each floor. Each floor has a Battle Effect that will influence your party's performance. Form parties that make the most of these effects."
+    },
+    "HelpPopupGroupId": 27,
+    "Seq": 1,
+    "ResourceId": 2701,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2901,
+    "Title": {
+      "Ja": "デイリークエストについて",
+      "En": "Daily Quests"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「デイリークエスト」</color>では、毎日届く依頼を達成するごとに報酬がもらえます。\n <command_color=common_02>※依頼は毎日5:00に更新されます。</color>",
+      "En": "<command_color=common_03>Daily Quests</color> are comprised of requests that yield rewards.\n <command_color=common_02>*Requests reset at 5AM every day.</color>"
+    },
+    "HelpPopupGroupId": 29,
+    "Seq": 1,
+    "ResourceId": 2901,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2902,
+    "Title": {
+      "Ja": "デイリークエストの報酬について",
+      "En": "Daily Quest Rewards"
+    },
+    "Description": {
+      "Ja": "デイリークエストの依頼には、<command_color=common_03>獲得したい報酬を指定できる依頼</color>があります。\n<command_color=common_03>指定した中から抽選で報酬として獲得</color>できます。\n\nまた、時折普段より報酬が多く手に入る<command_color=common_03>「特別報酬依頼」</color>や、\n通常の報酬とは別に追加の報酬を獲得することがあります。",
+      "En": "Some requests allow you to <command_color=common_03>choose the rewards you want.</color> Upon completion, <command_color=common_03>one will be awarded at random from your selection.</color>\n \nThere are <command_color=common_03>special requests</color> that yield more rewards, and some that yield additional rewards."
+    },
+    "HelpPopupGroupId": 29,
+    "Seq": 2,
+    "ResourceId": 2902,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3001,
+    "Title": {
+      "Ja": "召喚獣クエストについて",
+      "En": "Summon Quests"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「召喚獣クエスト」</color>では、様々な召喚獣と戦うことができます。\n召喚獣と戦うことで<command_color=common_03>召喚獣ストリームが解放</color>されます。\n <command_color=common_02>※召喚獣クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
+      "En": "<command_color=common_03>Summon Quests</color> allow you to battle different Summons, after which you can unlock their respective Summon Streams.\n <command_color=common_02>*Summon quests require <sprite=\"tmp_icon\" index=782>(stamina).</color>"
+    },
+    "HelpPopupGroupId": 30,
+    "Seq": 1,
+    "ResourceId": 3001,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3101,
+    "Title": {
+      "Ja": "ストーリークエストについて",
+      "En": "Story Quests"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ストーリークエスト」</color>では\n各キャラクターを<command_color=common_03>より深く知ることができるストーリー</color>などを体験できます。",
+      "En": "Through <command_color=common_03>Story Quests</color>, you can <command_color=common_03>learn more about characters' backgrounds.</color>"
+    },
+    "HelpPopupGroupId": 31,
+    "Seq": 1,
+    "ResourceId": 3101,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3201,
+    "Title": {
+      "Ja": "チョコボのステータスについて1",
+      "En": "Chocobo Stats 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>性別</color>・・・チョコボの性別です。\n<command_color=common_03>ランク </color>・・・チョコボの優秀さです。\n<command_color=common_03>フィールド適性</color>・・・探索できる遠征地の適性です。",
+      "En": "<command_color=common_03>Gender</color>: The chocobo's gender.\n<command_color=common_03>Rank</color>: The chocobo's performance.\n<command_color=common_03>Field Aptitude</color>: The terrain to which the chocobo is suited to traverse."
+    },
+    "HelpPopupGroupId": 32,
+    "Seq": 1,
+    "ResourceId": 3201,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3202,
+    "Title": {
+      "Ja": "チョコボのステータスについて2",
+      "En": "Chocobo Stats 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>スピード</color>・・・遠征にかかる時間に影響します。\n<command_color=common_03>体力</color>・・・遠征報酬の量に影響します。\n<command_color=common_03>賢さ</color>・・・遠征報酬でレアアイテムやチョコボメダルの手に入りやすさに影響します。\n<command_color=common_03>適応力</color>・・・遠征で獲得するキャラクターの経験値に影響します。",
+      "En": "<command_color=common_03>Speed</color>: This affects the time it takes to complete an expedition.\n<command_color=common_03>Stamina</color>: This affects the amount of expedition rewards obtained.\n<command_color=common_03>Intellect</color>: This affects the chance to obtain rare items or chocobo medals on expeditions.\n<command_color=common_03>Adaptability</color>: This affects the amount of character EXP obtained during expeditions."
+    },
+    "HelpPopupGroupId": 32,
+    "Seq": 2,
+    "ResourceId": 3202,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3301,
+    "Title": {
+      "Ja": "強化クエストについて",
+      "En": "Enhancement Quests"
+    },
+    "Description": {
+      "Ja": "「強化クエスト」では<command_color=common_03>武器やマテリアの強化素材</color>や<command_color=common_03>合成の素材</color>、<command_color=common_03>経験値を獲得</color>できます。\n<command_color=common_02>※強化クエストでは<sprite=\"tmp_icon\" index=782>(スタミナ)を消費します。</color>",
+      "En": "<command_color=common_03>EXP, enhancement materials</color>, and <command_color=common_03>synthesis materials</color> can be obtained from each quest.\n \n<command_color=common_02>*<sprite=\"tmp_icon\" index=782>(Stamina) is required to attempt these quests.</color>"
+    },
+    "HelpPopupGroupId": 33,
+    "Seq": 1,
+    "ResourceId": 3301,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3401,
+    "Title": {
+      "Ja": "変換所について",
+      "En": "The Workshop"
+    },
+    "Description": {
+      "Ja": "「変換所」では、各ウェポンパーツを<command_color=common_03>ウェポンメダルに変換</color>できます。\nウェポンメダルは交換所で使用できます。",
+      "En": "At the Workshop, weapon parts can be <command_color=common_03>converted to weapon medals</color>, which can be used at the exchange."
+    },
+    "HelpPopupGroupId": 34,
+    "Seq": 1,
+    "ResourceId": 3401,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3501,
+    "Title": {
+      "Ja": "ストーリーの進行について",
+      "En": "Story Progression"
+    },
+    "Description": {
+      "Ja": "ストーリーは各EP（エピソード）として進みます。\nダンジョンやバトルを含むEPや、お話だけのEPがあります。",
+      "En": "The story is divided into EP (episodes), with some that include dungeons and battles."
+    },
+    "HelpPopupGroupId": 35,
+    "Seq": 1,
+    "ResourceId": 3501,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3502,
+    "Title": {
+      "Ja": "ストーリーバトルのパーティ編成モードについて",
+      "En": "Story Battle Party Modes"
+    },
+    "Description": {
+      "Ja": "ストーリーのバトルでは、ストーリーに合わせたパーティ編成に制限する\n<command_color=common_03>「ストーリーパーティ」</color>モード、自由に編成できる<command_color=common_03>「フリーパーティ」</color>モードが選択できます。\n\n「ストーリーパーティ」モードで<command_color=common_03>クリアすることでボーナス報酬を獲得</color>できます。\n<command_color=common_02>※「フリーパーティ」モードはストーリーを進めると選択できるようになります。</color>",
+      "En": "You can take on story battles in <command_color=common_03>Story Party</color> mode, which limits the formation to characters pertinent to the story, or <command_color=common_03>Free Party</color> mode, which allows you to form parties of your choice.\n \nStory Party mode yields <command_color=common_03>bonus rewards.</color>\n<command_color=common_02>*Free Party mode becomes available as you progress through the story.</color>"
+    },
+    "HelpPopupGroupId": 35,
+    "Seq": 2,
+    "ResourceId": 3502,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3701,
+    "Title": {
+      "Ja": "チョコボのステータスについて1",
+      "En": "Chocobo Stats 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>性別</color>・・・チョコボの性別です。\n<command_color=common_03>ランク </color>・・・チョコボの優秀さです。\n<command_color=common_03>フィールド適性</color>・・・探索できる遠征地の適性です。",
+      "En": "<command_color=common_03>Gender</color>: The chocobo's gender.\n<command_color=common_03>Rank</color>: The chocobo's performance.\n<command_color=common_03>Field Aptitude</color>: The terrain to which the chocobo is suited to traverse."
+    },
+    "HelpPopupGroupId": 37,
+    "Seq": 1,
+    "ResourceId": 3201,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3702,
+    "Title": {
+      "Ja": "チョコボのステータスについて2",
+      "En": "Chocobo Stats 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>スピード</color>・・・遠征にかかる時間に影響します。\n<command_color=common_03>体力</color>・・・遠征報酬の量に影響します。\n<command_color=common_03>賢さ</color>・・・遠征報酬でレアアイテムやチョコボメダルの手に入りやすさに影響します。\n<command_color=common_03>適応力</color>・・・遠征で獲得するキャラクターの経験値に影響します。",
+      "En": "<command_color=common_03>Speed</color>: This affects the time it takes to complete an expedition.\n<command_color=common_03>Stamina</color>: This affects the amount of expedition rewards obtained.\n<command_color=common_03>Intellect</color>: This affects the chance to obtain rare items or chocobo medals on expeditions.\n<command_color=common_03>Adaptability</color>: This affects the amount of character EXP obtained during expeditions."
+    },
+    "HelpPopupGroupId": 37,
+    "Seq": 2,
+    "ResourceId": 3202,
+    "ConditionSetId": 0
+  }
 ]

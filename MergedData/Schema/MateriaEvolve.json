@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "MateriaId": {
-            "type": "integer"
-        },
-        "EvolveCount": {
-            "type": "integer"
-        },
-        "ActiveSkillId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "MateriaId": {
+      "type": "integer"
+    },
+    "EvolveCount": {
+      "type": "integer"
+    },
+    "ActiveSkillId": {
+      "type": "integer"
     }
+  }
 }

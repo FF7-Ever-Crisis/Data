@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "GachaDirectionDamageType": {
-            "type": "integer"
-        },
-        "GachaDirectionEnemyStatusType": {
-            "type": "integer"
-        },
-        "GachaDirectionCostumeType": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "GachaDirectionDamageType": {
+      "type": "integer"
+    },
+    "GachaDirectionEnemyStatusType": {
+      "type": "integer"
+    },
+    "GachaDirectionCostumeType": {
+      "type": "integer"
     }
+  }
 }

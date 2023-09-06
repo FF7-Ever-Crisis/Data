@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "MateriaRecipeId": {
-            "type": "integer"
-        },
-        "QualityType": {
-            "type": "integer"
-        },
-        "MateriaDurationGroupId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "MateriaRecipeId": {
+      "type": "integer"
+    },
+    "QualityType": {
+      "type": "integer"
+    },
+    "MateriaDurationGroupId": {
+      "type": "integer"
     }
+  }
 }

@@ -1,47 +1,47 @@
 {
-    "type": "object",
-    "properties": {
-        "EnemyLevelParameterBaseGroupId": {
-            "type": "integer"
-        },
-        "Level": {
-            "type": "integer"
-        },
-        "BaseHp": {
-            "type": "integer"
-        },
-        "BaseLbHp": {
-            "type": "integer"
-        },
-        "BasePhysicalAttack": {
-            "type": "integer"
-        },
-        "BaseMagicalAttack": {
-            "type": "integer"
-        },
-        "BasePhysicalDefense": {
-            "type": "integer"
-        },
-        "BaseMagicalDefense": {
-            "type": "integer"
-        },
-        "BaseHealingPower": {
-            "type": "integer"
-        },
-        "CharacterExpCoefficient": {
-            "type": "integer"
-        },
-        "UserExpCoefficient": {
-            "type": "integer"
-        },
-        "GilCoefficient": {
-            "type": "integer"
-        },
-        "CriticalPermilCoefficient": {
-            "type": "integer"
-        },
-        "CriticalDamageCoefficient": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "EnemyLevelParameterBaseGroupId": {
+      "type": "integer"
+    },
+    "Level": {
+      "type": "integer"
+    },
+    "BaseHp": {
+      "type": "integer"
+    },
+    "BaseLbHp": {
+      "type": "integer"
+    },
+    "BasePhysicalAttack": {
+      "type": "integer"
+    },
+    "BaseMagicalAttack": {
+      "type": "integer"
+    },
+    "BasePhysicalDefense": {
+      "type": "integer"
+    },
+    "BaseMagicalDefense": {
+      "type": "integer"
+    },
+    "BaseHealingPower": {
+      "type": "integer"
+    },
+    "CharacterExpCoefficient": {
+      "type": "integer"
+    },
+    "UserExpCoefficient": {
+      "type": "integer"
+    },
+    "GilCoefficient": {
+      "type": "integer"
+    },
+    "CriticalPermilCoefficient": {
+      "type": "integer"
+    },
+    "CriticalDamageCoefficient": {
+      "type": "integer"
     }
+  }
 }

@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "ResetOffsetDatetime": {
-            "type": "integer"
-        },
-        "CycleType": {
-            "type": "integer"
-        },
-        "ResetLength": {
-            "type": "integer"
-        },
-        "ResetDisplayType": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "ResetOffsetDatetime": {
+      "type": "integer"
+    },
+    "CycleType": {
+      "type": "integer"
+    },
+    "ResetLength": {
+      "type": "integer"
+    },
+    "ResetDisplayType": {
+      "type": "integer"
     }
+  }
 }

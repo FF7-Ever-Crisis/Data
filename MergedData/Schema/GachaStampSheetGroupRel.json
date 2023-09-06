@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "GachaStampSheetGroupId": {
-            "type": "integer"
-        },
-        "Seq": {
-            "type": "integer"
-        },
-        "GachaStampSheetId": {
-            "type": "integer"
-        },
-        "NextSeq": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "GachaStampSheetGroupId": {
+      "type": "integer"
+    },
+    "Seq": {
+      "type": "integer"
+    },
+    "GachaStampSheetId": {
+      "type": "integer"
+    },
+    "NextSeq": {
+      "type": "integer"
     }
+  }
 }

@@ -1,71 +1,71 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "WaveGroupId": {
-            "type": "integer"
-        },
-        "CanContinue": {
-            "type": "integer"
-        },
-        "ContinuableCount": {
-            "type": "integer"
-        },
-        "ContinueLimitSec": {
-            "type": "integer"
-        },
-        "BattleLimitSec": {
-            "type": "integer"
-        },
-        "IsHideRecommendedElement": {
-            "type": "boolean"
-        },
-        "RecommendedElementsSetId": {
-            "type": "integer"
-        },
-        "IsHideRecommendedNote": {
-            "type": "boolean"
-        },
-        "RecommendedNotesSetId": {
-            "type": "integer"
-        },
-        "IsHideRecommendedCombatPower": {
-            "type": "boolean"
-        },
-        "RecommendedCombatPower": {
-            "type": "integer"
-        },
-        "CharacterExp": {
-            "type": "integer"
-        },
-        "UserExp": {
-            "type": "integer"
-        },
-        "EnvironmentResource": {
-            "type": "integer"
-        },
-        "AreaIndex": {
-            "type": "integer"
-        },
-        "IgnoreResultBgm": {
-            "type": "integer"
-        },
-        "BattleScoreId": {
-            "type": "integer"
-        },
-        "BattleScoreCommonId": {
-            "type": "integer"
-        },
-        "BgmCueName": {
-            "type": "string"
-        },
-        "BattleFieldEffectGroupId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "WaveGroupId": {
+      "type": "integer"
+    },
+    "CanContinue": {
+      "type": "integer"
+    },
+    "ContinuableCount": {
+      "type": "integer"
+    },
+    "ContinueLimitSec": {
+      "type": "integer"
+    },
+    "BattleLimitSec": {
+      "type": "integer"
+    },
+    "IsHideRecommendedElement": {
+      "type": "boolean"
+    },
+    "RecommendedElementsSetId": {
+      "type": "integer"
+    },
+    "IsHideRecommendedNote": {
+      "type": "boolean"
+    },
+    "RecommendedNotesSetId": {
+      "type": "integer"
+    },
+    "IsHideRecommendedCombatPower": {
+      "type": "boolean"
+    },
+    "RecommendedCombatPower": {
+      "type": "integer"
+    },
+    "CharacterExp": {
+      "type": "integer"
+    },
+    "UserExp": {
+      "type": "integer"
+    },
+    "EnvironmentResource": {
+      "type": "integer"
+    },
+    "AreaIndex": {
+      "type": "integer"
+    },
+    "IgnoreResultBgm": {
+      "type": "integer"
+    },
+    "BattleScoreId": {
+      "type": "integer"
+    },
+    "BattleScoreCommonId": {
+      "type": "integer"
+    },
+    "BgmCueName": {
+      "type": "string"
+    },
+    "BattleFieldEffectGroupId": {
+      "type": "integer"
     }
+  }
 }

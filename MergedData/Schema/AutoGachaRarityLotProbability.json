@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "GachaRarityLotGroupId": {
-            "type": "integer"
-        },
-        "GachaLotType": {
-            "type": "integer"
-        },
-        "RarityType": {
-            "type": "integer"
-        },
-        "ProbabilityPpb": {
-            "type": "integer"
-        },
-        "DisplayProbabilityStr": {
-            "type": "string"
-        }
+  "type": "object",
+  "properties": {
+    "GachaRarityLotGroupId": {
+      "type": "integer"
+    },
+    "GachaLotType": {
+      "type": "integer"
+    },
+    "RarityType": {
+      "type": "integer"
+    },
+    "ProbabilityPpb": {
+      "type": "integer"
+    },
+    "DisplayProbabilityStr": {
+      "type": "string"
     }
+  }
 }

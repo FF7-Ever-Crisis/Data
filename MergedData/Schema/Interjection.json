@@ -1,52 +1,52 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Button": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Button": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "MovieResourceId": {
-            "type": "integer"
-        },
-        "LayoutResourceId": {
-            "type": "integer"
-        },
-        "ImageResourceId": {
-            "type": "integer"
-        },
-        "Priority": {
-            "type": "integer"
-        },
-        "DisplayConditionSetId": {
-            "type": "integer"
-        },
-        "VisibleOpenConditionSetId": {
-            "type": "integer"
-        },
-        "TransitionType": {
-            "type": "integer"
-        },
-        "TransitionId": {
-            "type": "integer"
-        },
-        "EnableHomeBgm": {
-            "type": "boolean"
-        },
-        "ResetId": {
-            "type": "integer"
-        },
-        "MaxDisplayCount": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "MovieResourceId": {
+      "type": "integer"
+    },
+    "LayoutResourceId": {
+      "type": "integer"
+    },
+    "ImageResourceId": {
+      "type": "integer"
+    },
+    "Priority": {
+      "type": "integer"
+    },
+    "DisplayConditionSetId": {
+      "type": "integer"
+    },
+    "VisibleOpenConditionSetId": {
+      "type": "integer"
+    },
+    "TransitionType": {
+      "type": "integer"
+    },
+    "TransitionId": {
+      "type": "integer"
+    },
+    "EnableHomeBgm": {
+      "type": "boolean"
+    },
+    "ResetId": {
+      "type": "integer"
+    },
+    "MaxDisplayCount": {
+      "type": "integer"
     }
+  }
 }

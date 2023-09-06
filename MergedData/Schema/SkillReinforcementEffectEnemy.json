@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "EnemyId": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        },
-        "MaxRewardCount": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "EnemyId": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
+    },
+    "MaxRewardCount": {
+      "type": "integer"
     }
+  }
 }

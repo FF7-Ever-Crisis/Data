@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "MissionId": {
-            "type": "integer"
-        },
-        "ProgressCount": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        },
-        "BonusPoint": {
-            "type": "integer"
-        },
-        "IsExpand": {
-            "type": "boolean"
-        }
+  "type": "object",
+  "properties": {
+    "MissionId": {
+      "type": "integer"
+    },
+    "ProgressCount": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
+    },
+    "BonusPoint": {
+      "type": "integer"
+    },
+    "IsExpand": {
+      "type": "boolean"
     }
+  }
 }

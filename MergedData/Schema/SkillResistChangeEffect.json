@@ -1,23 +1,23 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "ResistDamageId": {
-            "type": "integer"
-        },
-        "ResistElementId": {
-            "type": "integer"
-        },
-        "ResistBuffDebuffId": {
-            "type": "integer"
-        },
-        "ResistStatusConditionId": {
-            "type": "integer"
-        },
-        "ResetOnInterrupt": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "ResistDamageId": {
+      "type": "integer"
+    },
+    "ResistElementId": {
+      "type": "integer"
+    },
+    "ResistBuffDebuffId": {
+      "type": "integer"
+    },
+    "ResistStatusConditionId": {
+      "type": "integer"
+    },
+    "ResetOnInterrupt": {
+      "type": "integer"
     }
+  }
 }

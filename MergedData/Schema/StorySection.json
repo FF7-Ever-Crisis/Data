@@ -1,34 +1,34 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "StoryChapterId": {
-            "type": "integer"
-        },
-        "OrderNo": {
-            "type": "integer"
-        },
-        "StoryMapPositionId": {
-            "type": "integer"
-        },
-        "StorySectionType": {
-            "type": "integer"
-        },
-        "SectionOrderNo": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "StoryChapterId": {
+      "type": "integer"
+    },
+    "OrderNo": {
+      "type": "integer"
+    },
+    "StoryMapPositionId": {
+      "type": "integer"
+    },
+    "StorySectionType": {
+      "type": "integer"
+    },
+    "SectionOrderNo": {
+      "type": "integer"
     }
+  }
 }

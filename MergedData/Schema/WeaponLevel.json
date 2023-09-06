@@ -1,32 +1,32 @@
 {
-    "type": "object",
-    "properties": {
-        "WeaponLevelGroupId": {
-            "type": "integer"
-        },
-        "Level": {
-            "type": "integer"
-        },
-        "ExpCoefficient": {
-            "type": "integer"
-        },
-        "HpCoefficient": {
-            "type": "integer"
-        },
-        "PhysicalAttackCoefficient": {
-            "type": "integer"
-        },
-        "MagicalCoefficient": {
-            "type": "integer"
-        },
-        "PhysicalDefenseCoefficient": {
-            "type": "integer"
-        },
-        "MagicalDefenseCoefficient": {
-            "type": "integer"
-        },
-        "HealingPowerCoefficient": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "WeaponLevelGroupId": {
+      "type": "integer"
+    },
+    "Level": {
+      "type": "integer"
+    },
+    "ExpCoefficient": {
+      "type": "integer"
+    },
+    "HpCoefficient": {
+      "type": "integer"
+    },
+    "PhysicalAttackCoefficient": {
+      "type": "integer"
+    },
+    "MagicalCoefficient": {
+      "type": "integer"
+    },
+    "PhysicalDefenseCoefficient": {
+      "type": "integer"
+    },
+    "MagicalDefenseCoefficient": {
+      "type": "integer"
+    },
+    "HealingPowerCoefficient": {
+      "type": "integer"
     }
+  }
 }

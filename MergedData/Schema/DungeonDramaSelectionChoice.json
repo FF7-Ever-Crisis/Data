@@ -1,28 +1,28 @@
 {
-    "type": "object",
-    "properties": {
-        "Choice": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
+  "type": "object",
+  "properties": {
+    "Choice": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "DungeonDramaSelectionId": {
-            "type": "integer"
-        },
-        "Idx": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        },
-        "IsOnlyOnceReward": {
-            "type": "boolean"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "DungeonDramaSelectionId": {
+      "type": "integer"
+    },
+    "Idx": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
+    },
+    "IsOnlyOnceReward": {
+      "type": "boolean"
     }
+  }
 }

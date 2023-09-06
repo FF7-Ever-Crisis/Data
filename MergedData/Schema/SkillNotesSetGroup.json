@@ -1,23 +1,23 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "Seq": {
-            "type": "integer"
-        },
-        "SkillNotesSetId": {
-            "type": "integer"
-        },
-        "NotesCombinationType": {
-            "type": "integer"
-        },
-        "Count": {
-            "type": "integer"
-        },
-        "SkillNotesDisplayType": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Seq": {
+      "type": "integer"
+    },
+    "SkillNotesSetId": {
+      "type": "integer"
+    },
+    "NotesCombinationType": {
+      "type": "integer"
+    },
+    "Count": {
+      "type": "integer"
+    },
+    "SkillNotesDisplayType": {
+      "type": "integer"
     }
+  }
 }

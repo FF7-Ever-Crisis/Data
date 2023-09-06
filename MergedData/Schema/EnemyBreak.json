@@ -1,29 +1,29 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "Duration": {
-            "type": "integer"
-        },
-        "EnemyBreakAtbRecoveryGroupId": {
-            "type": "integer"
-        },
-        "ResistBuffDebuffId": {
-            "type": "integer"
-        },
-        "ResistStatusConditionId": {
-            "type": "integer"
-        },
-        "ResistElementId": {
-            "type": "integer"
-        },
-        "ResistDamageId": {
-            "type": "integer"
-        },
-        "EnemyBreakDurationExtensionGroupId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Duration": {
+      "type": "integer"
+    },
+    "EnemyBreakAtbRecoveryGroupId": {
+      "type": "integer"
+    },
+    "ResistBuffDebuffId": {
+      "type": "integer"
+    },
+    "ResistStatusConditionId": {
+      "type": "integer"
+    },
+    "ResistElementId": {
+      "type": "integer"
+    },
+    "ResistDamageId": {
+      "type": "integer"
+    },
+    "EnemyBreakDurationExtensionGroupId": {
+      "type": "integer"
     }
+  }
 }

@@ -1,49 +1,49 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "LimitedReleaseTriggerSourceType": {
-            "type": "integer"
-        },
-        "Seq": {
-            "type": "integer"
-        },
-        "ReleaseConditionSetId": {
-            "type": "integer"
-        },
-        "OrderNo": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "LimitedReleaseTargetType": {
-            "type": "integer"
-        },
-        "TargetId": {
-            "type": "integer"
-        },
-        "ReleaseDurationMinute": {
-            "type": "integer"
-        },
-        "LimitedReleaseDirectionType": {
-            "type": "integer"
-        },
-        "LimitedReleaseGroupId": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "LimitedReleaseTriggerSourceType": {
+      "type": "integer"
+    },
+    "Seq": {
+      "type": "integer"
+    },
+    "ReleaseConditionSetId": {
+      "type": "integer"
+    },
+    "OrderNo": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "LimitedReleaseTargetType": {
+      "type": "integer"
+    },
+    "TargetId": {
+      "type": "integer"
+    },
+    "ReleaseDurationMinute": {
+      "type": "integer"
+    },
+    "LimitedReleaseDirectionType": {
+      "type": "integer"
+    },
+    "LimitedReleaseGroupId": {
+      "type": "integer"
     }
+  }
 }

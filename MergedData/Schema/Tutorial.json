@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "TutorialStepType": {
-            "type": "integer"
-        },
-        "Step": {
-            "type": "integer"
-        },
-        "ConditionSetId": {
-            "type": "integer"
-        },
-        "RewardSetId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "TutorialStepType": {
+      "type": "integer"
+    },
+    "Step": {
+      "type": "integer"
+    },
+    "ConditionSetId": {
+      "type": "integer"
+    },
+    "RewardSetId": {
+      "type": "integer"
     }
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "AttackType": {
-            "type": "integer"
-        },
-        "ElementType": {
-            "type": "integer"
-        },
-        "SkillHealType": {
-            "type": "integer"
-        },
-        "SkillDamageType": {
-            "type": "integer"
-        },
-        "MinDamageCoefficient": {
-            "type": "integer"
-        },
-        "MaxDamageCoefficient": {
-            "type": "integer"
-        },
-        "SkillAnotherDungeonReduceMaxHpId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "AttackType": {
+      "type": "integer"
+    },
+    "ElementType": {
+      "type": "integer"
+    },
+    "SkillHealType": {
+      "type": "integer"
+    },
+    "SkillDamageType": {
+      "type": "integer"
+    },
+    "MinDamageCoefficient": {
+      "type": "integer"
+    },
+    "MaxDamageCoefficient": {
+      "type": "integer"
+    },
+    "SkillAnotherDungeonReduceMaxHpId": {
+      "type": "integer"
     }
+  }
 }

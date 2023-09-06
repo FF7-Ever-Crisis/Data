@@ -1,850 +1,850 @@
 [
-    {
-        "Id": 101,
-        "Name": {
-            "Ja": "物理攻撃力",
-            "En": "Phys. Attack"
-        },
-        "BufDebuffType": 1
-    },
-    {
-        "Id": 102,
-        "Name": {
-            "Ja": "魔法攻撃力",
-            "En": "Mag. Attack"
-        },
-        "BufDebuffType": 2
-    },
-    {
-        "Id": 103,
-        "Name": {
-            "Ja": "物理防御力",
-            "En": "Phys. Defense"
-        },
-        "BufDebuffType": 3
-    },
-    {
-        "Id": 104,
-        "Name": {
-            "Ja": "魔法防御力",
-            "En": "Mag. Defense"
-        },
-        "BufDebuffType": 4
-    },
-    {
-        "Id": 105,
-        "Name": {
-            "Ja": "治癒力",
-            "En": "Healing Pot."
-        },
-        "BufDebuffType": 5
-    },
-    {
-        "Id": 106,
-        "Name": {
-            "Ja": "クリティカル率",
-            "En": "Critical Hit Rate"
-        },
-        "BufDebuffType": 6
-    },
-    {
-        "Id": 107,
-        "Name": {
-            "Ja": "クリティカル威力",
-            "En": "Critical Potency"
-        },
-        "BufDebuffType": 7
-    },
-    {
-        "Id": 202,
-        "Name": {
-            "Ja": "炎属性耐性",
-            "En": "Fire Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 203,
-        "Name": {
-            "Ja": "冷属性耐性",
-            "En": "Ice Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 204,
-        "Name": {
-            "Ja": "雷属性耐性",
-            "En": "Lightning Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 205,
-        "Name": {
-            "Ja": "土属性耐性",
-            "En": "Earth Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 206,
-        "Name": {
-            "Ja": "水属性耐性",
-            "En": "Water Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 207,
-        "Name": {
-            "Ja": "風属性耐性",
-            "En": "Wind Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 208,
-        "Name": {
-            "Ja": "聖属性耐性",
-            "En": "Light Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 209,
-        "Name": {
-            "Ja": "闇属性耐性",
-            "En": "Dark Resist."
-        },
-        "BufDebuffType": 8
-    },
-    {
-        "Id": 301,
-        "Name": {
-            "Ja": "毒耐性",
-            "En": "Poison Resist."
-        },
-        "BufDebuffType": 9
-    },
-    {
-        "Id": 302,
-        "Name": {
-            "Ja": "悲しい耐性",
-            "En": "Sedate Resist."
-        },
-        "BufDebuffType": 9
-    },
-    {
-        "Id": 303,
-        "Name": {
-            "Ja": "沈黙耐性",
-            "En": "Silence Resist."
-        },
-        "BufDebuffType": 9
-    },
-    {
-        "Id": 304,
-        "Name": {
-            "Ja": "暗闇耐性",
-            "En": "Darkness Resist."
-        },
-        "BufDebuffType": 9
-    },
-    {
-        "Id": 305,
-        "Name": {
-            "Ja": "スタン耐性",
-            "En": "Stun Resist."
-        },
-        "BufDebuffType": 9
-    },
-    {
-        "Id": 306,
-        "Name": {
-            "Ja": "鈍重耐性",
-            "En": "Fatigue Resist."
-        },
-        "BufDebuffType": 9
-    },
-    {
-        "Id": 307,
-        "Name": {
-            "Ja": "忘却耐性",
-            "En": "Fog Resist."
-        },
-        "BufDebuffType": 9
-    },
-    {
-        "Id": 401,
-        "Name": {
-            "Ja": "被毒効果時間",
-            "En": "Poison Dur."
-        },
-        "BufDebuffType": 10
-    },
-    {
-        "Id": 402,
-        "Name": {
-            "Ja": "被悲しい効果時間",
-            "En": "Sedate Dur."
-        },
-        "BufDebuffType": 10
-    },
-    {
-        "Id": 403,
-        "Name": {
-            "Ja": "被沈黙効果時間",
-            "En": "Silence Dur."
-        },
-        "BufDebuffType": 10
-    },
-    {
-        "Id": 404,
-        "Name": {
-            "Ja": "被暗闇効果時間",
-            "En": "Darkness Dur."
-        },
-        "BufDebuffType": 10
-    },
-    {
-        "Id": 405,
-        "Name": {
-            "Ja": "被スタン効果時間",
-            "En": "Stun Dur."
-        },
-        "BufDebuffType": 10
-    },
-    {
-        "Id": 406,
-        "Name": {
-            "Ja": "被鈍重効果時間",
-            "En": "Fatigue Dur."
-        },
-        "BufDebuffType": 10
-    },
-    {
-        "Id": 407,
-        "Name": {
-            "Ja": "被忘却効果時間",
-            "En": "Fog Dur."
-        },
-        "BufDebuffType": 10
-    },
-    {
-        "Id": 501,
-        "Name": {
-            "Ja": "重複時 被毒効果時間",
-            "En": "Stacked Poison Dur."
-        },
-        "BufDebuffType": 11
-    },
-    {
-        "Id": 502,
-        "Name": {
-            "Ja": "重複時 被悲しい効果時間",
-            "En": "Stacked Sedate Dur."
-        },
-        "BufDebuffType": 11
-    },
-    {
-        "Id": 503,
-        "Name": {
-            "Ja": "重複時 被沈黙効果時間",
-            "En": "Stacked Silence Dur."
-        },
-        "BufDebuffType": 11
-    },
-    {
-        "Id": 504,
-        "Name": {
-            "Ja": "重複時 被暗闇効果時間",
-            "En": "Stacked Darkness Dur."
-        },
-        "BufDebuffType": 11
-    },
-    {
-        "Id": 505,
-        "Name": {
-            "Ja": "重複時 被スタン効果時間",
-            "En": "Stacked Stun Dur."
-        },
-        "BufDebuffType": 11
-    },
-    {
-        "Id": 506,
-        "Name": {
-            "Ja": "重複時 被鈍重効果時間",
-            "En": "Stacked Fatigue Dur."
-        },
-        "BufDebuffType": 11
-    },
-    {
-        "Id": 507,
-        "Name": {
-            "Ja": "重複時 被忘却効果時間",
-            "En": "Stacked Fog Dur."
-        },
-        "BufDebuffType": 11
-    },
-    {
-        "Id": 601,
-        "Name": {
-            "Ja": "物攻ダウン耐性",
-            "En": "PATK Down Resist."
-        },
-        "BufDebuffType": 18
-    },
-    {
-        "Id": 602,
-        "Name": {
-            "Ja": "魔攻ダウン耐性",
-            "En": "MATK Down Resist."
-        },
-        "BufDebuffType": 18
-    },
-    {
-        "Id": 603,
-        "Name": {
-            "Ja": "物防ダウン耐性",
-            "En": "PDEF Down Resist."
-        },
-        "BufDebuffType": 18
-    },
-    {
-        "Id": 604,
-        "Name": {
-            "Ja": "魔防ダウン耐性",
-            "En": "MDEF Down Resist."
-        },
-        "BufDebuffType": 18
-    },
-    {
-        "Id": 701,
-        "Name": {
-            "Ja": "被物攻ダウン時間",
-            "En": "PATK Down Dur."
-        },
-        "BufDebuffType": 19
-    },
-    {
-        "Id": 702,
-        "Name": {
-            "Ja": "被魔攻ダウン時間",
-            "En": "MATK Down Dur."
-        },
-        "BufDebuffType": 19
-    },
-    {
-        "Id": 703,
-        "Name": {
-            "Ja": "被物防ダウン時間",
-            "En": "PDEF Down Dur."
-        },
-        "BufDebuffType": 19
-    },
-    {
-        "Id": 704,
-        "Name": {
-            "Ja": "被魔防ダウン時間",
-            "En": "MDEF Down Dur."
-        },
-        "BufDebuffType": 19
-    },
-    {
-        "Id": 801,
-        "Name": {
-            "Ja": "重複時 被物攻ダウン時間",
-            "En": "Stacked PATK Down Dur."
-        },
-        "BufDebuffType": 20
-    },
-    {
-        "Id": 802,
-        "Name": {
-            "Ja": "重複時 被魔攻ダウン時間",
-            "En": "Stacked MATK Down Dur."
-        },
-        "BufDebuffType": 20
-    },
-    {
-        "Id": 803,
-        "Name": {
-            "Ja": "重複時 被物防ダウン時間",
-            "En": "Stacked PDEF Down Dur."
-        },
-        "BufDebuffType": 20
-    },
-    {
-        "Id": 804,
-        "Name": {
-            "Ja": "重複時 被魔防ダウン時間",
-            "En": "Stacked MDEF Down Dur."
-        },
-        "BufDebuffType": 20
-    },
-    {
-        "Id": 1001,
-        "Name": {
-            "Ja": "スコア増加",
-            "En": "Score Boost"
-        },
-        "BufDebuffType": 17
-    },
-    {
-        "Id": 1101,
-        "Name": {
-            "Ja": "最大HP減少割合",
-            "En": "Max HP Reduction Rate"
-        },
-        "BufDebuffType": 21
-    },
-    {
-        "Id": 1202,
-        "Name": {
-            "Ja": "炎属性威力",
-            "En": "Fire Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1203,
-        "Name": {
-            "Ja": "冷属性威力",
-            "En": "Ice Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1204,
-        "Name": {
-            "Ja": "雷属性威力",
-            "En": "Lightning Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1205,
-        "Name": {
-            "Ja": "土属性威力",
-            "En": "Earth Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1206,
-        "Name": {
-            "Ja": "水属性威力",
-            "En": "Water Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1207,
-        "Name": {
-            "Ja": "風属性威力",
-            "En": "Wind Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1208,
-        "Name": {
-            "Ja": "聖属性威力",
-            "En": "Light Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1209,
-        "Name": {
-            "Ja": "闇属性威力",
-            "En": "Dark Pot."
-        },
-        "BufDebuffType": 22
-    },
-    {
-        "Id": 1301,
-        "Name": {
-            "Ja": "物攻アップ効果時間",
-            "En": "PATK Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1302,
-        "Name": {
-            "Ja": "魔攻アップ効果時間",
-            "En": "MATK Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1303,
-        "Name": {
-            "Ja": "物防アップ効果時間",
-            "En": "PDEF Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1304,
-        "Name": {
-            "Ja": "魔防アップ効果時間",
-            "En": "MDEF Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1305,
-        "Name": {
-            "Ja": "物攻ダウン効果時間",
-            "En": "PATK Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1306,
-        "Name": {
-            "Ja": "魔攻ダウン効果時間",
-            "En": "MATK Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1307,
-        "Name": {
-            "Ja": "物防ダウン効果時間",
-            "En": "PDEF Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1308,
-        "Name": {
-            "Ja": "魔防ダウン効果時間",
-            "En": "MDEF Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1309,
-        "Name": {
-            "Ja": "炎耐性アップ効果時間",
-            "En": "Fire Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1310,
-        "Name": {
-            "Ja": "冷耐性アップ効果時間",
-            "En": "Ice Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1311,
-        "Name": {
-            "Ja": "雷耐性アップ効果時間",
-            "En": "Lightning Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1312,
-        "Name": {
-            "Ja": "土耐性アップ効果時間",
-            "En": "Earth Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1313,
-        "Name": {
-            "Ja": "水耐性アップ効果時間",
-            "En": "Water Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1314,
-        "Name": {
-            "Ja": "風耐性アップ効果時間",
-            "En": "Wind Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1315,
-        "Name": {
-            "Ja": "聖耐性アップ効果時間",
-            "En": "Light Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1316,
-        "Name": {
-            "Ja": "闇耐性アップ効果時間",
-            "En": "Dark Resist. Up Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1317,
-        "Name": {
-            "Ja": "炎耐性ダウン効果時間",
-            "En": "Fire Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1318,
-        "Name": {
-            "Ja": "冷耐性ダウン効果時間",
-            "En": "Ice Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1319,
-        "Name": {
-            "Ja": "雷耐性ダウン効果時間",
-            "En": "Lightning Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1320,
-        "Name": {
-            "Ja": "土耐性ダウン効果時間",
-            "En": "Earth Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1321,
-        "Name": {
-            "Ja": "水耐性ダウン効果時間",
-            "En": "Water Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1322,
-        "Name": {
-            "Ja": "風耐性ダウン効果時間",
-            "En": "Wind Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1323,
-        "Name": {
-            "Ja": "聖耐性ダウン効果時間",
-            "En": "Light Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1324,
-        "Name": {
-            "Ja": "闇耐性ダウン効果時間",
-            "En": "Dark Resist. Down Dur."
-        },
-        "BufDebuffType": 23
-    },
-    {
-        "Id": 1401,
-        "Name": {
-            "Ja": "重複時 物攻アップ効果時間",
-            "En": "Stacked PATK Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1402,
-        "Name": {
-            "Ja": "重複時 魔攻アップ効果時間",
-            "En": "Stacked MATK Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1403,
-        "Name": {
-            "Ja": "重複時 物防アップ効果時間",
-            "En": "Stacked PDEF Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1404,
-        "Name": {
-            "Ja": "重複時 魔防アップ効果時間",
-            "En": "Stacked MDEF Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1405,
-        "Name": {
-            "Ja": "重複時 物攻ダウン効果時間",
-            "En": "Stacked PATK Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1406,
-        "Name": {
-            "Ja": "重複時 魔攻ダウン効果時間",
-            "En": "Stacked MATK Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1407,
-        "Name": {
-            "Ja": "重複時 物防ダウン効果時間",
-            "En": "Stacked PDEF Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1408,
-        "Name": {
-            "Ja": "重複時 魔防ダウン効果時間",
-            "En": "Stacked MDEF Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1409,
-        "Name": {
-            "Ja": "重複時 炎耐性アップ効果時間",
-            "En": "Stacked Fire Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1410,
-        "Name": {
-            "Ja": "重複時 冷耐性アップ効果時間",
-            "En": "Stacked Ice Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1411,
-        "Name": {
-            "Ja": "重複時 雷耐性アップ効果時間",
-            "En": "Stacked Lightning Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1412,
-        "Name": {
-            "Ja": "重複時 土耐性アップ効果時間",
-            "En": "Stacked Earth Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1413,
-        "Name": {
-            "Ja": "重複時 水耐性アップ効果時間",
-            "En": "Stacked Water Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1414,
-        "Name": {
-            "Ja": "重複時 風耐性アップ効果時間",
-            "En": "Stacked Wind Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1415,
-        "Name": {
-            "Ja": "重複時 聖耐性アップ効果時間",
-            "En": "Stacked Light Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1416,
-        "Name": {
-            "Ja": "重複時 闇耐性アップ効果時間",
-            "En": "Stacked Dark Resist. Up Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1417,
-        "Name": {
-            "Ja": "重複時 炎耐性ダウン効果時間",
-            "En": "Stacked Fire Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1418,
-        "Name": {
-            "Ja": "重複時 冷耐性ダウン効果時間",
-            "En": "Stacked Ice Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1419,
-        "Name": {
-            "Ja": "重複時 雷耐性ダウン効果時間",
-            "En": "Stacked Lightning Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1420,
-        "Name": {
-            "Ja": "重複時 土耐性ダウン効果時間",
-            "En": "Stacked Earth Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1421,
-        "Name": {
-            "Ja": "重複時 水耐性ダウン効果時間",
-            "En": "Stacked Water Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1422,
-        "Name": {
-            "Ja": "重複時 風耐性ダウン効果時間",
-            "En": "Stacked Wind Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1423,
-        "Name": {
-            "Ja": "重複時 聖耐性ダウン効果時間",
-            "En": "Stacked Light Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    },
-    {
-        "Id": 1424,
-        "Name": {
-            "Ja": "重複時 闇耐性ダウン効果時間",
-            "En": "Stacked Dark Resist. Down Dur."
-        },
-        "BufDebuffType": 24
-    }
+  {
+    "Id": 101,
+    "Name": {
+      "Ja": "物理攻撃力",
+      "En": "Phys. Attack"
+    },
+    "BufDebuffType": 1
+  },
+  {
+    "Id": 102,
+    "Name": {
+      "Ja": "魔法攻撃力",
+      "En": "Mag. Attack"
+    },
+    "BufDebuffType": 2
+  },
+  {
+    "Id": 103,
+    "Name": {
+      "Ja": "物理防御力",
+      "En": "Phys. Defense"
+    },
+    "BufDebuffType": 3
+  },
+  {
+    "Id": 104,
+    "Name": {
+      "Ja": "魔法防御力",
+      "En": "Mag. Defense"
+    },
+    "BufDebuffType": 4
+  },
+  {
+    "Id": 105,
+    "Name": {
+      "Ja": "治癒力",
+      "En": "Healing Pot."
+    },
+    "BufDebuffType": 5
+  },
+  {
+    "Id": 106,
+    "Name": {
+      "Ja": "クリティカル率",
+      "En": "Critical Hit Rate"
+    },
+    "BufDebuffType": 6
+  },
+  {
+    "Id": 107,
+    "Name": {
+      "Ja": "クリティカル威力",
+      "En": "Critical Potency"
+    },
+    "BufDebuffType": 7
+  },
+  {
+    "Id": 202,
+    "Name": {
+      "Ja": "炎属性耐性",
+      "En": "Fire Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 203,
+    "Name": {
+      "Ja": "冷属性耐性",
+      "En": "Ice Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 204,
+    "Name": {
+      "Ja": "雷属性耐性",
+      "En": "Lightning Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 205,
+    "Name": {
+      "Ja": "土属性耐性",
+      "En": "Earth Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 206,
+    "Name": {
+      "Ja": "水属性耐性",
+      "En": "Water Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 207,
+    "Name": {
+      "Ja": "風属性耐性",
+      "En": "Wind Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 208,
+    "Name": {
+      "Ja": "聖属性耐性",
+      "En": "Light Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 209,
+    "Name": {
+      "Ja": "闇属性耐性",
+      "En": "Dark Resist."
+    },
+    "BufDebuffType": 8
+  },
+  {
+    "Id": 301,
+    "Name": {
+      "Ja": "毒耐性",
+      "En": "Poison Resist."
+    },
+    "BufDebuffType": 9
+  },
+  {
+    "Id": 302,
+    "Name": {
+      "Ja": "悲しい耐性",
+      "En": "Sedate Resist."
+    },
+    "BufDebuffType": 9
+  },
+  {
+    "Id": 303,
+    "Name": {
+      "Ja": "沈黙耐性",
+      "En": "Silence Resist."
+    },
+    "BufDebuffType": 9
+  },
+  {
+    "Id": 304,
+    "Name": {
+      "Ja": "暗闇耐性",
+      "En": "Darkness Resist."
+    },
+    "BufDebuffType": 9
+  },
+  {
+    "Id": 305,
+    "Name": {
+      "Ja": "スタン耐性",
+      "En": "Stun Resist."
+    },
+    "BufDebuffType": 9
+  },
+  {
+    "Id": 306,
+    "Name": {
+      "Ja": "鈍重耐性",
+      "En": "Fatigue Resist."
+    },
+    "BufDebuffType": 9
+  },
+  {
+    "Id": 307,
+    "Name": {
+      "Ja": "忘却耐性",
+      "En": "Fog Resist."
+    },
+    "BufDebuffType": 9
+  },
+  {
+    "Id": 401,
+    "Name": {
+      "Ja": "被毒効果時間",
+      "En": "Poison Dur."
+    },
+    "BufDebuffType": 10
+  },
+  {
+    "Id": 402,
+    "Name": {
+      "Ja": "被悲しい効果時間",
+      "En": "Sedate Dur."
+    },
+    "BufDebuffType": 10
+  },
+  {
+    "Id": 403,
+    "Name": {
+      "Ja": "被沈黙効果時間",
+      "En": "Silence Dur."
+    },
+    "BufDebuffType": 10
+  },
+  {
+    "Id": 404,
+    "Name": {
+      "Ja": "被暗闇効果時間",
+      "En": "Darkness Dur."
+    },
+    "BufDebuffType": 10
+  },
+  {
+    "Id": 405,
+    "Name": {
+      "Ja": "被スタン効果時間",
+      "En": "Stun Dur."
+    },
+    "BufDebuffType": 10
+  },
+  {
+    "Id": 406,
+    "Name": {
+      "Ja": "被鈍重効果時間",
+      "En": "Fatigue Dur."
+    },
+    "BufDebuffType": 10
+  },
+  {
+    "Id": 407,
+    "Name": {
+      "Ja": "被忘却効果時間",
+      "En": "Fog Dur."
+    },
+    "BufDebuffType": 10
+  },
+  {
+    "Id": 501,
+    "Name": {
+      "Ja": "重複時 被毒効果時間",
+      "En": "Stacked Poison Dur."
+    },
+    "BufDebuffType": 11
+  },
+  {
+    "Id": 502,
+    "Name": {
+      "Ja": "重複時 被悲しい効果時間",
+      "En": "Stacked Sedate Dur."
+    },
+    "BufDebuffType": 11
+  },
+  {
+    "Id": 503,
+    "Name": {
+      "Ja": "重複時 被沈黙効果時間",
+      "En": "Stacked Silence Dur."
+    },
+    "BufDebuffType": 11
+  },
+  {
+    "Id": 504,
+    "Name": {
+      "Ja": "重複時 被暗闇効果時間",
+      "En": "Stacked Darkness Dur."
+    },
+    "BufDebuffType": 11
+  },
+  {
+    "Id": 505,
+    "Name": {
+      "Ja": "重複時 被スタン効果時間",
+      "En": "Stacked Stun Dur."
+    },
+    "BufDebuffType": 11
+  },
+  {
+    "Id": 506,
+    "Name": {
+      "Ja": "重複時 被鈍重効果時間",
+      "En": "Stacked Fatigue Dur."
+    },
+    "BufDebuffType": 11
+  },
+  {
+    "Id": 507,
+    "Name": {
+      "Ja": "重複時 被忘却効果時間",
+      "En": "Stacked Fog Dur."
+    },
+    "BufDebuffType": 11
+  },
+  {
+    "Id": 601,
+    "Name": {
+      "Ja": "物攻ダウン耐性",
+      "En": "PATK Down Resist."
+    },
+    "BufDebuffType": 18
+  },
+  {
+    "Id": 602,
+    "Name": {
+      "Ja": "魔攻ダウン耐性",
+      "En": "MATK Down Resist."
+    },
+    "BufDebuffType": 18
+  },
+  {
+    "Id": 603,
+    "Name": {
+      "Ja": "物防ダウン耐性",
+      "En": "PDEF Down Resist."
+    },
+    "BufDebuffType": 18
+  },
+  {
+    "Id": 604,
+    "Name": {
+      "Ja": "魔防ダウン耐性",
+      "En": "MDEF Down Resist."
+    },
+    "BufDebuffType": 18
+  },
+  {
+    "Id": 701,
+    "Name": {
+      "Ja": "被物攻ダウン時間",
+      "En": "PATK Down Dur."
+    },
+    "BufDebuffType": 19
+  },
+  {
+    "Id": 702,
+    "Name": {
+      "Ja": "被魔攻ダウン時間",
+      "En": "MATK Down Dur."
+    },
+    "BufDebuffType": 19
+  },
+  {
+    "Id": 703,
+    "Name": {
+      "Ja": "被物防ダウン時間",
+      "En": "PDEF Down Dur."
+    },
+    "BufDebuffType": 19
+  },
+  {
+    "Id": 704,
+    "Name": {
+      "Ja": "被魔防ダウン時間",
+      "En": "MDEF Down Dur."
+    },
+    "BufDebuffType": 19
+  },
+  {
+    "Id": 801,
+    "Name": {
+      "Ja": "重複時 被物攻ダウン時間",
+      "En": "Stacked PATK Down Dur."
+    },
+    "BufDebuffType": 20
+  },
+  {
+    "Id": 802,
+    "Name": {
+      "Ja": "重複時 被魔攻ダウン時間",
+      "En": "Stacked MATK Down Dur."
+    },
+    "BufDebuffType": 20
+  },
+  {
+    "Id": 803,
+    "Name": {
+      "Ja": "重複時 被物防ダウン時間",
+      "En": "Stacked PDEF Down Dur."
+    },
+    "BufDebuffType": 20
+  },
+  {
+    "Id": 804,
+    "Name": {
+      "Ja": "重複時 被魔防ダウン時間",
+      "En": "Stacked MDEF Down Dur."
+    },
+    "BufDebuffType": 20
+  },
+  {
+    "Id": 1001,
+    "Name": {
+      "Ja": "スコア増加",
+      "En": "Score Boost"
+    },
+    "BufDebuffType": 17
+  },
+  {
+    "Id": 1101,
+    "Name": {
+      "Ja": "最大HP減少割合",
+      "En": "Max HP Reduction Rate"
+    },
+    "BufDebuffType": 21
+  },
+  {
+    "Id": 1202,
+    "Name": {
+      "Ja": "炎属性威力",
+      "En": "Fire Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1203,
+    "Name": {
+      "Ja": "冷属性威力",
+      "En": "Ice Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1204,
+    "Name": {
+      "Ja": "雷属性威力",
+      "En": "Lightning Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1205,
+    "Name": {
+      "Ja": "土属性威力",
+      "En": "Earth Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1206,
+    "Name": {
+      "Ja": "水属性威力",
+      "En": "Water Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1207,
+    "Name": {
+      "Ja": "風属性威力",
+      "En": "Wind Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1208,
+    "Name": {
+      "Ja": "聖属性威力",
+      "En": "Light Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1209,
+    "Name": {
+      "Ja": "闇属性威力",
+      "En": "Dark Pot."
+    },
+    "BufDebuffType": 22
+  },
+  {
+    "Id": 1301,
+    "Name": {
+      "Ja": "物攻アップ効果時間",
+      "En": "PATK Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1302,
+    "Name": {
+      "Ja": "魔攻アップ効果時間",
+      "En": "MATK Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1303,
+    "Name": {
+      "Ja": "物防アップ効果時間",
+      "En": "PDEF Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1304,
+    "Name": {
+      "Ja": "魔防アップ効果時間",
+      "En": "MDEF Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1305,
+    "Name": {
+      "Ja": "物攻ダウン効果時間",
+      "En": "PATK Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1306,
+    "Name": {
+      "Ja": "魔攻ダウン効果時間",
+      "En": "MATK Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1307,
+    "Name": {
+      "Ja": "物防ダウン効果時間",
+      "En": "PDEF Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1308,
+    "Name": {
+      "Ja": "魔防ダウン効果時間",
+      "En": "MDEF Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1309,
+    "Name": {
+      "Ja": "炎耐性アップ効果時間",
+      "En": "Fire Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1310,
+    "Name": {
+      "Ja": "冷耐性アップ効果時間",
+      "En": "Ice Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1311,
+    "Name": {
+      "Ja": "雷耐性アップ効果時間",
+      "En": "Lightning Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1312,
+    "Name": {
+      "Ja": "土耐性アップ効果時間",
+      "En": "Earth Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1313,
+    "Name": {
+      "Ja": "水耐性アップ効果時間",
+      "En": "Water Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1314,
+    "Name": {
+      "Ja": "風耐性アップ効果時間",
+      "En": "Wind Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1315,
+    "Name": {
+      "Ja": "聖耐性アップ効果時間",
+      "En": "Light Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1316,
+    "Name": {
+      "Ja": "闇耐性アップ効果時間",
+      "En": "Dark Resist. Up Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1317,
+    "Name": {
+      "Ja": "炎耐性ダウン効果時間",
+      "En": "Fire Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1318,
+    "Name": {
+      "Ja": "冷耐性ダウン効果時間",
+      "En": "Ice Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1319,
+    "Name": {
+      "Ja": "雷耐性ダウン効果時間",
+      "En": "Lightning Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1320,
+    "Name": {
+      "Ja": "土耐性ダウン効果時間",
+      "En": "Earth Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1321,
+    "Name": {
+      "Ja": "水耐性ダウン効果時間",
+      "En": "Water Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1322,
+    "Name": {
+      "Ja": "風耐性ダウン効果時間",
+      "En": "Wind Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1323,
+    "Name": {
+      "Ja": "聖耐性ダウン効果時間",
+      "En": "Light Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1324,
+    "Name": {
+      "Ja": "闇耐性ダウン効果時間",
+      "En": "Dark Resist. Down Dur."
+    },
+    "BufDebuffType": 23
+  },
+  {
+    "Id": 1401,
+    "Name": {
+      "Ja": "重複時 物攻アップ効果時間",
+      "En": "Stacked PATK Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1402,
+    "Name": {
+      "Ja": "重複時 魔攻アップ効果時間",
+      "En": "Stacked MATK Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1403,
+    "Name": {
+      "Ja": "重複時 物防アップ効果時間",
+      "En": "Stacked PDEF Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1404,
+    "Name": {
+      "Ja": "重複時 魔防アップ効果時間",
+      "En": "Stacked MDEF Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1405,
+    "Name": {
+      "Ja": "重複時 物攻ダウン効果時間",
+      "En": "Stacked PATK Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1406,
+    "Name": {
+      "Ja": "重複時 魔攻ダウン効果時間",
+      "En": "Stacked MATK Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1407,
+    "Name": {
+      "Ja": "重複時 物防ダウン効果時間",
+      "En": "Stacked PDEF Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1408,
+    "Name": {
+      "Ja": "重複時 魔防ダウン効果時間",
+      "En": "Stacked MDEF Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1409,
+    "Name": {
+      "Ja": "重複時 炎耐性アップ効果時間",
+      "En": "Stacked Fire Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1410,
+    "Name": {
+      "Ja": "重複時 冷耐性アップ効果時間",
+      "En": "Stacked Ice Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1411,
+    "Name": {
+      "Ja": "重複時 雷耐性アップ効果時間",
+      "En": "Stacked Lightning Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1412,
+    "Name": {
+      "Ja": "重複時 土耐性アップ効果時間",
+      "En": "Stacked Earth Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1413,
+    "Name": {
+      "Ja": "重複時 水耐性アップ効果時間",
+      "En": "Stacked Water Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1414,
+    "Name": {
+      "Ja": "重複時 風耐性アップ効果時間",
+      "En": "Stacked Wind Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1415,
+    "Name": {
+      "Ja": "重複時 聖耐性アップ効果時間",
+      "En": "Stacked Light Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1416,
+    "Name": {
+      "Ja": "重複時 闇耐性アップ効果時間",
+      "En": "Stacked Dark Resist. Up Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1417,
+    "Name": {
+      "Ja": "重複時 炎耐性ダウン効果時間",
+      "En": "Stacked Fire Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1418,
+    "Name": {
+      "Ja": "重複時 冷耐性ダウン効果時間",
+      "En": "Stacked Ice Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1419,
+    "Name": {
+      "Ja": "重複時 雷耐性ダウン効果時間",
+      "En": "Stacked Lightning Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1420,
+    "Name": {
+      "Ja": "重複時 土耐性ダウン効果時間",
+      "En": "Stacked Earth Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1421,
+    "Name": {
+      "Ja": "重複時 水耐性ダウン効果時間",
+      "En": "Stacked Water Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1422,
+    "Name": {
+      "Ja": "重複時 風耐性ダウン効果時間",
+      "En": "Stacked Wind Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1423,
+    "Name": {
+      "Ja": "重複時 聖耐性ダウン効果時間",
+      "En": "Stacked Light Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  },
+  {
+    "Id": 1424,
+    "Name": {
+      "Ja": "重複時 闇耐性ダウン効果時間",
+      "En": "Stacked Dark Resist. Down Dur."
+    },
+    "BufDebuffType": 24
+  }
 ]

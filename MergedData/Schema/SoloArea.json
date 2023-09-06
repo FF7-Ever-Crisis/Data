@@ -1,34 +1,34 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Name": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "SoloAreaGroupId": {
-            "type": "integer"
-        },
-        "OrderNo": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        },
-        "DisplayConditionSetId": {
-            "type": "integer"
-        },
-        "LockConditionSetId": {
-            "type": "integer"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "SoloAreaGroupId": {
+      "type": "integer"
+    },
+    "OrderNo": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
+    },
+    "DisplayConditionSetId": {
+      "type": "integer"
+    },
+    "LockConditionSetId": {
+      "type": "integer"
     }
+  }
 }

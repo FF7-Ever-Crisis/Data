@@ -1,17 +1,17 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "BattleRareWaveSetId": {
-            "type": "integer"
-        },
-        "EventBaseId": {
-            "type": "integer"
-        },
-        "ConditionSetId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "BattleRareWaveSetId": {
+      "type": "integer"
+    },
+    "EventBaseId": {
+      "type": "integer"
+    },
+    "ConditionSetId": {
+      "type": "integer"
     }
+  }
 }

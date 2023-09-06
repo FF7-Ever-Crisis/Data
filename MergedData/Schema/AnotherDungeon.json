@@ -1,50 +1,50 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "AnotherAreaId": {
-            "type": "integer"
-        },
-        "DifficultyLevel": {
-            "type": "integer"
-        },
-        "AnotherDungeonDifficultySettingId": {
-            "type": "integer"
-        },
-        "OrderNo": {
-            "type": "integer"
-        },
-        "MaxBossEnhanceStage": {
-            "type": "integer"
-        },
-        "ConsumptionCount": {
-            "type": "integer"
-        },
-        "FirstRewardSetId": {
-            "type": "integer"
-        },
-        "ScoreOptionGroupId": {
-            "type": "integer"
-        },
-        "BuffDebuffGroupId": {
-            "type": "integer"
-        },
-        "DisplayConditionSetId": {
-            "type": "integer"
-        },
-        "LockConditionSetId": {
-            "type": "integer"
-        },
-        "DungeonMissionId0": {
-            "type": "integer"
-        },
-        "DungeonMissionId1": {
-            "type": "integer"
-        },
-        "DungeonMissionId2": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "AnotherAreaId": {
+      "type": "integer"
+    },
+    "DifficultyLevel": {
+      "type": "integer"
+    },
+    "AnotherDungeonDifficultySettingId": {
+      "type": "integer"
+    },
+    "OrderNo": {
+      "type": "integer"
+    },
+    "MaxBossEnhanceStage": {
+      "type": "integer"
+    },
+    "ConsumptionCount": {
+      "type": "integer"
+    },
+    "FirstRewardSetId": {
+      "type": "integer"
+    },
+    "ScoreOptionGroupId": {
+      "type": "integer"
+    },
+    "BuffDebuffGroupId": {
+      "type": "integer"
+    },
+    "DisplayConditionSetId": {
+      "type": "integer"
+    },
+    "LockConditionSetId": {
+      "type": "integer"
+    },
+    "DungeonMissionId0": {
+      "type": "integer"
+    },
+    "DungeonMissionId1": {
+      "type": "integer"
+    },
+    "DungeonMissionId2": {
+      "type": "integer"
     }
+  }
 }

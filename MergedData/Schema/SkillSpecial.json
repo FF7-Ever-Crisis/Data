@@ -1,20 +1,20 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
-        },
-        "SkillSpecialType": {
-            "type": "integer"
-        },
-        "ContentId": {
-            "type": "integer"
-        },
-        "SkillBaseId": {
-            "type": "integer"
-        },
-        "ResourceId": {
-            "type": "integer"
-        }
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "SkillSpecialType": {
+      "type": "integer"
+    },
+    "ContentId": {
+      "type": "integer"
+    },
+    "SkillBaseId": {
+      "type": "integer"
+    },
+    "ResourceId": {
+      "type": "integer"
     }
+  }
 }

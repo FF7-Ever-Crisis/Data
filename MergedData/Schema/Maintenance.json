@@ -1,51 +1,51 @@
 {
-    "type": "object",
-    "properties": {
-        "Id": {
-            "type": "integer"
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Title": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
         },
-        "Title": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "DescriptionTemplate": {
-            "type": "object",
-            "properties": {
-                "Ja": {
-                    "type": "string"
-                },
-                "En": {
-                    "type": "string"
-                }
-            }
-        },
-        "MaintenanceApiGroupId": {
-            "type": "integer"
-        },
-        "MaintenanceType": {
-            "type": "integer"
-        },
-        "TargetPlatformType": {
-            "type": "integer"
-        },
-        "OfficialTwitterUrl": {
-            "type": "string"
-        },
-        "StartDatetime": {
-            "type": "string"
-        },
-        "EndDatetime": {
-            "type": "string"
-        },
-        "CenterUrl": {
-            "type": "string"
+        "En": {
+          "type": "string"
         }
+      }
+    },
+    "DescriptionTemplate": {
+      "type": "object",
+      "properties": {
+        "Ja": {
+          "type": "string"
+        },
+        "En": {
+          "type": "string"
+        }
+      }
+    },
+    "MaintenanceApiGroupId": {
+      "type": "integer"
+    },
+    "MaintenanceType": {
+      "type": "integer"
+    },
+    "TargetPlatformType": {
+      "type": "integer"
+    },
+    "OfficialTwitterUrl": {
+      "type": "string"
+    },
+    "StartDatetime": {
+      "type": "string"
+    },
+    "EndDatetime": {
+      "type": "string"
+    },
+    "CenterUrl": {
+      "type": "string"
     }
+  }
 }
