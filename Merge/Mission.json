@@ -1020,6 +1020,66 @@
     "IsRefresh": true
   },
   {
+    "Id": 110003019,
+    "NameTemplate": {
+      "Ja": "ライフガードハンドのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Lifeguard Wraps's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ライフガードハンドのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Lifeguard Wraps's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 3019,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 101,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000003019,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 110005028,
+    "NameTemplate": {
+      "Ja": "シーサイドカラーのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Seaside Collar's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "シーサイドカラーのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Seaside Collar's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 5028,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 103,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000005028,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190100101,
     "NameTemplate": {
       "Ja": "フレンド申請をする。",
@@ -12238,5 +12298,335 @@
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": true
+  },
+  {
+    "Id": 1203001001,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のプロローグを見る。",
+      "En": "Watch the prologue of \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のプロローグを見る。",
+      "En": "Watch the prologue of \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 350003001003,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001002,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」1話をクリアする。",
+      "En": "Clear episode 1 of \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」1話をクリアする。",
+      "En": "Clear episode 1 of \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 350003001003,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001003,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」2話をクリアする。",
+      "En": "Clear episode 2 of \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」2話をクリアする。",
+      "En": "Clear episode 2 of \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300105,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 350003001003,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001004,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」3話をクリアする。",
+      "En": "Clear episode 3 of \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」3話をクリアする。",
+      "En": "Clear episode 3 of \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300107,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 350003001003,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001005,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」4話をクリアする。",
+      "En": "Clear episode 4 of \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」4話をクリアする。",
+      "En": "Clear episode 4 of \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300109,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 350003001003,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001006,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のエンディングを見る。",
+      "En": "Watch the ending of \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のエンディングを見る。",
+      "En": "Watch the ending of \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300111,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 350003001003,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001007,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のエピローグを見る。",
+      "En": "Watch the epilogue of \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のエピローグを見る。",
+      "En": "Watch the epilogue of \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300113,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 411000110001,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001008,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のシングルバトルのスイカトンベリ7でスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Solo battle Watermelon Tonberry 7 in \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のシングルバトルのスイカトンベリ7でスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Solo battle Watermelon Tonberry 7 in \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 53001107,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001018,
+    "NameTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "DescriptionTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001020,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo battle in \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo battle in \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 108,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203002001,
+    "NameTemplate": {
+      "Ja": "ヒュージメガスイカを{0}個取得する。",
+      "En": "Obtain {0} Huge Mega Watermelon(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ヒュージメガスイカを{0}個取得する。",
+      "En": "Obtain {0} Huge Mega Watermelon(s)."
+    },
+    "MissionSetId": 1203002,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
   }
 ]

@@ -2621,6 +2621,16 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>スイカ割りスタート！</color>] 中は対象1人を拘束し行動不能にする。\n[<color=#D9DA59>スイカ割れるかな？</color>] 中にサイン破壊を行うほど、\n[<color=#D9DA59>スイカのうらみ</color>] の威力がアップする。\n\n<color=#95C7FF>物理攻撃</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nIncapacitates a target during <color=#D9DA59>Watermelon Bash!!!</color> Destroying more sigils during <color=#D9DA59>Watermelon Challenge</color> increases the potency of <color=#D9DA59>Watermelon's Grudge</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2524001,
+    "Level": 1,
+    "ResourceId": 2524001010,
+    "EnemySkillLevelId": 2524001010
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\nフォースゲージ [<color=#D9DA59>LIGHTNING</color>] に応じて<color=#95C7FF>雷属性威力</color>が変動する。\nフォースゲージはダメージを与えることにより僅かに減少する。\n[<color=#D9DA59>雷チャージ</color>] 中フォースゲージが大きく増加する。\n\n<color=#95C7FF>雷属性耐性</color>、<color=#95C7FF>素早いサイン破壊</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<color=#95C7FF>Lightning potency</color> changes based on Force Gauge: <color=#D9DA59>Lightning</color>. The gauge can be depleted with damage. During <color=#D9DA59>Stormcharge</color>, the gauge fills quickly."
     },

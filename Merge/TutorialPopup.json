@@ -335,7 +335,7 @@
     },
     "TutorialPopupGroupId": 2010001,
     "Seq": 1,
-    "ResourceId": 201000101
+    "ResourceId": 201000104
   },
   {
     "Title": {
@@ -2286,6 +2286,32 @@
     "TutorialPopupGroupId": 300000004,
     "Seq": 1,
     "ResourceId": 3000000041
+  },
+  {
+    "Title": {
+      "Ja": "スイカ",
+      "En": "Watermelon"
+    },
+    "Description": {
+      "Ja": "キャラクター1人を拘束し、「<command_color=common_03>行動不能</color>」にします。\n行動不能中は<command_color=common_03>アビリティの使用が行えず、ATBゲージもたまりません</color>。\n行動不能はキャラクターが使用するアビリティでは解除することができず、\n<command_color=common_03>ストリームフェイズが終了するか、特定の攻撃を受けると同時に解除</color>されます。",
+      "En": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
+    },
+    "TutorialPopupGroupId": 300000006,
+    "Seq": 1,
+    "ResourceId": 3000000061
+  },
+  {
+    "Title": {
+      "Ja": "スイカのうらみ",
+      "En": "Watermelon's Grudge"
+    },
+    "Description": {
+      "Ja": "「<command_color=common_03>スイカのうらみゲージ</color>」がたまる度に強力なアビリティを使用する状態です。\nゲージは<command_color=common_03>時間経過</color>でたまります。\nゲージがたまった時、<command_color=common_03>サインの残り数</color>によって使用する敵のアビリティが変わります。\nサインの残り数が少なければ少ないほど、<command_color=common_03>敵のアビリティの威力が上がり危険度が増します</color>。",
+      "En": "The <command_color=common_03>Watermelon's Grudge gauge</color> fills over time, and when the gauge is filled, the enemy can unleash a powerful ability.\n  \nThe <command_color=common_03>number of sigils remaining</color> when the gauge is filled will determine the ability they will unleash. The <command_color=common_03>fewer</color> sigils remaining, the <command_color=common_03>stronger</color> the ability."
+    },
+    "TutorialPopupGroupId": 300000007,
+    "Seq": 1,
+    "ResourceId": 3000000071
   },
   {
     "Title": {
