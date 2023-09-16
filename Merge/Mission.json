@@ -990,6 +990,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 110001020,
+    "NameTemplate": {
+      "Ja": "マリタイムソードのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Maritime Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マリタイムソードのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Maritime Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 1020,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 104,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000001020,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110002018,
     "NameTemplate": {
       "Ja": "ヘビーハウザーのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -1041,6 +1071,36 @@
     "OrderNo": 101,
     "BonusPoint": 0,
     "DisplayConditionSetId": 240000003019,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 110004014,
+    "NameTemplate": {
+      "Ja": "サンアンブレラのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Sun Umbrella's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "サンアンブレラのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Sun Umbrella's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 4014,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 102,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000004014,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 38,
@@ -6085,6 +6145,66 @@
     "LockConditionSetId": 0,
     "TransitionType": 54,
     "TransitionId": 2010101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500002001,
+    "NameTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "MissionSetId": 500002,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500002002,
+    "NameTemplate": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draws."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draws."
+    },
+    "MissionSetId": 500002,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 44,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 36,
+    "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false

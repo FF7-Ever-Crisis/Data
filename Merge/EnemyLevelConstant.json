@@ -2631,6 +2631,16 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>CONCENTRATION</color>] に応じて<color=#95C7FF>物攻</color>が変動する。\nフォースゲージはダメージを与えることで減少し、一定時間内に\n連続で攻撃を行う<color=#95C7FF>チェイン</color>を繋ぐほど大きく減少する。\n\n<color=#95C7FF>物理攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \n<color=#95C7FF>PATK</color> changes based on Force Gauge: <color=#D9DA59>Concentration</color>. The gauge can be depleted with damage, and the greater the <color=#95C7FF>chain</color> of consecutive attacks, the more the gauge will be depleted.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2524101,
+    "Level": 1,
+    "ResourceId": 2524101010,
+    "EnemySkillLevelId": 2524101010
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\nフォースゲージ [<color=#D9DA59>LIGHTNING</color>] に応じて<color=#95C7FF>雷属性威力</color>が変動する。\nフォースゲージはダメージを与えることにより僅かに減少する。\n[<color=#D9DA59>雷チャージ</color>] 中フォースゲージが大きく増加する。\n\n<color=#95C7FF>雷属性耐性</color>、<color=#95C7FF>素早いサイン破壊</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<color=#95C7FF>Lightning potency</color> changes based on Force Gauge: <color=#D9DA59>Lightning</color>. The gauge can be depleted with damage. During <color=#D9DA59>Stormcharge</color>, the gauge fills quickly."
     },

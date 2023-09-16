@@ -54,6 +54,24 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 10005,
+    "Button": {
+      "Ja": "ガチャへ",
+      "En": "Draws"
+    },
+    "MovieResourceId": 10005,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 10005,
+    "Priority": 6230,
+    "DisplayConditionSetId": 671000010005,
+    "VisibleOpenConditionSetId": 671000010005,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 1030003,
     "Button": {
       "Ja": "ガチャへ",
@@ -90,6 +108,24 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 3000001,
+    "Button": {
+      "Ja": "イベントへ",
+      "En": "Events"
+    },
+    "MovieResourceId": 3000001,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 3000001,
+    "Priority": 7110,
+    "DisplayConditionSetId": 671003000001,
+    "VisibleOpenConditionSetId": 671003000001,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 4000001,
     "Button": {
       "Ja": "シーズンパスへ",
@@ -101,6 +137,24 @@
     "Priority": 4110,
     "DisplayConditionSetId": 671004000001,
     "VisibleOpenConditionSetId": 671004000001,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
+    "Id": 5000001,
+    "Button": {
+      "Ja": "ショップへ",
+      "En": "Shop"
+    },
+    "MovieResourceId": 5000001,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 5000001,
+    "Priority": 7120,
+    "DisplayConditionSetId": 671005000001,
+    "VisibleOpenConditionSetId": 671005000001,
     "TransitionType": 0,
     "TransitionId": 0,
     "EnableHomeBgm": false,
