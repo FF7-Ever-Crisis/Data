@@ -3273,11 +3273,11 @@
     "Id": 190330004,
     "NameTemplate": {
       "Ja": "FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6をクリアする。",
-      "En": "Clear FFVII FS CHAPTER 2 - MAIN SECTION 5 - EP1."
+      "En": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6."
     },
     "DescriptionTemplate": {
       "Ja": "FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6をクリアする。",
-      "En": "Clear FFVII FS CHAPTER 2 - MAIN SECTION 5 - EP1."
+      "En": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6."
     },
     "MissionSetId": 190003,
     "MissionSetIdx": 54,
@@ -3393,11 +3393,11 @@
     "Id": 190330008,
     "NameTemplate": {
       "Ja": "FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6をクリアする。",
-      "En": "Clear FFVII FS CHAPTER 2 - MAIN SECTION 5 - EP1."
+      "En": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6."
     },
     "DescriptionTemplate": {
       "Ja": "FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6をクリアする。",
-      "En": "Clear FFVII FS CHAPTER 2 - MAIN SECTION 5 - EP1."
+      "En": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6."
     },
     "MissionSetId": 190003,
     "MissionSetIdx": 58,
@@ -7982,12 +7982,12 @@
   {
     "Id": 800101001,
     "NameTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD イフリートを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Ifrit - Very Hard {0} time(s)."
+      "Ja": "召喚獣の試練 VERY HARD 1 イフリートを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Ifrit - Very Hard 1 {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD イフリートを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Ifrit - Very Hard {0} time(s)."
+      "Ja": "召喚獣の試練 VERY HARD 1 イフリートを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Ifrit - Very Hard 1 {0} time(s)."
     },
     "MissionSetId": 800101,
     "MissionSetIdx": 0,
@@ -8282,12 +8282,12 @@
   {
     "Id": 800201001,
     "NameTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD シヴァを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Shiva - Very Hard {0} times."
+      "Ja": "召喚獣の試練 VERY HARD 1 シヴァを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Shiva - Very Hard 1 {0} times."
     },
     "DescriptionTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD シヴァを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Shiva - Very Hard {0} times."
+      "Ja": "召喚獣の試練 VERY HARD 1 シヴァを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Shiva - Very Hard 1 {0} times."
     },
     "MissionSetId": 800201,
     "MissionSetIdx": 0,
@@ -8792,12 +8792,12 @@
   {
     "Id": 801001001,
     "NameTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD ラムウを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Ramuh - Very Hard {0} times."
+      "Ja": "召喚獣の試練 VERY HARD 1 ラムウを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Ramuh - Very Hard 1 {0} times."
     },
     "DescriptionTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD ラムウを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Ramuh - Very Hard {0} times."
+      "Ja": "召喚獣の試練 VERY HARD 1 ラムウを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Ramuh - Very Hard 1 {0} times."
     },
     "MissionSetId": 801001,
     "MissionSetIdx": 0,
@@ -12720,6 +12720,66 @@
     "IsRefresh": true
   },
   {
+    "Id": 1203001021,
+    "NameTemplate": {
+      "Ja": "イエローメガスイカを{0}個取得する。",
+      "En": "Obtain {0} Yellow Mega Watermelon(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イエローメガスイカを{0}個取得する。",
+      "En": "Obtain {0} Yellow Mega Watermelon(s)."
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 24,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 15,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241203001021,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1203001022,
+    "NameTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のシングルバトルのイエロースイカトンベリ5でスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Solo battle Yellow Watermelon Tonberry 5 in \"Beach Festival Fun!\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線」のシングルバトルのイエロースイカトンベリ5でスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Solo battle Yellow Watermelon Tonberry 5 in \"Beach Festival Fun!\""
+    },
+    "MissionSetId": 1203001,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 53001125,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241203001022,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 1203002001,
     "NameTemplate": {
       "Ja": "ヒュージメガスイカを{0}個取得する。",
@@ -12741,6 +12801,36 @@
     "OrderNo": 1,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3001,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1203002002,
+    "NameTemplate": {
+      "Ja": "イエローメガスイカを{0}個取得する。",
+      "En": "Obtain {0} Yellow Mega Watermelon(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イエローメガスイカを{0}個取得する。",
+      "En": "Obtain {0} Yellow Mega Watermelon(s)."
+    },
+    "MissionSetId": 1203002,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 24,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241203002002,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 58,
