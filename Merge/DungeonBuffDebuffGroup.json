@@ -650,18 +650,18 @@
   {
     "Id": 2030101040,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030101041,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 2
+    "ResourceId": 6
   },
   {
     "Id": 2030101042,
@@ -674,18 +674,18 @@
   {
     "Id": 2030101050,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030101051,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 2
+    "ResourceId": 6
   },
   {
     "Id": 2030101052,
@@ -714,26 +714,26 @@
   {
     "Id": 2030101062,
     "Name": {
-      "Ja": "防御強化",
-      "En": "Enhance PDEF/MDEF"
+      "Ja": "攻撃強化（物魔）",
+      "En": "Enhance PATK/MATK"
     },
-    "ResourceId": 6
+    "ResourceId": 3
   },
   {
     "Id": 2030201040,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030201041,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 2
+    "ResourceId": 5
   },
   {
     "Id": 2030201042,
@@ -746,18 +746,18 @@
   {
     "Id": 2030201050,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030201051,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 2
+    "ResourceId": 5
   },
   {
     "Id": 2030201052,
@@ -770,18 +770,18 @@
   {
     "Id": 2030201060,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2030201061,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 2
+    "ResourceId": 6
   },
   {
     "Id": 2030201062,
@@ -794,13 +794,21 @@
   {
     "Id": 2030201070,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2030201071,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2030201072,
     "Name": {
       "Ja": "攻撃強化（魔法）",
       "En": "Enhance MATK"
@@ -808,36 +816,28 @@
     "ResourceId": 2
   },
   {
-    "Id": 2030201072,
-    "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
-    },
-    "ResourceId": 1
-  },
-  {
     "Id": 2030301040,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030301041,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030301042,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2030301050,
@@ -850,10 +850,10 @@
   {
     "Id": 2030301051,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2030301052,
@@ -866,50 +866,50 @@
   {
     "Id": 2030301060,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "攻撃強化（魔法）",
+      "En": "Enhance MATK"
     },
-    "ResourceId": 1
+    "ResourceId": 2
   },
   {
     "Id": 2030301061,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2030301062,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "攻撃強化（魔法）",
+      "En": "Enhance MATK"
     },
-    "ResourceId": 1
+    "ResourceId": 2
   },
   {
     "Id": 2030301070,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030301071,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2030301072,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2050101030,
@@ -1402,26 +1402,26 @@
   {
     "Id": 2070101030,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2070101031,
-    "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
-    },
-    "ResourceId": 2
-  },
-  {
-    "Id": 2070101032,
     "Name": {
       "Ja": "属性攻撃強化",
       "En": "Enhance Elem. ATK"
     },
     "ResourceId": 5
+  },
+  {
+    "Id": 2070101032,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
   },
   {
     "Id": 2070101040,
@@ -1450,26 +1450,26 @@
   {
     "Id": 2070101050,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2070101051,
-    "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
-    },
-    "ResourceId": 2
-  },
-  {
-    "Id": 2070101052,
     "Name": {
       "Ja": "属性攻撃強化",
       "En": "Enhance Elem. ATK"
     },
     "ResourceId": 5
+  },
+  {
+    "Id": 2070101052,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
   },
   {
     "Id": 2070201040,
@@ -1490,10 +1490,10 @@
   {
     "Id": 2070201042,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 5
+    "ResourceId": 6
   },
   {
     "Id": 2070201050,
@@ -1514,58 +1514,58 @@
   {
     "Id": 2070201052,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 5
+    "ResourceId": 6
   },
   {
     "Id": 2070201060,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2070201061,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 2
+    "ResourceId": 6
   },
   {
     "Id": 2070201062,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2070201070,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 1
+    "ResourceId": 6
   },
   {
     "Id": 2070201071,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 2
+    "ResourceId": 6
   },
   {
     "Id": 2070201072,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "攻撃強化（物魔）",
+      "En": "Enhance PATK/MATK"
     },
-    "ResourceId": 2
+    "ResourceId": 3
   },
   {
     "Id": 2070301030,
@@ -1594,26 +1594,26 @@
   {
     "Id": 2070301040,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 5
+    "ResourceId": 6
   },
   {
     "Id": 2070301041,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 5
+    "ResourceId": 6
   },
   {
     "Id": 2070301042,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 5
+    "ResourceId": 6
   },
   {
     "Id": 2070301050,
@@ -1626,26 +1626,26 @@
   {
     "Id": 2070301051,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "攻撃強化（物理）",
+      "En": "Enhance PATK"
     },
-    "ResourceId": 2
+    "ResourceId": 1
   },
   {
     "Id": 2070301052,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2070301060,
     "Name": {
       "Ja": "攻撃強化（物魔）",
       "En": "Enhance PATK/MATK"
     },
     "ResourceId": 3
-  },
-  {
-    "Id": 2070301060,
-    "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
-    },
-    "ResourceId": 1
   },
   {
     "Id": 2070301061,
@@ -1658,18 +1658,18 @@
   {
     "Id": 2070301062,
     "Name": {
-      "Ja": "攻撃強化（物魔）",
-      "En": "Enhance PATK/MATK"
-    },
-    "ResourceId": 3
-  },
-  {
-    "Id": 2080101040,
-    "Name": {
       "Ja": "防御強化",
       "En": "Enhance PDEF/MDEF"
     },
     "ResourceId": 6
+  },
+  {
+    "Id": 2080101040,
+    "Name": {
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
+    },
+    "ResourceId": 5
   },
   {
     "Id": 2080101041,
@@ -1682,58 +1682,58 @@
   {
     "Id": 2080101042,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 5
+    "ResourceId": 6
   },
   {
     "Id": 2080101050,
     "Name": {
-      "Ja": "防御強化",
-      "En": "Enhance PDEF/MDEF"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 6
+    "ResourceId": 5
   },
   {
     "Id": 2080101051,
     "Name": {
-      "Ja": "防御強化",
-      "En": "Enhance PDEF/MDEF"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 6
+    "ResourceId": 5
   },
   {
     "Id": 2080101052,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
-    },
-    "ResourceId": 5
-  },
-  {
-    "Id": 2080101060,
-    "Name": {
       "Ja": "防御強化",
       "En": "Enhance PDEF/MDEF"
     },
     "ResourceId": 6
   },
   {
+    "Id": 2080101060,
+    "Name": {
+      "Ja": "攻撃強化（物理）",
+      "En": "Enhance PATK"
+    },
+    "ResourceId": 1
+  },
+  {
     "Id": 2080101061,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "攻撃強化（魔法）",
+      "En": "Enhance MATK"
     },
-    "ResourceId": 5
+    "ResourceId": 2
   },
   {
     "Id": 2080101062,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "攻撃強化（物魔）",
+      "En": "Enhance PATK/MATK"
     },
-    "ResourceId": 5
+    "ResourceId": 3
   },
   {
     "Id": 2080201040,
@@ -1762,13 +1762,37 @@
   {
     "Id": 2080201050,
     "Name": {
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
+    },
+    "ResourceId": 5
+  },
+  {
+    "Id": 2080201051,
+    "Name": {
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
+    },
+    "ResourceId": 5
+  },
+  {
+    "Id": 2080201052,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2080201060,
+    "Name": {
       "Ja": "攻撃強化（物理）",
       "En": "Enhance PATK"
     },
     "ResourceId": 1
   },
   {
-    "Id": 2080201051,
+    "Id": 2080201061,
     "Name": {
       "Ja": "攻撃強化（魔法）",
       "En": "Enhance MATK"
@@ -1776,36 +1800,12 @@
     "ResourceId": 2
   },
   {
-    "Id": 2080201052,
-    "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
-    },
-    "ResourceId": 5
-  },
-  {
-    "Id": 2080201060,
-    "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
-    },
-    "ResourceId": 5
-  },
-  {
-    "Id": 2080201061,
-    "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
-    },
-    "ResourceId": 5
-  },
-  {
     "Id": 2080201062,
     "Name": {
-      "Ja": "属性攻撃強化",
-      "En": "Enhance Elem. ATK"
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
     },
-    "ResourceId": 5
+    "ResourceId": 6
   },
   {
     "Id": 2080201070,
@@ -1818,13 +1818,77 @@
   {
     "Id": 2080201071,
     "Name": {
+      "Ja": "攻撃強化（物理）",
+      "En": "Enhance PATK"
+    },
+    "ResourceId": 1
+  },
+  {
+    "Id": 2080201072,
+    "Name": {
       "Ja": "攻撃強化（魔法）",
       "En": "Enhance MATK"
     },
     "ResourceId": 2
   },
   {
-    "Id": 2080201072,
+    "Id": 2080301030,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2080301031,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2080301032,
+    "Name": {
+      "Ja": "攻撃強化（魔法）",
+      "En": "Enhance MATK"
+    },
+    "ResourceId": 2
+  },
+  {
+    "Id": 2080301040,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2080301041,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2080301042,
+    "Name": {
+      "Ja": "攻撃強化（物理）",
+      "En": "Enhance PATK"
+    },
+    "ResourceId": 1
+  },
+  {
+    "Id": 2080301050,
+    "Name": {
+      "Ja": "防御強化",
+      "En": "Enhance PDEF/MDEF"
+    },
+    "ResourceId": 6
+  },
+  {
+    "Id": 2080301051,
     "Name": {
       "Ja": "属性攻撃強化",
       "En": "Enhance Elem. ATK"
@@ -1832,99 +1896,35 @@
     "ResourceId": 5
   },
   {
-    "Id": 2080301030,
-    "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
-    },
-    "ResourceId": 1
-  },
-  {
-    "Id": 2080301031,
-    "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
-    },
-    "ResourceId": 2
-  },
-  {
-    "Id": 2080301032,
-    "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
-    },
-    "ResourceId": 1
-  },
-  {
-    "Id": 2080301040,
-    "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
-    },
-    "ResourceId": 1
-  },
-  {
-    "Id": 2080301041,
-    "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
-    },
-    "ResourceId": 2
-  },
-  {
-    "Id": 2080301042,
-    "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
-    },
-    "ResourceId": 2
-  },
-  {
-    "Id": 2080301050,
-    "Name": {
-      "Ja": "攻撃強化（物魔）",
-      "En": "Enhance PATK/MATK"
-    },
-    "ResourceId": 3
-  },
-  {
-    "Id": 2080301051,
-    "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
-    },
-    "ResourceId": 1
-  },
-  {
     "Id": 2080301052,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 2
+    "ResourceId": 5
   },
   {
     "Id": 2080301060,
     "Name": {
-      "Ja": "攻撃強化（物魔）",
-      "En": "Enhance PATK/MATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 3
+    "ResourceId": 5
   },
   {
     "Id": 2080301061,
     "Name": {
-      "Ja": "攻撃強化（物理）",
-      "En": "Enhance PATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 1
+    "ResourceId": 5
   },
   {
     "Id": 2080301062,
     "Name": {
-      "Ja": "攻撃強化（魔法）",
-      "En": "Enhance MATK"
+      "Ja": "属性攻撃強化",
+      "En": "Enhance Elem. ATK"
     },
-    "ResourceId": 2
+    "ResourceId": 5
   }
 ]
