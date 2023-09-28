@@ -1451,6 +1451,26 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。",
+      "En": "en_無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。"
+    },
+    "EnemyLevelConstantGroupId": 2040001,
+    "Level": 1,
+    "ResourceId": 2040001010,
+    "EnemySkillLevelId": 2040001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。",
+      "En": "en_無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。"
+    },
+    "EnemyLevelConstantGroupId": 2040101,
+    "Level": 1,
+    "ResourceId": 2040101010,
+    "EnemySkillLevelId": 2040101010
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>炎の震え</color>] で仲間に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>・<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与する。\nHPが一定以下になると [<color=#D9DA59>属性暴走・爆発</color>] を使用して、\n<color=#95C7FF>仲間にダメージを与えてバフを解除し</color>、自身のHPを0にする。\n\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants allies <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and <sprite=\"tmp_icon\" index=326><color=#95C7FF>MATK Up</color> with <color=#D9DA59>Tremors of Fire</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Explosion</color> to <color=#95C7FF>deal damage to and remove the buffs of allies</color> and reduce own HP to 0."
     },
@@ -2618,6 +2638,66 @@
     "Level": 1,
     "ResourceId": 2521001010,
     "EnemySkillLevelId": 2521006010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>催涙弾掃射</color>] で対象に<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>を付与した後に、\n炎属性の魔法攻撃 [<color=#D9DA59>ブレイジング・レイ</color>] を使用する。\n\n単体への<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nInflicts <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> with <color=#D9DA59>Tear Gas Bomb</color>, and subsequently uses the fire-element magic attack <color=#D9DA59>Blazing Ray</color>.\n \n<color=#89D9FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2523001,
+    "Level": 1,
+    "ResourceId": 2523003010,
+    "EnemySkillLevelId": 2523003010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>催涙弾掃射</color>] で対象に<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>を付与した後に、\n炎属性の魔法攻撃 [<color=#D9DA59>ブレイジング・レイ</color>] を使用する。\n\n単体への<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nInflicts <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> with <color=#D9DA59>Tear Gas Bomb</color>, and subsequently uses the fire-element magic attack <color=#D9DA59>Blazing Ray</color>.\n \n<color=#89D9FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2523003,
+    "Level": 1,
+    "ResourceId": 2523003010,
+    "EnemySkillLevelId": 2523003010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>バッテリーアシスト</color>] 中は、自身に<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与した後、\n雷属性の魔法攻撃 [<color=#D9DA59>プラズマティック・レイ</color>] を使用する。\n\n単体への<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nDuring <color=#D9DA59>Battery Assist</color>, grants self <sprite=\"tmp_icon\" index=326><color=#95C7FF>MATK Up</color>, and subsequently uses the lightning-element magic attack <color=#D9DA59>Prismatic Ray</color>.\n \n<color=#89D9FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2523101,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523101010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>バッテリーアシスト</color>] 中は、自身に<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与した後、\n雷属性の魔法攻撃 [<color=#D9DA59>プラズマティック・レイ</color>] を使用する。\n\n単体への<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nDuring <color=#D9DA59>Battery Assist</color>, grants self <sprite=\"tmp_icon\" index=326><color=#95C7FF>MATK Up</color>, and subsequently uses the lightning-element magic attack <color=#D9DA59>Prismatic Ray</color>.\n \n<color=#89D9FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2523103,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523103010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>バッテリーアシスト</color>] 中は、自身に<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与した後、\n雷属性の魔法攻撃 [<color=#D9DA59>プラズマティック・レイ</color>] を使用する。\n\n単体への<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nDuring <color=#D9DA59>Battery Assist</color>, grants self <sprite=\"tmp_icon\" index=326><color=#95C7FF>MATK Up</color>, and subsequently uses the lightning-element magic attack <color=#D9DA59>Prismatic Ray</color>.\n \n<color=#89D9FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2523104,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523104010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>バッテリーアシスト</color>] 中は、自身に<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与した後、\n雷属性の魔法攻撃 [<color=#D9DA59>プラズマティック・レイ</color>] を使用する。\n\n単体への<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nDuring <color=#D9DA59>Battery Assist</color>, grants self <sprite=\"tmp_icon\" index=326><color=#95C7FF>MATK Up</color>, and subsequently uses the lightning-element magic attack <color=#D9DA59>Prismatic Ray</color>.\n \n<color=#89D9FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2523105,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523105010
   },
   {
     "BossCaution": {

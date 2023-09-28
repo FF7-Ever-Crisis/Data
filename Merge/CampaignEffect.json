@@ -10,7 +10,7 @@
     },
     "CampaignEffectGroupId": 1001,
     "CampaignEffectType": 3,
-    "EffectValue": 1200,
+    "EffectValue": 1300,
     "TargetId": 0
   },
   {
@@ -51,6 +51,20 @@
       "En": "Increases rewards obtained from synthesis quests by {0}%."
     },
     "CampaignEffectGroupId": 1003,
+    "CampaignEffectType": 3,
+    "EffectValue": 1200,
+    "TargetId": 0
+  },
+  {
+    "Name": {
+      "Ja": "報酬ドロップ数UP",
+      "En": "More Reward Items"
+    },
+    "Description": {
+      "Ja": "高位強化クエストでの\n報酬の獲得量が{0}％増加します。",
+      "En": "Increases rewards obtained from premium quests by {0}%."
+    },
+    "CampaignEffectGroupId": 1004,
     "CampaignEffectType": 3,
     "EffectValue": 1200,
     "TargetId": 0
@@ -151,6 +165,20 @@
     "CampaignEffectGroupId": 3001,
     "CampaignEffectType": 21,
     "EffectValue": 0,
+    "TargetId": 0
+  },
+  {
+    "Name": {
+      "Ja": "キャラクター経験値獲得量UP",
+      "En": "More Character EXP"
+    },
+    "Description": {
+      "Ja": "キャラクター経験値の獲得量が{0}％増加します。",
+      "En": "Increases character EXP obtained by {0}%."
+    },
+    "CampaignEffectGroupId": 3002,
+    "CampaignEffectType": 2,
+    "EffectValue": 1300,
     "TargetId": 0
   }
 ]

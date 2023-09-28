@@ -140,6 +140,20 @@
         "LimitedReleaseGroupId": 103
     },
     {
+        "Id": 103005,
+        "NameLanguageId": 802000101001045,
+        "LimitedReleaseTriggerSourceType": 10,
+        "Seq": 6,
+        "ReleaseConditionSetId": 620000103005,
+        "OrderNo": 5,
+        "ResourceId": 103005,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101001045,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 103
+    },
+    {
         "Id": 201001,
         "NameLanguageId": 802000101001201,
         "LimitedReleaseTriggerSourceType": 3,
@@ -630,6 +644,48 @@
         "LimitedReleaseGroupId": 420
     },
     {
+        "Id": 449001,
+        "NameLanguageId": 802000101001591,
+        "LimitedReleaseTriggerSourceType": 1,
+        "Seq": 1,
+        "ReleaseConditionSetId": 620000449001,
+        "OrderNo": 1,
+        "ResourceId": 449001,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101001591,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 449
+    },
+    {
+        "Id": 449002,
+        "NameLanguageId": 802000101001592,
+        "LimitedReleaseTriggerSourceType": 1,
+        "Seq": 2,
+        "ReleaseConditionSetId": 620000449002,
+        "OrderNo": 2,
+        "ResourceId": 449002,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101001592,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 449
+    },
+    {
+        "Id": 449003,
+        "NameLanguageId": 802000101001593,
+        "LimitedReleaseTriggerSourceType": 1,
+        "Seq": 3,
+        "ReleaseConditionSetId": 620000449003,
+        "OrderNo": 3,
+        "ResourceId": 449003,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101001593,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 449
+    },
+    {
         "Id": 450001,
         "NameLanguageId": 802000101001561,
         "LimitedReleaseTriggerSourceType": 1,
@@ -836,7 +892,7 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005005,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1003
     },
     {
@@ -850,7 +906,7 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005006,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1003
     },
     {
@@ -864,7 +920,7 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005007,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1004
     },
     {
@@ -878,7 +934,7 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005008,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1004
     },
     {
@@ -892,7 +948,7 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005009,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1005
     },
     {
@@ -906,7 +962,7 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005010,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1005
     },
     {
@@ -920,7 +976,7 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005011,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1006
     },
     {
@@ -934,7 +990,63 @@
         "LimitedReleaseTargetType": 1,
         "TargetId": 101005012,
         "ReleaseDurationMinute": 720,
-        "LimitedReleaseDirectionType": 1,
+        "LimitedReleaseDirectionType": 2,
         "LimitedReleaseGroupId": 1006
+    },
+    {
+        "Id": 1007001,
+        "NameLanguageId": 802000101005013,
+        "LimitedReleaseTriggerSourceType": 11,
+        "Seq": 1,
+        "ReleaseConditionSetId": 620001007001,
+        "OrderNo": 1,
+        "ResourceId": 1007001,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101005013,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 1007
+    },
+    {
+        "Id": 1007002,
+        "NameLanguageId": 802000101005014,
+        "LimitedReleaseTriggerSourceType": 11,
+        "Seq": 2,
+        "ReleaseConditionSetId": 620001007002,
+        "OrderNo": 2,
+        "ResourceId": 1007002,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101005014,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 1007
+    },
+    {
+        "Id": 1008001,
+        "NameLanguageId": 802000101005015,
+        "LimitedReleaseTriggerSourceType": 11,
+        "Seq": 1,
+        "ReleaseConditionSetId": 620001008001,
+        "OrderNo": 1,
+        "ResourceId": 1008001,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101005015,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 1008
+    },
+    {
+        "Id": 1008002,
+        "NameLanguageId": 802000101005016,
+        "LimitedReleaseTriggerSourceType": 11,
+        "Seq": 2,
+        "ReleaseConditionSetId": 620001008002,
+        "OrderNo": 2,
+        "ResourceId": 1008002,
+        "LimitedReleaseTargetType": 1,
+        "TargetId": 101005016,
+        "ReleaseDurationMinute": 720,
+        "LimitedReleaseDirectionType": 2,
+        "LimitedReleaseGroupId": 1008
     }
 ]

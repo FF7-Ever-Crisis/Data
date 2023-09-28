@@ -182,6 +182,32 @@
     "HasTerm": true
   },
   {
+    "Id": 20901,
+    "Name": {
+      "Ja": "カウピネ洞窟群",
+      "En": "Cawpine Caverns"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 8,
+    "ResourceId": 20901,
+    "DisplayConditionSetId": 10002090101,
+    "LockConditionSetId": 40002090101,
+    "HasTerm": false
+  },
+  {
+    "Id": 20902,
+    "Name": {
+      "Ja": "カウピネ洞窟群",
+      "En": "Cawpine Caverns"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 8,
+    "ResourceId": 20901,
+    "DisplayConditionSetId": 100,
+    "LockConditionSetId": 40002090101,
+    "HasTerm": true
+  },
+  {
     "Id": 30101,
     "Name": {
       "Ja": "壱番魔晄炉",
@@ -270,6 +296,32 @@
     "ResourceId": 20801,
     "DisplayConditionSetId": 10003080101,
     "LockConditionSetId": 40003080101,
+    "HasTerm": false
+  },
+  {
+    "Id": 30901,
+    "Name": {
+      "Ja": "カウピネ洞窟群",
+      "En": "Cawpine Caverns"
+    },
+    "AnotherAreaType": 1,
+    "OrderNo": 8,
+    "ResourceId": 20901,
+    "DisplayConditionSetId": 10003090101,
+    "LockConditionSetId": 40003090101,
+    "HasTerm": false
+  },
+  {
+    "Id": 40101,
+    "Name": {
+      "Ja": "壱番魔晄炉",
+      "En": "Mako Reactor 1"
+    },
+    "AnotherAreaType": 2,
+    "OrderNo": 1,
+    "ResourceId": 40101,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 40004010101,
     "HasTerm": false
   }
 ]

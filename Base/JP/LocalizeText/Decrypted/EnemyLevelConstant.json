@@ -265,6 +265,14 @@
             "value": "無効：なし\n\n仲間に<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>や<color=#95C7FF>HP回復</color>を行い支援する。\n仲間がいなくなると [<color=#D9DA59>決死の覚悟</color>] を使用して、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>が有効。\n"
         },
         {
+            "id": 130000002040001,
+            "value": "無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。"
+        },
+        {
+            "id": 130000002040101,
+            "value": "無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。"
+        },
+        {
             "id": 130000002045001,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>炎の震え</color>] で仲間に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>・<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与する。\nHPが一定以下になると [<color=#D9DA59>属性暴走・爆発</color>] を使用して、\n<color=#95C7FF>仲間にダメージを与えてバフを解除し</color>、自身のHPを0にする。\n\n\n"
         },
@@ -383,6 +391,14 @@
         {
             "id": 130000002521001,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与する [<color=#D9DA59>地だんだ</color>] を多用する。\n[<color=#D9DA59>反撃のかまえ</color>] 中は<color=#95C7FF>魔法攻撃に対してカウンター</color>を行う。\n\n[<color=#D9DA59>反撃のかまえ</color>] 中は<color=#95C7FF>物理攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>が有効。\n"
+        },
+        {
+            "id": 130000002523001,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>催涙弾掃射</color>] で対象に<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>を付与した後に、\n炎属性の魔法攻撃 [<color=#D9DA59>ブレイジング・レイ</color>] を使用する。\n\n単体への<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。"
+        },
+        {
+            "id": 130000002523101,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n[<color=#D9DA59>バッテリーアシスト</color>] 中は、自身に<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与した後、\n雷属性の魔法攻撃 [<color=#D9DA59>プラズマティック・レイ</color>] を使用する。\n\n単体への<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\n<color=#89D9FF>魔法攻撃</color>が有効。"
         },
         {
             "id": 130000002524001,

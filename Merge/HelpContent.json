@@ -161,7 +161,7 @@
     },
     "Description": {
       "Ja": "<color=#95C7FF>R（ライズ）アビリティ</color>は、バトル中<color=#95C7FF>持続的に効果を発揮</color>します。\nキャラクターの装備に含まれる、同じ効果のRアビリティのpt合計によって\nRアビリティLvが決まり、Lvに応じた効果量を得られます。",
-      "En": "<color=#95C7FF>R. (Rise) Abilities</color> have a <color=#95C7FF>continuous effect during battle</color>.\nThe R. Ability Lv. is determined by the total points of the same effect R. Abilities\nincluded in the character's equipment, and will adjust according to Lv."
+      "En": "<color=#95C7FF>R. Abilities (Reinforcement Abilities)</color> have a <color=#95C7FF>continuous effect during battle</color>.\nThe R. Ability Lv. is determined by the total points of the same effect R. Abilities\nincluded in the character's equipment, and will adjust according to Lv."
     },
     "HelpId": 107,
     "OrderNo": 1,
@@ -175,7 +175,7 @@
     },
     "Description": {
       "Ja": "<color=#95C7FF>S（サポート）アビリティ</color>はサポートマテリアの<color=#95C7FF>対となるマテリアに効果</color>を与えます。\n効果を発揮するには、メイン武器のサポートマテリアが解放されている必要があります。\nまた、マテリアの組み合わせ次第では効果が発揮されないこともあります。",
-      "En": "<color=#95C7FF>S (Support) Abilities</color> affect <color=#95C7FF>the materia paired with the support materia</color>.\nTo unleash their effects, the support materia of the main weapon must be unlocked.\nAlso, depending on the combination of materia, some effects may not be activated."
+      "En": "<color=#95C7FF>S. Abilities (Support Abilities)</color> affect <color=#95C7FF>the materia paired with the support materia</color>.\nTo unleash their effects, the support materia of the main weapon must be unlocked.\nAlso, depending on the combination of materia, some effects may not be activated."
     },
     "HelpId": 108,
     "OrderNo": 1,
@@ -245,7 +245,7 @@
     },
     "Description": {
       "Ja": "魔法タイプの攻撃に対する防御力です。\n魔法防御力が高いほど、<color=#95C7FF>魔法攻撃によるダメージが減少</color>します。",
-      "En": "The defense strength against magic attacks. \nThe higher the Magic Defense, the less <color=#95C7FF>damage will be taken\nfrom magical attacks</color>."
+      "En": "The defense strength against magic attacks. \nThe higher the Mag. Defense, the less <color=#95C7FF>damage will be taken\nfrom magical attacks</color>."
     },
     "HelpId": 109,
     "OrderNo": 5,
@@ -287,7 +287,7 @@
     },
     "Description": {
       "Ja": "特定の属性に対する防御力です。\n<color=#95C7FF>炎属性耐性アップ</color>が付いている場合は、キャラクターが受ける<color=#95C7FF>炎属性攻撃のダメージが減少</color>します。",
-      "En": "The defense against specific elements. \nIf a character has <color=#95C7FF>Fire Resistance</color>, \nthe <color=#95C7FF>damage from fire attribute attacks</color> they receive will be reduced."
+      "En": "The defense against specific elements. \nIf a character has <color=#95C7FF>Fire Resist.</color>, \nthe <color=#95C7FF>damage from fire attribute attacks</color> they receive will be reduced."
     },
     "HelpId": 109,
     "OrderNo": 8,
@@ -301,7 +301,7 @@
     },
     "Description": {
       "Ja": "特定の状態異常に対する耐性です。\n<color=#95C7FF>毒の状態異常耐性</color>を持つ場合は、<color=#95C7FF>毒攻撃を受けても毒になりづらく</color>なります。",
-      "En": "A resistance to specific status ailments. \nIf you have <color=#95C7FF>Poison Resist</color>, \nyou will be <color=#95C7FF>less likely to get poisoned when attacked by poison</color>."
+      "En": "A resistance to specific status ailments. \nIf you have <color=#95C7FF>Poison Resist.</color>, \nyou will be <color=#95C7FF>less likely to get poisoned when attacked by poison</color>."
     },
     "HelpId": 109,
     "OrderNo": 9,
@@ -539,7 +539,7 @@
     },
     "Description": {
       "Ja": "召喚獣は召喚獣ミッションをクリアすることで\n契約と、新たな召喚獣アビリティの取得を行えます。\n契約後は、<color=#95C7FF>専用アイテムを消費してマスを解放</color>することで\n<color=#95C7FF>召喚獣アビリティの強化</color>が行えます。",
-      "En": "By clearing Summon Missions, a<color=#95C7FF>Pact</color> can be formed with the Summon\nto acquire new Summon Abilities. \nAfter forming a pact, you can <color=#95C7FF>unlock nodes by consuming special items</color> and\n<color=#95C7FF>enhance Summon Abilities</color>."
+      "En": "By clearing Summon Missions, a <color=#95C7FF>Pact</color> can be formed with the Summon\nto acquire new Summon Abilities. \nAfter forming a pact, you can <color=#95C7FF>unlock nodes by consuming special items</color> and\n<color=#95C7FF>enhance Summon Abilities</color>."
     },
     "HelpId": 202,
     "OrderNo": 1,
@@ -553,7 +553,7 @@
     },
     "Description": {
       "Ja": "召喚獣ストリームのマスを解放するためのアイテムです。\n召喚獣専用のものは該当召喚獣ストリームでしか使用できません。",
-      "En": "This item unlocks a node on a Summon Statstream. Items specific to a summon can\nonly be used on the corresponding Summon Stream."
+      "En": "This item unlocks a node on a Summon Stream. Items specific to a summon can\nonly be used on the corresponding Summon Stream."
     },
     "HelpId": 202,
     "OrderNo": 2,
@@ -1015,7 +1015,7 @@
     },
     "Description": {
       "Ja": "バトルでは、キャラクターは<color=#95C7FF>一定時間ごとに自動</color>で敵に武器攻撃を行います。\nプレイヤーは戦況を見ながらアビリティを使用し、\nキャラクターが戦闘不能にならないよう操作します。\n出現した全ての敵の<color=#95C7FF>HPを0</color>にするとバトル勝利です。\n\n敵は<color=#95C7FF>複数wave</color>に亘って出現することがあり、\nその場合も最終waveまで進行して全ての敵を倒すことで勝利となります。\n\n※ボスがいる場合はボスを倒すことで勝利となります。",
-      "En": "In battle, characters will <color=#95C7FF>automatically</color> attack enemies with their weapons at regular intervals.\nYou can activate abilities while monitoring the situation to prevent characters from becoming\nincapacitated. Victory is achieved by reducing all enemies' <color=#95C7FF>HP to 0</color>.\n\n\nEnemies may appear in <color=#95C7FF>multiple waves</color>, \nand victory is achieved by progressing to the final wave and defeating all enemies.\n\n*If there is a boss, victory is achieved by defeating the boss."
+      "En": "In battle, characters will <color=#95C7FF>automatically</color> attack enemies with their weapons at regular intervals.\nYou can activate abilities while monitoring the situation to prevent characters from becoming\nincapacitated. Victory is achieved by reducing all enemies' <color=#95C7FF>HP to 0</color>.\n\nEnemies may appear in <color=#95C7FF>multiple waves</color>, \nand victory is achieved by progressing to the final wave and defeating all enemies.\n\n*If there is a boss, victory is achieved by defeating the boss."
     },
     "HelpId": 501,
     "OrderNo": 1,
@@ -1099,7 +1099,7 @@
     },
     "Description": {
       "Ja": "<color=#95C7FF>アタックシフト</color>は攻撃に特化したコマンドです。\n\n・キャラクターの<color=#95C7FF>与えるダメージが上昇</color>します。\n・<color=#95C7FF>全ての攻撃Cアビリティで敵のサインを破壊</color>できます。\n・<color=#95C7FF>サイン一致アビリティの場合は破壊数が増加</color>します。\n\nアタックシフト中は<color=#95C7FF>コマンドゲージが上昇</color>し、ゲージが最大になると効果が上昇します。\n仲間の行動も攻撃重視になります。",
-      "En": "<color=#95C7FF>Attack Stance</color> is a command specialized for offense.\n\n・The damage dealt by the character <color=#95C7FF>increases</color>.\n・All attack command abilities allow you to <color=#95C7FF>destroy the enemy's Sigil</color>.\n・In the case of a Sigil-matching ability, the number of <color=#95C7FF>Sigils destroyed will increase</color>.\n\nDuring <color=#95C7FF>Attack Stance</color>, the command gauge <color=#95C7FF>increases</color>, and the effect increases when\nthe gauge is at its maximum.\nThe actions of your allies will also become more attack-oriented."
+      "En": "<color=#95C7FF>Attack Stance</color> is a command specialized for offense.\n\n・The <color=#95C7FF>damage dealt by the character increases</color>.\n・All attack command abilities allow you to <color=#95C7FF>destroy the enemy's Sigil</color>.\n・In the case of a Sigil-matching ability, the number of <color=#95C7FF>Sigils destroyed will increase</color>.\n\nDuring <color=#95C7FF>Attack Stance</color>, the <color=#95C7FF>Command Gauge increases</color>, and the effect increases when\nthe gauge is at its maximum.\nThe actions of your allies will also become more attack-oriented."
     },
     "HelpId": 502,
     "OrderNo": 2,
@@ -1127,7 +1127,7 @@
     },
     "Description": {
       "Ja": "<color=#95C7FF>リミットブレイク・召喚獣アビリティ</color>は強力な効果を持っていますが\n発動するにはゲージを溜める必要があります。\n必要なゲージ量はリミットブレイク・召喚獣アビリティ毎に異なります。\n<color=#95C7FF>ゲージが溜まると、任意のタイミングで発動</color>できるようになります。\n\nオートモード中やパーティメンバーが自動で使用することはありません。\nまたバトル中での使用回数に上限はありません。\n",
-      "En": "<color=#95C7FF>Limit Break and Summon abilities</color> have powerful effects, but their gauge must be charged\nin order to activate them. \nThe required gauge amount varies depending on each Limit Break and Summon ability. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>.\n\nThe gauge will not be activated automatically during auto mode or by party members. \nThere is no limit to the number of times it can be activated during battles."
+      "En": "<color=#95C7FF>Limit Breaks and Summon abilities</color> have powerful effects, but their gauge must be charged\nin order to activate them. \nThe required gauge amount varies depending on each Limit Breaks and Summon abilities. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>.\n\nThe gauge will not be activated automatically during auto mode or by party members. \nThere is no limit to the number of times it can be activated during battles."
     },
     "HelpId": 503,
     "OrderNo": 1,
@@ -1141,7 +1141,7 @@
     },
     "Description": {
       "Ja": "リミットブレイクを装備しているキャラクターは\n<color=#95C7FF>LIMITゲージ</color>が表示され、バトル中の行動に応じて溜まっていきます。\n\nLIMITゲージは\n<color=#95C7FF>Cアビリティを使用</color>する、<color=#95C7FF>敵からダメージを受ける</color>、等で増加します。",
-      "En": "When controlling characters equipped with <color=#95C7FF>Limit Break</color>, the <color=#95C7FF>Limit Gauge</color> will be displayed, \nwhich accumulates based on their actions during battles.\n\nThe <color=#95C7FF>Limit Gauge</color> increases when you <color=#95C7FF>use C. Abilities</color>, or take<color=#95C7FF>damage from enemies</color>."
+      "En": "When controlling characters equipped with <color=#95C7FF>Limit Break</color>, the <color=#95C7FF>Limit Gauge</color> will be displayed, \nwhich accumulates based on their actions during battles.\n\nThe <color=#95C7FF>Limit Gauge</color> increases when you <color=#95C7FF>use C. Abilities</color>, or <color=#95C7FF>take damage from enemies</color>."
     },
     "HelpId": 501,
     "OrderNo": 3,
@@ -1225,7 +1225,7 @@
     },
     "Description": {
       "Ja": "ストリームフェイズのゲージ下に、数値とともに表示されるアイコンです。\n<color=#95C7FF>サイン</color>は武器やマテリアの一部Cアビリティにも設定されています。\n\n表示されたサインと<color=#95C7FF>一致したアビリティで攻撃</color>すると\n<color=#95C7FF>「サイン破壊」</color>となり、数値が減少します。\nコマンドがアタックシフトの場合のみ、サイン不一致のアビリティで攻撃しても\nサイン破壊できます。",
-      "En": "The icon displayed with numbers below the <color=#95C7FF>Stream Phase</color> gauge.\nSome <color=#95C7FF>C. Abilities</color> of weapons and materia also have <color=#95C7FF>Sigils</color>.\n\nIf attacking with an ability that matches the displayed <color=#95C7FF>Sigil</color>, it becomes a '<color=#95C7FF>Sigil Breaker</color>' and\nthe number decreases. \nEven if the ability does not match the <color=#95C7FF>Sigil</color>,\nyou can still perform a <color=#95C7FF>Sigil Breaker</color> if in <color=#95C7FF>Attack Stance</color>."
+      "En": "The icon displayed with numbers below the <color=#95C7FF>Stream Phase</color> gauge.\nSome <color=#95C7FF>C. Abilities</color> of weapons and Materia also have <color=#95C7FF>Sigils</color>.\n\nIf attacking with an ability that matches the displayed <color=#95C7FF>Sigil</color>, it becomes a '<color=#95C7FF>Sigil Breaker</color>' and\nthe number decreases. \nEven if the ability does not match the <color=#95C7FF>Sigil</color>,\nyou can still perform a <color=#95C7FF>Sigil Breaker</color> if in <color=#95C7FF>Attack Stance</color>."
     },
     "HelpId": 507,
     "OrderNo": 1,
@@ -1281,7 +1281,7 @@
     },
     "Description": {
       "Ja": "バトルには時間の制限があります。\n制限時間が経過すると強制的にバトルが終了し、ゲームオーバーとなります。\n残り時間はバトル中にメニューを開くことでいつでも確認できます。\n\n※ストーリーやクエスト、ダンジョン等コンテンツを問いません。\n※メニューを開いている時間は除きます。(マルチバトルではメニューを開いていても時間経過します。)",
-      "En": "Battles have a time limit. If the time limit expires, the battle will end forcibly,\nand it will be game over. \nYou can check the remaining time at any point during a battle by opening the Menu.\n\n*This applies to all battles regardless of the content, such as Story, quests, Dungeons,\nand Co-op Battles. \n*Excluding the time when the menu is open.\n(In Co-op Battle, time passes even when the Menu is open.)"
+      "En": "Battles have a time limit. If the time limit expires, the battle will end forcibly,\nand it will be game over. \nYou can check the remaining time at any point during a battle by opening the Menu.\n\n*This applies to all battles regardless of the content, such as Story, quests, Dungeons,\nand Co-op Battles. \n*Excluding the time when the Menu is open.\n(In Co-op Battle, time passes even when the Menu is open.)"
     },
     "HelpId": 511,
     "OrderNo": 1,
@@ -1365,7 +1365,7 @@
     },
     "Description": {
       "Ja": "既に付与されているバフ・デバフと<color=#95C7FF>相反する種類のバフ・デバフを付与</color>すると、\n<color=#95C7FF>効果段階の下降</color>や、<color=#95C7FF>効果の解除</color>ができます。\n\nまた、状態系のデバフは一定時間が経過するか、\n対応した解除アビリティを使用することで解除できます。",
-      "En": "When the opposite type of buff or debuff as a target's current buff or debuff is applied,\n its <color=#95C7FF>tier is lowered</color> and <color=#95C7FF>duration reduced</color>.\n\nStatus ailment debuffs can be removed after a certain amount of time has passed or with\nspecific abilities."
+      "En": "When the opposite type of buff or debuff as a target's current buff or debuff is applied,\nits <color=#95C7FF>tier is lowered</color> and <color=#95C7FF>duration reduced</color>.\n\nStatus ailment debuffs can be removed after a certain amount of time has passed or with\nspecific abilities."
     },
     "HelpId": 513,
     "OrderNo": 3,
@@ -1407,7 +1407,7 @@
     },
     "Description": {
       "Ja": "・上昇系(ステータスアップ)\n<sprite=\"tmp_icon\" index=324>物理攻撃力アップ　物理攻撃力が増加します。\n<sprite=\"tmp_icon\" index=323>物理防御力アップ　物理防御力が増加します。\n<sprite=\"tmp_icon\" index=326>魔法攻撃力アップ　魔法攻撃力が増加します。\n<sprite=\"tmp_icon\" index=325>魔法防御力アップ　魔法防御力が増加します。\n\n・上昇系(属性威力アップ)\n<sprite=\"tmp_icon\" index=578>炎属性威力アップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=576>冷属性威力アップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=612>雷属性威力アップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=579>土属性威力アップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=611>水属性威力アップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=610>風属性威力アップ　風属性アビリティのダメージが増加します。\n\n・上昇系(耐性アップ)\n<sprite=\"tmp_icon\" index=594>物理耐性アップ　　物理タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=595>魔法耐性アップ　　魔法タイプのダメージを軽減します。\n\n・上昇系(属性耐性アップ)\n<sprite=\"tmp_icon\" index=602>炎属性耐性アップ　炎属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=600>冷属性耐性アップ　冷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=599>雷属性耐性アップ　雷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=603>土属性耐性アップ　土属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=598>水属性耐性アップ　水属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=597>風属性耐性アップ　風属性アビリティのダメージを軽減します。\n\n・状態系\n<sprite=\"tmp_icon\" index=321>リジェネ　HPが徐々に回復します。\n<sprite=\"tmp_icon\" index=322>無敵　　　ダメージを無効化します。",
-      "En": "・Stat Changes (Stat Increases)\n<sprite=\"tmp_icon\" index=324>Boost PATK　Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up　Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Boost MATK　Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Boost MDEF　Mag. Defense is increased.\n\n・Stat Changes (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=578>Fire Damage Up　The Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Damage Up　The Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Damage Up　The Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579> Earth Damage Up　The Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611> Water Damage Up　The Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610> Wind Damage Up　The Damage of Wind Abilities is increased.\n\n・Stat Changes (Resist. Up)\n<sprite=\"tmp_icon\" index=594> Phys. Resist. Up　Phys.damage taken is reduced.\n<sprite=\"tmp_icon\" index=595> Mag. Resist. Up　Mag. damage taken is reduced.\n\n・Stat Changes (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602> Boost Fire Resist.　Damage taken from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600> Boost Ice Resist.　Damage taken from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599> Boost Lightning Resist.　Damage taken from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603> Boost Earth Resist.　Damage taken from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598> Boost Water Resist.　Damage taken from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597> Boost Wind Resist.　Damage taken from Wind Abilities is reduced.\n\n・Status Conditions\n<sprite=\"tmp_icon\" index=321>Regen HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible Damage is nullified."
+      "En": "・Stat Changes (Stat Increases)\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up　Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up　Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up　Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up　Mag. Defense is increased.\n\n・Stat Changes (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up　The Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up　The Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up　The Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579> Earth Pot. Up　The Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611> Water Pot. Up　The Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610> Wind Pot. Up　The Damage of Wind Abilities is increased.\n\n・Stat Changes (Resist. Up)\n<sprite=\"tmp_icon\" index=594> Phys. Resist. Up　Phys.damage taken is reduced.\n<sprite=\"tmp_icon\" index=595> Mag. Resist. Up　Mag. damage taken is reduced.\n\n・Stat Changes (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up　Damage taken from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600> Ice Resist. Up　Damage taken from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599> Lightning Resist. Up  　Damage taken from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603> Earth Resist. Up　Damage taken from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598> Water Resist. Up.　Damage taken from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up　Damage taken from Wind Abilities is reduced.\n\n・Status Conditions\n<sprite=\"tmp_icon\" index=321>Regen　HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible　Less damage is taken."
     },
     "HelpId": 513,
     "OrderNo": 6,
@@ -1421,7 +1421,7 @@
     },
     "Description": {
       "Ja": "・下降系(ステータスダウン)\n<sprite=\"tmp_icon\" index=388>物理攻撃力ダウン　物理攻撃力が減少します。\n<sprite=\"tmp_icon\" index=387>物理防御力ダウン　物理防御力が減少します。\n<sprite=\"tmp_icon\" index=390>魔法攻撃力ダウン　魔法攻撃力が減少します。\n<sprite=\"tmp_icon\" index=389>魔法防御力ダウン　魔法防御力が減少します。\n\n・下降系(属性威力ダウン)\n<sprite=\"tmp_icon\" index=702>炎属性威力ダウン　炎属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=707>冷属性威力ダウン　冷属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=706>雷属性威力ダウン　雷属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=703>土属性威力ダウン　土属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=705>水属性威力ダウン　水属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=694>風属性威力ダウン　風属性アビリティのダメージが減少します。\n\n・下降系(耐性ダウン)\n<sprite=\"tmp_icon\" index=678>物理耐性ダウン　　物理タイプのアビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=679>魔法耐性ダウン　　魔法タイプのアビリティで受けるダメージが増加します。\n\n・下降系(属性耐性ダウン)\n<sprite=\"tmp_icon\" index=686>炎属性耐性ダウン　炎属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=684>冷属性耐性ダウン　冷属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=683>雷属性耐性ダウン　雷属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=687>土属性耐性ダウン　土属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=682>水属性耐性ダウン　水属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=681>風属性耐性ダウン　風属性アビリティで受けるダメージが増加します。\n\n・状態系(キャラクターが受けた時の効果)\n<sprite=\"tmp_icon\" index=395>毒　　　　HPが徐々に減少します。\n<sprite=\"tmp_icon\" index=386>暗闇　　　物理タイプのCアビリティが使用できなくなります。\n<sprite=\"tmp_icon\" index=393>沈黙　　　魔法タイプのCアビリティが使用できなくなります。\n<sprite=\"tmp_icon\" index=384>鈍重　　　物理タイプのCアビリティ使用時、消費ATBゲージ量が増加します。\n<sprite=\"tmp_icon\" index=385>忘却　　　魔法タイプのCアビリティ使用時、消費ATBゲージ量が増加します。\n<sprite=\"tmp_icon\" index=392>スタン　　行動不能になり、ATBゲージが増加しなくなります。\n<sprite=\"tmp_icon\" index=394>悲しい　　LIMITゲージ・SUMMONゲージが増加しにくくなります。\n\n・状態系(敵が受けた時の効果)\n<sprite=\"tmp_icon\" index=395>毒　　　　HPが徐々に減少します。\n<sprite=\"tmp_icon\" index=386>暗闇　　　物理タイプのアビリティを使用しなくなります。\n<sprite=\"tmp_icon\" index=393>沈黙　　　魔法タイプのアビリティを使用しなくなります。\n<sprite=\"tmp_icon\" index=384>鈍重　　　物理タイプのアビリティ使用時、待機時間が追加されます。\n<sprite=\"tmp_icon\" index=385>忘却　　　魔法タイプのアビリティ使用時、待機時間が追加されます。\n<sprite=\"tmp_icon\" index=392>スタン　　行動不能になり、ストリームフェイズなどの時間経過が停止します。\n\n",
-      "En": "・Stat Changes (Stat Decreases)\n<sprite=\"tmp_icon\" index=388>Phys. Attack Down　Phys. Attack is decreased.\n<sprite=\"tmp_icon\" index=387>Phys. Defense Down　Phys. Defense is decreased.\n<sprite=\"tmp_icon\" index=390>Mag. Attack Down 　Mag. Attack is decreased.\n<sprite=\"tmp_icon\" index=389>Mag. Defense Down　Mag. Defense is decreased.\n\n・Stat Changes (Elemental Damage Down)\n<sprite=\"tmp_icon\" index=702>Fire Damage Down　The damage of Fire abilities is decreased.\n<sprite=\"tmp_icon\" index=707>Ice Damage Down　The damage of Ice abilities is decreased.\n<sprite=\"tmp_icon\" index=706>Lightning Damage Down　The damage of Lightning abilities is decreased.\n<sprite=\"tmp_icon\" index=703>Earth Damage Down　The damage of Earth abilities is decreased.\n<sprite=\"tmp_icon\" index=705>Water Damage Down　The damage of Water abilities is decreased.\n<sprite=\"tmp_icon\" index=694>Wind Damage Down　The damage of Wind abilities is decreased.\n\n・Stat Changes (Resist. Down)\n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down　Phys. type damage taken is increased.\n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down　Mag. type damage taken is increased.\n\n・Stat Changes (Elemental Resist. Down)\n<sprite=\"tmp_icon\" index=686>Fire Resist. Down　Damage taken from Fire abilities is increased.\n<sprite=\"tmp_icon\" index=684>Ice Resist. Down　Damage taken from Ice abilities is increased.\n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down　Damage taken from Lightning abilities is increased.\n<sprite=\"tmp_icon\" index=687>Earth Resist. Down 　Damage taken from Earth abilities is increased.\n<sprite=\"tmp_icon\" index=682>Water Resist. Down　Damage taken from Water abilities is increased.\n<sprite=\"tmp_icon\" index=681>Wind Resist. Down　Damage taken from Wind abilities is increased.\n\n・Status Conditions (Character)\n<sprite=\"tmp_icon\" index=395>Poison　HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness　Phys. type C Abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence　Mag. type C Abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue　When using Phys. type C Abilities, the amount of ATB gauge consumed \nwill be increased.\n<sprite=\"tmp_icon\" index=385>Fog　When using Mag. type C Abilities, the amount of ATB gauge consumed will \nbe increased.\n<sprite=\"tmp_icon\" index=392>Stun　Movement is restricted, and the ATB gauge will not increase.\n<sprite=\"tmp_icon\" index=394>Sadness　The Limit/Summon gauges become harder to fill up.\n\n・Status Conditions (Enemy)\n<sprite=\"tmp_icon\" index=395>Poison　HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness　Phys. type abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence　Mag. type abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue　When using Phys. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=385>Fog　When using Mag. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=392>Stun　Movement is restricted, and the stream phase will be stopped."
+      "En": "・Stat Changes (Stat Decreases)\n<sprite=\"tmp_icon\" index=388>Phys. Attack Down　Phys. Attack is decreased.\n<sprite=\"tmp_icon\" index=387>Phys. Defense Down　Phys. Defense is decreased.\n<sprite=\"tmp_icon\" index=390>Mag. Attack Down 　Mag. Attack is decreased.\n<sprite=\"tmp_icon\" index=389>Mag. Defense Down　Mag. Defense is decreased.\n\n・Stat Changes (Elemental Potency Down)\n<sprite=\"tmp_icon\" index=702>Fire Pot. Down　The damage of Fire abilities is decreased.\n<sprite=\"tmp_icon\" index=707>Ice Pot. Down　The damage of Ice abilities is decreased.\n<sprite=\"tmp_icon\" index=706>Lightning Pot. Down　The damage of Lightning abilities is decreased.\n<sprite=\"tmp_icon\" index=703>Earth Pot. Down　The damage of Earth abilities is decreased.\n<sprite=\"tmp_icon\" index=705>Water Pot. Down　The damage of Water abilities is decreased.\n<sprite=\"tmp_icon\" index=694>Wind Pot. Down　The damage of Wind abilities is decreased.\n\n・Stat Changes (Resist. Down)\n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down　Phys. type damage taken is increased.\n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down　Mag. type damage taken is increased.\n\n・Stat Changes (Elemental Resist. Down)\n<sprite=\"tmp_icon\" index=686>Fire Resist. Down　Damage taken from Fire abilities is increased.\n<sprite=\"tmp_icon\" index=684>Ice Resist. Down　Damage taken from Ice abilities is increased.\n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down　Damage taken from Lightning abilities is increased.\n<sprite=\"tmp_icon\" index=687>Earth Resist. Down 　Damage taken from Earth abilities is increased.\n<sprite=\"tmp_icon\" index=682>Water Resist. Down　Damage taken from Water abilities is increased.\n<sprite=\"tmp_icon\" index=681>Wind Resist. Down　Damage taken from Wind abilities is increased.\n\n・Status Conditions (Character)\n<sprite=\"tmp_icon\" index=395>Poison　HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness　Phys. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence　Mag. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue　When using Phys. type C. Abilities, the amount of ATB gauge consumed \nwill be increased.\n<sprite=\"tmp_icon\" index=385>Fog　When using Mag. type C. Abilities, the amount of ATB gauge consumed will \nbe increased.\n<sprite=\"tmp_icon\" index=392>Stun　Movement is restricted, and the ATB gauge will not increase.\n<sprite=\"tmp_icon\" index=394>Sadness　The Limit/Summon gauges become harder to fill up.\n\n・Status Conditions (Enemy)\n<sprite=\"tmp_icon\" index=395>Poison　HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness　Phys. type abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence　Mag. type abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue　When using Phys. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=385>Fog　When using Mag. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=392>Stun　Movement is restricted, and the stream phase will be stopped."
     },
     "HelpId": 513,
     "OrderNo": 7,
@@ -1617,7 +1617,7 @@
     },
     "Description": {
       "Ja": "<color=#95C7FF>ランダムにプレイヤーとマッチング</color>ができます。\n\nマッチングするには、挑戦したいバトルを選択し\n<color=#95C7FF>「マッチング ランダム」</color>を選択します。\n\n同じバトルに挑戦したい他のプレイヤーを待って、\n3人揃うとマッチングができます。\n全員が「準備完了」を選択することで、バトルに出発します。",
-      "En": "<color=#95C7FF>Match with players randomly</color> from across the globe.\n\nTo match with other players,\nselect the battle you want to challenge and choose <color=#95C7FF> Random Match</color>.\n\nWait for other players who want to take on the same battle,\nand when three players are gathered, you can start the match. \nAll players must select Ready in order to start the battle."
+      "En": "<color=#95C7FF>Match with players randomly</color> from across the globe.\n\nTo match with other players,\nselect the battle you want to challenge and choose <color=#95C7FF>Random Match</color>.\n\nWait for other players who want to take on the same battle,\nand when three players are gathered, you can start the match. \nAll players must select Ready in order to start the battle."
     },
     "HelpId": 702,
     "OrderNo": 3,
@@ -1687,7 +1687,7 @@
     },
     "Description": {
       "Ja": "マルチバトルでは、戦闘不能になったキャラクターを復活させる\n<color=#95C7FF>「レイズ」</color>を使用できます。\n\n戦闘不能のキャラクターがいる場合、レイズのボタンが表示されます。\nレイズは、各プレイヤーが<color=#95C7FF>他のプレイヤーキャラクターに対して\n1回ずつ使用</color>できますが、\nレイズを受けて<color=#95C7FF>復活できるのは1人1回</color>のみです。\n\nレイズの使用には、通常のCアビリティと同様にATBを消費する必要があります。",
-      "En": "In Co-op Battles, you can use <color=#95C7FF>Raise</color> to revive characters that have become incapacitated.\n\n\nIf a character on your team becomes incapacitated, the <color=#95C7FF>Raise</color> button will be displayed. \nEach player can use <color=#95C7FF>Raise</color> once on another player's character, \nbut a character can only be revived once with a <color=#95C7FF>Raise</color>.\n\nUsing <color=#95C7FF>Raise</color> will consume ATB, just like a C. Ability."
+      "En": "In Co-op Battles, you can use <color=#95C7FF>Raise</color> to revive characters that have become incapacitated.\n\nIf a character on your team becomes incapacitated, the <color=#95C7FF>Raise</color> button will be displayed. \nEach player can use <color=#95C7FF>Raise</color> once on another player's character, \nbut a character can only be revived once with a <color=#95C7FF>Raise</color>.\n\nUsing <color=#95C7FF>Raise</color> will consume ATB, just like a C. Ability."
     },
     "HelpId": 705,
     "OrderNo": 1,
@@ -1995,7 +1995,7 @@
     },
     "Description": {
       "Ja": "<color=#95C7FF>「新武器PUガチャ」</color>では<color=#95C7FF>「10回引く」ボタンをタップ</color>すると、\n抽選演出が発生してスタンプシートにスタンプが押されます。\nスタンプが押されると、<color=#95C7FF>そのマスの報酬を獲得</color>できます。\n※スタンプの獲得率はガチャ画面にて新武器PUガチャ詳細をご確認ください。",
-      "En": "In a <color=#95C7FF>New Weapon Featured Draw</color>, \nwhen you tap the <color=#95C7FF>'Draw 10 times'</color> button, \na lottery animation will occur and a stamp will be pressed onto your Stamp card. \nWhen a stamp is selected, you can <color=#95C7FF>obtain the reward of that square</color>.\n \n*Please check the Stamp Draw details on the draw screen for the acquisition rate of Stamps."
+      "En": "In a <color=#95C7FF>New Weapon Featured Draw</color>, \nwhen you tap the <color=#95C7FF>'Draw 10 times'</color> button, \na lottery animation will occur and a stamp will be pressed onto your Stamp Card. \nWhen a stamp is selected, you can <color=#95C7FF>obtain the reward of that square</color>.\n \n*Please check the New Weapon Featured Draw details on the draw screen for the \nacquisition rate of Stamps."
     },
     "HelpId": 1101,
     "OrderNo": 1,
@@ -2037,7 +2037,7 @@
     },
     "Description": {
       "Ja": "ガチャで獲得した武器をすでに所持している場合、\nその武器は武器保管庫に送られます。\n\n所持している武器よりもレアリティが高いものを獲得した場合は\n武器のレアリティアップとなり、それまでのレアリティのものが武器保管庫に入ります。",
-      "En": "If you already possess a weapon that you obtained from Draws,\nthat weapon will be sent to the weapon storage.\n\nIf you obtain a weapon with a higher rarity than the one you already possess, \nthe rarity of the weapon will increase,\nand the previous rarity version will be placed in the Armory."
+      "En": "If you already possess a weapon that you obtained from Draws,\nthat weapon will be sent to the Armory.\n\nIf you obtain a weapon with a higher rarity than the one you already possess, \nthe rarity of the weapon will increase,\nand the weapon of lower rarity will be placed in the Armory."
     },
     "HelpId": 1103,
     "OrderNo": 1,
@@ -2149,7 +2149,7 @@
     },
     "Description": {
       "Ja": "チョコボをキャラクターと共に<color=#95C7FF>遠征地へ探索</color>に出すことによって、\n<color=#95C7FF>アイテムやキャラクター経験値を獲得</color>できます。\n\n遠征開始後、報酬回収までは時間経過が必要です。\n回収時間や最大回収数はチョコボのステータスによって決まります。",
-      "En": "By sending Chocobos along with characters on expeditions to <color=#95C7FF>Expedition Areas</color>, \nyou can <color=#95C7FF>obtain items and Character EXP</color>.\n\nAfter Departing for an expedition, it takes time for collected rewards to be obtained.\nThe collection time and maximum collection count are determined by the Chocobo's stats."
+      "En": "By sending Chocobos along with characters on expeditions to <color=#95C7FF>Expedition Areas</color>, \nyou can <color=#95C7FF>obtain items and Character EXP</color>.\n\nAfter departing for an expedition, it takes time for rewards to be obtained.\nThe collection time and maximum collection count are determined by the Chocobo's stats."
     },
     "HelpId": 1302,
     "OrderNo": 1,
@@ -2219,7 +2219,7 @@
     },
     "Description": {
       "Ja": "チョコ房にいるチョコボを保護状態にすると、引退させることができなくなります。",
-      "En": "If you Favorite a Chocobo in the Chocobo Stable, you will not be able to retire it."
+      "En": "If you Protect a Chocobo in the Chocobo Stable, you will not be able to retire it."
     },
     "HelpId": 1303,
     "OrderNo": 3,
@@ -2443,7 +2443,7 @@
     },
     "Description": {
       "Ja": "シーズンパスでは、\n<color=#95C7FF>「探索」</color>を達成することで様々な報酬を獲得できます。",
-      "En": "With the Season Pass, you can earn various rewards by achieving <color=#95C7FF>Exploration</color>."
+      "En": "With the Season Pass, you can earn various rewards by completing <color=#95C7FF>Explorations</color>."
     },
     "HelpId": 1701,
     "OrderNo": 1,
@@ -2471,7 +2471,7 @@
     },
     "Description": {
       "Ja": "探索が一定まで進行することで<color=#95C7FF>探索Lvが上昇</color>します。\n\n探索Lvが上昇することで、その<color=#95C7FF>Lvごとに報酬を獲得</color>できます。\n※探索Lvが上昇した後、シーズンパス画面から受取を行うことで獲得します。",
-      "En": "Your <color=#95C7FF>Exploration Lv increases</color> as you progress in the exploration.\n\nWith each increase in <color=#95C7FF>Exploration Lv</color>, you can <color=#95C7FF>obtain rewards</color> corresponding to that level.\n*After your Exploration Lv increases, \nyou can claim the rewards from the Season Pass screen."
+      "En": "Your <color=#95C7FF>Exploration Lv increases</color> as you progress in the Exploration.\n\nWith each increase in <color=#95C7FF>Exploration Lv</color>, you can <color=#95C7FF>obtain rewards</color> corresponding to that level.\n*After your Exploration Lv increases, \nyou can claim the rewards from the Season Pass screen."
     },
     "HelpId": 1701,
     "OrderNo": 3,
@@ -2485,7 +2485,7 @@
     },
     "Description": {
       "Ja": "探索Lvはレッドクリスタル／ブルークリスタルを消費して上昇させることもできます。\nこのとき最大探索Lvに達した場合、余剰分の探索ptは破棄されます。",
-      "En": "You can also increase your Exploration Lv. by using Red Crystals/Blue Crystals. \nIf you reach the maximum Exploration Lv. at this time,\nthe surplus exploration points will be discarded."
+      "En": "You can also increase your Exploration Lv. by using Red Crystals/Blue Crystals. \nIf you reach the maximum Exploration Lv. in this manner,\nany surplus Exploration points will be discarded."
     },
     "HelpId": 1701,
     "OrderNo": 4,
@@ -2555,7 +2555,7 @@
     },
     "Description": {
       "Ja": "シーズンパスは、<color=#95C7FF>一定期間ごとにシーズン</color>が区切られています。\n終了したシーズンパスは探索の達成ができなくなります。\n\nすでに探索を達成している報酬は次のシーズンパスまでの期間中、\n受け取れます。",
-      "En": "Season Pass is divided into <color=#95C7FF>seasons</color> at regular intervals. \nOnce the season pass ends, you can no longer achieve exploration.\n\nRewards for explorations that have already been achieved can be received during the period\nuntil the next season pass."
+      "En": "Season Pass is divided into <color=#95C7FF>seasons</color> at regular intervals. \nOnce the season pass ends, you can no longer complete explorations.\n\nRewards for explorations that have already been completed can be received during the period\nuntil the next season pass."
     },
     "HelpId": 1704,
     "OrderNo": 1,
@@ -2569,7 +2569,7 @@
     },
     "Description": {
       "Ja": "次のシーズンパスが始まった時に前回のシーズンパス報酬が未受取だった場合、\n受取可能だった報酬は全て自動で「プレゼントボックス」へ送られます。\n\nまた、この際に選択報酬が未選択だった場合には、\n選択できる報酬の中から自動で抽選したものが「プレゼントボックス」へ送られます。",
-      "En": "When the next Season Pass starts, if the rewards from the previous Season Pass have not\nbeen claimed, \nall the available rewards will be automatically sent to the Gift Box.\n\nIf there were any unselected choice rewards, \na reward will be automatically chosen from the available rewards and sent to the Gift Box."
+      "En": "When the next Season Pass starts, if the rewards from the previous Season Pass have not\nbeen claimed, all the available rewards will be automatically sent to the Gift Box.\n\nIf there were any unselected choice rewards, \na reward will be automatically chosen from the available rewards and sent to the Gift Box."
     },
     "HelpId": 1704,
     "OrderNo": 2,

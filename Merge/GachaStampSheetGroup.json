@@ -91,5 +91,36 @@
     "DisplayConditionSetId": 170000010005,
     "GachaStampLotGroupId": 1,
     "ResourceId": 5
+  },
+  {
+    "Id": 10006,
+    "Title": {
+      "Ja": "セフィロス・ルティアスタンプシート",
+      "En": "Sephiroth & Lucia Stamp Card"
+    },
+    "DescriptionTemplate": {
+      "Ja": "新武器PUガチャには特定の武器を選択し、ウィッシュリストに登録することが出来ます。\nウィッシュリストとは選択された武器の<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>排出率が上がる機能です。\n※選択された武器以外も出現いたします。\n<color=#FF9292>※ウィッシュリストの設定は、他新武器PUガチャで引き継がれません。</color>",
+      "En": "New Weapon Featured Draw have a wishlist to which you can add certain weapons of your choice. The wishlist increases your odds of obtaining a <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> weapon from that list. \n*Draws may also yield weapons that are not in your wishlist.\n<color=#FF9292>*WishList settings will not be transferred to other New Weapon Featured Draw.</color>"
+    },
+    "LotRatio": {
+      "Ja": "「10回引く」ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "Draws are based on probabilities."
+    },
+    "Stamp": {
+      "Ja": "スタンプシートでは、スタンプが押される毎に報酬や特典が得られます。\nスタンプが押される数は毎回抽選になっており、スタンプ個数の提供割合に基づき、1~12個押されます。\n※スタンプは「10回引く」を実行したときのみ押されます。「1回引く」を行ってもスタンプは押されません。\n\n報酬の詳細に関しては、ガチャページのスタンプシートよりご確認ください。",
+      "En": "With the stamp card, you'll receive a reward or bonus for every stamp obtained. You can obtain up to twelve stamps at once based on probabilities.\n*Stamps can be obtained through \"Draw 10.\" Stamps cannot be obtained through \"Draw 1.\"\n\nTo view reward details, check out the stamp card on the Draws page."
+    },
+    "Complement": {
+      "Ja": "・スタンプシートの内容は予告なく変更する場合があります。",
+      "En": " - Stamp card content may change without notice."
+    },
+    "Pickup": {
+      "Ja": "※スタンプで得られる報酬の一部を表示しております",
+      "En": "*These are some of the rewards that can be acquired by obtaining stamps."
+    },
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010006,
+    "GachaStampLotGroupId": 1,
+    "ResourceId": 6
   }
 ]

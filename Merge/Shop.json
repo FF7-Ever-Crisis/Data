@@ -208,6 +208,32 @@
     "ShopEmptyBehaviorType": 1
   },
   {
+    "Id": 101010,
+    "Name": {
+      "Ja": "新チャプター\n公開記念",
+      "En": "New Chapter Release"
+    },
+    "ShopGroupId": 101,
+    "DisplayConditionSetId": 330000101010,
+    "LockConditionSetId": 0,
+    "OrderNo": 30,
+    "ShopDisplayType": 1,
+    "DisplayCurrencyType": 0,
+    "DisplayCurrencyItemId": 0,
+    "ShopLineupId": 0,
+    "CanLineupReset": false,
+    "MaxLineupResetCount": 0,
+    "ResourceId": 0,
+    "LineupResetId": 0,
+    "MaxLineupResetId": 0,
+    "CanFilter": false,
+    "HasBanner": false,
+    "PickupCharacterCostumeId0": 0,
+    "PickupCharacterCostumeId1": 0,
+    "PickupCharacterCostumeId2": 0,
+    "ShopEmptyBehaviorType": 1
+  },
+  {
     "Id": 205001,
     "Name": {
       "Ja": "クライシスメダル",
@@ -581,6 +607,32 @@
     "DisplayConditionSetId": 0,
     "LockConditionSetId": 0,
     "OrderNo": 6,
+    "ShopDisplayType": 4,
+    "DisplayCurrencyType": 2,
+    "DisplayCurrencyItemId": 22,
+    "ShopLineupId": 0,
+    "CanLineupReset": false,
+    "MaxLineupResetCount": 0,
+    "ResourceId": 0,
+    "LineupResetId": 0,
+    "MaxLineupResetId": 0,
+    "CanFilter": false,
+    "HasBanner": false,
+    "PickupCharacterCostumeId0": 0,
+    "PickupCharacterCostumeId1": 0,
+    "PickupCharacterCostumeId2": 0,
+    "ShopEmptyBehaviorType": 0
+  },
+  {
+    "Id": 302049,
+    "Name": {
+      "Ja": "セフィロス",
+      "En": "Sephiroth"
+    },
+    "ShopGroupId": 302,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "OrderNo": 10,
     "ShopDisplayType": 4,
     "DisplayCurrencyType": 2,
     "DisplayCurrencyItemId": 22,

@@ -293,7 +293,7 @@
     },
     "Description": {
       "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「育成・強化交換所」</color>で使用できます。",
-      "En": "Traded for items at the <command_color=common_03>Enhancement Exch.</color>."
+      "En": "Traded for items at the <command_color=common_03>Enhancement Exch.</color>"
     },
     "ItemType": 20,
     "ItemRarityType": 3,
@@ -638,6 +638,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1049,
+    "Name": {
+      "Ja": "セフィロス専用ウェポンパーツ",
+      "En": "Sephiroth-Specific Weapon Part"
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「セフィロス」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Sephiroth's weapons</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1050,
     "Name": {
       "Ja": "グレン専用ウェポンパーツ",
@@ -827,6 +849,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 2020,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2049,
+    "Name": {
+      "Ja": "セフィロスのメモリー",
+      "En": "Sephiroth's Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「セフィロス」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Sephiroth's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2049,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -3768,8 +3812,8 @@
       "En": "FS Wpn. Guaranteed Draw Ticket"
     },
     "Description": {
-      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS武器確定チケットガチャ」</color>で使用できます。",
-      "En": "Used for <command_color=common_03>FS - Guaranteed Weapon Ticket Draw</color>."
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS武器確定チケットガチャ」</color>で使用できます。\n\n※本チケットで引けるガチャからはセフィロス専用武器は出現いたしません。",
+      "En": "Used for <command_color=common_03>FS - Guaranteed Weapon Ticket Draw</color>.\n\n*No Sephiroth-Exclusive weapons will appear in the draw with this ticket."
     },
     "ItemType": 20,
     "ItemRarityType": 4,
@@ -3922,13 +3966,57 @@
       "En": "FS 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
     },
     "Description": {
-      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
-      "En": "Used for <command_color=common_03>FS 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>."
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。\n\n※本チケットで引けるガチャからはセフィロス専用武器は出現いたしません。",
+      "En": "Used for <command_color=common_03>FS 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>.\n\n*No Sephiroth-Exclusive weapons will appear in the draw with this ticket."
     },
     "ItemType": 20,
     "ItemRarityType": 5,
     "MaxCapacity": 999,
     "ResourceId": 100020,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100024,
+    "Name": {
+      "Ja": "セフィロス武器確定ガチャチケット",
+      "En": "Sephiroth Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「セフィロス武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Sephiroth - Guaranteed Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 999,
+    "ResourceId": 100024,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100025,
+    "Name": {
+      "Ja": "セフィロス<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Sephiroth 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「セフィロス<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Sephiroth 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100025,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -5302,6 +5390,204 @@
     "OrderNo": 0
   },
   {
+    "Id": 1049001,
+    "Name": {
+      "Ja": "無銘・パーツ",
+      "En": "Nameless Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「無銘」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Nameless</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049002,
+    "Name": {
+      "Ja": "斬り羽・パーツ",
+      "En": "Edged Wings Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「斬り羽」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Edged Wings</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049003,
+    "Name": {
+      "Ja": "グライレイド・パーツ",
+      "En": "Glaireid Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「グライレイド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Glaireid</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049004,
+    "Name": {
+      "Ja": "青鈍・パーツ",
+      "En": "Aonibi Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「青鈍」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Aonibi</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049005,
+    "Name": {
+      "Ja": "ノーザンライツ・パーツ",
+      "En": "Northern Lights Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ノーザンライツ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Northern Lights</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049006,
+    "Name": {
+      "Ja": "試作・紅蓮太刀・パーツ",
+      "En": "Prototype Crimson Blade Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「試作・紅蓮太刀」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Prototype Crimson Blade</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049007,
+    "Name": {
+      "Ja": "ＣＣ合金刀・パーツ",
+      "En": "CC Alloy Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ＣＣ合金刀」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>CC Alloy Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049007,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049008,
+    "Name": {
+      "Ja": "ミスリル０式打ち刀・パーツ",
+      "En": "Mythril Type-0 Katana Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ミスリル０式打ち刀」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Mythril Type-0 Katana</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049009,
+    "Name": {
+      "Ja": "神羅刀壱号・パーツ",
+      "En": "Shinra Blade: Model I Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「神羅刀壱号」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Shinra Blade: Model I</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049009,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1050001,
     "Name": {
       "Ja": "マイスティーロ・パーツ",
@@ -5843,6 +6129,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1052007,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1052009,
+    "Name": {
+      "Ja": "ボルドイーグル・パーツ",
+      "En": "Bald Eagle Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ボルドイーグル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Bald Eagle</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1052009,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
