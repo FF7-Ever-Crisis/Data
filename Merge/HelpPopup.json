@@ -1423,5 +1423,35 @@
     "Seq": 2,
     "ResourceId": 3202,
     "ConditionSetId": 0
+  },
+  {
+    "Id": 10001,
+    "Title": {
+      "Ja": "CRASH BATTLEについて",
+      "En": "Crash Battles"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「CRASH BATTLE」</color>は超高難易度のステージです。\n1時間に挑戦できる回数に制限があるので、しっかり準備を整えてから挑みましょう。\n<command_color=common_02>※「CRASH BATTLE」では高速モードの使用はできません。</color>",
+      "En": "<command_color=common_03>Crash Battles</color> are extremely challenging stages. There is a limit to the number of attempts that can be made in an hour, so make sure to be prepared.\n<command_color=common_02>*Accelerated Mode cannot be used in Crash Battles.</color>"
+    },
+    "HelpPopupGroupId": 100,
+    "Seq": 1,
+    "ResourceId": 10001,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 10002,
+    "Title": {
+      "Ja": "フィーバーバトルについて",
+      "En": "Frenzy Battles"
+    },
+    "Description": {
+      "Ja": "CRASH BATTLEを一人でもクリアで、後日\n<command_color=common_03>プレイヤー全員に「フィーバーバトル」が開催</color>されます。\nクリア人数に応じて、フィーバーバトルで獲得できる報酬が豪華になります。",
+      "En": "If even one player clears a Crash Battle, <command_color=common_03>everyone will be able to participate in a Frenzy Battle</color> held at a later date. The more players that clear the battle, the better the rewards."
+    },
+    "HelpPopupGroupId": 100,
+    "Seq": 2,
+    "ResourceId": 10002,
+    "ConditionSetId": 0
   }
 ]

@@ -51,12 +51,27 @@
       "En": "Someone to Count On"
     },
     "Description": {
-      "Ja": "シーズンパス「トレジャーハント シーズン1」で入手するホーム背景です。",
+      "Ja": "シーズンパス「トレジャーハント シーズン1」で入手できるホーム背景です。",
       "En": "Wallpaper obtained through the season pass \"Treasure Hunts Season 1.\""
     },
     "DisplayConditionSetId": 0,
     "Weight": 1,
     "ResourceId": 10001,
+    "ItemRarityType": 5
+  },
+  {
+    "Id": 10002,
+    "Name": {
+      "Ja": "たった４人の神羅軍",
+      "En": "Four SOLDIERs of Shinra"
+    },
+    "Description": {
+      "Ja": "シーズンパス「トレジャーハント シーズン2」で入手できるホーム背景です。",
+      "En": "Wallpaper obtained through the season pass \"Treasure Hunts Season 2.\""
+    },
+    "DisplayConditionSetId": 0,
+    "Weight": 1,
+    "ResourceId": 10002,
     "ItemRarityType": 5
   },
   {
@@ -135,6 +150,21 @@
     "ItemRarityType": 5
   },
   {
+    "Id": 20006,
+    "Name": {
+      "Ja": "キラーアタイア",
+      "En": "Killer Attire"
+    },
+    "Description": {
+      "Ja": "ガチャで入手可能なマット専用武器「キラーホーネット」のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にすることで入手できるホーム背景です。",
+      "En": "Wallpaper obtained by increasing the rarity of Killer Hornet to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DisplayConditionSetId": 0,
+    "Weight": 1,
+    "ResourceId": 20006,
+    "ItemRarityType": 5
+  },
+  {
     "Id": 20007,
     "Name": {
       "Ja": "羽刃の修験装",
@@ -165,18 +195,78 @@
     "ItemRarityType": 5
   },
   {
+    "Id": 20009,
+    "Name": {
+      "Ja": "冥き天翔ける使者",
+      "En": "Dark Harbinger"
+    },
+    "Description": {
+      "Ja": "ガチャで入手可能なセフィロス専用武器「冥き飛翔」のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にすることで入手できるホーム背景です。",
+      "En": "Wallpaper obtained by increasing the rarity of Dark Heavens to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DisplayConditionSetId": 240000001025,
+    "Weight": 1,
+    "ResourceId": 20009,
+    "ItemRarityType": 5
+  },
+  {
+    "Id": 20010,
+    "Name": {
+      "Ja": "バンデージコート",
+      "En": "Bandaged Coat"
+    },
+    "Description": {
+      "Ja": "ガチャで入手可能なクラウド専用武器「バンデージソード」のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にすることで入手できるホーム背景です。",
+      "En": "Wallpaper obtained by increasing the rarity of Bandaged Sword to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DisplayConditionSetId": 240000049015,
+    "Weight": 1,
+    "ResourceId": 20010,
+    "ItemRarityType": 5
+  },
+  {
+    "Id": 20017,
+    "Name": {
+      "Ja": "プリズムドレス",
+      "En": "Prism Dress"
+    },
+    "Description": {
+      "Ja": "ガチャで入手可能なエアリス専用武器「プリズムロッド」のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にすることで入手できるホーム背景です。",
+      "En": "Wallpaper obtained by increasing the rarity of Prism Rod to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DisplayConditionSetId": 0,
+    "Weight": 1,
+    "ResourceId": 20017,
+    "ItemRarityType": 5
+  },
+  {
     "Id": 30001,
     "Name": {
       "Ja": "熱闘！ヒュージメガスイカ防衛戦線",
       "En": "Beach Festival Fun!"
     },
     "Description": {
-      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線～渚のビーチフェス～」のイベントバトルでスタミナ1,000消費すると入手するホーム背景です。",
+      "Ja": "「熱闘！ヒュージメガスイカ防衛戦線～渚のビーチフェス～」のイベントバトルでスタミナ1,000消費すると入手できるホーム背景です。",
       "En": "Wallpaper obtained by consuming 1,000 stamina in event battles in \"Beach Festival Fun!\""
     },
     "DisplayConditionSetId": 0,
     "Weight": 1,
     "ResourceId": 30001,
+    "ItemRarityType": 4
+  },
+  {
+    "Id": 30002,
+    "Name": {
+      "Ja": "パンプキン・パーティー",
+      "En": "Pumpkin Fest"
+    },
+    "Description": {
+      "Ja": "「パンプキン・パーティー　冥き夜に集う妖魔」で入手できるホーム背景です。",
+      "En": "Wallpaper obtained through \"Pumpkin Fest: Where Darkness Gathers.\""
+    },
+    "DisplayConditionSetId": 680000030002,
+    "Weight": 1,
+    "ResourceId": 30002,
     "ItemRarityType": 4
   }
 ]

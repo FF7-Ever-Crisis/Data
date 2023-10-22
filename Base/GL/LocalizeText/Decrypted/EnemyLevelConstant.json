@@ -266,11 +266,11 @@
         },
         {
             "id": 130000002040001,
-            "value": "en_無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。"
+            "value": "Immunities: None\n\nUses <color=#D9DA59>Scavenge</color> to unleash abilities based on what it consumes."
         },
         {
             "id": 130000002040101,
-            "value": "en_無効：なし\n\n[<color=#D9DA59>ひろい食い</color>] で食べた物に応じて異なるアビリティを使用する。"
+            "value": "Immunities: None\n\nUses <color=#D9DA59>Scavenge</color> to unleash abilities based on what it consumes."
         },
         {
             "id": 130000002045001,
@@ -299,6 +299,14 @@
         {
             "id": 130000002051001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nFills <color=#95C7FF>Ramuh</color>'s Force Gauge: <color=#D9DA59>Lightning</color>."
+        },
+        {
+            "id": 130000002052001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=390>MATK Down</color> with <color=#D9DA59>Weary Breath</color>."
+        },
+        {
+            "id": 130000002052101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Dispiriting Breath</color>."
         },
         {
             "id": 130000002501001,
@@ -411,6 +419,14 @@
         {
             "id": 130000002530001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<color=#95C7FF>Lightning potency</color> changes based on Force Gauge: <color=#D9DA59>Lightning</color>. The gauge can be depleted with damage. During <color=#D9DA59>Stormcharge</color>, the gauge fills quickly."
+        },
+        {
+            "id": 130000002531001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>magic attacks</color>. Calls allies to battle, but after a certain amount of time, absorbs them to grant self <sprite=\"tmp_icon\" index=326><color=#95C7FF>MATK Up</color>. \n\n<color=#95C7FF>Wind-element abilities</color> are effective against its allies."
+        },
+        {
+            "id": 130000002531101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>magic attacks</color>. Grants self greater <color=#95C7FF>Physical Resistance and Magic Resistance</color> with <color=#D9DA59>Fortification</color>. <color=#D9DA59>Fortification</color> can be interrupted, or ended by <color=#95C7FF>depleting the HP of its summoned allies</color>.\n\n<color=#95C7FF>Wind-element and ice-element abilities</color> are effective against its allies."
         }
     ]
 }

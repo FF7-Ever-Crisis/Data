@@ -86,7 +86,7 @@
         },
         {
             "id": 240022,
-            "value": "Current Draw Ends:"
+            "value": "Victory Draw Ends:"
         },
         {
             "id": 240023,
@@ -94,7 +94,7 @@
         },
         {
             "id": 240024,
-            "value": "Draw"
+            "value": "Victory Draw"
         },
         {
             "id": 240025,
@@ -110,7 +110,7 @@
         },
         {
             "id": 240028,
-            "value": "Critical Threat"
+            "value": "Critical Threat Battle"
         },
         {
             "id": 240029,
@@ -278,7 +278,7 @@
         },
         {
             "id": 240070,
-            "value": "Spec. Rewards"
+            "value": "Victory Draw Ticket"
         },
         {
             "id": 240071,
@@ -334,7 +334,7 @@
         },
         {
             "id": 240084,
-            "value": "Rare Limited Prizes"
+            "value": "Jackpot Prizes"
         },
         {
             "id": 240085,
@@ -346,7 +346,7 @@
         },
         {
             "id": 240087,
-            "value": "Vanquish Token Draw"
+            "value": "Victory Draw"
         },
         {
             "id": 240088,
@@ -362,7 +362,7 @@
         },
         {
             "id": 240091,
-            "value": "*Rewards will be sent to your gift box if your inv. is full."
+            "value": "*Prizes will be sent to your gift box if your inv. is full."
         },
         {
             "id": 240092,
@@ -394,11 +394,11 @@
         },
         {
             "id": 241001,
-            "value": "Vanquish Token Draw"
+            "value": "Victory Draws"
         },
         {
             "id": 241002,
-            "value": "Use vanquish tokens obtained from events to obtain prizes."
+            "value": "Prizes can be obtained by using victory draw tickets that can be earned from the events currently being held."
         },
         {
             "id": 241003,
@@ -406,7 +406,7 @@
         },
         {
             "id": 241004,
-            "value": "There is a maximum amount of rare/limited prizes that can be obtained in each group.\\nUnlike regular draws, the appearance rate of not yet obtained rare/limited prizes increases per draw.\\n\\nStandard rewards have no limit on the number that can be obtained."
+            "value": "There is a limit to the number of jackpot prizes and limited prizes that can be obtained at the current level.\\nThere is no such limit for standard prizes.\\n\\nIn the Victory Draw, the prize category is first drawn according to the odds.\\nIf the jackpot or limited prizes are drawn, the odds within the jackpot or limited prizes are always divided equally according to the remaining number of prizes.\\nIf standard prizes are drawn, the odds within the standard prizes are divided equally according to the number of types of prizes."
         },
         {
             "id": 241005,
@@ -422,11 +422,11 @@
         },
         {
             "id": 241008,
-            "value": "Rare Prizes/Limited Prizes"
+            "value": "Jackpot Prizes/Limited Prizes"
         },
         {
             "id": 241009,
-            "value": "General Prizes"
+            "value": "Standard Prizes"
         },
         {
             "id": 241010,
@@ -434,43 +434,43 @@
         },
         {
             "id": 241011,
-            "value": "Prizes Group"
+            "value": "Leveling Up"
         },
         {
             "id": 241012,
-            "value": "By obtaining all rare prizes from a group, you can proceed to the next or continue to obtain prizes from that group. From group {0} onward, the lineup will automatically be refilled after obtaining all exclusive prizes."
+            "value": "Obtaining all jackpot prizes at the current level will unlock the next level. If no jackpot prizes are set, obtaining all limited prizes will unlock the next level. Even when all jackpot prizes and limited prizes have been obtained, you can continue to obtain prizes at the current level. The level will loop from level {0}, and the lineup will reset when all jackpot prizes or limited prizes have been obtained."
         },
         {
             "id": 241013,
-            "value": "0.95"
+            "value": "80.00%"
         },
         {
             "id": 241014,
-            "value": "0.05"
+            "value": "20.00%"
         },
         {
             "id": 242001,
-            "value": "Proceed to the next prizes group?"
+            "value": "Level up?"
         },
         {
             "id": 242002,
-            "value": "*You cannot return to the group, and prizes not yet claimed will be lost."
+            "value": "*You cannot go back to the previous level. Unobtained prizes will be lost."
         },
         {
             "id": 242003,
-            "value": "Refill"
+            "value": "Level Up"
         },
         {
             "id": 242004,
-            "value": "Group"
+            "value": "Level"
         },
         {
             "id": 242005,
-            "value": "Prize Group Confirmation"
+            "value": "Level Up"
         },
         {
             "id": 242006,
-            "value": "Prize group has progressed."
+            "value": "Leveled up."
         },
         {
             "id": 242007,
@@ -478,7 +478,7 @@
         },
         {
             "id": 242008,
-            "value": "All rare prizes have not yet been obtained."
+            "value": "Cannot level up until all jackpot prizes have been obtained."
         },
         {
             "id": 242009,
@@ -486,11 +486,11 @@
         },
         {
             "id": 242010,
-            "value": "Current Group:"
+            "value": "Level"
         },
         {
             "id": 242011,
-            "value": "Group {0}"
+            "value": "Level {0}"
         },
         {
             "id": 242012,
@@ -498,15 +498,15 @@
         },
         {
             "id": 242013,
-            "value": "Next Group"
+            "value": "Level Up"
         },
         {
             "id": 242014,
-            "value": "Rare Limited Prizes"
+            "value": "Jackpot Prizes"
         },
         {
             "id": 242015,
-            "value": "General Prizes"
+            "value": "Standard Prizes"
         },
         {
             "id": 242016,
@@ -546,7 +546,7 @@
         },
         {
             "id": 242025,
-            "value": "All prizes have not yet been obtained."
+            "value": "Not all limited prizes have been obtained."
         },
         {
             "id": 242026,
@@ -554,15 +554,15 @@
         },
         {
             "id": 242027,
-            "value": "Obtained all rare limited prizes.\\nThe prize group will be reset."
+            "value": "Obtained all jackpot prizes.\\nResetting level."
         },
         {
             "id": 242028,
-            "value": "Obtained all limited prizes.\\nThe prize group will be reset."
+            "value": "Obtained all limited prizes.\\nResetting level."
         },
         {
             "id": 242029,
-            "value": "Obtained all the rare/limited prizes.\\nThe prize group will be reset."
+            "value": "Obtained all jackpot prizes and limited prizes.\\nResetting level."
         },
         {
             "id": 242030,
@@ -570,7 +570,7 @@
         },
         {
             "id": 242031,
-            "value": "All the rare/limited prizes have not yet been obtained."
+            "value": "Not all jackpot prizes and limited prizes have been obtained."
         },
         {
             "id": 242032,
@@ -618,7 +618,7 @@
         },
         {
             "id": 242043,
-            "value": "Insufficient attempts available."
+            "value": "No attempts left."
         },
         {
             "id": 242044,
@@ -666,7 +666,7 @@
         },
         {
             "id": 242055,
-            "value": "Prize Group Reset"
+            "value": "Level Up"
         },
         {
             "id": 242056,
@@ -686,7 +686,7 @@
         },
         {
             "id": 242117,
-            "value": "Calculation Period:"
+            "value": "Calculation Period: {0}"
         },
         {
             "id": 242118,
@@ -694,11 +694,23 @@
         },
         {
             "id": 242119,
-            "value": "En高難度<command_color=emphasis>【CRASH】</color>に挑戦できるようになりました"
+            "value": "You can now attempt the high-difficulty challenge <command_color=emphasis>Crash</color>."
         },
         {
             "id": 242120,
-            "value": "EnCRASH解放"
+            "value": "Crash unlocked."
+        },
+        {
+            "id": 242121,
+            "value": "Obtained ({0}/{1})"
+        },
+        {
+            "id": 242122,
+            "value": "No attempts left."
+        },
+        {
+            "id": 242132,
+            "value": "Crash Battle"
         }
     ]
 }
