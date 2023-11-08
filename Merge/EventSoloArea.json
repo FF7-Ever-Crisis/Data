@@ -1,5 +1,17 @@
 [
   {
+    "Id": 2002,
+    "Name": {
+      "Ja": "鉄巨人",
+      "En": "Iron Giant"
+    },
+    "EventSoloAreaGroupId": 2002,
+    "OrderNo": 1,
+    "ResourceId": 2002,
+    "DisplayConditionSetId": 611000002002,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 3001,
     "Name": {
       "Ja": "",
@@ -36,12 +48,36 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 5005,
+    "Name": {
+      "Ja": "セフィロス降臨",
+      "En": "Sephiroth - The Arrival"
+    },
+    "EventSoloAreaGroupId": 5005,
+    "OrderNo": 1,
+    "ResourceId": 100000,
+    "DisplayConditionSetId": 611000005005,
+    "LockConditionSetId": 612000005005
+  },
+  {
     "Id": 70010101,
     "Name": {
       "Ja": "",
       "En": ""
     },
     "EventSoloAreaGroupId": 700101,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 70020101,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventSoloAreaGroupId": 700201,
     "OrderNo": 1,
     "ResourceId": 0,
     "DisplayConditionSetId": 0,

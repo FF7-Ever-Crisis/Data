@@ -345,6 +345,10 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down\n \nUses many <color=#95C7FF>fire-element magic attacks</color> including <color=#D9DA59>Red Dragon Screech</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Breath</color>."
         },
         {
+            "id": 130000002509001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nHas extremely high physical attack, and uses many <color=#95C7FF>physical attacks</color>. Becomes incapacitated for a certain amount of time when <color=#95C7FF><sprite=\"tmp_icon\" index=323>PDEF Up</color>—the buff granted by <color=#D9DA59>Mighty Guard</color>—is removed.\n\n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+        },
+        {
             "id": 130000002509101,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Bravery</color>, and subsequently uses many <color=#95C7FF>physical attacks</color>. Has high elemental resistance and reduces damage of <color=#95C7FF>all elemental attacks</color>."
         },
@@ -401,6 +405,10 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nFrequently grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Furious Tantrum</color>. <color=#95C7FF>Counters magic attacks</color> during <color=#D9DA59>Alert</color>.\n \nPhysical attacks</color> are effective during <color=#D9DA59>Alert</color>."
         },
         {
+            "id": 130000002521101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nFrequently inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> with group attacks. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up<color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> on self during <color=#D9DA59>Rampage</color>.\n\n<color=#95C7FF>Wind-element abilities</color> are effective against this enemy."
+        },
+        {
             "id": 130000002523001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nInflicts <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> with <color=#D9DA59>Tear Gas Bomb</color>, and subsequently uses the fire-element magic attack <color=#D9DA59>Blazing Ray</color>.\n \n<color=#89D9FF>Magic attacks</color> are effective against this enemy."
         },
@@ -426,7 +434,7 @@
         },
         {
             "id": 130000002531101,
-            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>magic attacks</color>. Grants self greater <color=#95C7FF>Physical Resistance and Magic Resistance</color> with <color=#D9DA59>Fortification</color>. <color=#D9DA59>Fortification</color> can be interrupted, or ended by <color=#95C7FF>depleting the HP of its summoned allies</color>.\n\n<color=#95C7FF>Wind-element and ice-element abilities</color> are effective against its allies."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>magic attacks</color>. Grants self greater <color=#95C7FF>Physical Resistance and Magic Resistance</color> with <color=#D9DA59>Fortification</color>.  <color=#D9DA59>Fortification</color> can be removed by interrupting the enemy or <color=#95C7FF>depleting the HP of its summoned allies</color>.\n\n<color=#95C7FF>Wind-element abilities</color> are effective against its allies."
         }
     ]
 }
