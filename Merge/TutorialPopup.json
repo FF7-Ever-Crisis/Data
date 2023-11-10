@@ -2315,6 +2315,19 @@
   },
   {
     "Title": {
+      "Ja": "フリーズロック",
+      "En": "Freezelock"
+    },
+    "Description": {
+      "Ja": "キャラクター1人を拘束し、「<command_color=common_03>行動不能</color>」にします。\n行動不能中は<command_color=common_03>アビリティの使用が行えず、ATBゲージもたまりません</color>。\n行動不能はキャラクターが使用するアビリティでは解除することができず、\n<command_color=common_03>ストリームフェイズが終了するか、特定の攻撃を受けると同時に解除</color>されます。",
+      "En": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
+    },
+    "TutorialPopupGroupId": 300000010,
+    "Seq": 1,
+    "ResourceId": 3000000101
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「CHARGE」",
       "En": "Force Gauge: Charge"
     },
@@ -2377,5 +2390,18 @@
     "TutorialPopupGroupId": 310000005,
     "Seq": 1,
     "ResourceId": 3100000051
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「FLYING」",
+      "En": "Force Gauge: Flying"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>魔法のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると、敵の<command_color=common_03>物理耐性を解除</color>し、\nさらに<command_color=common_03>物防を大きく下げる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing magic damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy's <command_color=common_03>Physical Resistance will be lost</color> and their <command_color=common_03>PDEF greatly reduced</color>."
+    },
+    "TutorialPopupGroupId": 310000007,
+    "Seq": 1,
+    "ResourceId": 3100000071
   }
 ]

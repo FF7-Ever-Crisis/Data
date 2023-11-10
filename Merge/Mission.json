@@ -1110,6 +1110,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 110001029,
+    "NameTemplate": {
+      "Ja": "ジタンソードのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Zidane's Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ジタンソードのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Zidane's Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 15,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 1029,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 112,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000001029,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110002018,
     "NameTemplate": {
       "Ja": "ヘビーハウザーのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -1161,6 +1191,36 @@
     "OrderNo": 101,
     "BonusPoint": 0,
     "DisplayConditionSetId": 240000003019,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 110003027,
+    "NameTemplate": {
+      "Ja": "サラマンダークローのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Amarant's Claws's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "サラマンダークローのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Amarant's Claws's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 3027,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 113,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000003027,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 38,
@@ -9600,6 +9660,156 @@
     "IsRefresh": false
   },
   {
+    "Id": 500009001,
+    "NameTemplate": {
+      "Ja": "イベントのシングルバトルを{0}回クリアする。",
+      "En": "Clear Solo battle in Event {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのシングルバトルを{0}回クリアする。",
+      "En": "Clear Solo battle in Event {0} time(s)."
+    },
+    "MissionSetId": 500013,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 106,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 0,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500009001,
+    "OpenConditionSetId": 240500009001,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500009002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500013,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500009001,
+    "OpenConditionSetId": 240500009001,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500009003,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 500013,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500009001,
+    "OpenConditionSetId": 240500009001,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500009004,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 500013,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500009001,
+    "OpenConditionSetId": 240500009001,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500009005,
+    "NameTemplate": {
+      "Ja": "任意の武器強化クエストを{0}回クリアする。",
+      "En": "Clear weapon enhancement quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器強化クエストを{0}回クリアする。",
+      "En": "Clear weapon enhancement quests {0} time(s)."
+    },
+    "MissionSetId": 500013,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500009001,
+    "OpenConditionSetId": 240500009001,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 600011001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -9623,7 +9833,7 @@
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
-    "TransitionType": 0,
+    "TransitionType": 1,
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
@@ -9953,8 +10163,8 @@
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
-    "TransitionType": 34,
-    "TransitionId": 2,
+    "TransitionType": 1,
+    "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
@@ -10043,7 +10253,7 @@
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
-    "TransitionType": 0,
+    "TransitionType": 1,
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
@@ -10373,8 +10583,8 @@
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
-    "TransitionType": 34,
-    "TransitionId": 2,
+    "TransitionType": 1,
+    "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
@@ -10463,7 +10673,7 @@
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
-    "TransitionType": 0,
+    "TransitionType": 1,
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
@@ -10793,8 +11003,8 @@
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
-    "TransitionType": 34,
-    "TransitionId": 2,
+    "TransitionType": 1,
+    "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
@@ -17252,11 +17462,11 @@
   {
     "Id": 1203005001,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 1203005,
@@ -17282,11 +17492,11 @@
   {
     "Id": 1203005002,
     "NameTemplate": {
-      "Ja": "任意のマルチバトルでスタミナ{0}消費する。",
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in Co-op battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のマルチバトルでスタミナ{0}消費する。",
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in Co-op battle."
     },
     "MissionSetId": 1203005,
@@ -17402,11 +17612,11 @@
   {
     "Id": 1203006001,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 1203006,
@@ -17432,11 +17642,11 @@
   {
     "Id": 1203006002,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 1203006,
@@ -17462,11 +17672,11 @@
   {
     "Id": 1203006003,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 1203006,
@@ -17492,11 +17702,11 @@
   {
     "Id": 1203006004,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 1203006,
@@ -17550,13 +17760,823 @@
     "IsRefresh": false
   },
   {
-    "Id": 120200201001,
+    "Id": 1700001001,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001002,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001003,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001004,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001005,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001006,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001007,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001008,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700001009,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700001,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002001,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002002,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002003,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002004,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002005,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002006,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002007,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002008,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700002009,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700002,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003001,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003002,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003003,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003004,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003005,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003006,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003007,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003008,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 1700003009,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 1700003,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200201001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 120200201,
@@ -17582,11 +18602,11 @@
   {
     "Id": 120200201002,
     "NameTemplate": {
-      "Ja": "任意のマルチバトルでスタミナ{0}消費する。",
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in Co-op battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のマルチバトルでスタミナ{0}消費する。",
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in Co-op battle."
     },
     "MissionSetId": 120200201,
@@ -17702,11 +18722,11 @@
   {
     "Id": 120200202001,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 120200202,
@@ -17732,11 +18752,11 @@
   {
     "Id": 120200202002,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 120200202,
@@ -17762,11 +18782,11 @@
   {
     "Id": 120200202003,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 120200202,
@@ -17792,11 +18812,11 @@
   {
     "Id": 120200202004,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 120200202,
@@ -17912,11 +18932,11 @@
   {
     "Id": 120300201000,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 120300201,
@@ -18242,11 +19262,11 @@
   {
     "Id": 120300201013,
     "NameTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のバトルでスタミナ{0}消費する。",
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in any battle."
     },
     "MissionSetId": 120300201,
@@ -18272,11 +19292,11 @@
   {
     "Id": 120300201014,
     "NameTemplate": {
-      "Ja": "任意のマルチバトルでスタミナ{0}消費する。",
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in Co-op battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のマルチバトルでスタミナ{0}消費する。",
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
       "En": "Consume {0} stamina in Co-op battle."
     },
     "MissionSetId": 120300201,
@@ -18565,6 +19585,276 @@
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 3002,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300301001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300301011,
+    "NameTemplate": {
+      "Ja": "「世界に響く黒のワルツ」のプロローグを見る。",
+      "En": "Watch the prologue of \"A Resonant Waltz\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「世界に響く黒のワルツ」のプロローグを見る。",
+      "En": "Watch the prologue of \"A Resonant Waltz\""
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 131000300301,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300301021,
+    "NameTemplate": {
+      "Ja": "ビビの魔銃をLv.{0}に武器強化する。",
+      "En": "Raise the Vivi's Magical Gun to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ビビの魔銃をLv.{0}に武器強化する。",
+      "En": "Raise the Vivi's Magical Gun to Lv. {0}."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 21,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 52021,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300301031,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 31,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300301032,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 32,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300301033,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 33,
+    "AutoMissionCountType": 1,
+    "MissionType": 52,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300302001,
+    "NameTemplate": {
+      "Ja": "ペリドットを{0}個取得する。",
+      "En": "Obtain {0} Peridot(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ペリドットを{0}個取得する。",
+      "En": "Obtain {0} Peridot(s)."
+    },
+    "MissionSetId": 120300302,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 37,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300302002,
+    "NameTemplate": {
+      "Ja": "ペリドットを{0}個取得する。",
+      "En": "Obtain {0} Peridot(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ペリドットを{0}個取得する。",
+      "En": "Obtain {0} Peridot(s)."
+    },
+    "MissionSetId": 120300302,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 37,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300302003,
+    "NameTemplate": {
+      "Ja": "ペリドットを{0}個取得する。",
+      "En": "Obtain {0} Peridot(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ペリドットを{0}個取得する。",
+      "En": "Obtain {0} Peridot(s)."
+    },
+    "MissionSetId": 120300302,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 37,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300000,
+    "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false

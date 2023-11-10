@@ -12,8 +12,8 @@
     "StartDatetime": "2023-09-11T02:00:00",
     "EndDatetime": "2023-09-18T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 1002,
@@ -28,8 +28,8 @@
     "StartDatetime": "2023-09-18T02:00:00",
     "EndDatetime": "2023-09-25T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 1003,
@@ -44,8 +44,8 @@
     "StartDatetime": "2023-10-23T02:00:00",
     "EndDatetime": "2023-10-30T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 1004,
@@ -60,8 +60,8 @@
     "StartDatetime": "2023-10-09T02:00:00",
     "EndDatetime": "2023-10-16T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 1005,
@@ -76,8 +76,8 @@
     "StartDatetime": "2023-10-30T02:00:00",
     "EndDatetime": "2023-11-06T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 1006,
@@ -92,8 +92,24 @@
     "StartDatetime": "2023-11-06T02:00:00",
     "EndDatetime": "2023-11-13T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
+  },
+  {
+    "Id": 1007,
+    "CampaignType": 1,
+    "CampaignEffectGroupId": 1007,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1007,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 0,
+    "StartDatetime": "2023-11-13T02:00:00",
+    "EndDatetime": "2023-11-20T01:59:59",
+    "EcPassItemId": 0,
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 2001,
@@ -108,7 +124,7 @@
     "StartDatetime": "1970-01-01T00:00:00",
     "EndDatetime": "2040-12-31T14:59:59",
     "EcPassItemId": 20001,
-    "campaign_12": 0,
+    "ComebackId": 0,
     "campaign_13": 1
   },
   {
@@ -124,7 +140,7 @@
     "StartDatetime": "1969-12-31T23:59:00",
     "EndDatetime": "2040-12-31T14:58:59",
     "EcPassItemId": 20002,
-    "campaign_12": 0,
+    "ComebackId": 0,
     "campaign_13": 1
   },
   {
@@ -140,8 +156,8 @@
     "StartDatetime": "2023-09-15T02:00:00",
     "EndDatetime": "2023-09-22T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 3002,
@@ -156,8 +172,8 @@
     "StartDatetime": "2023-09-29T02:00:00",
     "EndDatetime": "2023-10-13T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 3003,
@@ -172,8 +188,8 @@
     "StartDatetime": "2023-10-13T02:00:00",
     "EndDatetime": "2023-10-20T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 4001,
@@ -188,8 +204,8 @@
     "StartDatetime": "2023-10-20T02:00:00",
     "EndDatetime": "2024-01-31T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
   },
   {
     "Id": 4002,
@@ -204,7 +220,119 @@
     "StartDatetime": "2023-10-20T02:00:00",
     "EndDatetime": "2024-01-31T01:59:59",
     "EcPassItemId": 0,
-    "campaign_12": 0,
-    "campaign_13": 1
+    "ComebackId": 0,
+    "campaign_13": 0
+  },
+  {
+    "Id": 5001,
+    "CampaignType": 1,
+    "CampaignEffectGroupId": 5001,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1001,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 0,
+    "StartDatetime": "2023-11-10T02:00:00",
+    "EndDatetime": "2023-11-24T01:59:59",
+    "EcPassItemId": 0,
+    "ComebackId": 0,
+    "campaign_13": 0
+  },
+  {
+    "Id": 6001,
+    "CampaignType": 3,
+    "CampaignEffectGroupId": 6001,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1001,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 70000006001,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "EcPassItemId": 0,
+    "ComebackId": 10011,
+    "campaign_13": 0
+  },
+  {
+    "Id": 6002,
+    "CampaignType": 3,
+    "CampaignEffectGroupId": 6002,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1002,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 70000006001,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "EcPassItemId": 0,
+    "ComebackId": 10011,
+    "campaign_13": 0
+  },
+  {
+    "Id": 7001,
+    "CampaignType": 3,
+    "CampaignEffectGroupId": 7001,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1001,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 70000007001,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "EcPassItemId": 0,
+    "ComebackId": 10012,
+    "campaign_13": 0
+  },
+  {
+    "Id": 7002,
+    "CampaignType": 3,
+    "CampaignEffectGroupId": 7002,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1002,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 70000007001,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "EcPassItemId": 0,
+    "ComebackId": 10012,
+    "campaign_13": 0
+  },
+  {
+    "Id": 8001,
+    "CampaignType": 3,
+    "CampaignEffectGroupId": 8001,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1001,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 70000008001,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "EcPassItemId": 0,
+    "ComebackId": 10013,
+    "campaign_13": 0
+  },
+  {
+    "Id": 8002,
+    "CampaignType": 3,
+    "CampaignEffectGroupId": 8002,
+    "TargetCampaignCharacterGroupId": 0,
+    "CharacterMaxLevel": 0,
+    "UserRankMax": 0,
+    "CampaignTargetTypeGroupId": 1002,
+    "DisableCampaignTargetGroupId": 0,
+    "LockConditionSetId": 70000008001,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "EcPassItemId": 0,
+    "ComebackId": 10013,
+    "campaign_13": 0
   }
 ]

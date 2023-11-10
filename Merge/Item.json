@@ -704,6 +704,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 36,
+    "Name": {
+      "Ja": "黒い羽根",
+      "En": "Black Feather"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 36,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2023-11-10T02:00:00",
+    "EndDatetime": "2023-12-10T01:59:59",
+    "OrderNo": 0
+  },
+  {
+    "Id": 37,
+    "Name": {
+      "Ja": "ペリドット",
+      "En": "Peridot"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 37,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2023-11-10T02:00:00",
+    "EndDatetime": "2023-12-10T01:59:59",
+    "OrderNo": 0
+  },
+  {
     "Id": 1001,
     "Name": {
       "Ja": "クラウド専用ウェポンパーツ",
@@ -4224,6 +4268,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 100021,
+    "Name": {
+      "Ja": "グレン<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Glenn 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「グレン<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Glenn 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100021,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100022,
+    "Name": {
+      "Ja": "マット<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Matt 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「マット<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Matt 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100022,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100023,
+    "Name": {
+      "Ja": "ルティア<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Lucia 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「ルティア<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Lucia 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 100024,
     "Name": {
       "Ja": "セフィロス武器確定ガチャチケット",
@@ -4550,6 +4660,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2023-10-20T02:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001029,
+    "Name": {
+      "Ja": "ジタンソード・パーツ",
+      "En": "Zidane's Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ジタンソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Zidane's Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001029,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2023-11-10T02:00:00",
     "EndDatetime": "1970-01-01T00:00:00",
     "OrderNo": 0
   },
@@ -4990,6 +5122,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003027,
+    "Name": {
+      "Ja": "サラマンダークロー・パーツ",
+      "En": "Amarant's Claws Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「サラマンダークロー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Amarant's Claws</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2023-11-10T02:00:00",
     "EndDatetime": "1970-01-01T00:00:00",
     "OrderNo": 0
   },
@@ -6723,6 +6877,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1052019,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00",
+    "EndDatetime": "1970-01-01T00:00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1052021,
+    "Name": {
+      "Ja": "ビビの魔銃・パーツ",
+      "En": "Vivi's Magical Gun Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ビビの魔銃」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Vivi's Magical Gun</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1052021,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
