@@ -6592,6 +6592,70 @@
     "IsSale": false
   },
   {
+    "Id": 101005033,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ガーネットロッドパックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Garnet's Rod Pack I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005033,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005033,
+    "BonusRewardSetId": 530101005033,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20033,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005033,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005034,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ガーネットロッドパックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Garnet's Rod Pack II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005034,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005034,
+    "BonusRewardSetId": 530101005034,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20034,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005034,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
     "Id": 101006001,
     "Name": {
       "Ja": "ブーストパス",
@@ -15256,6 +15320,966 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 39,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007001,
+    "Name": {
+      "Ja": "スタイナーブレイク",
+      "En": "Steiner's Blade"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 20,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007001,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 210007001,
+    "ShopItemBonusId": 0,
+    "OrderNo": 1,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=192>4以上武器確定ガチャチケット",
+      "En": "4<sprite=\"tmp_icon\" index=192>+ Wpn. Guaranteed Draw Ticket"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「<sprite=\"tmp_icon\" index=192>4以上武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Guaranteed 4<sprite=\"tmp_icon\" index=192>+ Weapon Ticket Draws</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 5,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007002,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3600000150,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 3,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007003,
+    "Name": {
+      "Ja": "ガチャチケット",
+      "En": "Draw Ticket"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>ticket draws</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 10,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007003,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3600000030,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 4,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007004,
+    "Name": {
+      "Ja": "ティファのメモリー",
+      "En": "Tifa's Memory"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「ティファ」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Tifa's character stream</color> nodes."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 50,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007004,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3600000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 5,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007005,
+    "Name": {
+      "Ja": "グレンのメモリー",
+      "En": "Glenn's Memory"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「グレン」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Glenn's character stream</color> nodes."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 50,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007005,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3600000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 6,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007006,
+    "Name": {
+      "Ja": "合成触媒・ミメイ",
+      "En": "Synth Catalyst – Dawn"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "マテリア合成で追加素材に使用。\n追加することで<command_color=common_03>マテリアの完成に影響</color>します。",
+      "En": "Used in synthesis to <command_color=common_03>affect materia creation</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 5,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007006,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000500,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 2,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007007,
+    "Name": {
+      "Ja": "グレン専用ウェポンパーツ",
+      "En": "Glenn-Specific Weapon Part"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「グレン」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Glenn's weapons</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 100,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007007,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 7,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007008,
+    "Name": {
+      "Ja": "合成の栞",
+      "En": "Bookmark"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "マテリア合成で完成までの時間短縮に使用。\n<command_color=common_03>「1時間」短縮</color>できます。",
+      "En": "Used to shorten synthesis time by <command_color=common_03>an hour</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 10,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007008,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000100,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 8,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007009,
+    "Name": {
+      "Ja": "チョコブースター",
+      "En": "Chocobooster"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "チョコボ遠征の時間短縮に使用。\n<command_color=common_03>「3時間」短縮</color>できます。",
+      "En": "Used to shorten the duration of chocobo expeditions by <command_color=common_03>3 hours</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 10,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007009,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000100,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007010,
+    "Name": {
+      "Ja": "合成触媒・ミメイの大片",
+      "En": "Synth Catalyst Piece – Dawn"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "マテリア合成で追加素材に使用。\n追加することで<command_color=common_03>マテリアの完成に影響</color>します。",
+      "En": "Used in synthesis to <command_color=common_03>affect materia creation</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007010,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 10,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007011,
+    "Name": {
+      "Ja": "合成触媒・ハクチュウの大片",
+      "En": "Synth Catalyst Piece – Day"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "マテリア合成で追加素材に使用。\n追加することで<command_color=common_03>マテリアの完成に影響</color>します。",
+      "En": "Used in synthesis to <command_color=common_03>affect materia creation</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007011,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 11,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007012,
+    "Name": {
+      "Ja": "合成触媒・タソガレの大片",
+      "En": "Synth Catalyst Piece – Evening"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "マテリア合成で追加素材に使用。\n追加することで<command_color=common_03>マテリアの完成に影響</color>します。",
+      "En": "Used in synthesis to <command_color=common_03>affect materia creation</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007012,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 12,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007013,
+    "Name": {
+      "Ja": "合成触媒・ヨイの大片",
+      "En": "Synth Catalyst Piece – Night"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "マテリア合成で追加素材に使用。\n追加することで<command_color=common_03>マテリアの完成に影響</color>します。",
+      "En": "Used in synthesis to <command_color=common_03>affect materia creation</color>."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007013,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 13,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007014,
+    "Name": {
+      "Ja": "マイクロキューブ・壱型",
+      "En": "Microcube Model I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 20,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007014,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000100,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 14,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007015,
+    "Name": {
+      "Ja": "マイクロキューブ・壱型",
+      "En": "Microcube Model I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 20,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007015,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000200,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 14,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007014,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007016,
+    "Name": {
+      "Ja": "ナノキューブ・弐型",
+      "En": "Nanocube Model II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007016,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000050,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 15,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007017,
+    "Name": {
+      "Ja": "ナノキューブ・弐型",
+      "En": "Nanocube Model II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007017,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000100,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 15,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007016,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007018,
+    "Name": {
+      "Ja": "ナノキューブ・壱型",
+      "En": "Nanocube Model I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007018,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000030,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 16,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007019,
+    "Name": {
+      "Ja": "ナノキューブ・壱型",
+      "En": "Nanocube Model I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007019,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000060,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 16,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007018,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007020,
+    "Name": {
+      "Ja": "ゲノムメガポッド・X",
+      "En": "Genome Megapod X"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 20,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007020,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000100,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 17,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007021,
+    "Name": {
+      "Ja": "ゲノムメガポッド・X",
+      "En": "Genome Megapod X"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 20,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007021,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000200,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 17,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007020,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007022,
+    "Name": {
+      "Ja": "ゲノムポッド・Y",
+      "En": "Genome Pod Y"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007022,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000050,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 18,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007023,
+    "Name": {
+      "Ja": "ゲノムポッド・Y",
+      "En": "Genome Pod Y"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007023,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000100,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 18,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007022,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007024,
+    "Name": {
+      "Ja": "ゲノムポッド・X",
+      "En": "Genome Pod X"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007024,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000030,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 19,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007025,
+    "Name": {
+      "Ja": "ゲノムポッド・X",
+      "En": "Genome Pod X"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007025,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000060,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 19,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007024,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007026,
+    "Name": {
+      "Ja": "鍛錬石の塊",
+      "En": "Grindstone Chunk"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「強化」</color>で使用できます。",
+      "En": "Used to level up a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007026,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007027,
+    "Name": {
+      "Ja": "鍛錬石の塊",
+      "En": "Grindstone Chunk"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「強化」</color>で使用できます。",
+      "En": "Used to level up a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007027,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000040,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007026,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007028,
+    "Name": {
+      "Ja": "鍛錬石の塊",
+      "En": "Grindstone Chunk"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「強化」</color>で使用できます。",
+      "En": "Used to level up a weapon."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 40,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007028,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000060,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 210007027,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007029,
+    "Name": {
+      "Ja": "マテリア活性剤（大）",
+      "En": "Materia Booster (L)"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "マテリア強化に必要。\n<command_color=common_03>「強化」</color>で使用できます。",
+      "En": "Used to enhance materia."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 10,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007029,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000050,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 21,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 210007030,
+    "Name": {
+      "Ja": "ギル",
+      "En": "Gil"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化やショップなど様々な箇所に必要なアイテムです。",
+      "En": "Used to enhance weapons, buy items, etc."
+    },
+    "ShopId": 210007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160210007030,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 3800000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 22,
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,

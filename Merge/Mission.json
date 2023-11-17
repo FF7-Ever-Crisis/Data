@@ -1290,6 +1290,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 110004022,
+    "NameTemplate": {
+      "Ja": "ガーネットロッドのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Garnet's Rod's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ガーネットロッドのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Garnet's Rod's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 17,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 4022,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 113,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000004022,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110005028,
     "NameTemplate": {
       "Ja": "シーサイドカラーのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -9805,6 +9835,126 @@
     "LockConditionSetId": 0,
     "TransitionType": 34,
     "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500010001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500014,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 0,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500010001,
+    "OpenConditionSetId": 240500010001,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500010009,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 500014,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500010001,
+    "OpenConditionSetId": 240500010001,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500010012,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 500014,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500010001,
+    "OpenConditionSetId": 240500010001,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500010015,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 500014,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 14,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240500010001,
+    "OpenConditionSetId": 240500010001,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
@@ -19650,6 +19800,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 120300301012,
+    "NameTemplate": {
+      "Ja": "「世界に響く黒のワルツ」のエピローグを見る。",
+      "En": "Watch the epilogue of \"A Resonant Waltz\""
+    },
+    "DescriptionTemplate": {
+      "Ja": "「世界に響く黒のワルツ」のエピローグを見る。",
+      "En": "Watch the epilogue of \"A Resonant Waltz\""
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300316,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 131000300302,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300001,
+    "OpenConditionSetId": 12120300300001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 120300301021,
     "NameTemplate": {
       "Ja": "ビビの魔銃をLv.{0}に武器強化する。",
@@ -19672,6 +19852,36 @@
     "BonusPoint": 0,
     "DisplayConditionSetId": 11120300300000,
     "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300301022,
+    "NameTemplate": {
+      "Ja": "スタイナーブレイクをLv.{0}に武器強化する。",
+      "En": "Raise the Steiner's Blade to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "スタイナーブレイクをLv.{0}に武器強化する。",
+      "En": "Raise the Steiner's Blade to Lv. {0}."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 22,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 50019,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300001,
+    "OpenConditionSetId": 12120300300001,
     "LockConditionSetId": 0,
     "TransitionType": 38,
     "TransitionId": 0,
@@ -19770,6 +19980,66 @@
     "IsRefresh": false
   },
   {
+    "Id": 120300301034,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 34,
+    "AutoMissionCountType": 1,
+    "MissionType": 84,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300001,
+    "OpenConditionSetId": 12120300300001,
+    "LockConditionSetId": 0,
+    "TransitionType": 39,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300301035,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 120300301,
+    "MissionSetIdx": 35,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300001,
+    "OpenConditionSetId": 12120300300001,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 120300302001,
     "NameTemplate": {
       "Ja": "ペリドットを{0}個取得する。",
@@ -19852,6 +20122,96 @@
     "BonusPoint": 0,
     "DisplayConditionSetId": 11120300300000,
     "OpenConditionSetId": 12120300300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300302011,
+    "NameTemplate": {
+      "Ja": "アクアマリンを{0}個取得する。",
+      "En": "Obtain {0} Aquamarine(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アクアマリンを{0}個取得する。",
+      "En": "Obtain {0} Aquamarine(s)."
+    },
+    "MissionSetId": 120300302,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 38,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300001,
+    "OpenConditionSetId": 12120300300001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300302012,
+    "NameTemplate": {
+      "Ja": "アクアマリンを{0}個取得する。",
+      "En": "Obtain {0} Aquamarine(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アクアマリンを{0}個取得する。",
+      "En": "Obtain {0} Aquamarine(s)."
+    },
+    "MissionSetId": 120300302,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 38,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300001,
+    "OpenConditionSetId": 12120300300001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300302013,
+    "NameTemplate": {
+      "Ja": "アクアマリンを{0}個取得する。",
+      "En": "Obtain {0} Aquamarine(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アクアマリンを{0}個取得する。",
+      "En": "Obtain {0} Aquamarine(s)."
+    },
+    "MissionSetId": 120300302,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 38,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300300001,
+    "OpenConditionSetId": 12120300300001,
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 3003,
