@@ -3570,6 +3570,66 @@
     "IsRefresh": true
   },
   {
+    "Id": 190310007,
+    "NameTemplate": {
+      "Ja": "FFVII CHAPTER 4 - MAIN SECTION 4 - EP1をクリアする。",
+      "En": "Clear FFVII CHAPTER 4 - MAIN SECTION 4 - EP1."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII CHAPTER 4 - MAIN SECTION 4 - EP1をクリアする。",
+      "En": "Clear FFVII CHAPTER 4 - MAIN SECTION 4 - EP1."
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 120265,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403100070001,
+    "OrderNo": 190310007,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 110051,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190310008,
+    "NameTemplate": {
+      "Ja": "FFVII CHAPTER 4 - MAIN SECTION 4 - EP1をクリアする。",
+      "En": "Clear FFVII CHAPTER 4 - MAIN SECTION 4 - EP1."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII CHAPTER 4 - MAIN SECTION 4 - EP1をクリアする。",
+      "En": "Clear FFVII CHAPTER 4 - MAIN SECTION 4 - EP1."
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 120265,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403100080001,
+    "OrderNo": 190310008,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 110051,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190320000,
     "NameTemplate": {
       "Ja": "CC FFVII CHAPTER 1 - MAIN SECTION 3 - EP3をクリアする。",
@@ -4375,6 +4435,36 @@
     "LockConditionSetId": 0,
     "TransitionType": 54,
     "TransitionId": 2080301,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 190500801,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョン「ニブル山 VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Mt. Nibel - Very Hard."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョン「ニブル山 VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Mt. Nibel - Very Hard."
+    },
+    "MissionSetId": 190004,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 2040301,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190500801,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 54,
+    "TransitionId": 2040301,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
@@ -9954,6 +10044,456 @@
     "OpenConditionSetId": 240500010001,
     "LockConditionSetId": 0,
     "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015001,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015002,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015003,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015004,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015005,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015006,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015007,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015008,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015009,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015010,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015011,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015012,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015013,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015014,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 14,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500015015,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ラムウ」を{0}回クリアする。",
+      "En": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    "MissionSetId": 500015,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202801,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 15,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 260000500015,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
