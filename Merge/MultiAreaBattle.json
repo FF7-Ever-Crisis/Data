@@ -174,7 +174,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200301010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -186,7 +186,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20030102,
@@ -201,7 +201,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200301020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -213,7 +213,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20030103,
@@ -228,7 +228,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200301030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -240,7 +240,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20030104,
@@ -255,7 +255,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200301040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -267,7 +267,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20030105,
@@ -282,7 +282,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200301050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -294,7 +294,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20030106,
@@ -309,7 +309,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200301060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -321,7 +321,88 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
+  },
+  {
+    "Id": 20040104,
+    "Name": {
+      "Ja": "HARD 2",
+      "En": "Hard 2"
+    },
+    "MultiAreaId": 200401,
+    "DifficultyLevel": 4,
+    "BattleId": 20040104,
+    "BattleRankGroupId": 20040104,
+    "StaminaCost": 18,
+    "FirstRewardSetId": 1200100,
+    "MultiRewardSetId": 43200401040,
+    "MultiBonusRewardSetId": 0,
+    "MultiMedalCount": 6,
+    "ContinueVoteLimitSec": 179,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "RequiredCombatPower": 16200,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0,
+    "OrderNo": 4,
+    "IsExcludedFirstStaminaFree": false,
+    "MultiBonusMultiMedalCount": 2
+  },
+  {
+    "Id": 20040105,
+    "Name": {
+      "Ja": "VERY HARD 1",
+      "En": "Very Hard 1"
+    },
+    "MultiAreaId": 200401,
+    "DifficultyLevel": 5,
+    "BattleId": 20040105,
+    "BattleRankGroupId": 20040105,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 1200100,
+    "MultiRewardSetId": 43200401050,
+    "MultiBonusRewardSetId": 0,
+    "MultiMedalCount": 7,
+    "ContinueVoteLimitSec": 179,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "RequiredCombatPower": 27200,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0,
+    "OrderNo": 5,
+    "IsExcludedFirstStaminaFree": false,
+    "MultiBonusMultiMedalCount": 3
+  },
+  {
+    "Id": 20040106,
+    "Name": {
+      "Ja": "VERY HARD 2",
+      "En": "Very Hard 2"
+    },
+    "MultiAreaId": 200401,
+    "DifficultyLevel": 6,
+    "BattleId": 20040106,
+    "BattleRankGroupId": 20040106,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 1200100,
+    "MultiRewardSetId": 43200401060,
+    "MultiBonusRewardSetId": 0,
+    "MultiMedalCount": 8,
+    "ContinueVoteLimitSec": 179,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "RequiredCombatPower": 38400,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0,
+    "OrderNo": 6,
+    "IsExcludedFirstStaminaFree": false,
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20050101,
@@ -336,7 +417,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200501010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -348,7 +429,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20050102,
@@ -363,7 +444,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200501020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -375,7 +456,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20050103,
@@ -390,7 +471,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200501030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -402,7 +483,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20050104,
@@ -417,7 +498,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200501040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -429,7 +510,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20050105,
@@ -444,7 +525,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200501050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -456,7 +537,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20050106,
@@ -471,7 +552,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200501060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -483,7 +564,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20060104,
@@ -498,7 +579,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200601040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -510,7 +591,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20060105,
@@ -525,7 +606,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200601050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -537,7 +618,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20060106,
@@ -552,7 +633,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200601060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -564,7 +645,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20070101,
@@ -579,7 +660,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200701010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -591,7 +672,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20070102,
@@ -606,7 +687,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200701020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -618,7 +699,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20070103,
@@ -633,7 +714,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200701030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -645,7 +726,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20070104,
@@ -660,7 +741,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200701040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -672,7 +753,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20070105,
@@ -687,7 +768,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200701050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -699,7 +780,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20070106,
@@ -714,7 +795,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200701060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -726,7 +807,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20080103,
@@ -741,7 +822,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200801030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -753,7 +834,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20080104,
@@ -768,7 +849,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200801040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -780,7 +861,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20080105,
@@ -795,7 +876,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200801050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -807,7 +888,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20080106,
@@ -822,7 +903,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200801060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -834,7 +915,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20090104,
@@ -849,7 +930,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200901040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -861,7 +942,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20090105,
@@ -876,7 +957,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200901050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -888,7 +969,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20090106,
@@ -903,7 +984,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43200901060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -915,7 +996,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20100103,
@@ -930,7 +1011,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201001030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -942,7 +1023,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20100104,
@@ -957,7 +1038,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201001040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -969,7 +1050,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20100105,
@@ -984,7 +1065,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201001050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -996,7 +1077,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20100106,
@@ -1011,7 +1092,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201001060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1023,7 +1104,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20110101,
@@ -1038,7 +1119,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201101010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1050,7 +1131,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20110102,
@@ -1065,7 +1146,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201101020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1077,7 +1158,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20110103,
@@ -1092,7 +1173,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201101030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1104,7 +1185,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20110104,
@@ -1119,7 +1200,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201101040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1131,7 +1212,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20110105,
@@ -1146,7 +1227,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201101050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1158,7 +1239,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20110106,
@@ -1173,7 +1254,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201101060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1185,7 +1266,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20120101,
@@ -1362,7 +1443,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201301010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1374,7 +1455,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20130102,
@@ -1389,7 +1470,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201301020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1401,7 +1482,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20130103,
@@ -1416,7 +1497,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201301030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1428,7 +1509,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20130104,
@@ -1443,7 +1524,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201301040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1455,7 +1536,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20130105,
@@ -1470,7 +1551,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201301050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1482,7 +1563,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20130106,
@@ -1497,7 +1578,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201301060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1509,7 +1590,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20140104,
@@ -1524,7 +1605,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201401040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1536,7 +1617,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20140105,
@@ -1551,7 +1632,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201401050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1563,7 +1644,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20140106,
@@ -1578,7 +1659,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201401060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1590,7 +1671,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20150104,
@@ -1686,7 +1767,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201601040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1698,7 +1779,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20160105,
@@ -1713,7 +1794,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201601050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1725,7 +1806,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20160106,
@@ -1740,7 +1821,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201601060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1752,7 +1833,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20170104,
@@ -1767,7 +1848,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201701040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1779,7 +1860,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20170105,
@@ -1794,7 +1875,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201701050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1806,7 +1887,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20170106,
@@ -1821,7 +1902,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201701060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1833,7 +1914,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20180101,
@@ -1848,7 +1929,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201801010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1860,7 +1941,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20180102,
@@ -1875,7 +1956,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201801020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1887,7 +1968,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20180103,
@@ -1902,7 +1983,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201801030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1914,7 +1995,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20180104,
@@ -1929,7 +2010,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201801040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1941,7 +2022,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20180105,
@@ -1956,7 +2037,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201801050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1968,7 +2049,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20180106,
@@ -1983,7 +2064,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201801060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -1995,7 +2076,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20190101,
@@ -2010,7 +2091,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201901010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2022,7 +2103,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20190102,
@@ -2037,7 +2118,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201901020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2049,7 +2130,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20190103,
@@ -2064,7 +2145,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201901030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2076,7 +2157,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20190104,
@@ -2091,7 +2172,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201901040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2103,7 +2184,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20190105,
@@ -2118,7 +2199,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201901050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2130,7 +2211,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20190106,
@@ -2145,7 +2226,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43201901060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2157,7 +2238,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20200101,
@@ -2172,7 +2253,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202001010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2184,7 +2265,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20200102,
@@ -2199,7 +2280,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202001020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2211,7 +2292,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20200103,
@@ -2226,7 +2307,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202001030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2238,7 +2319,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20200104,
@@ -2253,7 +2334,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202001040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2265,7 +2346,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20200105,
@@ -2280,7 +2361,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202001050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2292,7 +2373,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20200106,
@@ -2307,7 +2388,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202001060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2319,7 +2400,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20210101,
@@ -2334,7 +2415,7 @@
     "StaminaCost": 10,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202101010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 2,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2346,7 +2427,7 @@
     "WinResetId": 0,
     "OrderNo": 1,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20210102,
@@ -2361,7 +2442,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202101020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2373,7 +2454,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20210103,
@@ -2388,7 +2469,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202101030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2400,7 +2481,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20210104,
@@ -2415,7 +2496,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202101040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2427,7 +2508,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20210105,
@@ -2442,7 +2523,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202101050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2454,7 +2535,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20210106,
@@ -2469,7 +2550,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202101060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2481,7 +2562,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20220102,
@@ -2496,7 +2577,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202201020,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2508,7 +2589,7 @@
     "WinResetId": 0,
     "OrderNo": 2,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20220103,
@@ -2523,7 +2604,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202201030,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 4,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2535,7 +2616,7 @@
     "WinResetId": 0,
     "OrderNo": 3,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20220104,
@@ -2550,7 +2631,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202201040,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 6,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2562,7 +2643,7 @@
     "WinResetId": 0,
     "OrderNo": 4,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20220105,
@@ -2577,7 +2658,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202201050,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2589,7 +2670,7 @@
     "WinResetId": 0,
     "OrderNo": 5,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20220106,
@@ -2604,7 +2685,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202201060,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 179,
     "DisplayConditionSetId": 0,
@@ -2616,7 +2697,7 @@
     "WinResetId": 0,
     "OrderNo": 6,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20260101,
@@ -2631,7 +2712,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202601010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2643,7 +2724,7 @@
     "WinResetId": 0,
     "OrderNo": 10,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20260111,
@@ -2658,7 +2739,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202601110,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 5,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2670,7 +2751,7 @@
     "WinResetId": 0,
     "OrderNo": 20,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20260121,
@@ -2685,7 +2766,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202601210,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2697,7 +2778,7 @@
     "WinResetId": 0,
     "OrderNo": 30,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20260131,
@@ -2712,7 +2793,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202601310,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2724,7 +2805,7 @@
     "WinResetId": 0,
     "OrderNo": 40,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20260141,
@@ -2739,7 +2820,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202601410,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 9,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2751,7 +2832,7 @@
     "WinResetId": 0,
     "OrderNo": 50,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20260151,
@@ -2766,7 +2847,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202601510,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 10,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2778,7 +2859,7 @@
     "WinResetId": 0,
     "OrderNo": 60,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20270101,
@@ -2793,7 +2874,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202701010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2805,7 +2886,7 @@
     "WinResetId": 0,
     "OrderNo": 10,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20270111,
@@ -2820,7 +2901,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202701110,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 5,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2832,7 +2913,7 @@
     "WinResetId": 0,
     "OrderNo": 20,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20270121,
@@ -2847,7 +2928,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202701210,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2859,7 +2940,7 @@
     "WinResetId": 0,
     "OrderNo": 30,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20270131,
@@ -2874,7 +2955,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202701310,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2886,7 +2967,7 @@
     "WinResetId": 0,
     "OrderNo": 40,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20270141,
@@ -2901,7 +2982,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202701410,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 9,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2913,7 +2994,7 @@
     "WinResetId": 0,
     "OrderNo": 50,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20270151,
@@ -2928,7 +3009,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202701510,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 10,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2940,7 +3021,7 @@
     "WinResetId": 0,
     "OrderNo": 60,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20280101,
@@ -2955,7 +3036,7 @@
     "StaminaCost": 12,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202801010,
-    "MultiBonusRewardSetId": 200000130001,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 3,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2967,7 +3048,7 @@
     "WinResetId": 0,
     "OrderNo": 10,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 1
   },
   {
     "Id": 20280111,
@@ -2982,7 +3063,7 @@
     "StaminaCost": 15,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202801110,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 5,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -2994,7 +3075,7 @@
     "WinResetId": 0,
     "OrderNo": 20,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20280121,
@@ -3009,7 +3090,7 @@
     "StaminaCost": 18,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202801210,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 7,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -3021,7 +3102,7 @@
     "WinResetId": 0,
     "OrderNo": 30,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20280131,
@@ -3036,7 +3117,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202801310,
-    "MultiBonusRewardSetId": 200000130002,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 8,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -3048,7 +3129,7 @@
     "WinResetId": 0,
     "OrderNo": 40,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 2
   },
   {
     "Id": 20280141,
@@ -3063,7 +3144,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202801410,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 9,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -3075,7 +3156,7 @@
     "WinResetId": 0,
     "OrderNo": 50,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   },
   {
     "Id": 20280151,
@@ -3090,7 +3171,7 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 1200100,
     "MultiRewardSetId": 43202801510,
-    "MultiBonusRewardSetId": 200000130003,
+    "MultiBonusRewardSetId": 0,
     "MultiMedalCount": 10,
     "ContinueVoteLimitSec": 0,
     "DisplayConditionSetId": 0,
@@ -3102,6 +3183,6 @@
     "WinResetId": 0,
     "OrderNo": 60,
     "IsExcludedFirstStaminaFree": false,
-    "MultiBonusMultiMedalCount": 0
+    "MultiBonusMultiMedalCount": 3
   }
 ]

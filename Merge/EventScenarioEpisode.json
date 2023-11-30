@@ -1309,5 +1309,423 @@
     "EventSoloBattleId": 3003020,
     "EpisodeDisplayConditionSetId": 0,
     "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800101,
+    "Name": {
+      "Ja": "プロローグ",
+      "En": "Prologue"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 9900400,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800102,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800101,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001101,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800103,
+    "Name": {
+      "Ja": "1話",
+      "En": "Episode 1"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800102,
+    "DungeonId": 9900401,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 710008001001
+  },
+  {
+    "Id": 800104,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800103,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001102,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800105,
+    "Name": {
+      "Ja": "2話",
+      "En": "Episode 2"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800110,
+    "DungeonId": 9900402,
+    "OrderNo": 8,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 710008001002
+  },
+  {
+    "Id": 800106,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800104,
+    "DungeonId": 0,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001103,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800107,
+    "Name": {
+      "Ja": "3話",
+      "En": "Episode 3"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800105,
+    "DungeonId": 9900403,
+    "OrderNo": 11,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700008001003,
+    "EpisodeLockConditionSetId": 710008001003
+  },
+  {
+    "Id": 800108,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800106,
+    "DungeonId": 0,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001104,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800109,
+    "Name": {
+      "Ja": "4話",
+      "En": "Episode 4"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800107,
+    "DungeonId": 9900404,
+    "OrderNo": 14,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700008001004,
+    "EpisodeLockConditionSetId": 710008001004
+  },
+  {
+    "Id": 800110,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800108,
+    "DungeonId": 0,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001105,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800111,
+    "Name": {
+      "Ja": "エンディング",
+      "En": "Ending"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800109,
+    "DungeonId": 9900405,
+    "OrderNo": 17,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700008001005,
+    "EpisodeLockConditionSetId": 710008001005
+  },
+  {
+    "Id": 800112,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800105,
+    "DungeonId": 0,
+    "OrderNo": 9,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001106,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800113,
+    "Name": {
+      "Ja": "エピローグ",
+      "En": "Epilogue"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800111,
+    "DungeonId": 9900406,
+    "OrderNo": 20,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700008001006,
+    "EpisodeLockConditionSetId": 710008001006
+  },
+  {
+    "Id": 800115,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800112,
+    "DungeonId": 0,
+    "OrderNo": 10,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001107,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800116,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800115,
+    "DungeonId": 0,
+    "OrderNo": 12,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001108,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800117,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800116,
+    "DungeonId": 0,
+    "OrderNo": 13,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001109,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800118,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800117,
+    "DungeonId": 0,
+    "OrderNo": 15,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001110,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800119,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800118,
+    "DungeonId": 0,
+    "OrderNo": 16,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001111,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800120,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800119,
+    "DungeonId": 0,
+    "OrderNo": 18,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001112,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800121,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800120,
+    "DungeonId": 0,
+    "OrderNo": 19,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001113,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800122,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800121,
+    "DungeonId": 0,
+    "OrderNo": 21,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001114,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 800123,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 8001,
+    "PremiseEventScenarioEpisodeId": 800122,
+    "DungeonId": 0,
+    "OrderNo": 22,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 58001115,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
   }
 ]

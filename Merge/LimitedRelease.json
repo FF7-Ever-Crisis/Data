@@ -1520,6 +1520,63 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 506001,
+    "Name": {
+      "Ja": "聖火を宿すプレゼント\nクリアパックI",
+      "En": "The Holy Flame's Gift\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000506001,
+    "OrderNo": 1,
+    "ResourceId": 506001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001807,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 506,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 506002,
+    "Name": {
+      "Ja": "聖火を宿すプレゼント\nクリアパックII",
+      "En": "The Holy Flame's Gift\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000506002,
+    "OrderNo": 2,
+    "ResourceId": 506002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001808,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 506,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 506003,
+    "Name": {
+      "Ja": "聖火を宿すプレゼント\nクリアパックIII",
+      "En": "The Holy Flame's Gift\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000506003,
+    "OrderNo": 3,
+    "ResourceId": 506003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001809,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 506,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 1001001,
     "Name": {
       "Ja": "<sprite=\"tmp_icon\" index=196>5村雨パックI",
@@ -2200,6 +2257,82 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 1018,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1019001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5聖火のグローブパックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Holy Flame Gloves Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001019001,
+    "OrderNo": 1,
+    "ResourceId": 1019001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005037,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1019,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1019002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5聖火のグローブパックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Holy Flame Gloves Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001019002,
+    "OrderNo": 2,
+    "ResourceId": 1019002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005038,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1019,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1020001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ホリデーリボルヴパックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Holiday Revolver Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001020001,
+    "OrderNo": 1,
+    "ResourceId": 1020001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005039,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1020,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1020002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ホリデーリボルヴパックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Holiday Revolver Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001020002,
+    "OrderNo": 2,
+    "ResourceId": 1020002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005040,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1020,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   }

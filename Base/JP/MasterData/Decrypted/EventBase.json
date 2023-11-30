@@ -83,7 +83,7 @@
     {
         "Id": 3003,
         "EventType": 3,
-        "OrderNo": 1,
+        "OrderNo": 30,
         "ShopGroupId": 212,
         "EventScenarioSectionId": 3003,
         "DisplayConditionSetId": 611000003003,
@@ -245,7 +245,7 @@
     {
         "Id": 7003,
         "EventType": 7,
-        "OrderNo": 0,
+        "OrderNo": 20,
         "ShopGroupId": 0,
         "EventScenarioSectionId": 0,
         "DisplayConditionSetId": 612000007003,
@@ -268,5 +268,32 @@
         "MissionPanelId": 0,
         "EventIdlingCollectId": 0,
         "EventChallengeItemGroupId": 0
+    },
+    {
+        "Id": 8001,
+        "EventType": 8,
+        "OrderNo": 10,
+        "ShopGroupId": 214,
+        "EventScenarioSectionId": 8001,
+        "DisplayConditionSetId": 611000008001,
+        "LockConditionSetId": 612000008001,
+        "OpenConditionSetId": 613000008001,
+        "ResetMaxBattleWinCount": 0,
+        "BattleWinResetId": 0,
+        "NameLanguageId": 851000000008001,
+        "DescriptionLanguageId": 1,
+        "IconResourceId": 8001,
+        "EventClashId": 0,
+        "EventDisplayItemGroupId": 8001,
+        "EventStoryLevelGroupId": 0,
+        "BoxGachaGroupId": 0,
+        "StoryChapterId": 0,
+        "BossNameLanguageId": 0,
+        "AnnouncementId": 0,
+        "EventDetailId": 8001,
+        "EventBonusEffectGroupId": 0,
+        "MissionPanelId": 0,
+        "EventIdlingCollectId": 8001,
+        "EventChallengeItemGroupId": 30001
     }
 ]
