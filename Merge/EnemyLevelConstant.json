@@ -1211,6 +1211,16 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な炎属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
+      "En": "Immune to stun.\n  \n<color=#89D9FF>Extremely vulnerable to ice-element attacks.</color> When HP falls below a certain amount, uses the powerful multi-target fire-element attack <color=#FFFFD8>Burst</color> and reduces own HP to 0."
+    },
+    "EnemyLevelConstantGroupId": 2026002,
+    "Level": 1,
+    "ResourceId": 2026002010,
+    "EnemySkillLevelId": 2026002010
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な冷属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
       "En": "Immune to stun.\n  \n<color=#89D9FF>Extremely vulnerable to fire-element attacks.</color> When HP falls below a certain amount, uses the powerful multi-target fire-element attack <color=#FFFFD8>Burst</color> and reduces own HP to 0."
     },
@@ -1218,6 +1228,16 @@
     "Level": 1,
     "ResourceId": 2026301010,
     "EnemySkillLevelId": 2026301010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な冷属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
+      "En": "Immune to stun.\n  \n<color=#89D9FF>Extremely vulnerable to fire-element attacks.</color> When HP falls below a certain amount, uses the powerful multi-target fire-element attack <color=#FFFFD8>Burst</color> and reduces own HP to 0."
+    },
+    "EnemyLevelConstantGroupId": 2026302,
+    "Level": 1,
+    "ResourceId": 2026302010,
+    "EnemySkillLevelId": 2026302010
   },
   {
     "BossCaution": {
@@ -1521,7 +1541,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Mud Shower</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042001,
@@ -1531,7 +1551,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Mud Shower</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042002,
@@ -1541,7 +1561,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Mud Shower</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042003,
@@ -1551,7 +1571,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Mud Shower</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042004,
@@ -1561,7 +1581,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>マッドシャワー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与し、\n[<color=#D9DA59>ロックスロー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Mud Shower</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=392>stun</color> with <color=#D9DA59>Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042005,
@@ -1571,7 +1591,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Uses the powerful multi-target attacks <color=#D9DA59>Stone Swing</color> and <color=#D9DA59>Lava Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042101,
@@ -1581,7 +1601,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Uses the powerful multi-target attacks <color=#D9DA59>Stone Swing</color> and <color=#D9DA59>Lava Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042102,
@@ -1591,7 +1611,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Uses the powerful multi-target attacks <color=#D9DA59>Stone Swing</color> and <color=#D9DA59>Lava Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042103,
@@ -1601,7 +1621,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Uses the powerful multi-target attacks <color=#D9DA59>Stone Swing</color> and <color=#D9DA59>Lava Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042104,
@@ -1611,7 +1631,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n強力な全体攻撃 [<color=#D9DA59>ロックスイング</color>] と [<color=#D9DA59>ラーヴァスロー</color>] を使用する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color> と <color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=384>Fatigue\n \nUses many <color=#95C7FF>earth-element physical attacks</color>. Uses the powerful multi-target attacks <color=#D9DA59>Stone Swing</color> and <color=#D9DA59>Lava Stone's Throw</color>."
     },
     "EnemyLevelConstantGroupId": 2042105,
@@ -3048,6 +3068,56 @@
     "Level": 1,
     "ResourceId": 2524101010,
     "EnemySkillLevelId": 2524101010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>BURNING</color>] [<color=#D9DA59>FREEZING</color>]を0にすると、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\nフォースゲージ [<color=#D9DA59>BURNING</color>]は<color=#95C7FF>冷属性アビリティ</color>で減少し、\n[<color=#D9DA59>FREEZING</color>]は<color=#95C7FF>炎属性アビリティ</color>で減少する。\n\n<color=#95C7FF>魔法攻撃</color>、<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> on self when Force Gauge: [<color=#D9DA59>Scorching</color>] or Force Gauge: [<color=#D9DA59>Freezing</color>] is reduced to 0. Force Gauge: [<color=#D9DA59>Scorching</color>] can be depleted with <color=#95C7FF>ice-element abilities</color>, and Force Gauge: [<color=#D9DA59>Freezing</color>] with <color=#95C7FF>fire-element abilities</color>.\n\n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2525001,
+    "Level": 1,
+    "ResourceId": 2525001010,
+    "EnemySkillLevelId": 2525001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>BURNING</color>] [<color=#D9DA59>FREEZING</color>]を0にすると、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\nフォースゲージ [<color=#D9DA59>BURNING</color>]は<color=#95C7FF>冷属性アビリティ</color>で減少し、\n[<color=#D9DA59>FREEZING</color>]は<color=#95C7FF>炎属性アビリティ</color>で減少する。\n\n<color=#95C7FF>魔法攻撃</color>、<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> on self when Force Gauge: [<color=#D9DA59>Scorching</color>] or Force Gauge: [<color=#D9DA59>Freezing</color>] is reduced to 0. Force Gauge: [<color=#D9DA59>Scorching</color>] can be depleted with <color=#95C7FF>ice-element abilities</color>, and Force Gauge: [<color=#D9DA59>Freezing</color>] with <color=#95C7FF>fire-element abilities</color>.\n\n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2525002,
+    "Level": 1,
+    "ResourceId": 2525002010,
+    "EnemySkillLevelId": 2525002010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>BURNING</color>] [<color=#D9DA59>FREEZING</color>]を0にすると、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\nフォースゲージ [<color=#D9DA59>BURNING</color>]は<color=#95C7FF>冷属性アビリティ</color>で減少し、\n[<color=#D9DA59>FREEZING</color>]は<color=#95C7FF>炎属性アビリティ</color>で減少する。\n\n<color=#95C7FF>魔法攻撃</color>、<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> on self when Force Gauge: [<color=#D9DA59>Scorching</color>] or Force Gauge: [<color=#D9DA59>Freezing</color>] is reduced to 0. Force Gauge: [<color=#D9DA59>Scorching</color>] can be depleted with <color=#95C7FF>ice-element abilities</color>, and Force Gauge: [<color=#D9DA59>Freezing</color>] with <color=#95C7FF>fire-element abilities</color>.\n\n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2525003,
+    "Level": 1,
+    "ResourceId": 2525002010,
+    "EnemySkillLevelId": 2525003010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>BURNING</color>] [<color=#D9DA59>FREEZING</color>]を0にすると、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\nフォースゲージ [<color=#D9DA59>BURNING</color>]は<color=#95C7FF>冷属性アビリティ</color>で減少し、\n[<color=#D9DA59>FREEZING</color>]は<color=#95C7FF>炎属性アビリティ</color>で減少する。\n\n<color=#95C7FF>魔法攻撃</color>、<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> on self when Force Gauge: [<color=#D9DA59>Scorching</color>] or Force Gauge: [<color=#D9DA59>Freezing</color>] is reduced to 0. Force Gauge: [<color=#D9DA59>Scorching</color>] can be depleted with <color=#95C7FF>ice-element abilities</color>, and Force Gauge: [<color=#D9DA59>Freezing</color>] with <color=#95C7FF>fire-element abilities</color>.\n\n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2525004,
+    "Level": 1,
+    "ResourceId": 2525002010,
+    "EnemySkillLevelId": 2525004010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>BURNING</color>] [<color=#D9DA59>FREEZING</color>]を0にすると、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\nフォースゲージ [<color=#D9DA59>BURNING</color>]は<color=#95C7FF>冷属性アビリティ</color>で減少し、\n[<color=#D9DA59>FREEZING</color>]は<color=#95C7FF>炎属性アビリティ</color>で減少する。\n\n<color=#95C7FF>魔法攻撃</color>、<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> on self when Force Gauge: [<color=#D9DA59>Scorching</color>] or Force Gauge: [<color=#D9DA59>Freezing</color>] is reduced to 0. Force Gauge: [<color=#D9DA59>Scorching</color>] can be depleted with <color=#95C7FF>ice-element abilities</color>, and Force Gauge: [<color=#D9DA59>Freezing</color>] with <color=#95C7FF>fire-element abilities</color>.\n\n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=389><color=#95C7FF>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2525010,
+    "Level": 1,
+    "ResourceId": 2525010010,
+    "EnemySkillLevelId": 2525005010
   },
   {
     "BossCaution": {

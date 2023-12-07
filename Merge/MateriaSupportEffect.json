@@ -152,5 +152,27 @@
     "SupportEffectType": 14,
     "SupportEffectTriggerType": 1,
     "MateriaSupportEffectFilterGroupId": 3
+  },
+  {
+    "Id": 510011,
+    "Description": {
+      "Ja": "ケアル系アビリティの対象が<color=#76FBFD>全体化</color>",
+      "En": "Cure spells target <color=#76FBFD>all</color>"
+    },
+    "MateriaSupportEffectGroupId": 51001,
+    "SupportEffectType": 13,
+    "SupportEffectTriggerType": 0,
+    "MateriaSupportEffectFilterGroupId": 0
+  },
+  {
+    "Id": 510012,
+    "Description": {
+      "Ja": "ケアル系アビリティの回復量<color=#76FBFD>−{0}%</color>",
+      "En": "Cure Spell Restoration Amt. <color=#76FBFD>-{0}%</color>"
+    },
+    "MateriaSupportEffectGroupId": 51001,
+    "SupportEffectType": 4,
+    "SupportEffectTriggerType": 0,
+    "MateriaSupportEffectFilterGroupId": 0
   }
 ]
