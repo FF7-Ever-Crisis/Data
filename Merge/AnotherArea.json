@@ -203,8 +203,8 @@
     "AnotherAreaType": 3,
     "OrderNo": 7,
     "ResourceId": 20801,
-    "DisplayConditionSetId": 100,
-    "LockConditionSetId": 40002080101,
+    "DisplayConditionSetId": 41002080301,
+    "LockConditionSetId": 40002080301,
     "HasTerm": true
   },
   {
@@ -231,6 +231,32 @@
     "ResourceId": 20901,
     "DisplayConditionSetId": 41002090301,
     "LockConditionSetId": 40002090301,
+    "HasTerm": true
+  },
+  {
+    "Id": 21001,
+    "Name": {
+      "Ja": "村はずれの工場",
+      "En": "Abandoned Factory"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 10,
+    "ResourceId": 21001,
+    "DisplayConditionSetId": 10002100101,
+    "LockConditionSetId": 40002100101,
+    "HasTerm": false
+  },
+  {
+    "Id": 21002,
+    "Name": {
+      "Ja": "村はずれの工場",
+      "En": "Abandoned Factory"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 10,
+    "ResourceId": 21001,
+    "DisplayConditionSetId": 41002100301,
+    "LockConditionSetId": 40002100301,
     "HasTerm": true
   },
   {
@@ -348,6 +374,19 @@
     "ResourceId": 20901,
     "DisplayConditionSetId": 10003090101,
     "LockConditionSetId": 40003090101,
+    "HasTerm": false
+  },
+  {
+    "Id": 31001,
+    "Name": {
+      "Ja": "村はずれの工場",
+      "En": "Abandoned Factory"
+    },
+    "AnotherAreaType": 1,
+    "OrderNo": 10,
+    "ResourceId": 21001,
+    "DisplayConditionSetId": 10003100101,
+    "LockConditionSetId": 40003100101,
     "HasTerm": false
   },
   {

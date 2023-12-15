@@ -2394,6 +2394,111 @@
     "WinResetId": 0
   },
   {
+    "Id": 11010601,
+    "Name": {
+      "Ja": "バハムートの試練 NORMAL",
+      "En": "Trial of Bahamut - Normal"
+    },
+    "SoloAreaId": 110106,
+    "PremiseSoloAreaBattleId": 0,
+    "OrderNo": 10,
+    "BattleId": 11010601,
+    "BattleRankGroupId": 11010601,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 15,
+    "FirstRewardSetId": 42110106010,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11010611,
+    "Name": {
+      "Ja": "バハムートの試練 HARD",
+      "En": "Trial of Bahamut - Hard"
+    },
+    "SoloAreaId": 110106,
+    "PremiseSoloAreaBattleId": 11010601,
+    "OrderNo": 20,
+    "BattleId": 11010611,
+    "BattleRankGroupId": 11010611,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 18,
+    "FirstRewardSetId": 42110106110,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11010621,
+    "Name": {
+      "Ja": "バハムートの試練 VERY HARD",
+      "En": "Trial of Bahamut - Very Hard"
+    },
+    "SoloAreaId": 110106,
+    "PremiseSoloAreaBattleId": 11010611,
+    "OrderNo": 30,
+    "BattleId": 11010621,
+    "BattleRankGroupId": 11010621,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 42110106210,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11010631,
+    "Name": {
+      "Ja": "バハムートの試練 EX 1",
+      "En": "Trial of Bahamut - EX 1"
+    },
+    "SoloAreaId": 110106,
+    "PremiseSoloAreaBattleId": 11010621,
+    "OrderNo": 40,
+    "BattleId": 11010631,
+    "BattleRankGroupId": 1,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 0,
+    "FirstRewardSetId": 42110106310,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11010641,
+    "Name": {
+      "Ja": "バハムートの試練 EX 2",
+      "En": "Trial of Bahamut - EX 2"
+    },
+    "SoloAreaId": 110106,
+    "PremiseSoloAreaBattleId": 11010631,
+    "OrderNo": 50,
+    "BattleId": 11010641,
+    "BattleRankGroupId": 1,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 0,
+    "FirstRewardSetId": 42110106410,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
     "Id": 11011001,
     "Name": {
       "Ja": "ラムウの試練 NORMAL",

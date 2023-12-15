@@ -114,6 +114,25 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 102002,
+    "Name": {
+      "Ja": "CRISIS CORE\nクリアパック 2ND",
+      "En": "CRISIS CORE\n2nd Completion Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 10,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000102002,
+    "OrderNo": 3,
+    "ResourceId": 102002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001022,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 102,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 103000,
     "Name": {
       "Ja": "THE FIRST SOLDIER\nストーリー攻略パック",
@@ -2466,6 +2485,82 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 1022,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1023001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5トゥインクルスターパックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Twinkling Star Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001023001,
+    "OrderNo": 1,
+    "ResourceId": 1023001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005045,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1023,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1023002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5トゥインクルスターパックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Twinkling Star Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001023002,
+    "OrderNo": 2,
+    "ResourceId": 1023002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005046,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1023,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1024001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ブランブルスパインパックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Bramble Spine Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001024001,
+    "OrderNo": 1,
+    "ResourceId": 1024001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005047,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1024,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1024002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ブランブルスパインパックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Bramble Spine Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001024002,
+    "OrderNo": 2,
+    "ResourceId": 1024002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005048,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1024,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   }
