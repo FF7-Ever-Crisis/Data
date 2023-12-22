@@ -1,28 +1,40 @@
 [
   {
-    "guilditem_0": 200001,
-    "guilditem_1": 2,
-    "guilditem_2": 872000000200001,
-    "guilditem_3": 873000000200001,
-    "guilditem_4": 200001,
-    "guilditem_5": 500,
-    "guilditem_6": 3,
-    "guilditem_7": 0,
-    "guilditem_8": 0,
-    "guilditem_9": true,
-    "guilditem_10": 0
+    "Id": 200001,
+    "Name": {
+      "Ja": "ギルドアイコン_★3",
+      "En": "en_ギルドアイコン_★3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ギルドアイコン_★3」が設定できるようになるアイテムです。",
+      "En": "en_ギルドマーク「ギルドアイコン_★3」が設定できるようになるアイテムです。"
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200001,
+    "OrderNo": 500,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": true,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
   },
   {
-    "guilditem_0": 400001,
-    "guilditem_1": 1,
-    "guilditem_2": 872000000400001,
-    "guilditem_3": 873000000400001,
-    "guilditem_4": 400001,
-    "guilditem_5": 26,
-    "guilditem_6": 3,
-    "guilditem_7": 0,
-    "guilditem_8": 0,
-    "guilditem_9": true,
-    "guilditem_10": 0
+    "Id": 400001,
+    "Name": {
+      "Ja": "ギルド",
+      "En": "en_ギルド"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ギルド」が設定できるようになるアイテムです。",
+      "En": "en_ギルド背景「ギルド」が設定できるようになるアイテムです。"
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400001,
+    "OrderNo": 26,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": true,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
   }
 ]

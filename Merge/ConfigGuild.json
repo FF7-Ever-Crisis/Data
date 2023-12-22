@@ -1,25 +1,46 @@
 [
   {
-    "configguild_0": 1,
-    "configguild_1": 940000000000101,
-    "configguild_2": 940000000000102,
-    "configguild_3": 940000000000103,
-    "configguild_4": 200001,
-    "configguild_5": 400001,
-    "configguild_6": 24,
-    "configguild_7": 30,
-    "configguild_8": 100,
-    "configguild_9": 336,
-    "configguild_10": 5,
-    "configguild_11": 336,
-    "configguild_12": 20,
-    "configguild_13": 1,
-    "configguild_14": 4,
-    "configguild_15": 940000000000104,
-    "configguild_16": 940000000000105,
-    "configguild_17": 940000000000106,
-    "configguild_18": 940000000000107,
-    "configguild_19": 5,
-    "configguild_20": 18
+    "Id": 1,
+    "GuildNameDefault": {
+      "Ja": "GUILD",
+      "En": "en_GUILD"
+    },
+    "GuildIntroductionDefault": {
+      "Ja": "よろしくお願いします！",
+      "En": "en_よろしくお願いします！"
+    },
+    "GuildMessageDefault": {
+      "Ja": "よろしくお願いします！",
+      "En": "en_よろしくお願いします！"
+    },
+    "GuildExpTitle": {
+      "Ja": "ギルド経験値",
+      "En": "en_ギルド経験値"
+    },
+    "GuildExpDescription": {
+      "Ja": "ギルドのレベルアップに必要な経験値です。",
+      "En": "en_ギルドのレベルアップに必要な経験値です。"
+    },
+    "GuildBonusExpTitle": {
+      "Ja": "ギルドボーナスポイント",
+      "En": "en_ギルドボーナスポイント"
+    },
+    "GuildBonusExpDescription": {
+      "Ja": "ギルドボーナスの解放や強化に必要なポイントです。",
+      "En": "en_ギルドボーナスの解放や強化に必要なポイントです。"
+    },
+    "GuildDefaultEmblemGuildItemId": 200001,
+    "GuildDefaultHomeBackgroundGuildItemId": 400001,
+    "GuildPenaltyHour": 24,
+    "GuildDefaultMaxMemberCount": 30,
+    "GuildCreateConsumptionStone": 100,
+    "GuildAutoLeaveDurationHour": 336,
+    "GuildRequestLimitCount": 5,
+    "GuildMasterAutoLeaveDurationHour": 336,
+    "GuildWatchListCountMax": 20,
+    "GuildDefaultReleaseGuildBonusId": 1,
+    "GuildSubMasterMaxMemberCount": 4,
+    "GuildRankingBattleChallengeCloseBeforeEndOffsetMinutes": 5,
+    "GuildAutoEnergyShareResetId": 18
   }
 ]
