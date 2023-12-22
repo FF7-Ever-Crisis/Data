@@ -120,6 +120,126 @@
     "OrderNo": 5
   },
   {
+    "Id": 201011,
+    "Name": {
+      "Ja": "たったひとつの宝物",
+      "En": "My One Treasure"
+    },
+    "SubName": {
+      "Ja": "1",
+      "En": "1"
+    },
+    "CharacterStorySectionId": 201,
+    "PremiseCharacterStoryEpisodeId": 0,
+    "CharacterStoryEpisodeType": 1,
+    "BattleId": 0,
+    "DungeonId": 9910211,
+    "FirstClearRewardSetId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "PartyCharacterCount": 3,
+    "PartyCharacterGroupId": 1000000002,
+    "IsDrama": true,
+    "IsBattle": false,
+    "OrderNo": 1
+  },
+  {
+    "Id": 201012,
+    "Name": {
+      "Ja": "BATTLE 1",
+      "En": "BATTLE 1"
+    },
+    "SubName": {
+      "Ja": "1",
+      "En": "1"
+    },
+    "CharacterStorySectionId": 201,
+    "PremiseCharacterStoryEpisodeId": 201011,
+    "CharacterStoryEpisodeType": 2,
+    "BattleId": 50201012,
+    "DungeonId": 0,
+    "FirstClearRewardSetId": 331000201012,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "PartyCharacterCount": 3,
+    "PartyCharacterGroupId": 1000000002,
+    "IsDrama": false,
+    "IsBattle": true,
+    "OrderNo": 2
+  },
+  {
+    "Id": 201021,
+    "Name": {
+      "Ja": "ぜんぶ神羅のせいだ",
+      "En": "It's All Shinra's Fault"
+    },
+    "SubName": {
+      "Ja": "2",
+      "En": "2"
+    },
+    "CharacterStorySectionId": 201,
+    "PremiseCharacterStoryEpisodeId": 201012,
+    "CharacterStoryEpisodeType": 1,
+    "BattleId": 0,
+    "DungeonId": 9910212,
+    "FirstClearRewardSetId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "PartyCharacterCount": 3,
+    "PartyCharacterGroupId": 1000000002,
+    "IsDrama": true,
+    "IsBattle": false,
+    "OrderNo": 3
+  },
+  {
+    "Id": 201022,
+    "Name": {
+      "Ja": "BATTLE 2",
+      "En": "BATTLE 2"
+    },
+    "SubName": {
+      "Ja": "2",
+      "En": "2"
+    },
+    "CharacterStorySectionId": 201,
+    "PremiseCharacterStoryEpisodeId": 201021,
+    "CharacterStoryEpisodeType": 2,
+    "BattleId": 50201022,
+    "DungeonId": 0,
+    "FirstClearRewardSetId": 331000201022,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "PartyCharacterCount": 3,
+    "PartyCharacterGroupId": 1000000002,
+    "IsDrama": false,
+    "IsBattle": true,
+    "OrderNo": 4
+  },
+  {
+    "Id": 201031,
+    "Name": {
+      "Ja": "父ちゃんの誕生日",
+      "En": "Daddy's Birthday"
+    },
+    "SubName": {
+      "Ja": "3",
+      "En": "3"
+    },
+    "CharacterStorySectionId": 201,
+    "PremiseCharacterStoryEpisodeId": 201022,
+    "CharacterStoryEpisodeType": 1,
+    "BattleId": 0,
+    "DungeonId": 9910213,
+    "FirstClearRewardSetId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "PartyCharacterCount": 3,
+    "PartyCharacterGroupId": 1000000002,
+    "IsDrama": true,
+    "IsBattle": false,
+    "OrderNo": 5
+  },
+  {
     "Id": 301011,
     "Name": {
       "Ja": "マイナスからの再出発",

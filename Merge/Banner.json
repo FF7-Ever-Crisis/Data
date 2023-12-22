@@ -33,7 +33,7 @@
     },
     "TransitionType": 35,
     "TransitionId": 0,
-    "DisplayConditionSetId": 300000202601,
+    "DisplayConditionSetId": 100,
     "ResourceId": 100000003,
     "Priority": 21,
     "LockConditionSetId": 0
@@ -85,7 +85,7 @@
     },
     "TransitionType": 35,
     "TransitionId": 0,
-    "DisplayConditionSetId": 300000202701,
+    "DisplayConditionSetId": 100,
     "ResourceId": 100000007,
     "Priority": 34,
     "LockConditionSetId": 0
@@ -205,6 +205,32 @@
     "DisplayConditionSetId": 671003000025,
     "ResourceId": 100000019,
     "Priority": 23123002,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000020,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 23124044,
+    "DisplayConditionSetId": 671003000026,
+    "ResourceId": 100000020,
+    "Priority": 23124002,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000021,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 23124031,
+    "DisplayConditionSetId": 671003000027,
+    "ResourceId": 100000021,
+    "Priority": 23124003,
     "LockConditionSetId": 0
   },
   {
@@ -377,6 +403,19 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 200010018,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 10018,
+    "DisplayConditionSetId": 170000010018,
+    "ResourceId": 200010018,
+    "Priority": 23124007,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 200030003,
     "Banner": {
       "Ja": "入れ替える用文言",
@@ -507,6 +546,32 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 200030020,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 30020,
+    "DisplayConditionSetId": 170000030020,
+    "ResourceId": 200030020,
+    "Priority": 23124006,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200030021,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 30021,
+    "DisplayConditionSetId": 170000030021,
+    "ResourceId": 200030021,
+    "Priority": 23124005,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 300002002,
     "Banner": {
       "Ja": "",
@@ -530,6 +595,19 @@
     "DisplayConditionSetId": 613000002003,
     "ResourceId": 300002003,
     "Priority": 23122002,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300002004,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 613000002004,
+    "ResourceId": 300002004,
+    "Priority": 23124004,
     "LockConditionSetId": 0
   },
   {
