@@ -713,6 +713,29 @@
     "OrderNo": 500022
   },
   {
+    "Id": 500028,
+    "Name": {
+      "Ja": "New Year記念",
+      "En": "New Year"
+    },
+    "MissionGroupType": 4,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 260000500028,
+    "OpenConditionSetId": 260000500028,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-01-12T01:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 500028
+  },
+  {
     "Id": 600011,
     "Name": {
       "Ja": "デイリー探索",
@@ -985,6 +1008,75 @@
     "SeasonPassItemId": 0,
     "ExtraMissionBonusGroupId": 0,
     "SeasonPassId": 4,
+    "IconResourceId": 0,
+    "OrderNo": 600013
+  },
+  {
+    "Id": 600051,
+    "Name": {
+      "Ja": "デイリー探索",
+      "En": "Daily Explorations"
+    },
+    "MissionGroupType": 15,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 630000000005,
+    "OpenConditionSetId": 350501001009,
+    "LockConditionSetId": 630000000005,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "1970-01-01T00:00:00+00:00",
+    "ResetId": 4,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 5,
+    "IconResourceId": 0,
+    "OrderNo": 600011
+  },
+  {
+    "Id": 600052,
+    "Name": {
+      "Ja": "ウィークリー探索",
+      "En": "Weekly Explorations"
+    },
+    "MissionGroupType": 16,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 630000000005,
+    "OpenConditionSetId": 350501001009,
+    "LockConditionSetId": 630000000005,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "1970-01-01T00:00:00+00:00",
+    "ResetId": 5,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 5,
+    "IconResourceId": 0,
+    "OrderNo": 600012
+  },
+  {
+    "Id": 600053,
+    "Name": {
+      "Ja": "シーズン探索",
+      "En": "Season Explorations"
+    },
+    "MissionGroupType": 6,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 630000000005,
+    "OpenConditionSetId": 350501001009,
+    "LockConditionSetId": 630000000005,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "1970-01-01T00:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 5,
     "IconResourceId": 0,
     "OrderNo": 600013
   },
@@ -1829,6 +1921,52 @@
     "LockConditionSetId": 0,
     "ResourceId": 0,
     "ExpiredSendGiftStartDatetime": "2023-12-08T02:00:00+00:00",
+    "ResetId": 4,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 1200002
+  },
+  {
+    "Id": 120300401,
+    "Name": {
+      "Ja": "イベント",
+      "En": "Events"
+    },
+    "MissionGroupType": 9,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 270120300400,
+    "OpenConditionSetId": 280120300400,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-01-12T01:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 1200001
+  },
+  {
+    "Id": 120300402,
+    "Name": {
+      "Ja": "デイリー",
+      "En": "Daily"
+    },
+    "MissionGroupType": 11,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 270120300400,
+    "OpenConditionSetId": 280120300400,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-01-12T01:00:00+00:00",
     "ResetId": 4,
     "SpecialTargetId": 0,
     "RewardSkillSpecialId": 0,

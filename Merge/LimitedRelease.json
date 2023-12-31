@@ -1653,6 +1653,63 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 508001,
+    "Name": {
+      "Ja": "逆鱗を狙うハンター\nクリアパックI",
+      "En": "The Wily Hunter\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000508001,
+    "OrderNo": 1,
+    "ResourceId": 508001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001813,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 508,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 508002,
+    "Name": {
+      "Ja": "逆鱗を狙うハンター\nクリアパックII",
+      "En": "The Wily Hunter\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000508002,
+    "OrderNo": 2,
+    "ResourceId": 508002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001814,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 508,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 508003,
+    "Name": {
+      "Ja": "逆鱗を狙うハンター\nクリアパックIII",
+      "En": "The Wily Hunter\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000508003,
+    "OrderNo": 3,
+    "ResourceId": 508003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001815,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 508,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 1001001,
     "Name": {
       "Ja": "<sprite=\"tmp_icon\" index=196>5村雨パックI",
@@ -2561,6 +2618,82 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 1024,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1025001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5空斬り筆パックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Skysplitter Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001025001,
+    "OrderNo": 1,
+    "ResourceId": 1025001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005049,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1025,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1025002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5空斬り筆パックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Skysplitter Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001025002,
+    "OrderNo": 2,
+    "ResourceId": 1025002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005050,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1025,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1026001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5天光刀パックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Radiant Edge Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001026001,
+    "OrderNo": 1,
+    "ResourceId": 1026001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005051,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1026,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1026002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5天光刀パックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Radiant Edge Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001026002,
+    "OrderNo": 2,
+    "ResourceId": 1026002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005052,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1026,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   }
