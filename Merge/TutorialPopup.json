@@ -2315,6 +2315,19 @@
   },
   {
     "Title": {
+      "Ja": "挑発",
+      "En": "Provoke"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>特定の敵にターゲットが固定されている</color>状態です。\n<command_color=common_03>挑発中の敵を倒すか、サインを全て破壊する</color>ことで、\nターゲットが固定されている状態を解除することができます。\nまた、<command_color=common_03>発動者が特定のアビリティを使用することでも解除される</color>ことがあります。",
+      "En": "This ability <command_color=common_03>allows one to lock on to a specific target</color>. The effect is canceled when <command_color=common_03>the one performing the action unleashes certain abilities or is defeated</color>, or <command_color=common_03>all sigils are destroyed</color>."
+    },
+    "TutorialPopupGroupId": 300000009,
+    "Seq": 1,
+    "ResourceId": 3000000091
+  },
+  {
+    "Title": {
       "Ja": "フリーズロック",
       "En": "Freezelock"
     },
@@ -2338,6 +2351,32 @@
     "TutorialPopupGroupId": 300000013,
     "Seq": 1,
     "ResourceId": 3000000131
+  },
+  {
+    "Title": {
+      "Ja": "状態異常【睡眠】",
+      "En": "Status Ailment: Sleep"
+    },
+    "Description": {
+      "Ja": "睡眠が付与されているキャラクターは「<command_color=common_03>行動不能</color>」となります。\n<command_color=common_03>一定時間が経過するか、ダメージを受けることで解除</color>されます。\n睡眠中のキャラクターがダメージを受けた際、その<command_color=common_03>ダメージ量は通常の2倍</color>となります。",
+      "En": "Sleep <command_color=common_03>incapacitates</color> a character. The ailment will be removed <command_color=common_03>after a set amount of time or if damage is taken</color>. When afflicted with Sleep, damage taken is <command_color=common_03>doubled</color>."
+    },
+    "TutorialPopupGroupId": 300000014,
+    "Seq": 1,
+    "ResourceId": 3000000141
+  },
+  {
+    "Title": {
+      "Ja": "状態異常【混乱】",
+      "En": "Status Ailment: Confusion"
+    },
+    "Description": {
+      "Ja": "混乱が付与されているキャラクターは、<command_color=common_03>Cアビリティ使用時、一定確率で発動が失敗</color>します。\n発動失敗時、<command_color=common_03>発動したキャラクターは自身を攻撃し、ダメージを受けます</color>。\nその際、<command_color=common_03>使用したATBは返却されません</color>。\n<command_color=common_03>一定時間が経過するか、発動失敗時に自身を攻撃した際に確率で解除</color>されます。",
+      "En": "When a character afflicted with Confusion uses a <command_color=common_03>C. ability</color>, there is a chance they will <command_color=common_03>attack themselves</color>, but the ATB gauge will still be consumed. The ailment will be removed <command_color=common_03>after a set amount of time or potentially when attacking self</color>."
+    },
+    "TutorialPopupGroupId": 300000015,
+    "Seq": 1,
+    "ResourceId": 3000000151
   },
   {
     "Title": {
@@ -2468,5 +2507,18 @@
     "TutorialPopupGroupId": 310000016,
     "Seq": 1,
     "ResourceId": 3100000161
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「AEGIS」",
+      "En": "Force Gauge: Aegis"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\n<command_color=common_03>風属性でダメージを与える</color>とより大きくフォースゲージを減らすことができます。\nフォースゲージをゼロにできると、\n<command_color=common_03>敵を一定時間行動不能にする</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. <command_color=common_03>Wind-element damage</color> will deplete it even more. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time."
+    },
+    "TutorialPopupGroupId": 310000017,
+    "Seq": 1,
+    "ResourceId": 3100000171
   }
 ]

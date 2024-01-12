@@ -47,8 +47,8 @@
     "AnotherAreaType": 3,
     "OrderNo": 2,
     "ResourceId": 20201,
-    "DisplayConditionSetId": 100,
-    "LockConditionSetId": 40002020101,
+    "DisplayConditionSetId": 41002020301,
+    "LockConditionSetId": 40002020301,
     "HasTerm": true
   },
   {
@@ -260,6 +260,32 @@
     "HasTerm": true
   },
   {
+    "Id": 21101,
+    "Name": {
+      "Ja": "ミスリルマイン",
+      "En": "Mythril Mine"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 11,
+    "ResourceId": 21101,
+    "DisplayConditionSetId": 10002110101,
+    "LockConditionSetId": 40002110101,
+    "HasTerm": false
+  },
+  {
+    "Id": 21102,
+    "Name": {
+      "Ja": "ミスリルマイン",
+      "En": "Mythril Mine"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 11,
+    "ResourceId": 21101,
+    "DisplayConditionSetId": 41002110301,
+    "LockConditionSetId": 40002110301,
+    "HasTerm": true
+  },
+  {
     "Id": 30101,
     "Name": {
       "Ja": "壱番魔晄炉",
@@ -387,6 +413,19 @@
     "ResourceId": 21001,
     "DisplayConditionSetId": 10003100101,
     "LockConditionSetId": 40003100101,
+    "HasTerm": false
+  },
+  {
+    "Id": 31101,
+    "Name": {
+      "Ja": "ミスリルマイン",
+      "En": "Mythril Mine"
+    },
+    "AnotherAreaType": 1,
+    "OrderNo": 11,
+    "ResourceId": 21101,
+    "DisplayConditionSetId": 10003110101,
+    "LockConditionSetId": 40003110101,
     "HasTerm": false
   },
   {

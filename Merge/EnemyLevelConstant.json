@@ -21,6 +21,26 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>隠術</color>] は<color=#95C7FF>有効なサインを非表示にする</color>が、<color=#95C7FF>非表示サインと一致した\nアビリティでサイン破壊を行う</color>と解除できる。\n\n<color=#95C7FF>物理攻撃</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。\nまた、<color=#95C7FF>各サインを満遍なく編成する</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>physical attacks</color>. <color=#95C7FF>Hides sigils</color> with <color=#D9DA59>Shroud</color>. Shroud can be canceled by <color=#95C7FF>destroying any hidden sigil</color>.\n\n<color=#95C7FF>Physical attacks</color> and <color=#95C7FF>a strategy utilizing all sigils</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1006004,
+    "Level": 1,
+    "ResourceId": 1006004010,
+    "EnemySkillLevelId": 1006001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>隠術</color>] は<color=#95C7FF>有効なサインを非表示にする</color>が、<color=#95C7FF>非表示サインと一致した\nアビリティでサイン破壊を行う</color>と解除できる。\n\n<color=#95C7FF>物理攻撃</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。\nまた、<color=#95C7FF>各サインを満遍なく編成する</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>physical attacks</color>. <color=#95C7FF>Hides sigils</color> with <color=#D9DA59>Shroud</color>. Shroud can be canceled by <color=#95C7FF>destroying any hidden sigil</color>.\n\n<color=#95C7FF>Physical attacks</color> and <color=#95C7FF>a strategy utilizing all sigils</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1006004,
+    "Level": 40,
+    "ResourceId": 1006004010,
+    "EnemySkillLevelId": 1006001020
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理・魔法共に強力なアビリティ</color>を多用する。\n[<color=#D9DA59>隠術</color>] は<color=#95C7FF>有効なサインを非表示にする</color>が、<color=#95C7FF>非表示サインと一致した\nアビリティでサイン破壊を行う</color>と解除できる。\n\n<color=#95C7FF>物理攻撃</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF>各サインを満遍なく編成する</color>対策が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>powerful physical and magic abilities</color>. <color=#95C7FF>Hides sigils</color> with <color=#D9DA59>Shroud</color>. Shroud can be canceled by <color=#95C7FF>destroying any hidden sigil</color>.\n\n<color=#95C7FF>Physical attacks</color> and <color=#95C7FF>a strategy utilizing all sigils</color> are effective against this enemy."
     },
@@ -94,6 +114,46 @@
       "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 \n\n<color=#95C7FF>雷属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>ピラミッド</color>] 中は対象1人を拘束し行動不能にする。\n\n<color=#95C7FF>雷属性耐性</color>が有効。\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence\n \nUses many <color=#95C7FF>lightning-element physical attacks</color>. Also uses <color=#D9DA59>Pyramid</color> to incapacitate a single target."
     },
+    "EnemyLevelConstantGroupId": 1012005,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1012001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 \n\n<color=#95C7FF>雷属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>ピラミッド</color>] 中は対象1人を拘束し行動不能にする。\n\n<color=#95C7FF>雷属性耐性</color>が有効。\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence\n \nUses many <color=#95C7FF>lightning-element physical attacks</color>. Also uses <color=#D9DA59>Pyramid</color> to incapacitate a single target."
+    },
+    "EnemyLevelConstantGroupId": 1012006,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1012002010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 \n\n<color=#95C7FF>雷属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>ピラミッド</color>] 中は対象1人を拘束し行動不能にする。\n\n<color=#95C7FF>雷属性耐性</color>が有効。\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence\n \nUses many <color=#95C7FF>lightning-element physical attacks</color>. Also uses <color=#D9DA59>Pyramid</color> to incapacitate a single target."
+    },
+    "EnemyLevelConstantGroupId": 1012007,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1012003010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 \n\n<color=#95C7FF>雷属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>ピラミッド</color>] 中は対象1人を拘束し行動不能にする。\n\n<color=#95C7FF>雷属性耐性</color>が有効。\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence\n \nUses many <color=#95C7FF>lightning-element physical attacks</color>. Also uses <color=#D9DA59>Pyramid</color> to incapacitate a single target."
+    },
+    "EnemyLevelConstantGroupId": 1012008,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1012004010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 \n\n<color=#95C7FF>雷属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>ピラミッド</color>] 中は対象1人を拘束し行動不能にする。\n\n<color=#95C7FF>雷属性耐性</color>が有効。\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence\n \nUses many <color=#95C7FF>lightning-element physical attacks</color>. Also uses <color=#D9DA59>Pyramid</color> to incapacitate a single target."
+    },
     "EnemyLevelConstantGroupId": 1012031,
     "Level": 1,
     "ResourceId": 1012001010,
@@ -138,6 +198,166 @@
     "Level": 1,
     "ResourceId": 1012001010,
     "EnemySkillLevelId": 1012005010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013001,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013002,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013003,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001020
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013004,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001030
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013005,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013006,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013007,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001020
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<color=#95C7FF>強力な土属性の物理アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>AEGIS</color>] は、ダメージを与えることで減少する。\n自身にターゲットを固定する<color=#95C7FF>挑発</color>の効果で味方を守る。\n[<color=#D9DA59>ドリームパウダー</color>] は対象に<color=#95C7FF>睡眠</color>を付与する。\n\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>が有効。\nまた、物防・魔防が高いため、<sprite=\"tmp_icon\" index=387><color=#95C7FF>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1013008,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001030
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014001,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014002,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014003,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001020
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014004,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001030
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014005,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014006,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014007,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001020
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の物理アビリティ</color>を使用する。\n[<color=#D9DA59>アタックスタイル</color>] 中は物攻が上昇し、物防・魔防が減少する。\n[<color=#D9DA59>ディフェンススタイル</color>] 中は物攻が減少し、物防・魔防が上昇する。\n[<color=#D9DA59>魅惑</color>] は対象に<color=#95C7FF>混乱</color>を付与する。\n\n<color=#95C7FF>魔法攻撃</color>、または<sprite=\"tmp_icon\" index=324><color=#95C7FF>物攻アップ</color>が有効。\nまた、物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>物防アップ</color>、<sprite=\"tmp_icon\" index=388><color=#95C7FF>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 1014008,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001030
   },
   {
     "BossCaution": {
@@ -328,6 +548,16 @@
     "Level": 1,
     "ResourceId": 2006101010,
     "EnemySkillLevelId": 2006101010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：なし\n\n[<color=#D9DA59>ダブルクロー</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与した対象に、\n<color=#95C7FF>炎属性の魔法攻撃</color> [<color=#D9DA59>ブレイズブレス</color>] を使用する。\n\n<color=#95C7FF>物理攻撃</color>が有効。\n",
+      "En": "Immunities: None\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Double Claw</color>, and subsequently uses the <color=#95C7FF>fire-element magic attack</color> <color=#D9DA59>Scorching Breath</color> on that same target.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2006201,
+    "Level": 1,
+    "ResourceId": 2006201010,
+    "EnemySkillLevelId": 2006201010
   },
   {
     "BossCaution": {

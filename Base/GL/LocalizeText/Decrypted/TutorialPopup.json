@@ -661,12 +661,24 @@
             "value": "Watermelon's Grudge"
         },
         {
+            "id": 970003000000091,
+            "value": "Provoke"
+        },
+        {
             "id": 970003000000101,
             "value": "Freezelock"
         },
         {
             "id": 970003000000131,
             "value": "Shroud"
+        },
+        {
+            "id": 970003000000141,
+            "value": "Status Ailment: Sleep"
+        },
+        {
+            "id": 970003000000151,
+            "value": "Status Ailment: Confusion"
         },
         {
             "id": 970003100000011,
@@ -707,6 +719,10 @@
         {
             "id": 970003100000161,
             "value": "Force Gauge: Freezing"
+        },
+        {
+            "id": 970003100000171,
+            "value": "Force Gauge: Aegis"
         },
         {
             "id": 971000101400101,
@@ -945,12 +961,24 @@
             "value": "The <command_color=common_03>Watermelon's Grudge gauge</color> fills over time, and when the gauge is filled, the enemy can unleash a powerful ability.\n  \nThe <command_color=common_03>number of sigils remaining</color> when the gauge is filled will determine the ability they will unleash. The <command_color=common_03>fewer</color> sigils remaining, the <command_color=common_03>stronger</color> the ability."
         },
         {
+            "id": 971003000000091,
+            "value": "This ability <command_color=common_03>allows one to lock on to a specific target</color>. The effect is canceled when <command_color=common_03>the one performing the action unleashes certain abilities or is defeated</color>, or <command_color=common_03>all sigils are destroyed</color>."
+        },
+        {
             "id": 971003000000101,
             "value": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
         },
         {
             "id": 971003000000131,
             "value": "This ability <command_color=common_03>hides the sigils</color> that appear during streamphase. Shroud can be canceled by <command_color=common_03>destroying any hidden sigil</color>."
+        },
+        {
+            "id": 971003000000141,
+            "value": "Sleep <command_color=common_03>incapacitates</color> a character. The ailment will be removed <command_color=common_03>after a set amount of time or if damage is taken</color>. When afflicted with Sleep, damage taken is <command_color=common_03>doubled</color>."
+        },
+        {
+            "id": 971003000000151,
+            "value": "When a character afflicted with Confusion uses a <command_color=common_03>C. ability</color>, there is a chance they will <command_color=common_03>attack themselves</color>, but the ATB gauge will still be consumed. The ailment will be removed <command_color=common_03>after a set amount of time or potentially when attacking self</color>."
         },
         {
             "id": 971003100000011,
@@ -991,6 +1019,10 @@
         {
             "id": 971003100000161,
             "value": "<command_color=common_03>Dealing fire-element damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time and their <command_color=common_03>PATK will be greatly reduced</color>.\n\nThe gauge will also be depleted when <command_color=common_03>the enemy uses certain abilities</color>."
+        },
+        {
+            "id": 971003100000171,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. <command_color=common_03>Wind-element damage</color> will deplete it even more. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time."
         }
     ]
 }

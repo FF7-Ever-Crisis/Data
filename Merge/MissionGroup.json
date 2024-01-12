@@ -736,6 +736,29 @@
     "OrderNo": 500028
   },
   {
+    "Id": 500029,
+    "Name": {
+      "Ja": "新チャプター公開記念",
+      "En": "New Chapter Release"
+    },
+    "MissionGroupType": 4,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 260000500029,
+    "OpenConditionSetId": 260000500029,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-01-22T02:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 500029
+  },
+  {
     "Id": 600011,
     "Name": {
       "Ja": "デイリー探索",
@@ -1194,6 +1217,29 @@
     "SeasonPassId": 0,
     "IconResourceId": 0,
     "OrderNo": 700501
+  },
+  {
+    "Id": 700601,
+    "Name": {
+      "Ja": "明鏡止水",
+      "En": "Clear Tranquil"
+    },
+    "MissionGroupType": 7,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 160000000019,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "1970-01-01T00:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 6,
+    "RewardSkillSpecialId": 100602,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 700601
   },
   {
     "Id": 702001,
@@ -1838,6 +1884,52 @@
     "SeasonPassId": 0,
     "IconResourceId": 0,
     "OrderNo": 1200001
+  },
+  {
+    "Id": 120200501,
+    "Name": {
+      "Ja": "イベント",
+      "En": "Events"
+    },
+    "MissionGroupType": 9,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 611000002005,
+    "OpenConditionSetId": 613000002005,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-01-31T02:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 1200001
+  },
+  {
+    "Id": 120200502,
+    "Name": {
+      "Ja": "デイリー",
+      "En": "Daily"
+    },
+    "MissionGroupType": 11,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 611000002005,
+    "OpenConditionSetId": 613000002005,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-01-31T02:00:00+00:00",
+    "ResetId": 4,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 1200002
   },
   {
     "Id": 120300201,

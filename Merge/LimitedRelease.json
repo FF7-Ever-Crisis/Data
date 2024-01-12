@@ -76,6 +76,25 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 101005,
+    "Name": {
+      "Ja": "FINAL FANTASY VII\nクリアパック 5TH",
+      "En": "FINAL FANTASY VII\n5th Completion Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 10,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620000101005,
+    "OrderNo": 5,
+    "ResourceId": 101005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001005,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 101,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 102000,
     "Name": {
       "Ja": "CRISIS CORE\nストーリー攻略パック",
@@ -1026,6 +1045,82 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 406001,
+    "Name": {
+      "Ja": "キャラクターストリーム\nユフィ成長パックI",
+      "En": "Character Stream\nYuffie's Training Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000406001,
+    "OrderNo": 1,
+    "ResourceId": 406001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001601,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 406,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 406002,
+    "Name": {
+      "Ja": "キャラクターストリーム\nユフィ成長パックII",
+      "En": "Character Stream\nYuffie's Training Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000406002,
+    "OrderNo": 2,
+    "ResourceId": 406002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001602,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 406,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 406003,
+    "Name": {
+      "Ja": "キャラクターストリーム\nユフィ成長パックIII",
+      "En": "Character Stream\nYuffie's Training Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000406003,
+    "OrderNo": 3,
+    "ResourceId": 406003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001603,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 406,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 406004,
+    "Name": {
+      "Ja": "キャラクターストリーム\nユフィ成長パックIV",
+      "En": "Character Stream\nYuffie's Training Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000406004,
+    "OrderNo": 4,
+    "ResourceId": 406004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001604,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 406,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 420001,
     "Name": {
       "Ja": "キャラクターストリーム\nザックス成長パックI",
@@ -1105,7 +1200,7 @@
     "Id": 449001,
     "Name": {
       "Ja": "キャラクターストリーム\nセフィロス成長パックI",
-      "En": "Sephiroth's\nCharacter Stream Pack I"
+      "En": "Character Stream\nSephiroth's Training Pack I"
     },
     "LimitedReleaseTriggerSourceType": 1,
     "Seq": 1,
@@ -1124,7 +1219,7 @@
     "Id": 449002,
     "Name": {
       "Ja": "キャラクターストリーム\nセフィロス成長パックII",
-      "En": "Sephiroth's\nCharacter Stream Pack II"
+      "En": "Character Stream\nSephiroth's Training Pack II"
     },
     "LimitedReleaseTriggerSourceType": 1,
     "Seq": 2,
@@ -1143,7 +1238,7 @@
     "Id": 449003,
     "Name": {
       "Ja": "キャラクターストリーム\nセフィロス成長パックIII",
-      "En": "Sephiroth's\nCharacter Stream Pack III"
+      "En": "Character Stream\nSephiroth's Training Pack III"
     },
     "LimitedReleaseTriggerSourceType": 1,
     "Seq": 3,
@@ -1162,7 +1257,7 @@
     "Id": 449004,
     "Name": {
       "Ja": "キャラクターストリーム\nセフィロス成長パックIV",
-      "En": "Sephiroth's\nCharacter Stream Pack IV"
+      "En": "Character Stream\nSephiroth's Training Pack IV"
     },
     "LimitedReleaseTriggerSourceType": 1,
     "Seq": 4,
@@ -1706,6 +1801,63 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 508,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 509001,
+    "Name": {
+      "Ja": "セフィロス降臨\nクリアパックI",
+      "En": "Sephiroth - The Arrival\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000509001,
+    "OrderNo": 1,
+    "ResourceId": 509001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001816,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 509,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 509002,
+    "Name": {
+      "Ja": "セフィロス降臨\nクリアパックII",
+      "En": "Sephiroth - The Arrival\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000509002,
+    "OrderNo": 2,
+    "ResourceId": 509002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001817,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 509,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 509003,
+    "Name": {
+      "Ja": "セフィロス降臨\nクリアパックIII",
+      "En": "Sephiroth - The Arrival\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000509003,
+    "OrderNo": 3,
+    "ResourceId": 509003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001818,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 509,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   },
@@ -2694,6 +2846,82 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 1026,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1027001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5アークティックスターパックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Arctic Star Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001027001,
+    "OrderNo": 1,
+    "ResourceId": 1027001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005053,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1027,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1027002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5アークティックスターパックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Arctic Star Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001027002,
+    "OrderNo": 2,
+    "ResourceId": 1027002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005054,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1027,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1028001,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5イルマティックパックI",
+      "En": "5<sprite=\"tmp_icon\" index=196> Ultimatic Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001028001,
+    "OrderNo": 1,
+    "ResourceId": 1028001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005055,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1028,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1028002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5イルマティックパックII",
+      "En": "5<sprite=\"tmp_icon\" index=196> Ultimatic Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001028002,
+    "OrderNo": 2,
+    "ResourceId": 1028002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005056,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1028,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   }

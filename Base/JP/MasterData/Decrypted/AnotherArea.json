@@ -34,8 +34,8 @@
         "AnotherAreaType": 3,
         "OrderNo": 2,
         "ResourceId": 20201,
-        "DisplayConditionSetId": 100,
-        "LockConditionSetId": 40002020101,
+        "DisplayConditionSetId": 41002020301,
+        "LockConditionSetId": 40002020301,
         "NameLanguageId": 430000000020201,
         "HasTerm": true
     },
@@ -200,6 +200,26 @@
         "HasTerm": true
     },
     {
+        "Id": 21101,
+        "AnotherAreaType": 3,
+        "OrderNo": 11,
+        "ResourceId": 21101,
+        "DisplayConditionSetId": 10002110101,
+        "LockConditionSetId": 40002110101,
+        "NameLanguageId": 430000000021101,
+        "HasTerm": false
+    },
+    {
+        "Id": 21102,
+        "AnotherAreaType": 3,
+        "OrderNo": 11,
+        "ResourceId": 21101,
+        "DisplayConditionSetId": 41002110301,
+        "LockConditionSetId": 40002110301,
+        "NameLanguageId": 430000000021101,
+        "HasTerm": true
+    },
+    {
         "Id": 30101,
         "AnotherAreaType": 1,
         "OrderNo": 1,
@@ -297,6 +317,16 @@
         "DisplayConditionSetId": 10003100101,
         "LockConditionSetId": 40003100101,
         "NameLanguageId": 430000000021001,
+        "HasTerm": false
+    },
+    {
+        "Id": 31101,
+        "AnotherAreaType": 1,
+        "OrderNo": 11,
+        "ResourceId": 21101,
+        "DisplayConditionSetId": 10003110101,
+        "LockConditionSetId": 40003110101,
+        "NameLanguageId": 430000000021101,
         "HasTerm": false
     },
     {
