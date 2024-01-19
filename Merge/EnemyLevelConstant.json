@@ -1551,6 +1551,26 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n膨大なサイン数の<color=#95C7FF>ストリームフェイズ</color>を使用する。\nインタラプトに失敗すると<color=#95C7FF>強力な全体攻撃</color> [<color=#D9DA59>特大爆発</color>] を使用する。\n\n全ての攻撃に対し、高い耐性を持つ。\n<color=#95C7FF>サインブースト</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nMany sigils appear during its <color=#95C7FF>stream phase</color>. If the phase fails to be interrupted, unleashes the <color=#95C7FF>powerful multi-target attack</color> <color=#D9DA59>Massive Burst</color>.\n\nHas high resistance to all attacks. <color=#95C7FF>Sigil Boost</color> is effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2026101,
+    "Level": 1,
+    "ResourceId": 2026101010,
+    "EnemySkillLevelId": 2026101010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n膨大なサイン数の<color=#95C7FF>ストリームフェイズ</color>を使用する。\nインタラプトに失敗すると<color=#95C7FF>強力な全体攻撃</color> [<color=#D9DA59>特大爆発</color>] を使用する。\n\n全ての攻撃に対し、高い耐性を持つ。\n<color=#95C7FF>サインブースト</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nMany sigils appear during its <color=#95C7FF>stream phase</color>. If the phase fails to be interrupted, unleashes the <color=#95C7FF>powerful multi-target attack</color> <color=#D9DA59>Massive Burst</color>.\n\nHas high resistance to all attacks. <color=#95C7FF>Sigil Boost</color> is effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2026201,
+    "Level": 1,
+    "ResourceId": 2026101010,
+    "EnemySkillLevelId": 2026101010
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な冷属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nWhen HP falls below a certain amount, uses the <color=#95C7FF>powerful ice-element magic attack</color> <color=#D9DA59>Burst</color> and reduces own HP to 0."
     },
@@ -3188,6 +3208,16 @@
     "Level": 1,
     "ResourceId": 2518003010,
     "EnemySkillLevelId": 2518003010
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n対象が持つ強力なアビリティの<color=#95C7FF>属性</color>および<color=#95C7FF>物理、魔法の種類</color>を\n[<color=#D9DA59>標的サーチ・改</color>] で分析し、その<color=#95C7FF>攻撃への耐性</color>を獲得する。\n\n一度に展開する<color=#95C7FF>属性耐性</color>と<color=#95C7FF>物理、魔法耐性</color>はそれぞれ1種類なので、\n弱点である<color=#95C7FF>雷、風属性</color>を<color=#95C7FF>物理、魔法で打ち分ける編成</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses <color=#D9DA59>Threat Assessment II</color> to determine the <color=#95C7FF>elements</color> and <color=#95C7FF>physical or magic properties</color> of the target's powerful abilities, and acquire <color=#95C7FF>resistances to those elements and properties</color>.\n\n<color=#95C7FF>Resistances to only one element and one property</color> can be acquired at a time."
+    },
+    "EnemyLevelConstantGroupId": 2518011,
+    "Level": 1,
+    "ResourceId": 2518011010,
+    "EnemySkillLevelId": 2518011010
   },
   {
     "BossCaution": {

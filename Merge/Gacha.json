@@ -848,6 +848,59 @@
     "GachaWishId": 16
   },
   {
+    "Id": 10019,
+    "Name": {
+      "Ja": "レッドXIII&ルティア 新武器PUガチャ",
+      "En": "Red XIII & Lucia\nNew Weapon Featured Draw"
+    },
+    "Description": {
+      "Ja": "レッドXIII&ルティア 新武器PUガチャ",
+      "En": "Red XIII & Lucia\nNew Weapon Featured Draw"
+    },
+    "Attention": {
+      "Ja": "・レッドXIII&ルティア 新武器PUガチャの開催期間は、予告なく変更する場合があります。\n・レッドXIII&ルティア 新武器PUガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・スタンプシートの変更可能な武器マスに到達した場合、10連ガチャの10回目は\n　必ず変更可能な武器マスで設定した武器が排出されます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・レッドクリスタルとブルークリスタルを所持している場合、ブルークリスタルから先に\n　消費されます。\n・レッドXIII&ルティア 新武器PUガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、レッドXIII&ルティア 新武器PUガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- The period may change without notice.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- When a stamp is placed with a Draw 10 on a square that allows rewards to be selected, the tenth slot in that Draw 10 will yield the weapon selected in that square.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- If both red and blue crystals are held, blue crystals will be used first.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "{0} から{1}を開催いたしました。\n\n本ガチャではレッドXIII・ルティアそれぞれが装備可能な新武器が出現いたします。",
+      "En": "{1} (Held from {0})\n  \nThis draw yields weapons for Red XIII and Lucia."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 1,
+    "GachaType": 0,
+    "DisplayConditionSetId": 170000010019,
+    "LockConditionSetId": 0,
+    "GachaDetailTemplateType": 1,
+    "TicketItemId": 0,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 1001901,
+    "GachaAppealId1": 1001902,
+    "GachaAppealId2": 1001903,
+    "GachaAppealId3": 1001904,
+    "GachaAppealId4": 1001905,
+    "GachaAppealId5": 1001906,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 10019,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 100191,
+    "PickupGachaRarityLotGroupId": 1,
+    "PickupGachaWeaponLotSetId": 100192,
+    "GachaNotiType": 0,
+    "ResourceId": 10019,
+    "Priority": 12,
+    "GachaWishId": 17
+  },
+  {
     "Id": 20001,
     "Name": {
       "Ja": "チケットガチャ",
@@ -6039,6 +6092,165 @@
     "GachaNotiType": 0,
     "ResourceId": 30030,
     "Priority": 30,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 30032,
+    "Name": {
+      "Ja": "FFVIIの日カウントダウン有償限定ガチャ vol.1",
+      "En": "FFVII Day Countdown Paid-Only Draw Vol. 1"
+    },
+    "Description": {
+      "Ja": "FFVIIの日カウントダウン有償限定ガチャ vol.1",
+      "En": "FFVII Day Countdown Paid-Only Draw Vol. 1"
+    },
+    "Attention": {
+      "Ja": "・FFVIIの日カウントダウン有償限定ガチャ vol.1の開催期間は、予告なく変更する場合があります。\n・FFVIIの日カウントダウン有償限定ガチャ vol.1の★5確定枠は1枠のみとなり、\n　10回目が★5確定枠として実行されます。\n・FFVIIの日カウントダウン有償限定ガチャ vol.1から出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・FFVIIの日カウントダウン有償限定ガチャ vol.1は、1回ごとに、その提供割合に基づいて\n　抽選を行います。そのため、FFVIIの日カウントダウン有償限定ガチャ vol.1を\n　特定回数繰り返しても、必ず特定の武器が出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- The period may change without notice.\n- The draw guarantees one 5★ weapon in the tenth slot.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. As such, it is possible that the sum of all probabilities or the sum of the probabilities for each rarity may not equal 100%.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "{0}から{1}を開催いたしました。\n※「10回引く」を3度行うと、本ガチャはそれ以上行うことができません。\n※本ガチャでは★5確定枠は1枠のみです。",
+      "En": "{1} (Held from {0})!\n*x10 Draw can only be performed 3 times in this draw.\n*Only one 5★ item is guaranteed."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 3,
+    "GachaType": 0,
+    "DisplayConditionSetId": 170000030032,
+    "LockConditionSetId": 0,
+    "GachaDetailTemplateType": 3,
+    "TicketItemId": 0,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 3003201,
+    "GachaAppealId1": 0,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 300321,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 30032,
+    "Priority": 31,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 30033,
+    "Name": {
+      "Ja": "FFVIIの日カウントダウン有償限定ガチャ vol.2",
+      "En": "FFVII Day Countdown Paid-Only Draw Vol. 2"
+    },
+    "Description": {
+      "Ja": "FFVIIの日カウントダウン有償限定ガチャ vol.2",
+      "En": "FFVII Day Countdown Paid-Only Draw Vol. 2"
+    },
+    "Attention": {
+      "Ja": "・FFVIIの日カウントダウン有償限定ガチャ vol.2の開催期間は、予告なく変更する場合があります。\n・FFVIIの日カウントダウン有償限定ガチャ vol.2の★5確定枠は1枠のみとなり、\n　10回目が★5確定枠として実行されます。\n・FFVIIの日カウントダウン有償限定ガチャ vol.2から出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・FFVIIの日カウントダウン有償限定ガチャ vol.2は、1回ごとに、その提供割合に基づいて\n　抽選を行います。そのため、FFVIIの日カウントダウン有償限定ガチャ vol.2を\n　特定回数繰り返しても、必ず特定の武器が出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- The period may change without notice.\n- The draw guarantees one 5★ weapon in the tenth slot.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. As such, it is possible that the sum of all probabilities or the sum of the probabilities for each rarity may not equal 100%.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "{0}から{1}を開催いたしました。\n※「10回引く」を3度行うと、本ガチャはそれ以上行うことができません。\n※本ガチャでは★5確定枠は1枠のみです。",
+      "En": "{1} (Held from {0})!\n*x10 Draw can only be performed 3 times in this draw.\n*Only one 5★ item is guaranteed."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 3,
+    "GachaType": 0,
+    "DisplayConditionSetId": 170000030033,
+    "LockConditionSetId": 0,
+    "GachaDetailTemplateType": 3,
+    "TicketItemId": 0,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 3003301,
+    "GachaAppealId1": 0,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 300331,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 30033,
+    "Priority": 32,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 30034,
+    "Name": {
+      "Ja": "FFVIIの日カウントダウン有償限定ガチャ vol.3",
+      "En": "FFVII Day Countdown Paid-Only Draw Vol. 3"
+    },
+    "Description": {
+      "Ja": "FFVIIの日カウントダウン有償限定ガチャ vol.3",
+      "En": "FFVII Day Countdown Paid-Only Draw Vol. 3"
+    },
+    "Attention": {
+      "Ja": "・FFVIIの日カウントダウン有償限定ガチャ vol.3の開催期間は、予告なく変更する場合があります。\n・FFVIIの日カウントダウン有償限定ガチャ vol.3の★5確定枠は1枠のみとなり、\n　10回目が★5確定枠として実行されます。\n・FFVIIの日カウントダウン有償限定ガチャ vol.3から出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・FFVIIの日カウントダウン有償限定ガチャ vol.3は、1回ごとに、その提供割合に基づいて\n　抽選を行います。そのため、FFVIIの日カウントダウン有償限定ガチャ vol.3を\n　特定回数繰り返しても、必ず特定の武器が出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- The period may change without notice.\n- The draw guarantees one 5★ weapon in the tenth slot.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. As such, it is possible that the sum of all probabilities or the sum of the probabilities for each rarity may not equal 100%.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "{0}から{1}を開催いたしました。\n※「10回引く」を3度行うと、本ガチャはそれ以上行うことができません。\n※本ガチャでは★5確定枠は1枠のみです。",
+      "En": "{1} (Held from {0})!\n*x10 Draw can only be performed 3 times in this draw.\n*Only one 5★ item is guaranteed."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 3,
+    "GachaType": 0,
+    "DisplayConditionSetId": 170000030034,
+    "LockConditionSetId": 0,
+    "GachaDetailTemplateType": 3,
+    "TicketItemId": 0,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 3003401,
+    "GachaAppealId1": 0,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 300341,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 30034,
+    "Priority": 33,
     "GachaWishId": 0
   },
   {
