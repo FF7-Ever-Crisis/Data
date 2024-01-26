@@ -12992,6 +12992,166 @@
     "IsSale": false
   },
   {
+    "Id": 101008231,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101025,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101025,
+    "LockConditionSetId": 330000101025,
+    "RewardSetId": 160101008231,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000300,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 1,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008231,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008232,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101025,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101025,
+    "LockConditionSetId": 330000101025,
+    "RewardSetId": 160101008232,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300003000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 2,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008232,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008233,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101025,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101025,
+    "LockConditionSetId": 330000101025,
+    "RewardSetId": 160101008233,
+    "BonusRewardSetId": 530101008233,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 3,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008233,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008233,
+    "IsSale": false
+  },
+  {
+    "Id": 101008234,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101025,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101025,
+    "LockConditionSetId": 330000101025,
+    "RewardSetId": 160101008234,
+    "BonusRewardSetId": 530101008234,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 4,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008234,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008234,
+    "IsSale": false
+  },
+  {
+    "Id": 101008235,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101025,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101025,
+    "LockConditionSetId": 330000101025,
+    "RewardSetId": 160101008235,
+    "BonusRewardSetId": 530101008235,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 5,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008235,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008235,
+    "IsSale": false
+  },
+  {
     "Id": 101009001,
     "Name": {
       "Ja": "クラウドのメモリーパック",
@@ -14171,6 +14331,38 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 205002005,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 205002006,
+    "Name": {
+      "Ja": "ユフィ専用ウェポンパーツ",
+      "En": "Yuffie-Specific Weapon Part"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「ユフィ」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Yuffie's weapons</color>."
+    },
+    "ShopId": 205002,
+    "ShopItemType": 0,
+    "MaxCount": 20,
+    "DisplayConditionSetId": 350205002006,
+    "LockConditionSetId": 350205002006,
+    "RewardSetId": 200010060001,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 1300000020,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 1,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
     "PremiseShopItemId": 0,
     "StoreProductGroupId": 0,
     "IsSale": false
@@ -30112,6 +30304,38 @@
     "IsSale": false
   },
   {
+    "Id": 302001012,
+    "Name": {
+      "Ja": "空斬り筆",
+      "En": "Skysplitter"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302001,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 350302001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302001012,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9989,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
     "Id": 302002001,
     "Name": {
       "Ja": "フレイムプロジェクター",
@@ -30392,6 +30616,38 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 9992,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302002010,
+    "Name": {
+      "Ja": "マイクロレーザー",
+      "En": "Microlaser"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302002,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 350302001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302002010,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9991,
     "CanMultiPurchase": false,
     "ResourceId": 0,
     "ResetId": 0,
@@ -31032,6 +31288,38 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 9991,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302004011,
+    "Name": {
+      "Ja": "スノーフレーク",
+      "En": "Snowflake"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302004,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 350302001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302004011,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9990,
     "CanMultiPurchase": false,
     "ResourceId": 0,
     "ResetId": 0,
@@ -31904,6 +32192,38 @@
     "IsSale": false
   },
   {
+    "Id": 302020010,
+    "Name": {
+      "Ja": "トゥインクルスター",
+      "En": "Twinkling Star"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302020,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 350302001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302020010,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9991,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
     "Id": 302049001,
     "Name": {
       "Ja": "神羅刀壱号",
@@ -32216,6 +32536,38 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 9991,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302049011,
+    "Name": {
+      "Ja": "天光刀",
+      "En": "Radiant Edge"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302049,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 350302001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302049011,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9990,
     "CanMultiPurchase": false,
     "ResourceId": 0,
     "ResetId": 0,
@@ -32792,6 +33144,38 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 9992,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302051010,
+    "Name": {
+      "Ja": "ブランブルスパイン",
+      "En": "Bramble Spine"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302051,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 350302001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302051010,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9991,
     "CanMultiPurchase": false,
     "ResourceId": 0,
     "ResetId": 0,
