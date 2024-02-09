@@ -311,7 +311,7 @@
     "ConsumptionSetId": 300001400,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 50006,
+    "OrderNo": 50007,
     "CanMultiPurchase": false,
     "ResourceId": 101001040,
     "ResetId": 0,
@@ -343,7 +343,7 @@
     "ConsumptionSetId": 300003000,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 50005,
+    "OrderNo": 50006,
     "CanMultiPurchase": false,
     "ResourceId": 101001041,
     "ResetId": 0,
@@ -375,7 +375,7 @@
     "ConsumptionSetId": 300001400,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 50004,
+    "OrderNo": 50005,
     "CanMultiPurchase": false,
     "ResourceId": 101001042,
     "ResetId": 0,
@@ -407,7 +407,7 @@
     "ConsumptionSetId": 300003000,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 50003,
+    "OrderNo": 50004,
     "CanMultiPurchase": false,
     "ResourceId": 101001043,
     "ResetId": 0,
@@ -439,7 +439,7 @@
     "ConsumptionSetId": 300004500,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 50002,
+    "OrderNo": 50003,
     "CanMultiPurchase": false,
     "ResourceId": 101001044,
     "ResetId": 0,
@@ -471,9 +471,41 @@
     "ConsumptionSetId": 300003000,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 50001,
+    "OrderNo": 50002,
     "CanMultiPurchase": false,
     "ResourceId": 101001045,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101001046,
+    "Name": {
+      "Ja": "THE FIRST SOLDIER\nクリアパック 6TH",
+      "En": "THE FIRST SOLDIER\nCompletion Pack 6th"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101001046,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101001046,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300007000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 50001,
+    "CanMultiPurchase": false,
+    "ResourceId": 101001046,
     "ResetId": 0,
     "PremiseShopItemId": 0,
     "StoreProductGroupId": 0,
@@ -14077,6 +14109,230 @@
     "ResetId": 0,
     "PremiseShopItemId": 0,
     "StoreProductGroupId": 101008269,
+    "IsSale": false
+  },
+  {
+    "Id": 101008271,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101028,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101028,
+    "LockConditionSetId": 330000101028,
+    "RewardSetId": 160101008271,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000300,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 1,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008271,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008272,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101028,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101028,
+    "LockConditionSetId": 330000101028,
+    "RewardSetId": 160101008272,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000300,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 2,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008272,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008273,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101028,
+    "ShopItemType": 4,
+    "MaxCount": 3,
+    "DisplayConditionSetId": 330000101028,
+    "LockConditionSetId": 330000101028,
+    "RewardSetId": 160101008273,
+    "BonusRewardSetId": 530101008273,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 3,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008273,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008273,
+    "IsSale": false
+  },
+  {
+    "Id": 101008274,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101028,
+    "ShopItemType": 4,
+    "MaxCount": 3,
+    "DisplayConditionSetId": 330000101028,
+    "LockConditionSetId": 330000101028,
+    "RewardSetId": 160101008274,
+    "BonusRewardSetId": 530101008274,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 4,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008274,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008274,
+    "IsSale": false
+  },
+  {
+    "Id": 101008275,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101028,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101028,
+    "LockConditionSetId": 330000101028,
+    "RewardSetId": 160101008275,
+    "BonusRewardSetId": 530101008275,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 5,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008275,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008275,
+    "IsSale": false
+  },
+  {
+    "Id": 101008276,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101028,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101028,
+    "LockConditionSetId": 330000101028,
+    "RewardSetId": 160101008276,
+    "BonusRewardSetId": 530101008276,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 6,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008276,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008276,
+    "IsSale": false
+  },
+  {
+    "Id": 101008277,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101028,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101028,
+    "LockConditionSetId": 330000101028,
+    "RewardSetId": 160101008277,
+    "BonusRewardSetId": 530101008277,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 7,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008277,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008277,
     "IsSale": false
   },
   {

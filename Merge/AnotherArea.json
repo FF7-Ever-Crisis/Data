@@ -125,8 +125,8 @@
     "AnotherAreaType": 3,
     "OrderNo": 3,
     "ResourceId": 20501,
-    "DisplayConditionSetId": 100,
-    "LockConditionSetId": 40002050101,
+    "DisplayConditionSetId": 41002050301,
+    "LockConditionSetId": 40002050301,
     "HasTerm": true
   },
   {
@@ -283,6 +283,32 @@
     "ResourceId": 21101,
     "DisplayConditionSetId": 41002110301,
     "LockConditionSetId": 40002110301,
+    "HasTerm": true
+  },
+  {
+    "Id": 21201,
+    "Name": {
+      "Ja": "グーラスタ林道",
+      "En": "Grastia Path"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 12,
+    "ResourceId": 21201,
+    "DisplayConditionSetId": 10002120101,
+    "LockConditionSetId": 40002120101,
+    "HasTerm": false
+  },
+  {
+    "Id": 21202,
+    "Name": {
+      "Ja": "グーラスタ林道",
+      "En": "Grastia Path"
+    },
+    "AnotherAreaType": 3,
+    "OrderNo": 12,
+    "ResourceId": 21201,
+    "DisplayConditionSetId": 41002120301,
+    "LockConditionSetId": 40002120301,
     "HasTerm": true
   },
   {
@@ -476,6 +502,19 @@
     "AnotherAreaType": 2,
     "OrderNo": 1,
     "ResourceId": 40501,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "HasTerm": false
+  },
+  {
+    "Id": 40901,
+    "Name": {
+      "Ja": "カウピネ洞窟群",
+      "En": "Cawpine Caverns"
+    },
+    "AnotherAreaType": 2,
+    "OrderNo": 1,
+    "ResourceId": 40901,
     "DisplayConditionSetId": 0,
     "LockConditionSetId": 0,
     "HasTerm": false

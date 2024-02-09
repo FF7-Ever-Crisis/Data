@@ -4560,6 +4560,66 @@
     "IsRefresh": true
   },
   {
+    "Id": 190330011,
+    "NameTemplate": {
+      "Ja": "FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1をクリアする。",
+      "En": "Clear FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1をクリアする。",
+      "En": "Clear FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1."
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 61,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 310209,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403300110001,
+    "OrderNo": 190330011,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190330011,
+    "OpenConditionSetId": 240190330011,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 310209,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190330012,
+    "NameTemplate": {
+      "Ja": "FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1をクリアする。",
+      "En": "Clear FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1をクリアする。",
+      "En": "Clear FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1."
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 62,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 310209,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403300120001,
+    "OrderNo": 190330012,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190330011,
+    "OpenConditionSetId": 240190330011,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 310209,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190500001,
     "NameTemplate": {
       "Ja": "アナザーダンジョン「壱番魔晄炉AREA1」を1回クリアする。",
@@ -5059,6 +5119,36 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 190501101,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 190501201,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョン「グーラスタ林道 VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Grastia Path - Very Hard."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョン「グーラスタ林道 VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Grastia Path - Very Hard."
+    },
+    "MissionSetId": 190004,
+    "MissionSetIdx": 18,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 2120301,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190501201,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -14184,6 +14274,306 @@
     "OpenConditionSetId": 260000500030,
     "LockConditionSetId": 0,
     "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031001,
+    "NameTemplate": {
+      "Ja": "グレンを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Glenn in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Glenn in the party."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031002,
+    "NameTemplate": {
+      "Ja": "マットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Matt in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Matt in the party."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031003,
+    "NameTemplate": {
+      "Ja": "ルティアを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Lucia in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Lucia in the party."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031004,
+    "NameTemplate": {
+      "Ja": "セフィロスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Sephiroth in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Sephiroth in the party."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031005,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031006,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031007,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031008,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031009,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500031010,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500031,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500031,
+    "OpenConditionSetId": 260000500031,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,

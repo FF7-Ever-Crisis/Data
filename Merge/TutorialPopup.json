@@ -2341,6 +2341,19 @@
   },
   {
     "Title": {
+      "Ja": "エレクトリファイ",
+      "En": "Charged"
+    },
+    "Description": {
+      "Ja": "アビリティによる攻撃でダメージを与えると「<command_color=common_03>雷属性の反撃ダメージ</color>」を受ける状態です。\nたたかうを除く、<command_color=common_03>物理・魔法の攻撃アビリティでのダメージ発生時</color>に反撃されます。\n<command_color=common_03>ストリームフェイズが終了すると同時に解除</color>されます。",
+      "En": "<command_color=common_03>Dealing damage with physical or magic abilities</color> (excluding Attack) to the enemy in this state will cause them to <command_color=common_03>counter with lightning-element attacks</color>. It will last <command_color=common_03>until the stream phase is over</color>."
+    },
+    "TutorialPopupGroupId": 300000011,
+    "Seq": 1,
+    "ResourceId": 3000000111
+  },
+  {
+    "Title": {
       "Ja": "隠術",
       "En": "Shroud"
     },
