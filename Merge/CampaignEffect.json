@@ -337,6 +337,48 @@
   },
   {
     "Name": {
+      "Ja": "キャラクター経験値獲得量UP",
+      "En": "More Character EXP"
+    },
+    "Description": {
+      "Ja": "キャラクター経験値の獲得量が{0}％増加します。",
+      "En": "Increases character EXP obtained by {0}%."
+    },
+    "CampaignEffectGroupId": 3013,
+    "CampaignEffectType": 2,
+    "EffectValue": 5000,
+    "TargetId": 0
+  },
+  {
+    "Name": {
+      "Ja": "キャラクター経験値獲得量UP",
+      "En": "More Character EXP"
+    },
+    "Description": {
+      "Ja": "キャラクター経験値の獲得量が{0}％増加します。",
+      "En": "Increases character EXP obtained by {0}%."
+    },
+    "CampaignEffectGroupId": 3014,
+    "CampaignEffectType": 2,
+    "EffectValue": 3000,
+    "TargetId": 0
+  },
+  {
+    "Name": {
+      "Ja": "キャラクター経験値獲得量UP（P.Lv.30以下）",
+      "En": "More Character EXP (Max. P. Lv. 30)"
+    },
+    "Description": {
+      "Ja": "キャラクター経験値の獲得量が{0}％増加します。",
+      "En": "Increases character EXP obtained by {0}%."
+    },
+    "CampaignEffectGroupId": 3015,
+    "CampaignEffectType": 2,
+    "EffectValue": 5000,
+    "TargetId": 0
+  },
+  {
+    "Name": {
       "Ja": "プレイヤー経験値獲得量UP（PLv 10以下）",
       "En": "More Player EXP (Max. P. Lv. 10)"
     },
@@ -570,7 +612,7 @@
     },
     "CampaignEffectGroupId": 8001,
     "CampaignEffectType": 3,
-    "EffectValue": 1500,
+    "EffectValue": 3000,
     "TargetId": 0
   },
   {
@@ -598,7 +640,7 @@
     },
     "CampaignEffectGroupId": 8002,
     "CampaignEffectType": 2,
-    "EffectValue": 1500,
+    "EffectValue": 5000,
     "TargetId": 0
   },
   {
@@ -612,7 +654,7 @@
     },
     "CampaignEffectGroupId": 8002,
     "CampaignEffectType": 3,
-    "EffectValue": 1500,
+    "EffectValue": 3000,
     "TargetId": 0
   }
 ]

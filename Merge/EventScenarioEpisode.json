@@ -2905,5 +2905,309 @@
     "EventSoloBattleId": 0,
     "EpisodeDisplayConditionSetId": 700008002021,
     "EpisodeLockConditionSetId": 710008002105
+  },
+  {
+    "Id": 1100101,
+    "Name": {
+      "Ja": "英雄との行路",
+      "En": "Alongside a Hero"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001301,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100102,
+    "Name": {
+      "Ja": "村一番のガイド",
+      "En": "The Best Guide in Town"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100101,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001302,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100103,
+    "Name": {
+      "Ja": "BATTLE 1",
+      "En": "BATTLE 1"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100102,
+    "DungeonId": 0,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001303,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100104,
+    "Name": {
+      "Ja": "BATTLE 2",
+      "En": "BATTLE 2"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100103,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001304,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100105,
+    "Name": {
+      "Ja": "魔晄炉への道",
+      "En": "Path to the Mako Reactor"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100104,
+    "DungeonId": 0,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001305,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100106,
+    "Name": {
+      "Ja": "BATTLE 3",
+      "En": "BATTLE 3"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100105,
+    "DungeonId": 0,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001306,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100107,
+    "Name": {
+      "Ja": "BATTLE 4",
+      "En": "BATTLE 4"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100106,
+    "DungeonId": 0,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001307,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100108,
+    "Name": {
+      "Ja": "魔晄の泉",
+      "En": "The Mako Spring"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100107,
+    "DungeonId": 0,
+    "OrderNo": 8,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001308,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100109,
+    "Name": {
+      "Ja": "BATTLE 5",
+      "En": "BATTLE 5"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100108,
+    "DungeonId": 0,
+    "OrderNo": 9,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001309,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100110,
+    "Name": {
+      "Ja": "BATTLE 6",
+      "En": "BATTLE 6"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100109,
+    "DungeonId": 0,
+    "OrderNo": 10,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001310,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100111,
+    "Name": {
+      "Ja": "好みの展開",
+      "En": "To Be a Hero"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100110,
+    "DungeonId": 0,
+    "OrderNo": 11,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001311,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100112,
+    "Name": {
+      "Ja": "ニブル魔晄炉",
+      "En": "The Nibel Reactor"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100124,
+    "DungeonId": 9901500,
+    "OrderNo": 14,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100113,
+    "Name": {
+      "Ja": "ジェノバ・プロジェクト",
+      "En": "The Jenova Project"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100112,
+    "DungeonId": 9901501,
+    "OrderNo": 15,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100114,
+    "Name": {
+      "Ja": "ニブルヘイムの惨劇",
+      "En": "Tragedy at Nibelheim"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100113,
+    "DungeonId": 9901502,
+    "OrderNo": 16,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100123,
+    "Name": {
+      "Ja": "BATTLE 7",
+      "En": "BATTLE 7"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100111,
+    "DungeonId": 0,
+    "OrderNo": 12,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001318,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100124,
+    "Name": {
+      "Ja": "BATTLE 8",
+      "En": "BATTLE 8"
+    },
+    "EventScenarioSectionId": 11001,
+    "PremiseEventScenarioEpisodeId": 1100123,
+    "DungeonId": 0,
+    "OrderNo": 13,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11001319,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
   }
 ]

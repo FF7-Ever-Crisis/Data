@@ -4950,6 +4950,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 100030,
+    "Name": {
+      "Ja": "プレミアムガチャチケット",
+      "En": "Premium Draw Ticket"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「新武器PUガチャ」「コラボガチャ」</color>を引くことができるチケット。\n\n※<command_color=common_03>「新武器PUガチャ」「コラボガチャ」</color>で「10回引く」を実行した場合、スタンプが押されます。",
+      "En": "Used for <command_color=common_03>New Weapon Featured Draw</color> and <command_color=common_03>Crossover Draw</color>.\n\n*A x10 Draw in a <command_color=common_03>New Weapon Featured Draw</color> or <command_color=common_03>Crossover Draw</color> will yield one or several stamps."
+    },
+    "ItemType": 34,
+    "ItemRarityType": 3,
+    "MaxCapacity": 999,
+    "ResourceId": 100030,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 100032,
     "Name": {
       "Ja": "ヴァレンタイン特別<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
@@ -5337,6 +5359,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1001030,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001032,
+    "Name": {
+      "Ja": "ボルケーノスパーダ・パーツ",
+      "En": "Igneous Saber Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ボルケーノスパーダ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Igneous Saber</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001032,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -5914,6 +5958,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003031,
+    "Name": {
+      "Ja": "ガイドグローブ・パーツ",
+      "En": "Guide Gloves Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ガイドグローブ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Guide Gloves</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-16T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -7392,6 +7458,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1049020,
+    "Name": {
+      "Ja": "阿修羅・パーツ",
+      "En": "Ashura Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「阿修羅」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Ashura</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049020,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1050001,
     "Name": {
       "Ja": "マイスティーロ・パーツ",
@@ -8511,6 +8599,72 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-01-31T02:00:00+00:00",
     "EndDatetime": "2024-02-21T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110011,
+    "Name": {
+      "Ja": "モーグリメダル",
+      "En": "Moogle Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-16T02:00:00+00:00",
+    "EndDatetime": "2024-03-06T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110012,
+    "Name": {
+      "Ja": "星の恵み",
+      "En": "Planet's Blessing"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-16T02:00:00+00:00",
+    "EndDatetime": "2024-03-06T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110013,
+    "Name": {
+      "Ja": "星の神秘",
+      "En": "Planet's Splendor"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-16T02:00:00+00:00",
+    "EndDatetime": "2024-03-06T01:59:59+00:00",
     "OrderNo": 0
   }
 ]
