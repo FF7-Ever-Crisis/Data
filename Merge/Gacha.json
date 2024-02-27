@@ -5883,6 +5883,748 @@
     "GachaWishId": 0
   },
   {
+    "Id": 20095,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、チケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=196>5以外の武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0}.\n*Only 5<sprite=\"tmp_icon\" index=196> weapons can be obtained."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020095,
+    "LockConditionSetId": 170000020095,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100003,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2000801,
+    "GachaAppealId1": 2000802,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 2,
+    "GachaWeaponLotSetId": 200951,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20008,
+    "Priority": 300,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20096,
+    "Name": {
+      "Ja": "FFVII&CC<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "FFVII & CC - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "FFVII&CC<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "FFVII & CC - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・FFVII&CC<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・FFVII&CC<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・FFVII&CC<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、FFVII&CC<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=196>5以外の武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character.\n*Only 5<sprite=\"tmp_icon\" index=196> weapons can be obtained."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020096,
+    "LockConditionSetId": 170000020096,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100026,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2006101,
+    "GachaAppealId1": 0,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 2,
+    "GachaWeaponLotSetId": 200961,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20061,
+    "Priority": 299,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20097,
+    "Name": {
+      "Ja": "レッドXIII<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Red XIII - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "レッドXIII<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Red XIII - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・レッドXIII<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・レッドXIII<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・レッドXIII<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、レッドXIII<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=196>5以外の武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character.\n*Only 5<sprite=\"tmp_icon\" index=196> weapons can be obtained."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020097,
+    "LockConditionSetId": 170000020097,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100018,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2001801,
+    "GachaAppealId1": 2001802,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 2,
+    "GachaWeaponLotSetId": 200971,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20018,
+    "Priority": 294,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20098,
+    "Name": {
+      "Ja": "ユフィ<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Yuffie - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "ユフィ<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Yuffie - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・ユフィ<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・ユフィ<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・ユフィ<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、ユフィ<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=196>5以外の武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character.\n*Only 5<sprite=\"tmp_icon\" index=196> weapons can be obtained."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020098,
+    "LockConditionSetId": 170000020098,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100028,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2006001,
+    "GachaAppealId1": 2006002,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 2,
+    "GachaWeaponLotSetId": 200981,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20060,
+    "Priority": 293,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20099,
+    "Name": {
+      "Ja": "FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "FS - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "FS - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・FS<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=196>5以外の武器は出現いたしません。\n[追記] 9/29 11:00\n※本ガチャからはセフィロス専用武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character.\n*Only 5<sprite=\"tmp_icon\" index=196> weapons can be obtained.\n[Added] Sep. 28 7:00 PM PDT\n*No Sephiroth-exclusive weapons will appear in this draw."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020099,
+    "LockConditionSetId": 170000020099,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100020,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2002001,
+    "GachaAppealId1": 2002002,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 2,
+    "GachaWeaponLotSetId": 200991,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20020,
+    "Priority": 291,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20100,
+    "Name": {
+      "Ja": "グレン<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Glenn - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "グレン<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Glenn - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・グレン<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・グレン<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・グレン<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、グレン<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=196>5以外の武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character.\n*Only 5<sprite=\"tmp_icon\" index=196> weapons can be obtained."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020100,
+    "LockConditionSetId": 170000020100,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100021,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2002101,
+    "GachaAppealId1": 2002102,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 2,
+    "GachaWeaponLotSetId": 201001,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20021,
+    "Priority": 289,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20101,
+    "Name": {
+      "Ja": "ルティア<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Lucia - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "ルティア<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ",
+      "En": "Lucia - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・ルティア<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・ルティア<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・ルティア<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、ルティア<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=196>5以外の武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character.\n*Only 5<sprite=\"tmp_icon\" index=196> weapons can be obtained."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020101,
+    "LockConditionSetId": 170000020101,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100023,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2002301,
+    "GachaAppealId1": 2002302,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 2,
+    "GachaWeaponLotSetId": 201011,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20023,
+    "Priority": 287,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20102,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=192>4以上武器確定チケットガチャ",
+      "En": "Guaranteed 4<sprite=\"tmp_icon\" index=192>+ Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "<sprite=\"tmp_icon\" index=192>4以上武器確定チケットガチャ",
+      "En": "Guaranteed 4<sprite=\"tmp_icon\" index=192>+ Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・<sprite=\"tmp_icon\" index=192>4武器以上確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・<sprite=\"tmp_icon\" index=192>4武器以上確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・<sprite=\"tmp_icon\" index=192>4武器以上確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、<sprite=\"tmp_icon\" index=192>4武器以上確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、チケットガチャです。\n※本ガチャでは<sprite=\"tmp_icon\" index=193>3以下の武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0}.\n*Only 4<sprite=\"tmp_icon\" index=192> or higher weapons can be obtained."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020102,
+    "LockConditionSetId": 170000020102,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100002,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2000901,
+    "GachaAppealId1": 0,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 3,
+    "GachaWeaponLotSetId": 201021,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20009,
+    "Priority": 200,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20103,
+    "Name": {
+      "Ja": "チケットガチャ",
+      "En": "Ticket Draw"
+    },
+    "Description": {
+      "Ja": "チケットガチャ",
+      "En": "Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・ガチャチケット1枚につき1回利用できるチケットガチャです。\n・チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、チケットガチャです。",
+      "En": "In this ticket draw, you can draw once for every {0}."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020103,
+    "LockConditionSetId": 170000020103,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100001,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2000101,
+    "GachaAppealId1": 0,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 201031,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20001,
+    "Priority": 100,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20104,
+    "Name": {
+      "Ja": "レッドXIII武器確定チケットガチャ",
+      "En": "Red XIII - Guaranteed Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "レッドXIII武器確定チケットガチャ",
+      "En": "Red XIII - Guaranteed Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・レッドXIII武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・レッドXIII武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・レッドXIII武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、レッドXIII武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020104,
+    "LockConditionSetId": 170000020104,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100008,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2000601,
+    "GachaAppealId1": 2000602,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 201041,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20006,
+    "Priority": 94,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20105,
+    "Name": {
+      "Ja": "ユフィ武器確定チケットガチャ",
+      "En": "Yuffie - Guaranteed Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "ユフィ武器確定チケットガチャ",
+      "En": "Yuffie - Guaranteed Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・ユフィ武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・ユフィ武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・ユフィ武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、ユフィ武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020105,
+    "LockConditionSetId": 170000020105,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100027,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2005901,
+    "GachaAppealId1": 2005902,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 201051,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20059,
+    "Priority": 93,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20106,
+    "Name": {
+      "Ja": "FS武器確定チケットガチャ",
+      "En": "Guaranteed FS Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "FS武器確定チケットガチャ",
+      "En": "Guaranteed FS Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・FS武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・FS武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・FS武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、FS武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。\n[追記] 9/29 11:00\n※本ガチャからはセフィロス専用武器は出現いたしません。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character.\n[Added] Sep. 28 7:00 PM PDT\n*No Sephiroth-exclusive weapons will appear in this draw."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020106,
+    "LockConditionSetId": 170000020106,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100013,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2001301,
+    "GachaAppealId1": 2001302,
+    "GachaAppealId2": 2001303,
+    "GachaAppealId3": 2001304,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 201061,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20013,
+    "Priority": 91,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20107,
+    "Name": {
+      "Ja": "グレン武器確定チケットガチャ",
+      "En": "Glenn - Guaranteed Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "グレン武器確定チケットガチャ",
+      "En": "Glenn - Guaranteed Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・グレン武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・グレン武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・グレン武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、グレン武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020107,
+    "LockConditionSetId": 170000020107,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100010,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2001001,
+    "GachaAppealId1": 2001002,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 201071,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20010,
+    "Priority": 89,
+    "GachaWishId": 0
+  },
+  {
+    "Id": 20108,
+    "Name": {
+      "Ja": "ルティア武器確定チケットガチャ",
+      "En": "Lucia - Guaranteed Weapon Ticket Draw"
+    },
+    "Description": {
+      "Ja": "ルティア武器確定チケットガチャ",
+      "En": "Lucia - Guaranteed Weapon Ticket Draw"
+    },
+    "Attention": {
+      "Ja": "・ルティア武器確定ガチャチケット1枚につき1回利用できるチケットガチャです。\n・ルティア武器確定チケットガチャから出現する武器は重複する可能性がございます。\n　なお、同一の武器を重複して獲得することはできないため、同一の武器を獲得した場合は、\n　武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、自動でレアリティの\n　高いものになります。この際、武器のレベルは引き継がれ、レアリティの低い武器は\n　武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・ルティア武器確定チケットガチャは、1回ごとに、その提供割合に基づいて抽選を行います。\n　そのため、ルティア武器確定チケットガチャを特定回数繰り返しても、必ず特定の武器が\n　出現するという仕組みではありません。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n<color=#FF9292>※実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。</color>",
+      "En": "- A single draw can be performed with each Draw Ticket.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n<color=#FF9292>*Actual probabilities are neither rounded up nor down.</color>"
+    },
+    "Summary": {
+      "Ja": "本ガチャは「{0}」1枚につき1回引ける、該当キャラの武器のみが出現するチケットガチャです。",
+      "En": "In this ticket draw, you can draw once for every {0} and get a weapon belonging to the corresponding character."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 2,
+    "GachaType": 3,
+    "DisplayConditionSetId": 170000020108,
+    "LockConditionSetId": 170000020108,
+    "GachaDetailTemplateType": 2,
+    "TicketItemId": 100012,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 2001201,
+    "GachaAppealId1": 2001202,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 0,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 201081,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 20012,
+    "Priority": 87,
+    "GachaWishId": 0
+  },
+  {
     "Id": 30003,
     "Name": {
       "Ja": "リリース記念FINAL FANTASY VII・CRISIS CORE<sprite=\"tmp_icon\" index=196>5武器確定ガチャ",
