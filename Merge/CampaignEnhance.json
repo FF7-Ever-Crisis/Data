@@ -11,8 +11,8 @@
     },
     "EnhanceType": 2,
     "Priority": 0,
-    "StartDatetime": "2024-02-19T02:00:00+00:00",
-    "EndDatetime": "2024-02-26T01:59:59+00:00",
+    "StartDatetime": "2024-03-25T02:00:00+00:00",
+    "EndDatetime": "2024-04-01T01:59:59+00:00",
     "AutoEffectCoefficient": 200
   },
   {
@@ -32,6 +32,22 @@
     "AutoEffectCoefficient": 200
   },
   {
+    "Id": 1003,
+    "Name": {
+      "Ja": "大成功率UP",
+      "En": "Great Success Rate"
+    },
+    "Description": {
+      "Ja": "強化した際の大成功の発生確率が{0}％増加します。",
+      "En": "Increases chance of great success during enhancements by {0}%."
+    },
+    "EnhanceType": 2,
+    "Priority": 1,
+    "StartDatetime": "2024-02-26T02:00:00+00:00",
+    "EndDatetime": "2024-03-07T01:59:59+00:00",
+    "AutoEffectCoefficient": 500
+  },
+  {
     "Id": 2001,
     "Name": {
       "Ja": "大成功率UP",
@@ -43,8 +59,8 @@
     },
     "EnhanceType": 1,
     "Priority": 0,
-    "StartDatetime": "2024-02-12T02:00:00+00:00",
-    "EndDatetime": "2024-02-19T01:59:59+00:00",
+    "StartDatetime": "2024-03-18T02:00:00+00:00",
+    "EndDatetime": "2024-03-25T01:59:59+00:00",
     "AutoEffectCoefficient": 200
   },
   {

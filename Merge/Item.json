@@ -4158,6 +4158,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21007,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 30001,
     "Name": {
       "Ja": "スコアバトルキー",
@@ -4199,6 +4221,28 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-01-31T02:00:00+00:00",
     "EndDatetime": "2024-02-19T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 30003,
+    "Name": {
+      "Ja": "スコアバトルキー",
+      "En": "Score Battle Key"
+    },
+    "Description": {
+      "Ja": "スコアバトルに参加するためのアイテムです。",
+      "En": "Used to participate in score battles."
+    },
+    "ItemType": 32,
+    "ItemRarityType": 3,
+    "MaxCapacity": 999,
+    "ResourceId": 30001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-26T02:00:00+00:00",
+    "EndDatetime": "2024-03-10T01:59:59+00:00",
     "OrderNo": 0
   },
   {
@@ -7069,7 +7113,7 @@
     },
     "Description": {
       "Ja": "武器強化に必要。\n<command_color=common_03>「カットラス」の「レアリティアップ」</color>で使用できます。",
-      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Claymore</color>."
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Cutlass</color>."
     },
     "ItemType": 18,
     "ItemRarityType": 3,
@@ -7080,6 +7124,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1020011,
+    "Name": {
+      "Ja": "神羅軍儀礼剣Za・パーツ",
+      "En": "Ceremonial Sword (Z) Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「神羅軍儀礼剣Za」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Ceremonial Sword (Z)</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-26T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -7920,6 +7986,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1051007,
+    "Name": {
+      "Ja": "センティピード・パーツ",
+      "En": "Centipede Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「センティピード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Centipede</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1051007,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-26T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1051008,
     "Name": {
       "Ja": "スティングレイ・パーツ",
@@ -8599,6 +8687,50 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-01-31T02:00:00+00:00",
     "EndDatetime": "2024-02-21T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2080031,
+    "Name": {
+      "Ja": "応援ゴールドメダル",
+      "En": "Golden Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「武器強化応援イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Weapon Enhancement Rally Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2080031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-26T02:00:00+00:00",
+    "EndDatetime": "2024-03-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2080032,
+    "Name": {
+      "Ja": "応援シルバーメダル",
+      "En": "Silver Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「武器強化応援イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Weapon Enhancement Rally Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2080032,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-02-26T02:00:00+00:00",
+    "EndDatetime": "2024-03-10T01:59:59+00:00",
     "OrderNo": 0
   },
   {
