@@ -18,11 +18,11 @@
         },
         {
             "id": 130000001013001,
-            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <color=#95C7FF>powerful physical earth-element abilities</color>. Force Gauge: <color=#D9DA59>Aegis</color> can be depleted with damage. Uses <color=#95C7FF>Provoke</color> to protect its allies by making itself a target. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=397>Sleep</color> with <color=#D9DA59>Sweet Dreams</color>.\n \n<sprite=\"tmp_icon\" index=387><color=#95C7FF>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
         },
         {
             "id": 130000001014001,
-            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=395>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>PDEF Down / <sprite=\"tmp_icon\" index=390>MDEF Down\n \nUses <color=#95C7FF>powerful physical fire-element abilities</color>. PATK increases and PDEF and MDEF decrease during <color=#D9DA59>Attack Style</color>. PATK decreases and PDEF and MDEF increase during <color=#D9DA59>Defense Style</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=396>Confusion</color> with <color=#D9DA59>Fascination</color>.\n \n<color=#95C7FF>Magic attacks</color> and <sprite=\"tmp_icon\" index=324><color=#95C7FF>PATK Up</color> are effective against this enemy."
         },
         {
             "id": 130000001015031,
@@ -365,6 +365,10 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Dispiriting Breath</color>."
         },
         {
+            "id": 130000002056002,
+            "value": "Immunities: None\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=393>silence</color>."
+        },
+        {
             "id": 130000002061001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Collide</color>."
         },
@@ -515,6 +519,10 @@
         {
             "id": 130000002531101,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>magic attacks</color>. Grants self greater <color=#95C7FF>Physical Resistance and Magic Resistance</color> with <color=#D9DA59>Fortification</color>.  <color=#D9DA59>Fortification</color> can be removed by interrupting the enemy or <color=#95C7FF>depleting the HP of its summoned allies</color>.\n\n<color=#95C7FF>Wind-element abilities</color> are effective against its allies."
+        },
+        {
+            "id": 130000002536002,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses <color=#95C7FF>powerful lightning-element abilities</color>. Incapacitates two targets with Force Gauge: <color=#D9DA59>Fatal Call</color>. The gauge can be depleted with damage. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=398>Block Rec.</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=327>Haste</color> on all targets with <color=#D9DA59>Quicken Time</color>.\n\n<color=#95C7FF>Ice- and water-element physical attacks</color> are effective against this enemy.\n"
         },
         {
             "id": 130000002537001,

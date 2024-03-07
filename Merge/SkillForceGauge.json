@@ -318,8 +318,8 @@
       "En": "Charge"
     },
     "Description": {
-      "Ja": "ゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
-      "En": "Enゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+      "Ja": "",
+      "En": ""
     },
     "InitialValue": 1000,
     "MaxValue": 1000,
@@ -342,8 +342,8 @@
       "En": "Charge"
     },
     "Description": {
-      "Ja": "ゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
-      "En": "Enゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+      "Ja": "",
+      "En": ""
     },
     "InitialValue": 1000,
     "MaxValue": 1000,
@@ -366,8 +366,8 @@
       "En": "Charge"
     },
     "Description": {
-      "Ja": "ゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
-      "En": "Enゲージ残量に応じて物攻が上昇している状態。\nモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+      "Ja": "",
+      "En": ""
     },
     "InitialValue": 1000,
     "MaxValue": 1000,
@@ -1506,6 +1506,294 @@
     "SkillForceGaugeParameterEffectGroupId": 3253080051,
     "SkillForceGaugeTakenDamageEffectGroupId": 3253080011,
     "TutorialStepType": 146,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640012,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 210,
+    "MaxValue": 210,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640012,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640022,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 230,
+    "MaxValue": 230,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640022,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640032,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 200,
+    "MaxValue": 200,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640032,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640041,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 525,
+    "MaxValue": 525,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640041,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640051,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 575,
+    "MaxValue": 575,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640051,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640061,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 500,
+    "MaxValue": 500,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640061,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640071,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 154,
+    "MaxValue": 154,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640071,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640081,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 200,
+    "MaxValue": 200,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640081,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640091,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 150,
+    "MaxValue": 150,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640091,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640101,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 385,
+    "MaxValue": 385,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640101,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640111,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 500,
+    "MaxValue": 500,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640111,
+    "TutorialStepType": 185,
+    "skillforcegauge_12": 0,
+    "skillforcegauge_13": 0,
+    "skillforcegauge_14": 0,
+    "skillforcegauge_15": 0
+  },
+  {
+    "Id": 3253640121,
+    "Name": {
+      "Ja": "運命の判定",
+      "En": "Fate's Verdict"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "InitialValue": 375,
+    "MaxValue": 375,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253640121,
+    "TutorialStepType": 185,
     "skillforcegauge_12": 0,
     "skillforcegauge_13": 0,
     "skillforcegauge_14": 0,
