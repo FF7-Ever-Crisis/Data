@@ -1425,6 +1425,36 @@
     "ConditionSetId": 0
   },
   {
+    "Id": 4601,
+    "Title": {
+      "Ja": "ゲームデータ連携について",
+      "En": "Linking Game Data"
+    },
+    "Description": {
+      "Ja": "「スクウェア・エニックス　アカウント」による<command_color=common_03>「ゲームデータ連携（データバックアップ）」</color>を行ってください。\n<command_color=common_02>※ミッション達成にならない場合は、ゲームデータ連携画面を再表示するか再起動をお試しください。</color>",
+      "En": "<command_color=common_03>Link (back up) game data</color> with your Square Enix Members account.\n<command_color=common_02>*If this does not trigger a \"mission complete\" notification, please return to the data link screen or restart the game.</color>"
+    },
+    "HelpPopupGroupId": 46,
+    "Seq": 1,
+    "ResourceId": 4601,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4602,
+    "Title": {
+      "Ja": "Steam版（アプリ版）のプレイについて",
+      "En": "Playing the Steam Version (or App)"
+    },
+    "Description": {
+      "Ja": "Steam版をインストール後、ゲームタイトルのメニューから<command_color=common_03>「ゲームデータ連携」</color>を行うことで、\nバックアップを行ったデータを用いてSteam版にてプレイできます。\n<command_color=common_02>※Steam版から始めた場合でも、「ゲームデータ連携（データバックアップ）」を行い、\nアプリ版のタイトルメニューから同様の操作を行うことで、Steam版のデータを用いてアプリ版にてプレイできます。</color>",
+      "En": "After installing the game on Steam, select <command_color=common_03>\"Link Data\"</color> from the title screen and complete the process to continue your game with the Steam version.\n<command_color=common_02>*If you started with the Steam version, link (back up) your game data, and follow the steps above from the app's title screen to continue your game with the app.</color>"
+    },
+    "HelpPopupGroupId": 46,
+    "Seq": 2,
+    "ResourceId": 4602,
+    "ConditionSetId": 0
+  },
+  {
     "Id": 10001,
     "Title": {
       "Ja": "CRASH BATTLEについて",

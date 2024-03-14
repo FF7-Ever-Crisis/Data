@@ -510,6 +510,17 @@
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>トラップコイン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与し、\n[<color=#D9DA59>スモークコイン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n\n<color=#95C7FF>物理攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> with <color=#D9DA59>Tread Softly</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Up in Smoke</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
     },
+    "EnemyLevelConstantGroupId": 1015036,
+    "Level": 1,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015031015,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>トラップコイン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与し、\n[<color=#D9DA59>スモークコイン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n\n<color=#95C7FF>物理攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> with <color=#D9DA59>Tread Softly</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Up in Smoke</color>.\n \n<color=#95C7FF>Physical attacks</color> are effective against this enemy."
+    },
     "EnemyLevelConstantGroupId": 1015037,
     "Level": 1,
     "ResourceId": 1015031020,
@@ -569,6 +580,17 @@
     "Level": 1,
     "ResourceId": 2001331015,
     "EnemySkillLevelId": 2001332015,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>ルーファウス</color>に対して、\n<color=#95C7FF>HPを回復</color>する [<color=#D9DA59>ケアルガ</color>] など支援アビリティを多用する。\n\n<color=#95C7FF>ルーファウス</color>より先に<color=#95C7FF>ダークネイションから倒す</color>対策が有効。\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many abilities to support <color=#95C7FF>Rufus</color>, such as <color=#D9DA59>Curaga</color> to <color=#95C7FF>restore his HP</color>.\n \nInstead of focusing on Rufus, <color=#95C7FF>defeating Darkstar first</color> is an effective strategy."
+    },
+    "EnemyLevelConstantGroupId": 2001333,
+    "Level": 1,
+    "ResourceId": 2001331015,
+    "EnemySkillLevelId": 2001331015,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -3125,6 +3147,39 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>IGNITION</color>] に応じて<color=#95C7FF>炎属性威力</color>が変動する。\nフォースゲージは<color=#95C7FF>冷属性アビリティ</color>でのみ減少する。\n[<color=#D9DA59>地獄の着火</color>] 中にサイン破壊を行うほど、\n[<color=#D9DA59>地獄の火炎</color>] の威力がダウンする。\n\n<color=#95C7FF>冷属性アビリティ</color>、<color=#95C7FF>炎属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \n<color=#95C7FF>Fire potency</color> changes based on Force Gauge: <color=#D9DA59>Ignition</color>. The gauge can only be depleted with <color=#95C7FF>ice-element abilities</color>. Destroying more sigils during <color=#D9DA59>Incinerate</color> lowers the potency of <color=#D9DA59>Hellfire</color>."
+    },
+    "EnemyLevelConstantGroupId": 2510006,
+    "Level": 1,
+    "ResourceId": 2510002010,
+    "EnemySkillLevelId": 2510002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>IGNITION</color>] に応じて<color=#95C7FF>炎属性威力</color>が変動する。\nフォースゲージは<color=#95C7FF>冷属性アビリティ</color>でのみ減少する。\n[<color=#D9DA59>地獄の着火</color>] 中にサイン破壊を行うほど、\n[<color=#D9DA59>地獄の火炎</color>] の威力がダウンする。\n\n<color=#95C7FF>冷属性アビリティ</color>、<color=#95C7FF>炎属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \n<color=#95C7FF>Fire potency</color> changes based on Force Gauge: <color=#D9DA59>Ignition</color>. The gauge can only be depleted with <color=#95C7FF>ice-element abilities</color>. Destroying more sigils during <color=#D9DA59>Incinerate</color> lowers the potency of <color=#D9DA59>Hellfire</color>."
+    },
+    "EnemyLevelConstantGroupId": 2510007,
+    "Level": 1,
+    "ResourceId": 2510003010,
+    "EnemySkillLevelId": 2510002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<color=#D9DA59>IGNITION</color>] に応じて<color=#95C7FF>炎属性威力</color>が変動する。\nフォースゲージは<color=#95C7FF>冷属性アビリティ</color>でのみ減少する。\n[<color=#D9DA59>地獄の着火</color>] 中にサイン破壊を行うほど、\n[<color=#D9DA59>地獄の火炎</color>] の威力がダウンする。\n\n<color=#95C7FF>冷属性アビリティ</color>、<color=#95C7FF>炎属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \n<color=#95C7FF>Fire potency</color> changes based on Force Gauge: <color=#D9DA59>Ignition</color>. The gauge can only be depleted with <color=#95C7FF>ice-element abilities</color>. Destroying more sigils during <color=#D9DA59>Incinerate</color> lowers the potency of <color=#D9DA59>Hellfire</color>."
+    },
+    "EnemyLevelConstantGroupId": 2510008,
+    "Level": 1,
+    "ResourceId": 2510003010,
+    "EnemySkillLevelId": 2510002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>冷属性の魔法攻撃</color>を多用する。\nフォースゲージ [<color=#D9DA59>ICE AGE</color>] に応じて<color=#95C7FF>炎属性耐性</color>が変動する。\nフォースゲージは<color=#95C7FF>炎属性アビリティ</color>でのみ減少する。\n\n<color=#95C7FF>魔法</color>・<color=#95C7FF>炎属性アビリティ</color>、<color=#95C7FF>冷属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>ice-element magic attacks</color>. <color=#95C7FF>Fire resistance</color> changes based on Force Gauge: <color=#D9DA59>Ice Age</color>. The gauge can only be depleted with <color=#95C7FF>fire-element abilities</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
     },
@@ -3719,6 +3774,39 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理・魔法共に強力なアビリティ</color>を多用する。\nフォースゲージ [<color=#D9DA59>MEGAFLARE</color>] 中はカウントダウンが進行し、\nカウントダウン終了時、強力な魔法攻撃 [<color=#D9DA59>メガフレア</color>] を使用する。\nフォースゲージはダメージを与えることで減少する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>powerful physical and magic abilities</color>. A countdown triggers during Force Gauge: <color=#D9DA59>Megaflare</color>, and when the countdown ends, it unleashes the powerful magic attack <color=#D9DA59>Megaflare</color>. The gauge can be depleted with damage."
+    },
+    "EnemyLevelConstantGroupId": 2520007,
+    "Level": 1,
+    "ResourceId": 2520004010,
+    "EnemySkillLevelId": 2520004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理・魔法共に強力なアビリティ</color>を多用する。\nフォースゲージ [<color=#D9DA59>MEGAFLARE</color>] 中はカウントダウンが進行し、\nカウントダウン終了時、強力な魔法攻撃 [<color=#D9DA59>メガフレア</color>] を使用する。\nフォースゲージはダメージを与えることで減少する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>powerful physical and magic abilities</color>. A countdown triggers during Force Gauge: <color=#D9DA59>Megaflare</color>, and when the countdown ends, it unleashes the powerful magic attack <color=#D9DA59>Megaflare</color>. The gauge can be depleted with damage."
+    },
+    "EnemyLevelConstantGroupId": 2520008,
+    "Level": 1,
+    "ResourceId": 2520005010,
+    "EnemySkillLevelId": 2520004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理・魔法共に強力なアビリティ</color>を多用する。\nフォースゲージ [<color=#D9DA59>MEGAFLARE</color>] 中はカウントダウンが進行し、\nカウントダウン終了時、強力な魔法攻撃 [<color=#D9DA59>メガフレア</color>] を使用する。\nフォースゲージはダメージを与えることで減少する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <color=#95C7FF>powerful physical and magic abilities</color>. A countdown triggers during Force Gauge: <color=#D9DA59>Megaflare</color>, and when the countdown ends, it unleashes the powerful magic attack <color=#D9DA59>Megaflare</color>. The gauge can be depleted with damage."
+    },
+    "EnemyLevelConstantGroupId": 2520009,
+    "Level": 1,
+    "ResourceId": 2520005010,
+    "EnemySkillLevelId": 2520004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与する [<color=#D9DA59>地だんだ</color>] を多用する。\n[<color=#D9DA59>反撃のかまえ</color>] 中は<color=#95C7FF>魔法攻撃に対してカウンター</color>を行う。\n\n[<color=#D9DA59>反撃のかまえ</color>] 中は<color=#95C7FF>物理攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nFrequently grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Furious Tantrum</color>. <color=#95C7FF>Counters magic attacks</color> during <color=#D9DA59>Alert</color>.\n \nPhysical attacks</color> are effective during <color=#D9DA59>Alert</color>."
     },
@@ -3858,6 +3946,17 @@
     "Level": 1,
     "ResourceId": 2521101010,
     "EnemySkillLevelId": 2521103010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color> を付与する全体攻撃を多用する。\n[<color=#D9DA59>暴走モード</color>] 中は自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>・\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<color=#95C7FF>風属性アビリティ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nFrequently inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> with group attacks. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color> and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> on self during <color=#D9DA59>Rampage</color>.\n\n<color=#95C7FF>Wind-element abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521104,
+    "Level": 1,
+    "ResourceId": 2521101010,
+    "EnemySkillLevelId": 2521101010,
     "FinalAttackSkillEnemyId": 0
   },
   {

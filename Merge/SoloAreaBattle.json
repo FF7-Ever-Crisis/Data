@@ -1596,6 +1596,48 @@
     "WinResetId": 0
   },
   {
+    "Id": 10260104,
+    "Name": {
+      "Ja": "上限解放素材 ゲノムポッド4",
+      "En": "LV Uncap - Genome Pod 4"
+    },
+    "SoloAreaId": 102601,
+    "PremiseSoloAreaBattleId": 10260103,
+    "OrderNo": 4,
+    "BattleId": 10260104,
+    "BattleRankGroupId": 10260104,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 42102601040,
+    "DisplayConditionSetId": 380010260104,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 10260105,
+    "Name": {
+      "Ja": "上限解放素材 ゲノムポッド5",
+      "En": "LV Uncap - Genome Pod 5"
+    },
+    "SoloAreaId": 102601,
+    "PremiseSoloAreaBattleId": 10260104,
+    "OrderNo": 5,
+    "BattleId": 10260105,
+    "BattleRankGroupId": 10260105,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 42102601050,
+    "DisplayConditionSetId": 380010260105,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
     "Id": 10270101,
     "Name": {
       "Ja": "上限解放素材 ナノキューブ1",
@@ -1652,6 +1694,48 @@
     "StaminaCost": 20,
     "FirstRewardSetId": 42102701030,
     "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 10270104,
+    "Name": {
+      "Ja": "上限解放素材 ナノキューブ4",
+      "En": "LV Uncap - Nanocube 4"
+    },
+    "SoloAreaId": 102701,
+    "PremiseSoloAreaBattleId": 10270103,
+    "OrderNo": 4,
+    "BattleId": 10270104,
+    "BattleRankGroupId": 10270104,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 42102701040,
+    "DisplayConditionSetId": 380010270104,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 10270105,
+    "Name": {
+      "Ja": "上限解放素材 ナノキューブ5",
+      "En": "LV Uncap - Nanocube 5"
+    },
+    "SoloAreaId": 102701,
+    "PremiseSoloAreaBattleId": 10270104,
+    "OrderNo": 5,
+    "BattleId": 10270105,
+    "BattleRankGroupId": 10270105,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 42102701050,
+    "DisplayConditionSetId": 380010270105,
     "LockConditionSetId": 0,
     "IngameResourceId": 0,
     "OutgameResourceId": 0,
@@ -2640,6 +2724,111 @@
     "FirstRewardSetId": 42110110220,
     "DisplayConditionSetId": 0,
     "LockConditionSetId": 480011011021,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11015101,
+    "Name": {
+      "Ja": "イフリート&バハムートの試練 NORMAL",
+      "En": "Trial of Ifrit & Bahamut - Normal"
+    },
+    "SoloAreaId": 110151,
+    "PremiseSoloAreaBattleId": 0,
+    "OrderNo": 10,
+    "BattleId": 11015101,
+    "BattleRankGroupId": 11015101,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 15,
+    "FirstRewardSetId": 42110151010,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11015111,
+    "Name": {
+      "Ja": "イフリート&バハムートの試練 HARD",
+      "En": "Trial of Ifrit & Bahamut - Hard"
+    },
+    "SoloAreaId": 110151,
+    "PremiseSoloAreaBattleId": 11015101,
+    "OrderNo": 20,
+    "BattleId": 11015111,
+    "BattleRankGroupId": 11015111,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 18,
+    "FirstRewardSetId": 42110151110,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11015121,
+    "Name": {
+      "Ja": "イフリート&バハムートの試練 VERY HARD",
+      "En": "Trial of Ifrit & Bahamut - Very Hard"
+    },
+    "SoloAreaId": 110151,
+    "PremiseSoloAreaBattleId": 11015111,
+    "OrderNo": 30,
+    "BattleId": 11015121,
+    "BattleRankGroupId": 11015121,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 20,
+    "FirstRewardSetId": 42110151210,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11015131,
+    "Name": {
+      "Ja": "イフリート&バハムートの試練 EX1",
+      "En": "Trial of Ifrit & Bahamut - EX 1"
+    },
+    "SoloAreaId": 110151,
+    "PremiseSoloAreaBattleId": 11015121,
+    "OrderNo": 40,
+    "BattleId": 11015131,
+    "BattleRankGroupId": 1,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 0,
+    "FirstRewardSetId": 42110151310,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "IngameResourceId": 0,
+    "OutgameResourceId": 0,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 11015141,
+    "Name": {
+      "Ja": "イフリート&バハムートの試練 EX2",
+      "En": "Trial of Ifrit & Bahamut - EX 2"
+    },
+    "SoloAreaId": 110151,
+    "PremiseSoloAreaBattleId": 11015131,
+    "OrderNo": 50,
+    "BattleId": 11015141,
+    "BattleRankGroupId": 1,
+    "AreaBattleDisplayType": 1,
+    "StaminaCost": 0,
+    "FirstRewardSetId": 42110151410,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
     "IngameResourceId": 0,
     "OutgameResourceId": 0,
     "ResetMaxWinCount": 0,
