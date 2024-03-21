@@ -988,6 +988,97 @@
     "PassiveSkillTargetType": 1
   },
   {
+    "Id": 113011,
+    "Description": {
+      "Ja": "味方全体の魔法攻撃力+{0} / +{1}%",
+      "En": "All Allies' Mag. Attack +{0} / +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 10,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1
+  },
+  {
+    "Id": 113011,
+    "Description": {
+      "Ja": "味方全体の魔法攻撃力+{0} / +{1}%",
+      "En": "All Allies' Mag. Attack +{0} / +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 20,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1
+  },
+  {
+    "Id": 113011,
+    "Description": {
+      "Ja": "味方全体の魔法攻撃力+{0} / +{1}%",
+      "En": "All Allies' Mag. Attack +{0} / +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 40,
+    "EffectCoefficient": 140,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1
+  },
+  {
+    "Id": 113011,
+    "Description": {
+      "Ja": "味方全体の魔法攻撃力+{0} / +{1}%",
+      "En": "All Allies' Mag. Attack +{0} / +{1}%"
+    },
+    "Level": 4,
+    "EffectValue": 60,
+    "EffectCoefficient": 180,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1
+  },
+  {
+    "Id": 113011,
+    "Description": {
+      "Ja": "味方全体の魔法攻撃力+{0} / +{1}%",
+      "En": "All Allies' Mag. Attack +{0} / +{1}%"
+    },
+    "Level": 5,
+    "EffectValue": 60,
+    "EffectCoefficient": 220,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1
+  },
+  {
+    "Id": 113011,
+    "Description": {
+      "Ja": "味方全体の魔法攻撃力+{0} / +{1}%",
+      "En": "All Allies' Mag. Attack +{0} / +{1}%"
+    },
+    "Level": 6,
+    "EffectValue": 60,
+    "EffectCoefficient": 250,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1
+  },
+  {
+    "Id": 113011,
+    "Description": {
+      "Ja": "味方全体の魔法攻撃力+{0} / +{1}%",
+      "En": "All Allies' Mag. Attack +{0} / +{1}%"
+    },
+    "Level": 7,
+    "EffectValue": 60,
+    "EffectCoefficient": 280,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1
+  },
+  {
     "Id": 202011,
     "Description": {
       "Ja": "炎属性アビリティダメージ+{1}%",
@@ -3111,6 +3202,19 @@
     "Description": {
       "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0
+  },
+  {
+    "Id": 526011,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,
