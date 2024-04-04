@@ -1122,6 +1122,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1007,
+    "Name": {
+      "Ja": "ケット・シー専用ウェポンパーツ",
+      "En": "Cait Sith-Specific Weapon Part"
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「ケット・シー」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Cait Sith's weapons</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1020,
     "Name": {
       "Ja": "ザックス専用ウェポンパーツ",
@@ -1355,6 +1377,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 2006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2007,
+    "Name": {
+      "Ja": "ケット・シーのメモリー",
+      "En": "Cait Sith's Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「ケット・シー」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Cait Sith's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2007,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -4642,6 +4686,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21008,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 30001,
     "Name": {
       "Ja": "スコアバトルキー",
@@ -5513,6 +5579,50 @@
     "ItemRarityType": 5,
     "MaxCapacity": 999,
     "ResourceId": 100032,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100033,
+    "Name": {
+      "Ja": "ケット・シー武器確定ガチャチケット",
+      "En": "Cait Sith Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「ケット・シー武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Cait Sith - Guaranteed Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 999,
+    "ResourceId": 100033,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100034,
+    "Name": {
+      "Ja": "ケット・シー<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Cait Sith 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「ケット・シー<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Cait Sith - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100034,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -6508,6 +6618,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2023-11-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003028,
+    "Name": {
+      "Ja": "バニーグローブ・パーツ",
+      "En": "Bunny Gloves Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バニーグローブ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Bunny Gloves</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003028,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -7520,6 +7652,226 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007001,
+    "Name": {
+      "Ja": "イエローメガホン・パーツ",
+      "En": "Yellow Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「イエローメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Yellow Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007002,
+    "Name": {
+      "Ja": "グリーンメガホン・パーツ",
+      "En": "Green Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「グリーンメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Green Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007003,
+    "Name": {
+      "Ja": "ブルーメガホン・パーツ",
+      "En": "Blue Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ブルーメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Blue Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007004,
+    "Name": {
+      "Ja": "レッドメガホン・パーツ",
+      "En": "Red Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レッドメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Red Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007005,
+    "Name": {
+      "Ja": "クリスタルメガホン・パーツ",
+      "En": "Crystal Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「クリスタルメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Crystal Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007008,
+    "Name": {
+      "Ja": "シルバーメガホン・パーツ",
+      "En": "Silver Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シルバーメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Silver Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007009,
+    "Name": {
+      "Ja": "ゴールドメガホン・パーツ",
+      "En": "Gold Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ゴールドメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Gold Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007009,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007010,
+    "Name": {
+      "Ja": "突撃ラッパ・パーツ",
+      "En": "Battle Trumpet Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「突撃ラッパ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Battle Trumpet</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007010,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007014,
+    "Name": {
+      "Ja": "マーチングラッパ・パーツ",
+      "En": "Marching Horn Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「マーチングラッパ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Marching Horn</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007022,
+    "Name": {
+      "Ja": "フラワーベース・パーツ",
+      "En": "Flower Vase Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「フラワーベース」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Flower Vase</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007022,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-04-04T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },

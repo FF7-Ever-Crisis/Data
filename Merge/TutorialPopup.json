@@ -2393,6 +2393,19 @@
   },
   {
     "Title": {
+      "Ja": "ファイナルアタック",
+      "En": "Final Attacks"
+    },
+    "Description": {
+      "Ja": "一部の敵は<command_color=common_03>HPが0になるダメージを受けたとき、倒れる前に特定のアビリティを発動</color>します。\nファイナルアタックで攻撃されて味方のパーティが全滅した場合、<command_color=common_03>バトルに敗北</color>します。\n<command_color=common_03>Lアビリティで倒された敵は、ファイナルアタックを発動しません</color>。\nまた、インタラプト中やスタン・暗闇・沈黙など、\n<command_color=common_03>敵がアビリティを使えない状態</color>で倒された場合、ファイナルアタックは発動しません。",
+      "En": "Some enemies will unleash an ability <command_color=common_03>when their HP reaches 0, but before they are defeated</color>.\nIf an enemy's final attack takes out your entire party, <command_color=common_03>you will lose the battle</color>.\n<command_color=common_03>Enemies defeated using L. abilities</color> and <command_color=common_03>enemies unable to unleash abilities</color> (such as while interrupted or inflicted with darkness or silence) will not unleash final attacks."
+    },
+    "TutorialPopupGroupId": 300000016,
+    "Seq": 1,
+    "ResourceId": 3000000161
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「CHARGE」",
       "En": "Force Gauge: Charge"
     },

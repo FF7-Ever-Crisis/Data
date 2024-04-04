@@ -2355,6 +2355,28 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n[<color=#D9DA59>デスクロー</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与した対象に、\n<color=#95C7FF>雷属性の物理攻撃</color> [<color=#D9DA59>レーザー</color>] を使用する。\n\n<color=#95C7FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down \n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <color=#D9DA59>Death Claw</color>, and subsequently uses the <color=#95C7FF>lightning-element physical attack</color> <color=#D9DA59>Laser</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2047001,
+    "Level": 1,
+    "ResourceId": 2047001010,
+    "EnemySkillLevelId": 2047001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n[<color=#D9DA59>デスクロー</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与した対象に、\n<color=#95C7FF>炎属性の物理攻撃</color> [<color=#D9DA59>バーナー</color>] を使用する。\n\n<color=#95C7FF>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down \n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <color=#D9DA59>Death Claw</color>, and subsequently uses the <color=#95C7FF>fire-element physical attack</color> <color=#D9DA59>Burning Laser</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2047101,
+    "Level": 1,
+    "ResourceId": 2047101010,
+    "EnemySkillLevelId": 2047101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>ラムウ</color>のフォースゲージ [<color=#D9DA59>LIGHTNING</color>] を増加させる。\n\n\n\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nFills <color=#95C7FF>Ramuh</color>'s Force Gauge: <color=#D9DA59>Lightning</color>."
     },
@@ -2410,6 +2432,182 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<color=#D9DA59>力をためる</color>] は自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color> with <color=#D9DA59>Gather Strength</color>.\n\n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053001,
+    "Level": 1,
+    "ResourceId": 2053001010,
+    "EnemySkillLevelId": 2053001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>サンドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与し、\n[<color=#D9DA59>サンドボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=687>土属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053011,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053011010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>サンドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与し、\n[<color=#D9DA59>サンドボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=687>土属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053012,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053012010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>サンドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与し、\n[<color=#D9DA59>サンドボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=687>土属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053013,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053013010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>サンドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与し、\n[<color=#D9DA59>サンドボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=687>土属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053014,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053014010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>サンドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与し、\n[<color=#D9DA59>サンドボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=687>土属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053021,
+    "Level": 1,
+    "ResourceId": 2053021010,
+    "EnemySkillLevelId": 2053012010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>サンドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与し、\n[<color=#D9DA59>サンドボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=687>土属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053022,
+    "Level": 1,
+    "ResourceId": 2053021010,
+    "EnemySkillLevelId": 2053013010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>土属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>サンドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与し、\n[<color=#D9DA59>サンドボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=687>土属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>冷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053023,
+    "Level": 1,
+    "ResourceId": 2053021010,
+    "EnemySkillLevelId": 2053014010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<color=#D9DA59>力をためる</color>] は自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color> with <color=#D9DA59>Gather Strength</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053101,
+    "Level": 1,
+    "ResourceId": 2053101010,
+    "EnemySkillLevelId": 2053101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053111,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053111010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053112,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053112010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053113,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053113010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053114,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053114010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053121,
+    "Level": 1,
+    "ResourceId": 2053121010,
+    "EnemySkillLevelId": 2053112010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053122,
+    "Level": 1,
+    "ResourceId": 2053121010,
+    "EnemySkillLevelId": 2053113010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2053123,
+    "Level": 1,
+    "ResourceId": 2053121010,
+    "EnemySkillLevelId": 2053114010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：なし\n\n[<color=#D9DA59>サイレス</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=393>沈黙</color>を付与する。\n\n<color=#95C7FF>水属性アビリティ</color>が有効。\n\n\n",
       "En": "Immunities: None\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=393>silence</color>."
     },
@@ -2443,6 +2641,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n[<color=#D9DA59>毛糸編み</color>] は<color=#95C7FF>ミントバニーエッグ</color>を呼び出す。\n\n<color=#95C7FF>炎属性の魔法攻撃</color>が有効。\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down \n \nCalls for <color=#95C7FF>mint bunny eggs</color> with <color=#D9DA59>Knitting</color>.\n \n<color=#95C7FF>Fire-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2062002,
+    "Level": 1,
+    "ResourceId": 2062002010,
+    "EnemySkillLevelId": 2062002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n[<color=#D9DA59>バファイアイ</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=602>炎属性耐性アップ</color>を付与する。\n\n<color=#95C7FF>炎属性の魔法攻撃</color>が有効。\n\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nGrants <color=#95C7FF><sprite=\"tmp_icon\" index=602>Fire Resistance Up</color> with <color=#D9DA59>Barfire Eye</color>.\n \n<color=#95C7FF>Fire-element magic attacks</color> are effective against this enemy."
     },
@@ -2450,6 +2659,17 @@
     "Level": 1,
     "ResourceId": 2063001010,
     "EnemySkillLevelId": 2063001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n[<color=#D9DA59>バファイアイ</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=602>炎属性耐性アップ</color>を付与する。\n\n<color=#95C7FF>炎属性の魔法攻撃</color>が有効。\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nGrants <color=#95C7FF><sprite=\"tmp_icon\" index=602>Fire Resistance Up</color> with <color=#D9DA59>Barfire Eye</color>.\n \n<color=#95C7FF>Fire-element magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2063002,
+    "Level": 1,
+    "ResourceId": 2063002010,
+    "EnemySkillLevelId": 2063002010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -3033,6 +3253,50 @@
     "Level": 1,
     "ResourceId": 2507203010,
     "EnemySkillLevelId": 2507204010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を多用する。\n[<color=#D9DA59>テイルレーザー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>ペインガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、[<color=#D9DA59>フォーグガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>を付与する。\n\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses many <color=#95C7FF>powerful magic attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Tail Laser</color>, <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Fatigue Gas</color>, and <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Gas</color>."
+    },
+    "EnemyLevelConstantGroupId": 2508001,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を多用する。\n[<color=#D9DA59>テイルレーザー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>ペインガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、[<color=#D9DA59>フォーグガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>を付与する。\n\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses many <color=#95C7FF>powerful magic attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Tail Laser</color>, <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Fatigue Gas</color>, and <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Gas</color>."
+    },
+    "EnemyLevelConstantGroupId": 2508002,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を多用する。\n[<color=#D9DA59>テイルレーザー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>ペインガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、[<color=#D9DA59>フォーグガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>を付与する。\n\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses many <color=#95C7FF>powerful magic attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Tail Laser</color>, <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Fatigue Gas</color>, and <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Gas</color>."
+    },
+    "EnemyLevelConstantGroupId": 2508003,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508003010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を多用する。\n[<color=#D9DA59>テイルレーザー</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>ペインガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、[<color=#D9DA59>フォーグガス</color>] で<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>を付与する。\n\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses many <color=#95C7FF>powerful magic attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Tail Laser</color>, <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Fatigue Gas</color>, and <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Gas</color>."
+    },
+    "EnemyLevelConstantGroupId": 2508004,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508004010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -4552,6 +4816,83 @@
     "ResourceId": 2541001010,
     "EnemySkillLevelId": 2541001010,
     "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n<color=#95C7FF>ファイナルアタック</color>： [<color=#D9DA59>モロトフカクテル</color>] \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n敵が持つアビリティによって [<color=#D9DA59>バリア</color>]、[<color=#D9DA59>マバリア</color>] を使い分ける。\n[<color=#D9DA59>スモークガン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。\nまた、物理攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2542001,
+    "Level": 1,
+    "ResourceId": 2542001010,
+    "EnemySkillLevelId": 2542001010,
+    "FinalAttackSkillEnemyId": 325428005
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n<color=#95C7FF>ファイナルアタック</color>： [<color=#D9DA59>モロトフカクテル</color>] \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n敵が持つアビリティによって [<color=#D9DA59>バリア</color>]、[<color=#D9DA59>マバリア</color>] を使い分ける。\n[<color=#D9DA59>スモークガン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。\nまた、物理攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2542002,
+    "Level": 1,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542002010,
+    "FinalAttackSkillEnemyId": 325428002
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n<color=#95C7FF>ファイナルアタック</color>： [<color=#D9DA59>モロトフカクテル</color>] \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n敵が持つアビリティによって [<color=#D9DA59>バリア</color>]、[<color=#D9DA59>マバリア</color>] を使い分ける。\n[<color=#D9DA59>スモークガン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。\nまた、物理攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2542002,
+    "Level": 70,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542002010,
+    "FinalAttackSkillEnemyId": 325428003
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n<color=#95C7FF>ファイナルアタック</color>： [<color=#D9DA59>モロトフカクテル</color>] \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n敵が持つアビリティによって [<color=#D9DA59>バリア</color>]、[<color=#D9DA59>マバリア</color>] を使い分ける。\n[<color=#D9DA59>スモークガン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。\nまた、物理攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2542003,
+    "Level": 1,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542003010,
+    "FinalAttackSkillEnemyId": 325428002
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n<color=#95C7FF>ファイナルアタック</color>： [<color=#D9DA59>モロトフカクテル</color>] \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n敵が持つアビリティによって [<color=#D9DA59>バリア</color>]、[<color=#D9DA59>マバリア</color>] を使い分ける。\n[<color=#D9DA59>スモークガン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。\nまた、物理攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2542003,
+    "Level": 70,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542003010,
+    "FinalAttackSkillEnemyId": 325428003
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n<color=#95C7FF>ファイナルアタック</color>： [<color=#D9DA59>モロトフカクテル</color>] \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n敵が持つアビリティによって [<color=#D9DA59>バリア</color>]、[<color=#D9DA59>マバリア</color>] を使い分ける。\n[<color=#D9DA59>スモークガン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。\nまた、物理攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2542004,
+    "Level": 1,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542004010,
+    "FinalAttackSkillEnemyId": 325428002
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n<color=#95C7FF>ファイナルアタック</color>： [<color=#D9DA59>モロトフカクテル</color>] \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n敵が持つアビリティによって [<color=#D9DA59>バリア</color>]、[<color=#D9DA59>マバリア</color>] を使い分ける。\n[<color=#D9DA59>スモークガン</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。\nまた、物理攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2542004,
+    "Level": 70,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542004010,
+    "FinalAttackSkillEnemyId": 325428003
   },
   {
     "BossCaution": {

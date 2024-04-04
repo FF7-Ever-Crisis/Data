@@ -105,6 +105,27 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 100103,
+    "Name": {
+      "Ja": "クライムハザード",
+      "En": "Climhazzard"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "クライム\nハザード",
+      "En": "Climhazzard"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210010301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 100201,
     "Name": {
       "Ja": "グレネードボム",
@@ -143,6 +164,27 @@
     "ElementType": 1,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 210020201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 100203,
+    "Name": {
+      "Ja": "サテライトビーム",
+      "En": "Satellite Beam"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "サテライト\nビーム",
+      "En": "Satellite \nBeam"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210020301,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -189,6 +231,27 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 100303,
+    "Name": {
+      "Ja": "ドルフィンブロウ",
+      "En": "Dolphin Blow"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ドルフィン\nブロウ",
+      "En": "Dolphin Blow"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210030301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 100401,
     "Name": {
       "Ja": "癒しの風",
@@ -227,6 +290,27 @@
     "ElementType": 1,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 210040201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 100403,
+    "Name": {
+      "Ja": "大地の息吹",
+      "En": "Breath of the Earth"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "大地の息吹",
+      "En": "Breath \nof the Earth"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210040301,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -273,6 +357,27 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 100503,
+    "Name": {
+      "Ja": "スターダストレイ",
+      "En": "Stardust Ray"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "スターダスト\nレイ",
+      "En": "Stardust Ray"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210050301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 100601,
     "Name": {
       "Ja": "血祭",
@@ -311,6 +416,90 @@
     "ElementType": 1,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 210060201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 100603,
+    "Name": {
+      "Ja": "抜山蓋世",
+      "En": "Landscaper"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "抜山蓋世",
+      "En": "Landscaper"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210060301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 100701,
+    "Name": {
+      "Ja": "ダイス",
+      "En": "Dice"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ダイス",
+      "En": "Dice"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210070101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 100702,
+    "Name": {
+      "Ja": "トイボックス",
+      "En": "Toy Box"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "トイボックス",
+      "En": "Toy Box"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210070201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 100703,
+    "Name": {
+      "Ja": "モーグリダンス",
+      "En": "Moogle Dance"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "モーグリ\nダンス",
+      "En": "Moogle Dance"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210070301,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -357,6 +546,27 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 102003,
+    "Name": {
+      "Ja": "アポカリプス",
+      "En": "Apocalypse"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "アポカリプス",
+      "En": "Apocalypse"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210200301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 104901,
     "Name": {
       "Ja": "星門",
@@ -395,6 +605,27 @@
     "ElementType": 1,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 210490201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 104903,
+    "Name": {
+      "Ja": "ヘリアカルライジング",
+      "En": "Heliacal Rising"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ヘリアカル\nライジング",
+      "En": "Heliacal \nRising"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210490301,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -441,6 +672,27 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 105003,
+    "Name": {
+      "Ja": "ヘルオンウィール",
+      "En": "Hell on Wheels"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ヘルオン\nウィール",
+      "En": "Hell \non Wheels"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210500301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 105101,
     "Name": {
       "Ja": "バーサトルアテンプト",
@@ -483,6 +735,27 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 105103,
+    "Name": {
+      "Ja": "オプレッシブエックス",
+      "En": "Vanquishing X"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "オプレッシブ\nエックス",
+      "En": "Vanquishing \nX"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210510301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 105201,
     "Name": {
       "Ja": "クイーンシューティング",
@@ -521,6 +794,27 @@
     "ElementType": 1,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 210520201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 105203,
+    "Name": {
+      "Ja": "シューティングチア",
+      "En": "Cheering Shots"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "シューティング\nチア",
+      "En": "Cheering \nShots"
+    },
+    "BaseAttackType": 3,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 210520301,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -6279,6 +6573,90 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 10302801,
+    "Name": {
+      "Ja": "アクアスプラッシュ",
+      "En": "Aqua Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "アクア\nスプラッシュ",
+      "En": "Aqua \nSplash"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10302801,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10302802,
+    "Name": {
+      "Ja": "アクアスプラッシュ",
+      "En": "Aqua Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "アクア\nスプラッシュ",
+      "En": "Aqua \nSplash"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10302802,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10302803,
+    "Name": {
+      "Ja": "アクアスプラッシュ・改",
+      "En": "Aqua Splash+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "アクア\nスプラッシュ・改",
+      "En": "Aqua \nSplash+"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10302803,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10302804,
+    "Name": {
+      "Ja": "アクアスプラッシュ・極",
+      "En": "Aqua Splash++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "アクア\nスプラッシュ・極",
+      "En": "Aqua \nSplash++"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10302804,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 10302901,
     "Name": {
       "Ja": "ブレイブソリッド",
@@ -10055,6 +10433,846 @@
     "ElementType": 7,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 10602304,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700101,
+    "Name": {
+      "Ja": "にゃんにゃかソニック",
+      "En": "Sonic Meow"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "にゃんにゃか\nソニック",
+      "En": "Sonic Meow"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700102,
+    "Name": {
+      "Ja": "にゃんにゃかソニック",
+      "En": "Sonic Meow"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "にゃんにゃか\nソニック",
+      "En": "Sonic Meow"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700102,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700103,
+    "Name": {
+      "Ja": "にゃんにゃかソニック・改",
+      "En": "Sonic Meow+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "にゃんにゃか\nソニック・改",
+      "En": "Sonic Meow+"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700103,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700104,
+    "Name": {
+      "Ja": "にゃんにゃかソニック・極",
+      "En": "Sonic Meow++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "にゃんにゃか\nソニック・極",
+      "En": "Sonic Meow++"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700104,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700201,
+    "Name": {
+      "Ja": "ヘイヘイファイト",
+      "En": "Hang in There"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ヘイヘイ\nファイト",
+      "En": "Hang in \nThere"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700202,
+    "Name": {
+      "Ja": "ヘイヘイファイト",
+      "En": "Hang in There"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ヘイヘイ\nファイト",
+      "En": "Hang in \nThere"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700202,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700203,
+    "Name": {
+      "Ja": "ヘイヘイファイト・改",
+      "En": "Hang in There+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ヘイヘイ\nファイト・改",
+      "En": "Hang in \nThere+"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700203,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700204,
+    "Name": {
+      "Ja": "ヘイヘイファイト・極",
+      "En": "Hang in There++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ヘイヘイ\nファイト・極",
+      "En": "Hang in \nThere++"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700204,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700301,
+    "Name": {
+      "Ja": "Aブリザガ",
+      "En": "Blizzaga A"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aブリザガ",
+      "En": "Blizzaga A"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 3,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700301,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700302,
+    "Name": {
+      "Ja": "Aブリザガ",
+      "En": "Blizzaga A"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aブリザガ",
+      "En": "Blizzaga A"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 3,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700302,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700303,
+    "Name": {
+      "Ja": "Aブリザガ・改",
+      "En": "Blizzaga A+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aブリザガ・改",
+      "En": "Blizzaga A+"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 3,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700303,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700304,
+    "Name": {
+      "Ja": "Aブリザガ・極",
+      "En": "Blizzaga A++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aブリザガ・極",
+      "En": "Blizzaga A++"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 3,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700304,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700401,
+    "Name": {
+      "Ja": "Aファイガ",
+      "En": "Firaga A"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aファイガ",
+      "En": "Firaga A"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 2,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700401,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700402,
+    "Name": {
+      "Ja": "Aファイガ",
+      "En": "Firaga A"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aファイガ",
+      "En": "Firaga A"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 2,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700402,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700403,
+    "Name": {
+      "Ja": "Aファイガ・改",
+      "En": "Firaga A+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aファイガ・改",
+      "En": "Firaga A+"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 2,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700403,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700404,
+    "Name": {
+      "Ja": "Aファイガ・極",
+      "En": "Firaga A++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "Aファイガ・極",
+      "En": "Firaga A++"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 2,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700404,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700501,
+    "Name": {
+      "Ja": "ぱっちんバリア",
+      "En": "Instant Barrier"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぱっちん\nバリア",
+      "En": "Instant \nBarrier"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700501,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700502,
+    "Name": {
+      "Ja": "ぱっちんバリア",
+      "En": "Instant Barrier"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぱっちん\nバリア",
+      "En": "Instant \nBarrier"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700502,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700503,
+    "Name": {
+      "Ja": "ぱっちんバリア・改",
+      "En": "Instant Barrier+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぱっちん\nバリア・改",
+      "En": "Instant \nBarrier+"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700503,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700504,
+    "Name": {
+      "Ja": "ぱっちんバリア・極",
+      "En": "Instant Barrier++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぱっちん\nバリア・極",
+      "En": "Instant \nBarrier++"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10700504,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700801,
+    "Name": {
+      "Ja": "ぐるぐるパンチ",
+      "En": "Spinning Punch"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぐるぐる\nパンチ",
+      "En": "Spinning \nPunch"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700801,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700802,
+    "Name": {
+      "Ja": "ぐるぐるパンチ",
+      "En": "Spinning Punch"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぐるぐる\nパンチ",
+      "En": "Spinning \nPunch"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700802,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700803,
+    "Name": {
+      "Ja": "ぐるぐるパンチ・改",
+      "En": "Spinning Punch+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぐるぐる\nパンチ・改",
+      "En": "Spinning \nPunch+"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700803,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700804,
+    "Name": {
+      "Ja": "ぐるぐるパンチ・極",
+      "En": "Spinning Punch++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ぐるぐる\nパンチ・極",
+      "En": "Spinning \nPunch++"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700804,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700901,
+    "Name": {
+      "Ja": "じゃらじゃらアタック",
+      "En": "Fat Cat Attack"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "じゃらじゃら\nアタック",
+      "En": "Fat Cat \nAttack"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700901,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700902,
+    "Name": {
+      "Ja": "じゃらじゃらアタック",
+      "En": "Fat Cat Attack"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "じゃらじゃら\nアタック",
+      "En": "Fat Cat \nAttack"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700902,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700903,
+    "Name": {
+      "Ja": "じゃらじゃらアタック・改",
+      "En": "Fat Cat Attack+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "じゃらじゃら\nアタック・改",
+      "En": "Fat Cat \nAttack+"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700903,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10700904,
+    "Name": {
+      "Ja": "じゃらじゃらアタック・極",
+      "En": "Fat Cat Attack++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "じゃらじゃら\nアタック・極",
+      "En": "Fat Cat \nAttack++"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10700904,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701001,
+    "Name": {
+      "Ja": "突撃ドラム",
+      "En": "Battle Drum"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "突撃ドラム",
+      "En": "Battle \nDrum"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10701001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701002,
+    "Name": {
+      "Ja": "突撃ドラム",
+      "En": "Battle Drum"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "突撃ドラム",
+      "En": "Battle \nDrum"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10701002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701003,
+    "Name": {
+      "Ja": "突撃ドラム・改",
+      "En": "Battle Drum+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "突撃ドラム・改",
+      "En": "Battle \nDrum+"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10701003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701004,
+    "Name": {
+      "Ja": "突撃ドラム・極",
+      "En": "Battle Drum++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "突撃ドラム・極",
+      "En": "Battle \nDrum++"
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10701004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701401,
+    "Name": {
+      "Ja": "ブレイブストロング",
+      "En": "Stalwart Bravery"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ブレイブ\nストロング",
+      "En": "Stalwart \nBravery"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10701401,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701402,
+    "Name": {
+      "Ja": "ブレイブストロング",
+      "En": "Stalwart Bravery"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ブレイブ\nストロング",
+      "En": "Stalwart \nBravery"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10701402,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701403,
+    "Name": {
+      "Ja": "ブレイブストロング・改",
+      "En": "Stalwart Bravery+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ブレイブ\nストロング・改",
+      "En": "Stalwart \nBravery+"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10701403,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10701404,
+    "Name": {
+      "Ja": "ブレイブストロング・極",
+      "En": "Stalwart Bravery++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "ブレイブ\nストロング・極",
+      "En": "Stalwart \nBravery++"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 500,
+    "SkillEffectGroupId": 10701404,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10702201,
+    "Name": {
+      "Ja": "スプリンクルブルーム",
+      "En": "Bloomin' Spray"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "スプリンクル\nブルーム",
+      "En": "Bloomin' \nSpray"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10702201,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10702202,
+    "Name": {
+      "Ja": "スプリンクルブルーム",
+      "En": "Bloomin' Spray"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "スプリンクル\nブルーム",
+      "En": "Bloomin' \nSpray"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10702202,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10702203,
+    "Name": {
+      "Ja": "スプリンクルブルーム・改",
+      "En": "Bloomin' Spray+"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "スプリンクル\nブルーム・改",
+      "En": "Bloomin' \nSpray+"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10702203,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 10702204,
+    "Name": {
+      "Ja": "スプリンクルブルーム・極",
+      "En": "Bloomin' Spray++"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "スプリンクル\nブルーム・極",
+      "En": "Bloomin' \nSpray++"
+    },
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 10702204,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -51933,6 +53151,132 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 320471001,
+    "Name": {
+      "Ja": "クロー",
+      "En": "Claw"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320471001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320471002,
+    "Name": {
+      "Ja": "デスクロー",
+      "En": "Death Claw"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320471002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320471003,
+    "Name": {
+      "Ja": "デスクロー",
+      "En": "Death Claw"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320471003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320471004,
+    "Name": {
+      "Ja": "デスクロー",
+      "En": "Death Claw"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320471004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320471005,
+    "Name": {
+      "Ja": "レーザー",
+      "En": "Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320471005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320471006,
+    "Name": {
+      "Ja": "バーナー",
+      "En": "Burning Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 2,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320471006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 320518001,
     "Name": {
       "Ja": "充電",
@@ -52836,6 +54180,2022 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 320531001,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531002,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531003,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531004,
+    "Name": {
+      "Ja": "サンドストーム",
+      "En": "Sandstorm"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531005,
+    "Name": {
+      "Ja": "サンドストーム",
+      "En": "Sandstorm"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531006,
+    "Name": {
+      "Ja": "サンドストーム",
+      "En": "Sandstorm"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531007,
+    "Name": {
+      "Ja": "サンドボール",
+      "En": "Sandball"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531007,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531008,
+    "Name": {
+      "Ja": "サンドボール",
+      "En": "Sandball"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531008,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531009,
+    "Name": {
+      "Ja": "サンドボール",
+      "En": "Sandball"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531009,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531010,
+    "Name": {
+      "Ja": "ダイビングクエイク",
+      "En": "Diving Quake"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531010,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531011,
+    "Name": {
+      "Ja": "ダイビングクエイク",
+      "En": "Diving Quake"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531011,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531012,
+    "Name": {
+      "Ja": "ダイビングクエイク",
+      "En": "Diving Quake"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531012,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531013,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531013,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531014,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531014,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531015,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531015,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531016,
+    "Name": {
+      "Ja": "ダイビングクエイク",
+      "En": "Diving Quake"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531016,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531017,
+    "Name": {
+      "Ja": "ダイビングクエイク",
+      "En": "Diving Quake"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531017,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531018,
+    "Name": {
+      "Ja": "ダイビングクエイク",
+      "En": "Diving Quake"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 5,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531018,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531101,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531102,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531102,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531103,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531103,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531104,
+    "Name": {
+      "Ja": "スレッドストーム",
+      "En": "Threadstorm"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531104,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531105,
+    "Name": {
+      "Ja": "スレッドストーム",
+      "En": "Threadstorm"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531105,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531106,
+    "Name": {
+      "Ja": "スレッドストーム",
+      "En": "Threadstorm"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531106,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531107,
+    "Name": {
+      "Ja": "アクアボール",
+      "En": "Aquaball"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531107,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531108,
+    "Name": {
+      "Ja": "アクアボール",
+      "En": "Aquaball"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531108,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531109,
+    "Name": {
+      "Ja": "アクアボール",
+      "En": "Aquaball"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531109,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531110,
+    "Name": {
+      "Ja": "ダイビングスプラッシュ",
+      "En": "Diving Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531110,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531111,
+    "Name": {
+      "Ja": "ダイビングスプラッシュ",
+      "En": "Diving Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531111,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531112,
+    "Name": {
+      "Ja": "ダイビングスプラッシュ",
+      "En": "Diving Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531112,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531113,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531113,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531114,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531114,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531115,
+    "Name": {
+      "Ja": "圧し潰す",
+      "En": "Smash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531115,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531116,
+    "Name": {
+      "Ja": "ダイビングスプラッシュ",
+      "En": "Diving Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531116,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531117,
+    "Name": {
+      "Ja": "ダイビングスプラッシュ",
+      "En": "Diving Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531117,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320531118,
+    "Name": {
+      "Ja": "ダイビングスプラッシュ",
+      "En": "Diving Splash"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320531118,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536001,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536002,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536003,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536004,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536005,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536006,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536007,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536007,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536008,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536008,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536009,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536009,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536010,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536010,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536011,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536011,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536012,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536012,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536013,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536013,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536014,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536014,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536015,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536015,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536016,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536016,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536017,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536017,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536018,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536018,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536019,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536019,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536020,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536020,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536021,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536021,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536022,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536022,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536023,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536023,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536024,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536024,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536025,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536025,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536026,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536026,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536027,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536027,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536028,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536028,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536029,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536029,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536030,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536030,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536101,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536102,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536102,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536103,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536103,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536104,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536104,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536105,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536105,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536106,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536106,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536107,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536107,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536108,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536108,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536109,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536109,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536110,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536110,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536111,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536111,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536112,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536112,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536113,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536113,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536114,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536114,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536115,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536115,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536116,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536116,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536117,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536117,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536118,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536118,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536119,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536119,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536120,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536120,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536121,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536121,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536122,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536122,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536123,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536123,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536124,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536124,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536125,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536125,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536126,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536126,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536127,
+    "Name": {
+      "Ja": "力をためる",
+      "En": "Gather Strength"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536127,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536128,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536128,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536129,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536129,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320536130,
+    "Name": {
+      "Ja": "跳ねとび体勢",
+      "En": "Poised to Leap"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320536130,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 320561001,
     "Name": {
       "Ja": "電撃",
@@ -53130,6 +56490,132 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 320621101,
+    "Name": {
+      "Ja": "ぶつかる",
+      "En": "Bump"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320621101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320621102,
+    "Name": {
+      "Ja": "シルバーホイール",
+      "En": "Silver Wheel"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320621102,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320621103,
+    "Name": {
+      "Ja": "バニーエッグパーティ",
+      "En": "Bunny Egg Party"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320621103,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320621104,
+    "Name": {
+      "Ja": "バニーエッグフェスタ",
+      "En": "Bunny Egg Festival"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320621104,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320621105,
+    "Name": {
+      "Ja": "バニーエッグフェスタ",
+      "En": "Bunny Egg Festival"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320621105,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320621106,
+    "Name": {
+      "Ja": "バニーエッグカーニバル",
+      "En": "Bunny Egg Carnival"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320621106,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 320623001,
     "Name": {
       "Ja": "デフェイアイ",
@@ -53149,6 +56635,90 @@
     "SkillEffectGroupId": 320623001,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320623101,
+    "Name": {
+      "Ja": "デフェイアイ",
+      "En": "Defaith Eye"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320623101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320623102,
+    "Name": {
+      "Ja": "デフェイアイ",
+      "En": "Defaith Eye"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320623102,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320623103,
+    "Name": {
+      "Ja": "デフェイアイ",
+      "En": "Defaith Eye"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320623103,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320626101,
+    "Name": {
+      "Ja": "ルンルンしている…！",
+      "En": "Eager"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320626101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": true
   },
   {
     "Id": 320628001,
@@ -53191,6 +56761,27 @@
     "SkillEffectGroupId": 320628002,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320628101,
+    "Name": {
+      "Ja": "ミントバニー誕生",
+      "En": "Mint Bunny Appears"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320628101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": true
   },
   {
     "Id": 320631001,
@@ -53256,6 +56847,132 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 320631101,
+    "Name": {
+      "Ja": "体あたり",
+      "En": "Tackle"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320631101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320631102,
+    "Name": {
+      "Ja": "シルバーホイール",
+      "En": "Silver Wheel"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320631102,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320631103,
+    "Name": {
+      "Ja": "バニーエッグフェスタ",
+      "En": "Bunny Egg Festival"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320631103,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320631104,
+    "Name": {
+      "Ja": "バニーエッグフェスタ",
+      "En": "Bunny Egg Festival"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320631104,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320631105,
+    "Name": {
+      "Ja": "バニーエッグカーニバル",
+      "En": "Bunny Egg Carnival"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320631105,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320631106,
+    "Name": {
+      "Ja": "バニーエッグカーニバル",
+      "En": "Bunny Egg Carnival"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320631106,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 320633001,
     "Name": {
       "Ja": "バファイアイ",
@@ -53273,6 +56990,69 @@
     "ElementType": 0,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 320633001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320633101,
+    "Name": {
+      "Ja": "バファイアイ",
+      "En": "Barfire Eye"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320633101,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320633102,
+    "Name": {
+      "Ja": "バファイアイ",
+      "En": "Barfire Eye"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320633102,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 320633103,
+    "Name": {
+      "Ja": "バファイアイ",
+      "En": "Barfire Eye"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 320633103,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -62513,6 +66293,825 @@
     "ElementType": 1,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 325076377,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081001,
+    "Name": {
+      "Ja": "レーザー",
+      "En": "Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081002,
+    "Name": {
+      "Ja": "レーザー",
+      "En": "Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081003,
+    "Name": {
+      "Ja": "レーザー",
+      "En": "Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081004,
+    "Name": {
+      "Ja": "Wレーザー",
+      "En": "Double Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081005,
+    "Name": {
+      "Ja": "Wレーザー",
+      "En": "Double Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081006,
+    "Name": {
+      "Ja": "Wレーザー",
+      "En": "Double Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081007,
+    "Name": {
+      "Ja": "ペインガス",
+      "En": "Fatigue Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081007,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081008,
+    "Name": {
+      "Ja": "ペインガス",
+      "En": "Fatigue Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081008,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081009,
+    "Name": {
+      "Ja": "ペインガス",
+      "En": "Fatigue Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081009,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081010,
+    "Name": {
+      "Ja": "フォーグガス",
+      "En": "Fog Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081010,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081011,
+    "Name": {
+      "Ja": "フォーグガス",
+      "En": "Fog Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081011,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081012,
+    "Name": {
+      "Ja": "フォーグガス",
+      "En": "Fog Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081012,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081013,
+    "Name": {
+      "Ja": "スタンガス",
+      "En": "Stun Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081013,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081014,
+    "Name": {
+      "Ja": "スタンガス",
+      "En": "Stun Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081014,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081015,
+    "Name": {
+      "Ja": "スタンガス",
+      "En": "Stun Gas"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081015,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081016,
+    "Name": {
+      "Ja": "テイルレーザー",
+      "En": "Tail Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081016,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081017,
+    "Name": {
+      "Ja": "テイルレーザー",
+      "En": "Tail Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081017,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325081018,
+    "Name": {
+      "Ja": "テイルレーザー",
+      "En": "Tail Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325081018,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086001,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086002,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086003,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086004,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086005,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086006,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086007,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086007,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086008,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086008,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086009,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086009,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086010,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086010,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086011,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086011,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086012,
+    "Name": {
+      "Ja": "レーザー準備",
+      "En": "Ready Laser"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086012,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086013,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086013,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086014,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086014,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086015,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086015,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086016,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086016,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086017,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086017,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086018,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086018,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086019,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086019,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086020,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086020,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325086021,
+    "Name": {
+      "Ja": "生命維持機能",
+      "En": "Preservation"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 2,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325086021,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },
@@ -94580,6 +99179,867 @@
     "ElementType": 0,
     "SpecialGaugeCoefficient": 1000,
     "SkillEffectGroupId": 325418002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421001,
+    "Name": {
+      "Ja": "ニードルガン",
+      "En": "Needle Gun"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421002,
+    "Name": {
+      "Ja": "Sマイン",
+      "En": "S-Mine"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 2,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421003,
+    "Name": {
+      "Ja": "スモークガン",
+      "En": "Soot Gun"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421004,
+    "Name": {
+      "Ja": "スモークガン",
+      "En": "Soot Gun"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421005,
+    "Name": {
+      "Ja": "スモークガン",
+      "En": "Soot Gun"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421006,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421007,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421007,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421008,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421008,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421009,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421009,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421010,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421010,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421011,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421011,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421012,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421012,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325421013,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 4,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325421013,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423001,
+    "Name": {
+      "Ja": "バリア",
+      "En": "Barrier"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423002,
+    "Name": {
+      "Ja": "バリア",
+      "En": "Barrier"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423003,
+    "Name": {
+      "Ja": "バリア",
+      "En": "Barrier"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423004,
+    "Name": {
+      "Ja": "マバリア",
+      "En": "Manaward"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423005,
+    "Name": {
+      "Ja": "マバリア",
+      "En": "Manaward"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423006,
+    "Name": {
+      "Ja": "マバリア",
+      "En": "Manaward"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423007,
+    "Name": {
+      "Ja": "ギミックアームが熱暴走した…！",
+      "En": "Thermal Overload"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423007,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325423008,
+    "Name": {
+      "Ja": "クールダウン",
+      "En": "Cooling Down"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325423008,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426001,
+    "Name": {
+      "Ja": "エネルギーチャージ",
+      "En": "Energy Focus"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426002,
+    "Name": {
+      "Ja": "エネルギーチャージ",
+      "En": "Energy Focus"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426003,
+    "Name": {
+      "Ja": "エネルギーチャージ",
+      "En": "Energy Focus"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426004,
+    "Name": {
+      "Ja": "高エネルギーチャージ",
+      "En": "Greater Energy Focus"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426005,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426005,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426006,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426006,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426007,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426007,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426008,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426008,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426009,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426009,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426010,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426010,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426011,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426011,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426012,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426012,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426013,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426013,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426014,
+    "Name": {
+      "Ja": "ガンラッシュ",
+      "En": "Gun Rush"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426014,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325426015,
+    "Name": {
+      "Ja": "エネルギーチャージ",
+      "En": "Energy Focus"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325426015,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325428001,
+    "Name": {
+      "Ja": "遊びは終わりだ",
+      "En": "Playtime's Over"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325428001,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325428002,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325428002,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325428003,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325428003,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325428004,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325428004,
+    "SkillBaseGroupId": 0,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 325428005,
+    "Name": {
+      "Ja": "モロトフカクテル",
+      "En": "Molotov Cocktail"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "BattleName": {
+      "Ja": "",
+      "En": ""
+    },
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 325428005,
     "SkillBaseGroupId": 0,
     "IgnoreStatusConditionRestrictSkill": false
   },

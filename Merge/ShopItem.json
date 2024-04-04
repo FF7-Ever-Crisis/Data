@@ -23,7 +23,7 @@
     "ConsumptionSetId": 300000200,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 80006,
+    "OrderNo": 80007,
     "CanMultiPurchase": false,
     "ResourceId": 101001000,
     "ResetId": 0,
@@ -55,7 +55,7 @@
     "ConsumptionSetId": 300001400,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 80005,
+    "OrderNo": 80006,
     "CanMultiPurchase": false,
     "ResourceId": 101001001,
     "ResetId": 0,
@@ -87,7 +87,7 @@
     "ConsumptionSetId": 300001400,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 80004,
+    "OrderNo": 80005,
     "CanMultiPurchase": false,
     "ResourceId": 101001002,
     "ResetId": 0,
@@ -119,7 +119,7 @@
     "ConsumptionSetId": 300001400,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 80003,
+    "OrderNo": 80004,
     "CanMultiPurchase": false,
     "ResourceId": 101001003,
     "ResetId": 0,
@@ -151,7 +151,7 @@
     "ConsumptionSetId": 300007000,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 80002,
+    "OrderNo": 80003,
     "CanMultiPurchase": false,
     "ResourceId": 101001004,
     "ResetId": 0,
@@ -183,9 +183,41 @@
     "ConsumptionSetId": 300007000,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 80001,
+    "OrderNo": 80002,
     "CanMultiPurchase": false,
     "ResourceId": 101001005,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101001006,
+    "Name": {
+      "Ja": "FINAL FANTASY VII\nクリアパック 6TH",
+      "En": "FINAL FANTASY VII\n6th Completion Pack"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101001006,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101001006,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 80001,
+    "CanMultiPurchase": false,
+    "ResourceId": 101001006,
     "ResetId": 0,
     "PremiseShopItemId": 0,
     "StoreProductGroupId": 0,
@@ -2938,6 +2970,166 @@
     "OrderNo": 10001,
     "CanMultiPurchase": false,
     "ResourceId": 101001605,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101001611,
+    "Name": {
+      "Ja": "キャラクターストリーム\nケット・シー成長パックI",
+      "En": "Character Stream\nCait Sith's Training Pack I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101001611,
+    "LockConditionSetId": 0,
+    "RewardSetId": 161101001611,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000200,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9005,
+    "CanMultiPurchase": false,
+    "ResourceId": 101001611,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101001612,
+    "Name": {
+      "Ja": "キャラクターストリーム\nケット・シー成長パックII",
+      "En": "Character Stream\nCait Sith's Training Pack II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101001612,
+    "LockConditionSetId": 0,
+    "RewardSetId": 161101001612,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000350,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9004,
+    "CanMultiPurchase": false,
+    "ResourceId": 101001612,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101001613,
+    "Name": {
+      "Ja": "キャラクターストリーム\nケット・シー成長パックIII",
+      "En": "Character Stream\nCait Sith's Training Pack III"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101001613,
+    "LockConditionSetId": 0,
+    "RewardSetId": 161101001613,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000600,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9003,
+    "CanMultiPurchase": false,
+    "ResourceId": 101001613,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101001614,
+    "Name": {
+      "Ja": "キャラクターストリーム\nケット・シー成長パックIV",
+      "En": "Character Stream\nCait Sith's Training Pack IV"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101001614,
+    "LockConditionSetId": 0,
+    "RewardSetId": 161101001614,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000900,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9002,
+    "CanMultiPurchase": false,
+    "ResourceId": 101001614,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101001615,
+    "Name": {
+      "Ja": "キャラクターストリーム\nケット・シー成長パックV",
+      "En": "Character Stream\nCait Sith's Training Pack V"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101001615,
+    "LockConditionSetId": 0,
+    "RewardSetId": 161101001614,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000900,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9001,
+    "CanMultiPurchase": false,
+    "ResourceId": 101001615,
     "ResetId": 0,
     "PremiseShopItemId": 0,
     "StoreProductGroupId": 0,
@@ -10776,6 +10968,326 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 20109,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005069,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005110,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005110,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005065,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20110,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005065,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005111,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5バニーグローブパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Bunny Gloves Pack I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005111,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005111,
+    "BonusRewardSetId": 530101005066,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20111,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005111,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005112,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005112,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005067,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20112,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005067,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005113,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5バニーグローブパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Bunny Gloves Pack II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005113,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005113,
+    "BonusRewardSetId": 530101005068,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20113,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005113,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005114,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005114,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005069,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20114,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005069,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005115,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005115,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005065,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20115,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005065,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005116,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5フラワーベースパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Flower Vase Pack I"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005116,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005116,
+    "BonusRewardSetId": 530101005066,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20116,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005116,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005117,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005117,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005067,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20117,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005067,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005118,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5フラワーベースパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Flower Vase Pack II"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005118,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005118,
+    "BonusRewardSetId": 530101005068,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20118,
+    "CanMultiPurchase": false,
+    "ResourceId": 101005118,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101005119,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350101005119,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101005069,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 20119,
     "CanMultiPurchase": false,
     "ResourceId": 101005069,
     "ResetId": 0,
@@ -18784,6 +19296,390 @@
     "IsSale": false
   },
   {
+    "Id": 101008371,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008371,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000300,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 1,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008371,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008372,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008372,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300001500,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 2,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008372,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008373,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 0,
+    "MaxCount": 2,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008373,
+    "BonusRewardSetId": 530101008373,
+    "ConsumptionSetId": 300003000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 3,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008373,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008374,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 0,
+    "MaxCount": 2,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008374,
+    "BonusRewardSetId": 530101008374,
+    "ConsumptionSetId": 300003000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 4,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008374,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101008375,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 4,
+    "MaxCount": 3,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008375,
+    "BonusRewardSetId": 530101008375,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 5,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008375,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008375,
+    "IsSale": false
+  },
+  {
+    "Id": 101008376,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 4,
+    "MaxCount": 2,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008376,
+    "BonusRewardSetId": 530101008376,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 6,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008376,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008376,
+    "IsSale": false
+  },
+  {
+    "Id": 101008377,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 4,
+    "MaxCount": 2,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008377,
+    "BonusRewardSetId": 530101008377,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 7,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008377,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008377,
+    "IsSale": false
+  },
+  {
+    "Id": 101008378,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 4,
+    "MaxCount": 3,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008378,
+    "BonusRewardSetId": 530101008378,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 8,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008378,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008378,
+    "IsSale": false
+  },
+  {
+    "Id": 101008379,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008379,
+    "BonusRewardSetId": 530101008379,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 10,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008379,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008379,
+    "IsSale": false
+  },
+  {
+    "Id": 101008380,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008380,
+    "BonusRewardSetId": 530101008380,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 11,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008380,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008380,
+    "IsSale": false
+  },
+  {
+    "Id": 101008381,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008381,
+    "BonusRewardSetId": 530101008381,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 12,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008381,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 101008381,
+    "IsSale": false
+  },
+  {
+    "Id": 101008382,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 101039,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 330000101039,
+    "LockConditionSetId": 330000101039,
+    "RewardSetId": 160101008382,
+    "BonusRewardSetId": 530101008382,
+    "ConsumptionSetId": 300005000,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9,
+    "CanMultiPurchase": false,
+    "ResourceId": 101008382,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
     "Id": 101009001,
     "Name": {
       "Ja": "クラウドのメモリーパック",
@@ -18970,6 +19866,38 @@
     "OrderNo": 6,
     "CanMultiPurchase": false,
     "ResourceId": 101009006,
+    "ResetId": 12,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 101009007,
+    "Name": {
+      "Ja": "ケット・シーのメモリーパック",
+      "En": "Cait Sith's\nMemory Pack"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 101009,
+    "ShopItemType": 0,
+    "MaxCount": 5,
+    "DisplayConditionSetId": 350303001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160101009007,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 300000300,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 7,
+    "CanMultiPurchase": false,
+    "ResourceId": 101009007,
     "ResetId": 12,
     "PremiseShopItemId": 0,
     "StoreProductGroupId": 0,
@@ -19408,7 +20336,7 @@
     "ShopId": 205001,
     "ShopItemType": 0,
     "MaxCount": 30,
-    "DisplayConditionSetId": 0,
+    "DisplayConditionSetId": 350205001025,
     "LockConditionSetId": 0,
     "RewardSetId": 200101110001,
     "BonusRewardSetId": 0,
@@ -19865,6 +20793,38 @@
     "ShopItemBonusId": 0,
     "OrderNo": 2,
     "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 12,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 205001025,
+    "Name": {
+      "Ja": "ミスリル鉱",
+      "En": "Mythril Ore"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「レベル上限解放」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>uncap the level</color> of a weapon."
+    },
+    "ShopId": 205001,
+    "ShopItemType": 0,
+    "MaxCount": 30,
+    "DisplayConditionSetId": 350205001026,
+    "LockConditionSetId": 0,
+    "RewardSetId": 200101110001,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 1200000050,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9,
+    "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 12,
     "PremiseShopItemId": 0,
@@ -48347,7 +49307,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025006,
+    "PremiseShopItemId": 210025004,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -48411,7 +49371,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025008,
+    "PremiseShopItemId": 210025006,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -48475,7 +49435,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025010,
+    "PremiseShopItemId": 210025008,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -48539,7 +49499,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025012,
+    "PremiseShopItemId": 210025010,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -48603,7 +49563,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025014,
+    "PremiseShopItemId": 210025012,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -48628,7 +49588,7 @@
     "LockConditionSetId": 0,
     "RewardSetId": 160210025014,
     "BonusRewardSetId": 0,
-    "ConsumptionSetId": 220800410020,
+    "ConsumptionSetId": 220800430020,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 9,
@@ -48667,7 +49627,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025016,
+    "PremiseShopItemId": 210025014,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49051,7 +50011,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025029,
+    "PremiseShopItemId": 210025026,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49115,7 +50075,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025031,
+    "PremiseShopItemId": 210025028,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49179,7 +50139,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025033,
+    "PremiseShopItemId": 210025030,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49243,7 +50203,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025035,
+    "PremiseShopItemId": 210025032,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49307,7 +50267,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025037,
+    "PremiseShopItemId": 210025034,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49371,7 +50331,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025039,
+    "PremiseShopItemId": 210025036,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49435,7 +50395,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025041,
+    "PremiseShopItemId": 210025038,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49499,7 +50459,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025043,
+    "PremiseShopItemId": 210025040,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49563,7 +50523,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025045,
+    "PremiseShopItemId": 210025042,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49627,7 +50587,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025047,
+    "PremiseShopItemId": 210025044,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49691,7 +50651,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025049,
+    "PremiseShopItemId": 210025046,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49723,7 +50683,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 210025050,
+    "PremiseShopItemId": 210025047,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -49819,7 +50779,7 @@
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
-    "PremiseShopItemId": 0,
+    "PremiseShopItemId": 210025050,
     "StoreProductGroupId": 0,
     "IsSale": false
   },
@@ -50200,6 +51160,38 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 60,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 301001012,
+    "Name": {
+      "Ja": "楽隊ジャケット&\n<sprite=\"tmp_icon\" index=193>3マーチングラッパ",
+      "En": "Marching Jacket &\n3<sprite=\"tmp_icon\" index=193> Marching Horn"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 301001,
+    "ShopItemType": 0,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350303001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160301001012,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 200000210001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 70,
     "CanMultiPurchase": false,
     "ResourceId": 0,
     "ResetId": 0,
@@ -52288,6 +53280,294 @@
     "IsSale": false
   },
   {
+    "Id": 302007001,
+    "Name": {
+      "Ja": "マーチングラッパ",
+      "En": "Marching Horn"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007001,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 10000,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007002,
+    "Name": {
+      "Ja": "突撃ラッパ",
+      "En": "Battle Trumpet"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007002,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9999,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007003,
+    "Name": {
+      "Ja": "ゴールドメガホン",
+      "En": "Gold Megaphone"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007003,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9998,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007004,
+    "Name": {
+      "Ja": "シルバーメガホン",
+      "En": "Silver Megaphone"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007004,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9997,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007005,
+    "Name": {
+      "Ja": "クリスタルメガホン",
+      "En": "Crystal Megaphone"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007005,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9996,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007006,
+    "Name": {
+      "Ja": "レッドメガホン",
+      "En": "Red Megaphone"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007006,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9995,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007007,
+    "Name": {
+      "Ja": "ブルーメガホン",
+      "En": "Blue Megaphone"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007007,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9994,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007008,
+    "Name": {
+      "Ja": "グリーンメガホン",
+      "En": "Green Megaphone"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007008,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9993,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 302007009,
+    "Name": {
+      "Ja": "イエローメガホン",
+      "En": "Yellow Megaphone"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 302007,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160302007009,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2200000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 9992,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
     "Id": 302020001,
     "Name": {
       "Ja": "カットラス",
@@ -54199,7 +55479,7 @@
     "ConsumptionSetId": 2500000001,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 7,
+    "OrderNo": 8,
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
@@ -54231,7 +55511,7 @@
     "ConsumptionSetId": 2500000001,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 9,
+    "OrderNo": 10,
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
@@ -54263,7 +55543,7 @@
     "ConsumptionSetId": 2500000001,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 10,
+    "OrderNo": 11,
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
@@ -54295,7 +55575,7 @@
     "ConsumptionSetId": 2500000001,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 11,
+    "OrderNo": 12,
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
@@ -54327,7 +55607,7 @@
     "ConsumptionSetId": 2500000001,
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
-    "OrderNo": 8,
+    "OrderNo": 9,
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
@@ -54360,6 +55640,38 @@
     "ShopItemRepeatGroupId": 0,
     "ShopItemBonusId": 0,
     "OrderNo": 6,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 303001012,
+    "Name": {
+      "Ja": "ケット・シーのメモリー",
+      "En": "Cait Sith's Memory"
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "ShopId": 303001,
+    "ShopItemType": 0,
+    "MaxCount": 0,
+    "DisplayConditionSetId": 350303001012,
+    "LockConditionSetId": 0,
+    "RewardSetId": 160303001012,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 2500000001,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 7,
     "CanMultiPurchase": true,
     "ResourceId": 0,
     "ResetId": 0,
@@ -54963,6 +56275,70 @@
     "DisplayConditionSetId": 350501001014,
     "LockConditionSetId": 350501001014,
     "RewardSetId": 160501001014,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 2,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 501001002,
+    "IsSale": false
+  },
+  {
+    "Id": 501001015,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 501001,
+    "ShopItemType": 0,
+    "MaxCount": 200,
+    "DisplayConditionSetId": 350501001015,
+    "LockConditionSetId": 350501001015,
+    "RewardSetId": 520000000807,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 200000200,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 1,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 501001016,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "・選べる<sprite=\"tmp_icon\" index=196>5武器交換券\n・選べるウェア交換券\n・ホーム背景\n・ブルークリスタル×6,000\n※最大探索Lvに到達した際に獲得できるものとなります。",
+      "En": "- 5<sprite=\"tmp_icon\" index=196> Weapon Voucher\n- Gear Voucher\n- Wallpaper\n- 6,000 Blue Crystals\n*Total amount received at Max. Exploration Lv."
+    },
+    "ShopId": 501001,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350501001016,
+    "LockConditionSetId": 350501001016,
+    "RewardSetId": 160501001016,
     "BonusRewardSetId": 0,
     "ConsumptionSetId": 0,
     "ShopItemRepeatGroupId": 0,

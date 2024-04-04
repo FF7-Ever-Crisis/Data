@@ -353,6 +353,14 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<color=#95C7FF>Restores HP</color> of allies with <color=#D9DA59>Tremors of Water</color>. When HP falls below a certain amount, uses <color=#D9DA59>Elemental Explosion</color> to <color=#95C7FF>deal damage to allies</color> and reduce own HP to 0."
         },
         {
+            "id": 130000002047001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down \n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <color=#D9DA59>Death Claw</color>, and subsequently uses the <color=#95C7FF>lightning-element physical attack</color> <color=#D9DA59>Laser</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002047101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down \n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <color=#D9DA59>Death Claw</color>, and subsequently uses the <color=#95C7FF>fire-element physical attack</color> <color=#D9DA59>Burning Laser</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
+        },
+        {
             "id": 130000002051001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nFills <color=#95C7FF>Ramuh</color>'s Force Gauge: <color=#D9DA59>Lightning</color>."
         },
@@ -363,6 +371,22 @@
         {
             "id": 130000002052101,
             "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Dispiriting Breath</color>."
+        },
+        {
+            "id": 130000002053001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color> with <color=#D9DA59>Gather Strength</color>.\n\n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002053011,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>earth-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Sandstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=687>Earth Resistance Down</color> with <color=#D9DA59>Sandball</color>.\n \n<color=#95C7FF>Ice-element magic attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002053101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color> with <color=#D9DA59>Gather Strength</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002053111,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and uses many <color=#95C7FF>water-element physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=388>PATK Down</color> with <color=#D9DA59>Threadstorm</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=682>Water Resistance Down</color> with <color=#D9DA59>Aquaball</color>.\n \n<color=#95C7FF>Lightning-element magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002056002,
@@ -419,6 +443,10 @@
         {
             "id": 130000002507201,
             "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>DEF Down\n \nUses many <color=#95C7FF>fire-element magic attacks</color> including <color=#D9DA59>Red Dragon Screech</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Breath</color>."
+        },
+        {
+            "id": 130000002508001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses many <color=#95C7FF>powerful magic attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Tail Laser</color>, <color=#95C7FF><sprite=\"tmp_icon\" index=384>fatigue</color> with <color=#D9DA59>Fatigue Gas</color>, and <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog Gas</color>."
         },
         {
             "id": 130000002509001,
@@ -551,6 +579,10 @@
         {
             "id": 130000002540001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down\n\nUses many <color=#95C7FF>magic attacks</color>. Unleashes powerful linked attacks with <color=#95C7FF>Black Waltz 1</color> and <color=#95C7FF>Black Waltz 2</color>. Nullifies physical damage taken during Force Gauge: <color=#D9DA59>Flying</color>. The force gauge can only be depleted with <color=#95C7FF>magic abilities</color>.\n\n<sprite=\"tmp_icon\" index=325><color=#95C7FF>MDEF Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=390>MATK Down</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002542001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\n<color=#95C7FF>Final Attack</color>: <color=#D9DA59>Molotov Cocktail</color>\n\nUses many powerful <color=#95C7FF>physical attacks</color>. Also uses <color=#D9DA59>Barrier</color> and <color=#D9DA59>Manaward</color> depending on the enemy's abilities. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=386>darkness</color> with <color=#D9DA59>Soot Gun</color>.\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
         },
         {
             "id": 130000002546001,

@@ -798,7 +798,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 12,
+    "OrderNo": 13,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -828,7 +828,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 13,
+    "OrderNo": 14,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -858,7 +858,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 14,
+    "OrderNo": 15,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -888,7 +888,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 20,
+    "OrderNo": 23,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -918,7 +918,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 22,
+    "OrderNo": 24,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -948,7 +948,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 23,
+    "OrderNo": 25,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -978,7 +978,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 11,
+    "OrderNo": 12,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -1008,7 +1008,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 24,
+    "OrderNo": 22,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -1075,6 +1075,66 @@
     "LockConditionSetId": 0,
     "TransitionType": 29,
     "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 100001040,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 100001,
+    "MissionSetIdx": 39,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 100001041,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "MissionSetId": 100001,
+    "MissionSetIdx": 40,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 21,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": true
@@ -1341,6 +1401,36 @@
     "OrderNo": 113,
     "BonusPoint": 0,
     "DisplayConditionSetId": 240000003027,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 110003028,
+    "NameTemplate": {
+      "Ja": "バニーグローブのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Bunny Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バニーグローブのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Bunny Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 33,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 3028,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 133,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000003028,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 38,
@@ -1671,6 +1761,36 @@
     "OrderNo": 121,
     "BonusPoint": 0,
     "DisplayConditionSetId": 240000006015,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 110007022,
+    "NameTemplate": {
+      "Ja": "フラワーベースのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Flower Vase's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "フラワーベースのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Flower Vase's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 34,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 7022,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 134,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000007022,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 38,
@@ -4200,6 +4320,66 @@
     "IsRefresh": true
   },
   {
+    "Id": 190310011,
+    "NameTemplate": {
+      "Ja": "FFVII CHAPTER 6 - MAIN SECTION 6 - EP3をクリアする。",
+      "En": "Clear FFVII CHAPTER 6 - MAIN SECTION 6 - EP3."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII CHAPTER 6 - MAIN SECTION 6 - EP3をクリアする。",
+      "En": "Clear FFVII CHAPTER 6 - MAIN SECTION 6 - EP3."
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 110269,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403100110001,
+    "OrderNo": 190310011,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 110269,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190310012,
+    "NameTemplate": {
+      "Ja": "FFVII CHAPTER 6 - MAIN SECTION 6 - EP3をクリアする。",
+      "En": "Clear FFVII CHAPTER 6 - MAIN SECTION 6 - EP3."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII CHAPTER 6 - MAIN SECTION 6 - EP3をクリアする。",
+      "En": "Clear FFVII CHAPTER 6 - MAIN SECTION 6 - EP3."
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 110269,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403100120001,
+    "OrderNo": 190310012,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 110269,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190320000,
     "NameTemplate": {
       "Ja": "CC FFVII CHAPTER 1 - MAIN SECTION 3 - EP3をクリアする。",
@@ -5280,6 +5460,36 @@
     "IsRefresh": false
   },
   {
+    "Id": 190501401,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョン「コレルプリズン VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Corel Prison - Very Hard."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョン「コレルプリズン VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Corel Prison - Very Hard."
+    },
+    "MissionSetId": 190004,
+    "MissionSetIdx": 20,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 2140301,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190501401,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 190600101,
     "NameTemplate": {
       "Ja": "クラウドのキャラクターレベルを{0}にする。",
@@ -5449,6 +5659,36 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 190600601,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190600701,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 190005,
+    "MissionSetIdx": 54,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190600701,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -5640,6 +5880,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 190700102,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでクライムハザードを取得する。",
+      "En": "Acquire Climhazzard from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでクライムハザードを取得する。",
+      "En": "Acquire Climhazzard from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407001020001,
+    "OrderNo": 190700102,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 1,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190700201,
     "NameTemplate": {
       "Ja": "キャラクターストリームでマインドブレイクを取得する。",
@@ -5659,6 +5929,36 @@
     "TargetValue": 0,
     "RewardSetId": 407002010001,
     "OrderNo": 190700201,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190700202,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでサテライトビームを取得する。",
+      "En": "Acquire Satellite Beam from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでサテライトビームを取得する。",
+      "En": "Acquire Satellite Beam from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100203,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407002020001,
+    "OrderNo": 190700202,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -5700,6 +6000,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 190700302,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでドルフィンブロウを取得する。",
+      "En": "Acquire Dolphin Blow from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでドルフィンブロウを取得する。",
+      "En": "Acquire Dolphin Blow from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100303,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407003020001,
+    "OrderNo": 190700302,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190700401,
     "NameTemplate": {
       "Ja": "キャラクターストリームで邪気封印を取得する。",
@@ -5719,6 +6049,36 @@
     "TargetValue": 0,
     "RewardSetId": 407004010001,
     "OrderNo": 190700401,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 4,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190700402,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームで大地の息吹を取得する。",
+      "En": "Acquire Breath of the Earth from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームで大地の息吹を取得する。",
+      "En": "Acquire Breath of the Earth from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 15,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100403,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407004020001,
+    "OrderNo": 190700402,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -5760,6 +6120,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 190700502,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでスターダストレイを取得する。",
+      "En": "Acquire Stardust Ray from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでスターダストレイを取得する。",
+      "En": "Acquire Stardust Ray from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100503,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407005020001,
+    "OrderNo": 190700502,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 5,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190700601,
     "NameTemplate": {
       "Ja": "キャラクターストリームで明鏡止水を取得する。",
@@ -5790,6 +6180,96 @@
     "IsRefresh": true
   },
   {
+    "Id": 190700602,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームで抜山蓋世を取得する。",
+      "En": "Acquire Landscaper from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームで抜山蓋世を取得する。",
+      "En": "Acquire Landscaper from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 17,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100603,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407006020001,
+    "OrderNo": 190700602,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190700701,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでトイボックスを取得する。",
+      "En": "Acquire Toy Box from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでトイボックスを取得する。",
+      "En": "Acquire Toy Box from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 18,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100702,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407007010001,
+    "OrderNo": 190700701,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190700702,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでモーグリダンスを取得する。",
+      "En": "Acquire Moogle Dance from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでモーグリダンスを取得する。",
+      "En": "Acquire Moogle Dance from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 19,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 100703,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407007020001,
+    "OrderNo": 190700702,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190702001,
     "NameTemplate": {
       "Ja": "キャラクターストリームでメテオショットを取得する。",
@@ -5809,6 +6289,36 @@
     "TargetValue": 0,
     "RewardSetId": 407020010001,
     "OrderNo": 190702001,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 20,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190702002,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでアポカリプスを取得する。",
+      "En": "Acquire Apocalypse from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでアポカリプスを取得する。",
+      "En": "Acquire Apocalypse from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 20,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 102003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407020020001,
+    "OrderNo": 190702002,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -5850,6 +6360,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 190704902,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでヘリアカルライジングを取得する。",
+      "En": "Acquire Heliacal Rising from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでヘリアカルライジングを取得する。",
+      "En": "Acquire Heliacal Rising from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 21,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 104903,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407049020001,
+    "OrderNo": 190704902,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 49,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190705001,
     "NameTemplate": {
       "Ja": "キャラクターストリームでディフィートステージを取得する。",
@@ -5869,6 +6409,36 @@
     "TargetValue": 0,
     "RewardSetId": 407050010001,
     "OrderNo": 190705001,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 50,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190705002,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでヘルオンウィールを取得する。",
+      "En": "Acquire Hell on Wheels from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでヘルオンウィールを取得する。",
+      "En": "Acquire Hell on Wheels from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 22,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 105003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407050020001,
+    "OrderNo": 190705002,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -5910,6 +6480,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 190705102,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでオプレッシブエックスを取得する。",
+      "En": "Acquire Vanquishing X from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでオプレッシブエックスを取得する。",
+      "En": "Acquire Vanquishing X from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 23,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 105103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407051020001,
+    "OrderNo": 190705102,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 51,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190705201,
     "NameTemplate": {
       "Ja": "キャラクターストリームでセルリアンレイブンを取得する。",
@@ -5929,6 +6529,36 @@
     "TargetValue": 0,
     "RewardSetId": 407052010001,
     "OrderNo": 190705201,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 52,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190705202,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでシューティングチアを取得する。",
+      "En": "Acquire Cheering Shots from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでシューティングチアを取得する。",
+      "En": "Acquire Cheering Shots from a character stream."
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 24,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 105203,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407052020001,
+    "OrderNo": 190705202,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -17400,6 +18030,546 @@
     "IsRefresh": false
   },
   {
+    "Id": 500038001,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038002,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038003,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038004,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038005,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038006,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038007,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038008,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038009,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038010,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038011,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500038012,
+    "NameTemplate": {
+      "Ja": "ケット・シーを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cait Sith in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cait Sith in the party."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500038013,
+    "NameTemplate": {
+      "Ja": "クラウドを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cloud in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cloud in the party."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500038014,
+    "NameTemplate": {
+      "Ja": "バレットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Barret in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Barret in the party."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 14,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500038015,
+    "NameTemplate": {
+      "Ja": "ティファを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Tifa in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Tifa in the party."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 15,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500038016,
+    "NameTemplate": {
+      "Ja": "エアリスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Aerith in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Aerith in the party."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 15,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 16,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500038017,
+    "NameTemplate": {
+      "Ja": "レッドXIIIを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Red XIII in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Red XIII in the party."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 17,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500038018,
+    "NameTemplate": {
+      "Ja": "ユフィを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Yuffie in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Yuffie in the party."
+    },
+    "MissionSetId": 500038,
+    "MissionSetIdx": 17,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 18,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500038,
+    "OpenConditionSetId": 260000500038,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 600011001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -20520,6 +21690,516 @@
     "IsRefresh": false
   },
   {
+    "Id": 600081001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 600081,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600081002,
+    "NameTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "MissionSetId": 600081,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600081003,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 600081,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600081004,
+    "NameTemplate": {
+      "Ja": "合成を{0}回する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "合成を{0}回する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "MissionSetId": 600081,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600081005,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 600081,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600082001,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 600082,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 0,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600082002,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "MissionSetId": 600082,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 11,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600082003,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "MissionSetId": 600082,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600082004,
+    "NameTemplate": {
+      "Ja": "合成を{0}回する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "合成を{0}回する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "MissionSetId": 600082,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600082005,
+    "NameTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "MissionSetId": 600082,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 111,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600082006,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 600082,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600082007,
+    "NameTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "MissionSetId": 600082,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600083001,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 600083,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600083002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 600083,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600083003,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 600083,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600083004,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "MissionSetId": 600083,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600083005,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "MissionSetId": 600083,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 11,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 700101001,
     "NameTemplate": {
       "Ja": "クラウドを編成してスタミナを{0}消費する。",
@@ -20667,6 +22347,156 @@
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 200100110030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700102001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 700102,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700102002,
+    "NameTemplate": {
+      "Ja": "クラウドのキャラクターレベルを{0}にする。",
+      "En": "Raise Cloud to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのキャラクターレベルを{0}にする。",
+      "En": "Raise Cloud to Lv. {0}."
+    },
+    "MissionSetId": 700102,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700102003,
+    "NameTemplate": {
+      "Ja": "凶斬りのレベルを{0}にする。",
+      "En": "Raise Cross-Slash to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "凶斬りのレベルを{0}にする。",
+      "En": "Raise Cross-Slash to Lv. {0}."
+    },
+    "MissionSetId": 700102,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 1,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700102004,
+    "NameTemplate": {
+      "Ja": "破晄撃のレベルを{0}にする。",
+      "En": "Raise Blade Beam to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "破晄撃のレベルを{0}にする。",
+      "En": "Raise Blade Beam to Lv. {0}."
+    },
+    "MissionSetId": 700102,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100102,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 1,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700102005,
+    "NameTemplate": {
+      "Ja": "クラウドのリミットブレイクを{0}回使用する。",
+      "En": "Use Cloud's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのリミットブレイクを{0}回使用する。",
+      "En": "Use Cloud's limit break {0} time(s)."
+    },
+    "MissionSetId": 700102,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
     "IsRefresh": false
   },
   {
@@ -20820,6 +22650,156 @@
     "IsRefresh": false
   },
   {
+    "Id": 700202001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 700202,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700202002,
+    "NameTemplate": {
+      "Ja": "バレットのキャラクターレベルを{0}にする。",
+      "En": "Raise Barret to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのキャラクターレベルを{0}にする。",
+      "En": "Raise Barret to Lv. {0}."
+    },
+    "MissionSetId": 700202,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700202003,
+    "NameTemplate": {
+      "Ja": "グレネードボムのレベルを{0}にする。",
+      "En": "Raise Grenade Bomb to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレネードボムのレベルを{0}にする。",
+      "En": "Raise Grenade Bomb to Lv. {0}."
+    },
+    "MissionSetId": 700202,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100201,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700202004,
+    "NameTemplate": {
+      "Ja": "マインドブレイクのレベルを{0}にする。",
+      "En": "Raise Mindblow to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マインドブレイクのレベルを{0}にする。",
+      "En": "Raise Mindblow to Lv. {0}."
+    },
+    "MissionSetId": 700202,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100202,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700202005,
+    "NameTemplate": {
+      "Ja": "バレットのリミットブレイクを{0}回使用する。",
+      "En": "Use Barret's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのリミットブレイクを{0}回使用する。",
+      "En": "Use Barret's limit break {0} time(s)."
+    },
+    "MissionSetId": 700202,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 700301001,
     "NameTemplate": {
       "Ja": "ティファを編成してスタミナを{0}消費する。",
@@ -20967,6 +22947,156 @@
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 200100410030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700302001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 700302,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700302002,
+    "NameTemplate": {
+      "Ja": "ティファのキャラクターレベルを{0}にする。",
+      "En": "Raise Tifa to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのキャラクターレベルを{0}にする。",
+      "En": "Raise Tifa to Lv. {0}."
+    },
+    "MissionSetId": 700302,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700302003,
+    "NameTemplate": {
+      "Ja": "サマーソルトのレベルを{0}にする。",
+      "En": "Raise Somersault to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "サマーソルトのレベルを{0}にする。",
+      "En": "Raise Somersault to Lv. {0}."
+    },
+    "MissionSetId": 700302,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700302004,
+    "NameTemplate": {
+      "Ja": "水面蹴りのレベルを{0}にする。",
+      "En": "Raise Waterkick to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "水面蹴りのレベルを{0}にする。",
+      "En": "Raise Waterkick to Lv. {0}."
+    },
+    "MissionSetId": 700302,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100302,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700302005,
+    "NameTemplate": {
+      "Ja": "ティファのリミットブレイクを{0}回使用する。",
+      "En": "Use Tifa's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのリミットブレイクを{0}回使用する。",
+      "En": "Use Tifa's limit break {0} time(s)."
+    },
+    "MissionSetId": 700302,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
     "IsRefresh": false
   },
   {
@@ -21120,6 +23250,156 @@
     "IsRefresh": false
   },
   {
+    "Id": 700402001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 700402,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700402002,
+    "NameTemplate": {
+      "Ja": "エアリスのキャラクターレベルを{0}にする。",
+      "En": "Raise Aerith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのキャラクターレベルを{0}にする。",
+      "En": "Raise Aerith to Lv. {0}."
+    },
+    "MissionSetId": 700402,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700402003,
+    "NameTemplate": {
+      "Ja": "癒しの風のレベルを{0}にする。",
+      "En": "Raise Healing Wind to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "癒しの風のレベルを{0}にする。",
+      "En": "Raise Healing Wind to Lv. {0}."
+    },
+    "MissionSetId": 700402,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100401,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 4,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700402004,
+    "NameTemplate": {
+      "Ja": "邪気封印のレベルを{0}にする。",
+      "En": "Raise Seal Evil to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "邪気封印のレベルを{0}にする。",
+      "En": "Raise Seal Evil to Lv. {0}."
+    },
+    "MissionSetId": 700402,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100402,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 4,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700402005,
+    "NameTemplate": {
+      "Ja": "エアリスのリミットブレイクを{0}回使用する。",
+      "En": "Use Aerith's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのリミットブレイクを{0}回使用する。",
+      "En": "Use Aerith's limit break {0} time(s)."
+    },
+    "MissionSetId": 700402,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 700501001,
     "NameTemplate": {
       "Ja": "レッドXIIIを編成してスタミナを{0}消費する。",
@@ -21267,6 +23547,156 @@
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 200100210030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700502001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 700502,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700502002,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのキャラクターレベルを{0}にする。",
+      "En": "Raise Red XIII to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのキャラクターレベルを{0}にする。",
+      "En": "Raise Red XIII to Lv. {0}."
+    },
+    "MissionSetId": 700502,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700502003,
+    "NameTemplate": {
+      "Ja": "スレッドファングのレベルを{0}にする。",
+      "En": "Raise Sled Fang to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "スレッドファングのレベルを{0}にする。",
+      "En": "Raise Sled Fang to Lv. {0}."
+    },
+    "MissionSetId": 700502,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100501,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 5,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700502004,
+    "NameTemplate": {
+      "Ja": "ルナティックハイのレベルを{0}にする。",
+      "En": "Raise Lunatic High to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルナティックハイのレベルを{0}にする。",
+      "En": "Raise Lunatic High to Lv. {0}."
+    },
+    "MissionSetId": 700502,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100502,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 5,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700502005,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのリミットブレイクを{0}回使用する。",
+      "En": "Use Red XIII's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのリミットブレイクを{0}回使用する。",
+      "En": "Use Red XIII's limit break {0} time(s)."
+    },
+    "MissionSetId": 700502,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
     "IsRefresh": false
   },
   {
@@ -21420,6 +23850,456 @@
     "IsRefresh": false
   },
   {
+    "Id": 700602001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 700602,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700602002,
+    "NameTemplate": {
+      "Ja": "ユフィのキャラクターレベルを{0}にする。",
+      "En": "Raise Yuffie to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのキャラクターレベルを{0}にする。",
+      "En": "Raise Yuffie to Lv. {0}."
+    },
+    "MissionSetId": 700602,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700602003,
+    "NameTemplate": {
+      "Ja": "血祭のレベルを{0}にする。",
+      "En": "Raise Bloodfest to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "血祭のレベルを{0}にする。",
+      "En": "Raise Bloodfest to Lv. {0}."
+    },
+    "MissionSetId": 700602,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100601,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700602004,
+    "NameTemplate": {
+      "Ja": "明鏡止水のレベルを{0}にする。",
+      "En": "Raise Clear Tranquil to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "明鏡止水のレベルを{0}にする。",
+      "En": "Raise Clear Tranquil to Lv. {0}."
+    },
+    "MissionSetId": 700602,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100602,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700602005,
+    "NameTemplate": {
+      "Ja": "ユフィのリミットブレイクを{0}回使用する。",
+      "En": "Use Yuffie's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのリミットブレイクを{0}回使用する。",
+      "En": "Use Yuffie's limit break {0} time(s)."
+    },
+    "MissionSetId": 700602,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700701001,
+    "NameTemplate": {
+      "Ja": "ケット・シーを編成してスタミナを{0}消費する。",
+      "En": "Consume {0} stamina with Cait Sith in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーを編成してスタミナを{0}消費する。",
+      "En": "Consume {0} stamina with Cait Sith in the party."
+    },
+    "MissionSetId": 700701,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 61,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700701002,
+    "NameTemplate": {
+      "Ja": "ケット・シーのリミットブレイクを{0}回使用する。",
+      "En": "Use Cait Sith's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのリミットブレイクを{0}回使用する。",
+      "En": "Use Cait Sith's limit break {0} time(s)."
+    },
+    "MissionSetId": 700701,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700701003,
+    "NameTemplate": {
+      "Ja": "ケット・シーのメモリーを{0}個納品する。",
+      "En": "Deliver Cait Sith's Memory x{0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのメモリーを{0}個納品する。",
+      "En": "Deliver Cait Sith's Memory x{0}."
+    },
+    "MissionSetId": 700701,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200020070010,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700701004,
+    "NameTemplate": {
+      "Ja": "ギルを{0}納品する。",
+      "En": "Deliver {0} gil."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ギルを{0}納品する。",
+      "En": "Deliver {0} gil."
+    },
+    "MissionSetId": 700701,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 100010000,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700701005,
+    "NameTemplate": {
+      "Ja": "低純度ローズゴールドを{0}個納品する。",
+      "En": "Deliver {0} unit(s) of Low-Grade Rose Gold."
+    },
+    "DescriptionTemplate": {
+      "Ja": "低純度ローズゴールドを{0}個納品する。",
+      "En": "Deliver {0} unit(s) of Low-Grade Rose Gold."
+    },
+    "MissionSetId": 700701,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200100410030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 700702001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 700702,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700702002,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベルを{0}にする。",
+      "En": "Raise Cait Sith to Lv. {0}."
+    },
+    "MissionSetId": 700702,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700702003,
+    "NameTemplate": {
+      "Ja": "ダイスのレベルを{0}にする。",
+      "En": "Raise Dice to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ダイスのレベルを{0}にする。",
+      "En": "Raise Dice to Lv. {0}."
+    },
+    "MissionSetId": 700702,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100701,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700702004,
+    "NameTemplate": {
+      "Ja": "トイボックスのレベルを{0}にする。",
+      "En": "Raise Toy Box to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "トイボックスのレベルを{0}にする。",
+      "En": "Raise Toy Box to Lv. {0}."
+    },
+    "MissionSetId": 700702,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 100702,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 7,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 700702005,
+    "NameTemplate": {
+      "Ja": "ケット・シーのリミットブレイクを{0}回使用する。",
+      "En": "Use Cait Sith's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのリミットブレイクを{0}回使用する。",
+      "En": "Use Cait Sith's limit break {0} time(s)."
+    },
+    "MissionSetId": 700702,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 702001001,
     "NameTemplate": {
       "Ja": "ザックスを編成してスタミナを{0}消費する。",
@@ -21567,6 +24447,156 @@
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 200100410030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 702002001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 702002,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 702002002,
+    "NameTemplate": {
+      "Ja": "ザックスのキャラクターレベルを{0}にする。",
+      "En": "Raise Zack to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのキャラクターレベルを{0}にする。",
+      "En": "Raise Zack to Lv. {0}."
+    },
+    "MissionSetId": 702002,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 702002003,
+    "NameTemplate": {
+      "Ja": "連続斬のレベルを{0}にする。",
+      "En": "Raise Slash Combo to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "連続斬のレベルを{0}にする。",
+      "En": "Raise Slash Combo to Lv. {0}."
+    },
+    "MissionSetId": 702002,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 102002,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 20,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 702002004,
+    "NameTemplate": {
+      "Ja": "メテオショットのレベルを{0}にする。",
+      "En": "Raise Meteor Shots to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "メテオショットのレベルを{0}にする。",
+      "En": "Raise Meteor Shots to Lv. {0}."
+    },
+    "MissionSetId": 702002,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 102001,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 20,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 702002005,
+    "NameTemplate": {
+      "Ja": "ザックスのリミットブレイクを{0}回使用する。",
+      "En": "Use Zack's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのリミットブレイクを{0}回使用する。",
+      "En": "Use Zack's limit break {0} time(s)."
+    },
+    "MissionSetId": 702002,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
     "IsRefresh": false
   },
   {
@@ -21750,6 +24780,156 @@
     "IsRefresh": false
   },
   {
+    "Id": 704902001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 704902,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 704902002,
+    "NameTemplate": {
+      "Ja": "セフィロスのキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth to Lv. {0}."
+    },
+    "MissionSetId": 704902,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 704902003,
+    "NameTemplate": {
+      "Ja": "星門のレベルを{0}にする。",
+      "En": "Raise Astral Gate to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "星門のレベルを{0}にする。",
+      "En": "Raise Astral Gate to Lv. {0}."
+    },
+    "MissionSetId": 704902,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 104901,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 49,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 704902004,
+    "NameTemplate": {
+      "Ja": "アーデントフレアのレベルを{0}にする。",
+      "En": "Raise Ardent Flare to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アーデントフレアのレベルを{0}にする。",
+      "En": "Raise Ardent Flare to Lv. {0}."
+    },
+    "MissionSetId": 704902,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 104902,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 49,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 704902005,
+    "NameTemplate": {
+      "Ja": "セフィロスのリミットブレイクを{0}回使用する。",
+      "En": "Use Sephiroth's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのリミットブレイクを{0}回使用する。",
+      "En": "Use Sephiroth's limit break {0} time(s)."
+    },
+    "MissionSetId": 704902,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 705001001,
     "NameTemplate": {
       "Ja": "グレンを編成してスタミナを{0}消費する。",
@@ -21897,6 +25077,156 @@
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 200100110030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 705002001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 705002,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705002002,
+    "NameTemplate": {
+      "Ja": "グレンのキャラクターレベルを{0}にする。",
+      "En": "Raise Glenn to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのキャラクターレベルを{0}にする。",
+      "En": "Raise Glenn to Lv. {0}."
+    },
+    "MissionSetId": 705002,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705002003,
+    "NameTemplate": {
+      "Ja": "ブレイズオンスロートのレベルを{0}にする。",
+      "En": "Raise Blazing Onslaught to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ブレイズオンスロートのレベルを{0}にする。",
+      "En": "Raise Blazing Onslaught to Lv. {0}."
+    },
+    "MissionSetId": 705002,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105001,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 50,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705002004,
+    "NameTemplate": {
+      "Ja": "ディフィートステージのレベルを{0}にする。",
+      "En": "Raise Stage of Defeat to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ディフィートステージのレベルを{0}にする。",
+      "En": "Raise Stage of Defeat to Lv. {0}."
+    },
+    "MissionSetId": 705002,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105002,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 50,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705002005,
+    "NameTemplate": {
+      "Ja": "グレンのリミットブレイクを{0}回使用する。",
+      "En": "Use Glenn's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのリミットブレイクを{0}回使用する。",
+      "En": "Use Glenn's limit break {0} time(s)."
+    },
+    "MissionSetId": 705002,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
     "IsRefresh": false
   },
   {
@@ -22050,6 +25380,156 @@
     "IsRefresh": false
   },
   {
+    "Id": 705102001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 705102,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705102002,
+    "NameTemplate": {
+      "Ja": "マットのキャラクターレベルを{0}にする。",
+      "En": "Raise Matt to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのキャラクターレベルを{0}にする。",
+      "En": "Raise Matt to Lv. {0}."
+    },
+    "MissionSetId": 705102,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705102003,
+    "NameTemplate": {
+      "Ja": "バーサトルアテンプトのレベルを{0}にする。",
+      "En": "Raise Valiant Attempt to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バーサトルアテンプトのレベルを{0}にする。",
+      "En": "Raise Valiant Attempt to Lv. {0}."
+    },
+    "MissionSetId": 705102,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 51,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705102004,
+    "NameTemplate": {
+      "Ja": "ギガンティックシールドのレベルを{0}にする。",
+      "En": "Raise Gigantic Shield to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ギガンティックシールドのレベルを{0}にする。",
+      "En": "Raise Gigantic Shield to Lv. {0}."
+    },
+    "MissionSetId": 705102,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105102,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 51,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705102005,
+    "NameTemplate": {
+      "Ja": "マットのリミットブレイクを{0}回使用する。",
+      "En": "Use Matt's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのリミットブレイクを{0}回使用する。",
+      "En": "Use Matt's limit break {0} time(s)."
+    },
+    "MissionSetId": 705102,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 705201001,
     "NameTemplate": {
       "Ja": "ルティアを編成してスタミナを{0}消費する。",
@@ -22197,6 +25677,156 @@
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 200100410030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 705202001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "MissionSetId": 705202,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705202002,
+    "NameTemplate": {
+      "Ja": "ルティアのキャラクターレベルを{0}にする。",
+      "En": "Raise Lucia to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのキャラクターレベルを{0}にする。",
+      "En": "Raise Lucia to Lv. {0}."
+    },
+    "MissionSetId": 705202,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705202003,
+    "NameTemplate": {
+      "Ja": "クイーンシューティングのレベルを{0}にする。",
+      "En": "Raise Queen's Shot to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クイーンシューティングのレベルを{0}にする。",
+      "En": "Raise Queen's Shot to Lv. {0}."
+    },
+    "MissionSetId": 705202,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105201,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 52,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705202004,
+    "NameTemplate": {
+      "Ja": "セルリアンレイブンのレベルを{0}にする。",
+      "En": "Raise Cerulean Raven to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セルリアンレイブンのレベルを{0}にする。",
+      "En": "Raise Cerulean Raven to Lv. {0}."
+    },
+    "MissionSetId": 705202,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105202,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 52,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705202005,
+    "NameTemplate": {
+      "Ja": "ルティアのリミットブレイクを{0}回使用する。",
+      "En": "Use Lucia's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのリミットブレイクを{0}回使用する。",
+      "En": "Use Lucia's limit break {0} time(s)."
+    },
+    "MissionSetId": 705202,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
     "IsRefresh": false
   },
   {
@@ -35088,7 +38718,7 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 0,
-    "OrderNo": 2,
+    "OrderNo": 3,
     "BonusPoint": 0,
     "DisplayConditionSetId": 11120800400001,
     "OpenConditionSetId": 12120800400001,
@@ -35098,6 +38728,96 @@
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": true
+  },
+  {
+    "Id": 120800401004,
+    "NameTemplate": {
+      "Ja": "ケット・シーを編成してリスキーバトル1を1回クリアする。",
+      "En": "Clear High-Risk Battle 1 with Cait Sith in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーを編成してリスキーバトル1を1回クリアする。",
+      "En": "Clear High-Risk Battle 1 with Cait Sith in the party."
+    },
+    "MissionSetId": 120800401,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 7,
+    "TargetId2": 58004205,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120800400006,
+    "OpenConditionSetId": 12120800400007,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 8004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120800401005,
+    "NameTemplate": {
+      "Ja": "エアリスを編成してリスキーバトル1を1回クリアする。",
+      "En": "Clear High-Risk Battle 1 with Aerith in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスを編成してリスキーバトル1を1回クリアする。",
+      "En": "Clear High-Risk Battle 1 with Aerith in the party."
+    },
+    "MissionSetId": 120800401,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 4,
+    "TargetId2": 58004205,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120800400004,
+    "OpenConditionSetId": 12120800400004,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 8004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120800401006,
+    "NameTemplate": {
+      "Ja": "ティファを編成してリスキーバトル1を1回クリアする。",
+      "En": "Clear High-Risk Battle 1 with Tifa in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファを編成してリスキーバトル1を1回クリアする。",
+      "En": "Clear High-Risk Battle 1 with Tifa in the party."
+    },
+    "MissionSetId": 120800401,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 3,
+    "TargetId2": 58004205,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120800400008,
+    "OpenConditionSetId": 12120800400008,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 8004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
   },
   {
     "Id": 120800401007,
@@ -35122,6 +38842,126 @@
     "BonusPoint": 0,
     "DisplayConditionSetId": 11120800400000,
     "OpenConditionSetId": 12120800400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 8004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120800401008,
+    "NameTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「閉会：お茶会の行方」を見る。",
+      "En": "Play \"Wrapping Up the Tea Party\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「閉会：お茶会の行方」を見る。",
+      "En": "Play \"Wrapping Up the Tea Party\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "MissionSetId": 120800401,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 800418,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 131000800401,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120800400005,
+    "OpenConditionSetId": 12120800400005,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 8004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120800401009,
+    "NameTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「一杯目：ケット・シーの作戦」を見る。",
+      "En": "Play \"The First Cup: Cait Sith's Plan\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「一杯目：ケット・シーの作戦」を見る。",
+      "En": "Play \"The First Cup: Cait Sith's Plan\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "MissionSetId": 120800401,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 800413,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 131000800402,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120800400001,
+    "OpenConditionSetId": 12120800400001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 8004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120800401010,
+    "NameTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「二杯目：エアリスの招待客」を見る。",
+      "En": "Play \"The Second Cup: Aerith's Guests\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「二杯目：エアリスの招待客」を見る。",
+      "En": "Play \"The Second Cup: Aerith's Guests\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "MissionSetId": 120800401,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 800414,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 151000800408,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120800400004,
+    "OpenConditionSetId": 12120800400004,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 8004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120800401011,
+    "NameTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「三杯目：ティファの願い」を見る。",
+      "En": "Play \"The Third Cup: Tifa's Wish\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「お茶会は飾りタマゴとともに」の「三杯目：ティファの願い」を見る。",
+      "En": "Play \"The Third Cup: Tifa's Wish\" of \"A Tea Party & Festive Eggs\"."
+    },
+    "MissionSetId": 120800401,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 800415,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 151000800409,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120800400008,
+    "OpenConditionSetId": 12120800400008,
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 8004,

@@ -301,6 +301,21 @@
   },
   {
     "Description": {
+      "Ja": "敵単体に1,000%の無属性物理/魔法ダメージ。\nさらに、対象に下降系デバフがついている時、ダメージ2倍。",
+      "En": "Deal 1,000% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, When Debuff (Stats/Pot./Res.) is  granted to Target, x2 damage."
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100103,
+    "Level": 1,
+    "Cost": 900,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210010301
+  },
+  {
+    "Description": {
       "Ja": "",
       "En": ""
     },
@@ -608,6 +623,21 @@
       "Ja": "",
       "En": ""
     },
+    "SkillSpecialId": 100203,
+    "Level": 1,
+    "Cost": 900,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210020301
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
     "SkillSpecialId": 100301,
     "Level": 1,
     "Cost": 800,
@@ -898,6 +928,21 @@
     "Cost": 1800,
     "DamageCoefficient": 3000,
     "SkillEffectGroupId": 210030201
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に1,000%の無属性物理/魔法ダメージ。\nさらに、対象に下降系デバフがついている時、ダメージ2倍。",
+      "En": "Deal 1,000% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, When Debuff (Stats/Pot./Res.) is  granted to Target, x2 damage."
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100303,
+    "Level": 1,
+    "Cost": 900,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210030301
   },
   {
     "Description": {
@@ -1208,6 +1253,21 @@
       "Ja": "",
       "En": ""
     },
+    "SkillSpecialId": 100403,
+    "Level": 1,
+    "Cost": 1200,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210040301
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
     "SkillSpecialId": 100501,
     "Level": 1,
     "Cost": 800,
@@ -1498,6 +1558,21 @@
     "Cost": 1800,
     "DamageCoefficient": 1000,
     "SkillEffectGroupId": 210050210
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100503,
+    "Level": 1,
+    "Cost": 1200,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210050301
   },
   {
     "Description": {
@@ -1808,6 +1883,336 @@
       "Ja": "",
       "En": ""
     },
+    "SkillSpecialId": 100603,
+    "Level": 1,
+    "Cost": 900,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210060301
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に500%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 500% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100701,
+    "Level": 1,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070101
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に550%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 550% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>550</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>550%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 2,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070102
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に600%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 600% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>600</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>600%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 3,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070103
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に650%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 650% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>650</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>650%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 4,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070104
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に700%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 700% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>700</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>700%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 5,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070105
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に750%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 750% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>750</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>750%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 6,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070106
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に800%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 800% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>800</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>800%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 7,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070107
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に850%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 850% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>850</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>850%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 8,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070108
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に900%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 900% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>900</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>900%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 9,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070109
+  },
+  {
+    "Description": {
+      "Ja": "敵単体に1,000%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal 1,000% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "LevelUpDescription": {
+      "Ja": "敵単体に<color=#A5D47F>1,000</color>%の無属性物理/魔法ダメージ。\nさらに、ダイスの目によって威力アップ。(最大6倍)",
+      "En": "Deal <color=#A5D47F>1,000%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+    },
+    "SkillSpecialId": 100701,
+    "Level": 10,
+    "Cost": 1800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070110
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 1,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070201
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 2,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070202
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 3,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070203
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 4,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070204
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 5,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070205
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 6,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070206
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 7,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070207
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 8,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070208
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 9,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070209
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100702,
+    "Level": 10,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070210
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 100703,
+    "Level": 1,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210070301
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
     "SkillSpecialId": 102001,
     "Level": 1,
     "Cost": 1800,
@@ -2098,6 +2503,21 @@
     "Cost": 1800,
     "DamageCoefficient": 3000,
     "SkillEffectGroupId": 210200201
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 102003,
+    "Level": 1,
+    "Cost": 900,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210200301
   },
   {
     "Description": {
@@ -2401,6 +2821,21 @@
   },
   {
     "Description": {
+      "Ja": "敵単体に1,000%の無属性物理/魔法ダメージ。\nさらに、自身に上昇系バフがついている時、ダメージ2倍。",
+      "En": "Deal 1,000% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, When Buff (Stats/Pot./Res.) is  granted to Target, x2 damage."
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 104903,
+    "Level": 1,
+    "Cost": 1000,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210490301
+  },
+  {
+    "Description": {
       "Ja": "",
       "En": ""
     },
@@ -2698,6 +3133,21 @@
     "Cost": 1800,
     "DamageCoefficient": 3000,
     "SkillEffectGroupId": 210500201
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 105003,
+    "Level": 1,
+    "Cost": 900,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210500301
   },
   {
     "Description": {
@@ -3008,6 +3458,21 @@
       "Ja": "",
       "En": ""
     },
+    "SkillSpecialId": 105103,
+    "Level": 1,
+    "Cost": 1200,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210510301
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
     "SkillSpecialId": 105201,
     "Level": 1,
     "Cost": 1800,
@@ -3298,6 +3763,21 @@
     "Cost": 1800,
     "DamageCoefficient": 1000,
     "SkillEffectGroupId": 210520210
+  },
+  {
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "LevelUpDescription": {
+      "Ja": "",
+      "En": ""
+    },
+    "SkillSpecialId": 105203,
+    "Level": 1,
+    "Cost": 800,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210520301
   },
   {
     "Description": {

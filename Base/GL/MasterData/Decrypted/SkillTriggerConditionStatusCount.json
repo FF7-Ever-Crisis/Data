@@ -178,5 +178,32 @@
         "EnableDebuff": false,
         "EnableStatusCondition": false,
         "EnableStatusChange": false
+    },
+    {
+        "Id": 2100103012,
+        "MinCount": 1,
+        "MaxCount": 999,
+        "EnableBuff": false,
+        "EnableDebuff": true,
+        "EnableStatusCondition": false,
+        "EnableStatusChange": false
+    },
+    {
+        "Id": 2100303012,
+        "MinCount": 1,
+        "MaxCount": 999,
+        "EnableBuff": false,
+        "EnableDebuff": true,
+        "EnableStatusCondition": false,
+        "EnableStatusChange": false
+    },
+    {
+        "Id": 2104903012,
+        "MinCount": 1,
+        "MaxCount": 999,
+        "EnableBuff": true,
+        "EnableDebuff": false,
+        "EnableStatusCondition": false,
+        "EnableStatusChange": false
     }
 ]
