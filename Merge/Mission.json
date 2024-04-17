@@ -1290,6 +1290,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 110002017,
+    "NameTemplate": {
+      "Ja": "エレクトロカノンのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Electrocannon's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エレクトロカノンのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Electrocannon's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 35,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 2017,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 135,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000002017,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110002018,
     "NameTemplate": {
       "Ja": "ヘビーハウザーのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -34045,6 +34075,366 @@
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 2005,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200601001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120200601,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601001,
+    "OpenConditionSetId": 12120200601001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200601002,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "MissionSetId": 120200601,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601001,
+    "OpenConditionSetId": 12120200601001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200601003,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 120200601,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 52,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601001,
+    "OpenConditionSetId": 12120200601001,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200601004,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "MissionSetId": 120200601,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 84,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601004,
+    "OpenConditionSetId": 12120200601004,
+    "LockConditionSetId": 0,
+    "TransitionType": 39,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200601005,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 120200601,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601004,
+    "OpenConditionSetId": 12120200601004,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200602001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120200602,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601001,
+    "OpenConditionSetId": 12120200601001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200602002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120200602,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601001,
+    "OpenConditionSetId": 12120200601001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200602003,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120200602,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601001,
+    "OpenConditionSetId": 12120200601001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200602004,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120200602,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601001,
+    "OpenConditionSetId": 12120200601001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200602005,
+    "NameTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "MissionSetId": 120200602,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 108,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601004,
+    "OpenConditionSetId": 12120200601004,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200602006,
+    "NameTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "MissionSetId": 120200602,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 108,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601004,
+    "OpenConditionSetId": 12120200601004,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120200602007,
+    "NameTemplate": {
+      "Ja": "イベントのマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Co-op battle."
+    },
+    "MissionSetId": 120200602,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 109,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120200601004,
+    "OpenConditionSetId": 12120200601004,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2006,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
