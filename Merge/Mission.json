@@ -6810,6 +6810,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 190900203,
+    "NameTemplate": {
+      "Ja": "ダイヤモンドダストのレベルを{0}にする。",
+      "En": "Raise Diamond Dust to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ダイヤモンドダストのレベルを{0}にする。",
+      "En": "Raise Diamond Dust to Lv. {0}."
+    },
+    "MissionSetId": 190010,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 12,
+    "TargetId1": 200201,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 900203,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190900203,
+    "OpenConditionSetId": 240190900203,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190900601,
     "NameTemplate": {
       "Ja": "召喚獣ストリームでメガフレアを取得する。",
@@ -18594,6 +18624,396 @@
     "OpenConditionSetId": 260000500038,
     "LockConditionSetId": 0,
     "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039001,
+    "NameTemplate": {
+      "Ja": "機体の各部位の合計レベルを{0}にする。",
+      "En": "Raise the total of all airship parts to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "機体の各部位の合計レベルを{0}にする。",
+      "En": "Raise the total of all airship parts to Lv. {0}."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 125,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039002,
+    "NameTemplate": {
+      "Ja": "ハイウインドのバトルを{0}回クリアする。",
+      "En": "Clear {0} Highwind battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドのバトルを{0}回クリアする。",
+      "En": "Clear {0} Highwind battle(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 126,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039003,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039004,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039005,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039006,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039007,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039008,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039009,
+    "NameTemplate": {
+      "Ja": "任意の武器強化クエストを{0}回クリアする。",
+      "En": "Clear weapon enhancement quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器強化クエストを{0}回クリアする。",
+      "En": "Clear weapon enhancement quests {0} time(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039010,
+    "NameTemplate": {
+      "Ja": "任意のキャラ成長クエストを{0}回クリアする。",
+      "En": "Clear training quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のキャラ成長クエストを{0}回クリアする。",
+      "En": "Clear training quests {0} time(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 1,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039011,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039012,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500039013,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 500039,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500039,
+    "OpenConditionSetId": 260000500039,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
     "TransitionId": 0,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
@@ -32928,6 +33348,3846 @@
     "TargetId3": 0,
     "TargetValue": 0,
     "RewardSetId": 1200500,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001001,
+    "NameTemplate": {
+      "Ja": "飛空艇本体のレベルを{0}にする。",
+      "En": "Raise the airship's hull to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "飛空艇本体のレベルを{0}にする。",
+      "En": "Raise the airship's hull to Lv. {0}."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 124,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001002,
+    "NameTemplate": {
+      "Ja": "エンジンのレベルを{0}にする。",
+      "En": "Raise the engine to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エンジンのレベルを{0}にする。",
+      "En": "Raise the engine to Lv. {0}."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 124,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001003,
+    "NameTemplate": {
+      "Ja": "スタビライザーのレベルを{0}にする。",
+      "En": "Raise the stabilizer to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "スタビライザーのレベルを{0}にする。",
+      "En": "Raise the stabilizer to Lv. {0}."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 124,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001004,
+    "NameTemplate": {
+      "Ja": "プロペラのレベルを{0}にする。",
+      "En": "Raise the propeller to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "プロペラのレベルを{0}にする。",
+      "En": "Raise the propeller to Lv. {0}."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 124,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001005,
+    "NameTemplate": {
+      "Ja": "機体の各部位の合計レベルを{0}にする。",
+      "En": "Raise the total of all airship parts to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "機体の各部位の合計レベルを{0}にする。",
+      "En": "Raise the total of all airship parts to Lv. {0}."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 125,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001006,
+    "NameTemplate": {
+      "Ja": "ハイウインドのレアエネミーバトルを{0}回クリアする。",
+      "En": "Clear {0} Highwind rare enemy battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドのレアエネミーバトルを{0}回クリアする。",
+      "En": "Clear {0} Highwind rare enemy battle(s)."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 127,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001007,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2300001008,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 2300001,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 2400101001,
+    "NameTemplate": {
+      "Ja": "武器の獲得数",
+      "En": "Weapons Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "武器の獲得数",
+      "En": "Weapons Obtained"
+    },
+    "MissionSetId": 2400101,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 30,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400101002,
+    "NameTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器の獲得数",
+      "En": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> Weapons Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器の獲得数",
+      "En": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> Weapons Obtained"
+    },
+    "MissionSetId": 2400101,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 145,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 3,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400101003,
+    "NameTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197>武器の獲得数",
+      "En": "<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197> Weapons Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197>武器の獲得数",
+      "En": "<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197> Weapons Obtained"
+    },
+    "MissionSetId": 2400101,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 130,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 5,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400101004,
+    "NameTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198>武器の獲得数",
+      "En": "<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> Weapons Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198>武器の獲得数",
+      "En": "<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> Weapons Obtained"
+    },
+    "MissionSetId": 2400101,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 130,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 10,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400102001,
+    "NameTemplate": {
+      "Ja": "キャラクターレベルの合計",
+      "En": "Total Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターレベルの合計",
+      "En": "Total Character Lv."
+    },
+    "MissionSetId": 2400102,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 56,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400102002,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームの解放したマスの合計",
+      "En": "Total Character Stream Nodes Unlocked"
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームの解放したマスの合計",
+      "En": "Total Character Stream Nodes Unlocked"
+    },
+    "MissionSetId": 2400102,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400102003,
+    "NameTemplate": {
+      "Ja": "リミットブレイクのレベルの合計",
+      "En": "Total Limit Break Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "リミットブレイクのレベルの合計",
+      "En": "Total Limit Break Lv."
+    },
+    "MissionSetId": 2400102,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 133,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400102004,
+    "NameTemplate": {
+      "Ja": "キャラクタークエストのクリアしたCODE数",
+      "En": "Cleared Character Quest Codes"
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクタークエストのクリアしたCODE数",
+      "En": "Cleared Character Quest Codes"
+    },
+    "MissionSetId": 2400102,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 137,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400103001,
+    "NameTemplate": {
+      "Ja": "召喚獣の解放数",
+      "En": "Summons Unlocked"
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の解放数",
+      "En": "Summons Unlocked"
+    },
+    "MissionSetId": 2400103,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 8,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400103002,
+    "NameTemplate": {
+      "Ja": "召喚獣アビリティのレベルの合計",
+      "En": "Total Summon Ability Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣アビリティのレベルの合計",
+      "En": "Total Summon Ability Lv."
+    },
+    "MissionSetId": 2400103,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 134,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400103003,
+    "NameTemplate": {
+      "Ja": "召喚獣ストリームの解放したマスの合計",
+      "En": "Total Summon Stream Nodes Unlocked"
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣ストリームの解放したマスの合計",
+      "En": "Total Summon Stream Nodes Unlocked"
+    },
+    "MissionSetId": 2400103,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400103004,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔の到達した階層",
+      "En": "Highest Floor Reached in the Sealed Tower of the Cetra"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔の到達した階層",
+      "En": "Highest Floor Reached in the Sealed Tower of the Cetra"
+    },
+    "MissionSetId": 2400103,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400104001,
+    "NameTemplate": {
+      "Ja": "アナザーダンジョンでミッションを100%にした数",
+      "En": "Missions Cleared at 100% in Criterion Dungeons"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アナザーダンジョンでミッションを100%にした数",
+      "En": "Missions Cleared at 100% in Criterion Dungeons"
+    },
+    "MissionSetId": 2400104,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 136,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 100,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400104002,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョンS+ランククリア数",
+      "En": "Rank S+ Crisis Dungeons Cleared"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョンS+ランククリア数",
+      "En": "Rank S+ Crisis Dungeons Cleared"
+    },
+    "MissionSetId": 2400104,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 142,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 14,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400104003,
+    "NameTemplate": {
+      "Ja": "プレイヤーアイコンの獲得数",
+      "En": "Icons Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "プレイヤーアイコンの獲得数",
+      "En": "Icons Obtained"
+    },
+    "MissionSetId": 2400104,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 129,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400104004,
+    "NameTemplate": {
+      "Ja": "プレイヤー背景の獲得数",
+      "En": "Title Plates Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "プレイヤー背景の獲得数",
+      "En": "Title Plates Obtained"
+    },
+    "MissionSetId": 2400104,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 129,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400104005,
+    "NameTemplate": {
+      "Ja": "プレイヤー称号の獲得数",
+      "En": "Titles Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "プレイヤー称号の獲得数",
+      "En": "Titles Obtained"
+    },
+    "MissionSetId": 2400104,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 143,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400105001,
+    "NameTemplate": {
+      "Ja": "チョコボで探索率を100%にしたエリア数",
+      "En": "Chocobo Areas Explored 100%"
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボで探索率を100%にしたエリア数",
+      "En": "Chocobo Areas Explored 100%"
+    },
+    "MissionSetId": 2400105,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 138,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 100,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400105002,
+    "NameTemplate": {
+      "Ja": "チョコボで獲得した探索アイテムの数",
+      "En": "Chocobo Exploration Items Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボで獲得した探索アイテムの数",
+      "En": "Chocobo Exploration Items Obtained"
+    },
+    "MissionSetId": 2400105,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 103,
+    "TargetId1": 28,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400105003,
+    "NameTemplate": {
+      "Ja": "ハイウインドのパーツレベルの合計",
+      "En": "Total Highwind Parts Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドのパーツレベルの合計",
+      "En": "Total Highwind Parts Lv."
+    },
+    "MissionSetId": 2400105,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 125,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400105004,
+    "NameTemplate": {
+      "Ja": "ハイウインドでクリアしたボスバトル数",
+      "En": "Highwind Boss Battles Cleared"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドでクリアしたボスバトル数",
+      "En": "Highwind Boss Battles Cleared"
+    },
+    "MissionSetId": 2400105,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 127,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400106001,
+    "NameTemplate": {
+      "Ja": "マテリアの獲得種類数",
+      "En": "Materia Types Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアの獲得種類数",
+      "En": "Materia Types Obtained"
+    },
+    "MissionSetId": 2400106,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 14,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400106002,
+    "NameTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>マテリアの獲得種類数",
+      "En": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192> Materia Types Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>マテリアの獲得種類数",
+      "En": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192> Materia Types Obtained"
+    },
+    "MissionSetId": 2400106,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 139,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 4,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400106003,
+    "NameTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>のマテリアの獲得種類数",
+      "En": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>  Materia Types Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>のマテリアの獲得種類数",
+      "En": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>  Materia Types Obtained"
+    },
+    "MissionSetId": 2400106,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 139,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 5,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107001,
+    "NameTemplate": {
+      "Ja": "クラウドのウェアの獲得数",
+      "En": "Cloud's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのウェアの獲得数",
+      "En": "Cloud's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107002,
+    "NameTemplate": {
+      "Ja": "バレットのウェアの獲得数",
+      "En": "Barret's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのウェアの獲得数",
+      "En": "Barret's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107003,
+    "NameTemplate": {
+      "Ja": "ティファのウェアの獲得数",
+      "En": "Tifa's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのウェアの獲得数",
+      "En": "Tifa's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107004,
+    "NameTemplate": {
+      "Ja": "エアリスのウェアの獲得数",
+      "En": "Aerith's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのウェアの獲得数",
+      "En": "Aerith's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107005,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのウェアの獲得数",
+      "En": "Red XIII's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのウェアの獲得数",
+      "En": "Red XIII's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107006,
+    "NameTemplate": {
+      "Ja": "ユフィのウェアの獲得数",
+      "En": "Yuffie's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのウェアの獲得数",
+      "En": "Yuffie's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107007,
+    "NameTemplate": {
+      "Ja": "ケット・シーのウェアの獲得数",
+      "En": "Cait Sith's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのウェアの獲得数",
+      "En": "Cait Sith's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107008,
+    "NameTemplate": {
+      "Ja": "ザックスのウェアの獲得数",
+      "En": "Zack's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのウェアの獲得数",
+      "En": "Zack's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107009,
+    "NameTemplate": {
+      "Ja": "セフィロスのウェアの獲得数",
+      "En": "Sephiroth's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのウェアの獲得数",
+      "En": "Sephiroth's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107010,
+    "NameTemplate": {
+      "Ja": "グレンのウェアの獲得数",
+      "En": "Glenn's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのウェアの獲得数",
+      "En": "Glenn's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107011,
+    "NameTemplate": {
+      "Ja": "マットのウェアの獲得数",
+      "En": "Matt's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのウェアの獲得数",
+      "En": "Matt's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400107012,
+    "NameTemplate": {
+      "Ja": "ルティアのウェアの獲得数",
+      "En": "Lucia's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのウェアの獲得数",
+      "En": "Lucia's Gear Obtained"
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108001,
+    "NameTemplate": {
+      "Ja": "クラウドのキャラクターレベル",
+      "En": "Cloud's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのキャラクターレベル",
+      "En": "Cloud's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108002,
+    "NameTemplate": {
+      "Ja": "バレットのキャラクターレベル",
+      "En": "Barret's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのキャラクターレベル",
+      "En": "Barret's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108003,
+    "NameTemplate": {
+      "Ja": "ティファのキャラクターレベル",
+      "En": "Tifa's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのキャラクターレベル",
+      "En": "Tifa's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108004,
+    "NameTemplate": {
+      "Ja": "エアリスのキャラクターレベル",
+      "En": "Aerith's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのキャラクターレベル",
+      "En": "Aerith's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108005,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのキャラクターレベル",
+      "En": "Red XIII's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのキャラクターレベル",
+      "En": "Red XIII's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108006,
+    "NameTemplate": {
+      "Ja": "ユフィのキャラクターレベル",
+      "En": "Yuffie's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのキャラクターレベル",
+      "En": "Yuffie's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108007,
+    "NameTemplate": {
+      "Ja": "ケット・シーのキャラクターレベル",
+      "En": "Cait Sith's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのキャラクターレベル",
+      "En": "Cait Sith's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108008,
+    "NameTemplate": {
+      "Ja": "ザックスのキャラクターレベル",
+      "En": "Zack's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのキャラクターレベル",
+      "En": "Zack's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108009,
+    "NameTemplate": {
+      "Ja": "セフィロスのキャラクターレベル",
+      "En": "Sephiroth's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのキャラクターレベル",
+      "En": "Sephiroth's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108010,
+    "NameTemplate": {
+      "Ja": "グレンのキャラクターレベル",
+      "En": "Glenn's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのキャラクターレベル",
+      "En": "Glenn's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108011,
+    "NameTemplate": {
+      "Ja": "マットのキャラクターレベル",
+      "En": "Matt's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのキャラクターレベル",
+      "En": "Matt's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108012,
+    "NameTemplate": {
+      "Ja": "ルティアのキャラクターレベル",
+      "En": "Lucia's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのキャラクターレベル",
+      "En": "Lucia's Character Lv."
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201001,
+    "NameTemplate": {
+      "Ja": "クラウドの一撃最大ダメージ",
+      "En": "Cloud's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドの一撃最大ダメージ",
+      "En": "Cloud's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201002,
+    "NameTemplate": {
+      "Ja": "バレットの一撃最大ダメージ",
+      "En": "Barret's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットの一撃最大ダメージ",
+      "En": "Barret's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201003,
+    "NameTemplate": {
+      "Ja": "ティファの一撃最大ダメージ",
+      "En": "Tifa's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファの一撃最大ダメージ",
+      "En": "Tifa's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201004,
+    "NameTemplate": {
+      "Ja": "エアリスの一撃最大ダメージ",
+      "En": "Aerith's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスの一撃最大ダメージ",
+      "En": "Aerith's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201005,
+    "NameTemplate": {
+      "Ja": "レッドXIIIの一撃最大ダメージ",
+      "En": "Red XIII's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIの一撃最大ダメージ",
+      "En": "Red XIII's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201006,
+    "NameTemplate": {
+      "Ja": "ユフィの一撃最大ダメージ",
+      "En": "Yuffie's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィの一撃最大ダメージ",
+      "En": "Yuffie's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201007,
+    "NameTemplate": {
+      "Ja": "ケット・シーの一撃最大ダメージ",
+      "En": "Cait Sith's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーの一撃最大ダメージ",
+      "En": "Cait Sith's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201008,
+    "NameTemplate": {
+      "Ja": "ザックスの一撃最大ダメージ",
+      "En": "Zack's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスの一撃最大ダメージ",
+      "En": "Zack's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201009,
+    "NameTemplate": {
+      "Ja": "セフィロスの一撃最大ダメージ",
+      "En": "Sephiroth's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスの一撃最大ダメージ",
+      "En": "Sephiroth's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201010,
+    "NameTemplate": {
+      "Ja": "グレンの一撃最大ダメージ",
+      "En": "Glenn's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンの一撃最大ダメージ",
+      "En": "Glenn's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201011,
+    "NameTemplate": {
+      "Ja": "マットの一撃最大ダメージ",
+      "En": "Matt's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットの一撃最大ダメージ",
+      "En": "Matt's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400201012,
+    "NameTemplate": {
+      "Ja": "ルティアの一撃最大ダメージ",
+      "En": "Lucia's One-Hit Max. Damage"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアの一撃最大ダメージ",
+      "En": "Lucia's One-Hit Max. Damage"
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202001,
+    "NameTemplate": {
+      "Ja": "クラウドのバトル中トータルダメージ",
+      "En": "Cloud's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのバトル中トータルダメージ",
+      "En": "Cloud's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202002,
+    "NameTemplate": {
+      "Ja": "バレットのバトル中トータルダメージ",
+      "En": "Barret's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのバトル中トータルダメージ",
+      "En": "Barret's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202003,
+    "NameTemplate": {
+      "Ja": "ティファのバトル中トータルダメージ",
+      "En": "Tifa's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのバトル中トータルダメージ",
+      "En": "Tifa's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202004,
+    "NameTemplate": {
+      "Ja": "エアリスのバトル中トータルダメージ",
+      "En": "Aerith's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのバトル中トータルダメージ",
+      "En": "Aerith's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202005,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのバトル中トータルダメージ",
+      "En": "Red XIII's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのバトル中トータルダメージ",
+      "En": "Red XIII's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202006,
+    "NameTemplate": {
+      "Ja": "ユフィのバトル中トータルダメージ",
+      "En": "Yuffie's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのバトル中トータルダメージ",
+      "En": "Yuffie's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202007,
+    "NameTemplate": {
+      "Ja": "ケット・シーのバトル中トータルダメージ",
+      "En": "Cait Sith's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのバトル中トータルダメージ",
+      "En": "Cait Sith's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202008,
+    "NameTemplate": {
+      "Ja": "ザックスのバトル中トータルダメージ",
+      "En": "Zack's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのバトル中トータルダメージ",
+      "En": "Zack's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202009,
+    "NameTemplate": {
+      "Ja": "セフィロスのバトル中トータルダメージ",
+      "En": "Sephiroth's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのバトル中トータルダメージ",
+      "En": "Sephiroth's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202010,
+    "NameTemplate": {
+      "Ja": "グレンのバトル中トータルダメージ",
+      "En": "Glenn's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのバトル中トータルダメージ",
+      "En": "Glenn's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202011,
+    "NameTemplate": {
+      "Ja": "マットのバトル中トータルダメージ",
+      "En": "Matt's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのバトル中トータルダメージ",
+      "En": "Matt's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202012,
+    "NameTemplate": {
+      "Ja": "ルティアのバトル中トータルダメージ",
+      "En": "Lucia's Total Damage Dealt in Battle"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのバトル中トータルダメージ",
+      "En": "Lucia's Total Damage Dealt in Battle"
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401001001,
+    "NameTemplate": {
+      "Ja": "クラウドのLv.50に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのLv.50に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401001,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401001002,
+    "NameTemplate": {
+      "Ja": "クラウドのLv.90に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのLv.90に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401001,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401001003,
+    "NameTemplate": {
+      "Ja": "クラウドのLv.120に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのLv.120に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401001,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401001004,
+    "NameTemplate": {
+      "Ja": "クラウドのLv.70に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドのLv.70に到達した武器数",
+      "En": "Cloud's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401001,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401002001,
+    "NameTemplate": {
+      "Ja": "バレットのLv.50に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのLv.50に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401002,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401002002,
+    "NameTemplate": {
+      "Ja": "バレットのLv.90に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのLv.90に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401002,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401002003,
+    "NameTemplate": {
+      "Ja": "バレットのLv.120に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのLv.120に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401002,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401002004,
+    "NameTemplate": {
+      "Ja": "バレットのLv.70に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットのLv.70に到達した武器数",
+      "En": "Barret's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401002,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401003001,
+    "NameTemplate": {
+      "Ja": "ティファのLv.50に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのLv.50に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401003,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401003002,
+    "NameTemplate": {
+      "Ja": "ティファのLv.90に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのLv.90に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401003,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401003003,
+    "NameTemplate": {
+      "Ja": "ティファのLv.120に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのLv.120に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401003,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401003004,
+    "NameTemplate": {
+      "Ja": "ティファのLv.70に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファのLv.70に到達した武器数",
+      "En": "Tifa's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401003,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401004001,
+    "NameTemplate": {
+      "Ja": "エアリスのLv.50に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのLv.50に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401004,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401004002,
+    "NameTemplate": {
+      "Ja": "エアリスのLv.90に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのLv.90に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401004,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401004003,
+    "NameTemplate": {
+      "Ja": "エアリスのLv.120に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのLv.120に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401004,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401004004,
+    "NameTemplate": {
+      "Ja": "エアリスのLv.70に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスのLv.70に到達した武器数",
+      "En": "Aerith's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401004,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401005001,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのLv.50に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのLv.50に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401005,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401005002,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのLv.90に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのLv.90に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401005,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401005003,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのLv.120に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのLv.120に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401005,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401005004,
+    "NameTemplate": {
+      "Ja": "レッドXIIIのLv.70に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIのLv.70に到達した武器数",
+      "En": "Red XIII's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401005,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401006001,
+    "NameTemplate": {
+      "Ja": "ユフィのLv.50に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのLv.50に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401006,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401006002,
+    "NameTemplate": {
+      "Ja": "ユフィのLv.90に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのLv.90に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401006,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401006003,
+    "NameTemplate": {
+      "Ja": "ユフィのLv.120に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのLv.120に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401006,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401006004,
+    "NameTemplate": {
+      "Ja": "ユフィのLv.70に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィのLv.70に到達した武器数",
+      "En": "Yuffie's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401006,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401007001,
+    "NameTemplate": {
+      "Ja": "ケット・シーのLv.50に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのLv.50に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401007,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401007002,
+    "NameTemplate": {
+      "Ja": "ケット・シーのLv.90に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのLv.90に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401007,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401007003,
+    "NameTemplate": {
+      "Ja": "ケット・シーのLv.120に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのLv.120に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401007,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401007004,
+    "NameTemplate": {
+      "Ja": "ケット・シーのLv.70に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーのLv.70に到達した武器数",
+      "En": "Cait Sith's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401007,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401020001,
+    "NameTemplate": {
+      "Ja": "ザックスのLv.50に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのLv.50に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401020,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401020002,
+    "NameTemplate": {
+      "Ja": "ザックスのLv.90に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのLv.90に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401020,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401020003,
+    "NameTemplate": {
+      "Ja": "ザックスのLv.120に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのLv.120に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401020,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401020004,
+    "NameTemplate": {
+      "Ja": "ザックスのLv.70に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスのLv.70に到達した武器数",
+      "En": "Zack's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401020,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401049001,
+    "NameTemplate": {
+      "Ja": "セフィロスのLv.50に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのLv.50に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401049,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401049002,
+    "NameTemplate": {
+      "Ja": "セフィロスのLv.90に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのLv.90に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401049,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401049003,
+    "NameTemplate": {
+      "Ja": "セフィロスのLv.120に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのLv.120に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401049,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401049004,
+    "NameTemplate": {
+      "Ja": "セフィロスのLv.70に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスのLv.70に到達した武器数",
+      "En": "Sephiroth's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401049,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401050001,
+    "NameTemplate": {
+      "Ja": "グレンのLv.50に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのLv.50に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401050,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401050002,
+    "NameTemplate": {
+      "Ja": "グレンのLv.90に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのLv.90に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401050,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401050003,
+    "NameTemplate": {
+      "Ja": "グレンのLv.120に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのLv.120に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401050,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401050004,
+    "NameTemplate": {
+      "Ja": "グレンのLv.70に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンのLv.70に到達した武器数",
+      "En": "Glenn's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401050,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401051001,
+    "NameTemplate": {
+      "Ja": "マットのLv.50に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのLv.50に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401051,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401051002,
+    "NameTemplate": {
+      "Ja": "マットのLv.90に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのLv.90に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401051,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401051003,
+    "NameTemplate": {
+      "Ja": "マットのLv.120に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのLv.120に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401051,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401051004,
+    "NameTemplate": {
+      "Ja": "マットのLv.70に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットのLv.70に到達した武器数",
+      "En": "Matt's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401051,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401052001,
+    "NameTemplate": {
+      "Ja": "ルティアのLv.50に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのLv.50に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 50"
+    },
+    "MissionSetId": 2401052,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401052002,
+    "NameTemplate": {
+      "Ja": "ルティアのLv.90に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのLv.90に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 90"
+    },
+    "MissionSetId": 2401052,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401052003,
+    "NameTemplate": {
+      "Ja": "ルティアのLv.120に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのLv.120に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 120"
+    },
+    "MissionSetId": 2401052,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401052004,
+    "NameTemplate": {
+      "Ja": "ルティアのLv.70に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアのLv.70に到達した武器数",
+      "En": "Lucia's Weapons Raised to Lv. 70"
+    },
+    "MissionSetId": 2401052,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
     "OrderNo": 2,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,

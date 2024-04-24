@@ -3807,6 +3807,28 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>冷属性の魔法攻撃</color>を多用する。\nフォースゲージ [<color=#D9DA59>ICE AGE</color>] に応じて<color=#95C7FF>炎属性耐性</color>が変動する。\nフォースゲージは<color=#95C7FF>炎属性アビリティ</color>でのみ減少する。\n\n<color=#95C7FF>魔法</color>・<color=#95C7FF>炎属性アビリティ</color>、<color=#95C7FF>冷属性耐性</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>ice-element magic attacks</color>. <color=#95C7FF>Fire resistance</color> changes based on Force Gauge: <color=#D9DA59>Ice Age</color>. The gauge can only be depleted with <color=#95C7FF>fire-element abilities</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2512005,
+    "Level": 1,
+    "ResourceId": 2512005010,
+    "EnemySkillLevelId": 2512005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>冷属性の魔法攻撃</color>を多用する。\nフォースゲージ [<color=#D9DA59>ICE AGE</color>] に応じて<color=#95C7FF>炎属性耐性</color>が変動する。\nフォースゲージは<color=#95C7FF>炎属性アビリティ</color>でのみ減少する。\n\n<color=#95C7FF>魔法</color>・<color=#95C7FF>炎属性アビリティ</color>、<color=#95C7FF>冷属性耐性</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <color=#95C7FF>ice-element magic attacks</color>. <color=#95C7FF>Fire resistance</color> changes based on Force Gauge: <color=#D9DA59>Ice Age</color>. The gauge can only be depleted with <color=#95C7FF>fire-element abilities</color>.\n \n<color=#95C7FF>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2512006,
+    "Level": 1,
+    "ResourceId": 2512006010,
+    "EnemySkillLevelId": 2512006010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n<color=#95C7FF>金剛坊タイ</color>との強力な連携攻撃を行う。\nまた、強力な攻撃後一定時間<color=#95C7FF>行動不能</color>となり、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>ATK Down / <sprite=\"tmp_icon\" index=387>DEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <color=#95C7FF>physical attacks</color>. Unleashes a powerful linked attack with <color=#95C7FF>Vajradhara Tai</color>, but afterward becomes <color=#95C7FF>incapacitated</color> for a certain amount of time and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=387>DEF Down</color> on self."
     },
@@ -4232,6 +4254,17 @@
     "Level": 1,
     "ResourceId": 2517001010,
     "EnemySkillLevelId": 2517005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：なし\n\n<color=#95C7FF>強力な全体攻撃</color> [<color=#D9DA59>放水</color>]など、<color=#95C7FF>水属性の魔法攻撃</color>を使用する。\n仲間を呼び寄せて戦うが、仲間が倒されると攻撃の激しさが増す。\n\n<color=#95C7FF>魔法攻撃</color>が有効。\nまた、仲間を呼び寄せるので<color=#95C7FF>全体攻撃</color>が有効。",
+      "En": "Immunities: None\n \nUses <color=#95C7FF>water-element magic attacks</color> including the <color=#95C7FF>powerful multi-target attack</color> <color=#D9DA59>Water Surge</color>. Calls additional allies to battle, and becomes aggressive when allies are defeated.\n \n<color=#95C7FF>Magic attacks</color> and <color=#95C7FF>multi-target attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2517006,
+    "Level": 1,
+    "ResourceId": 2517001010,
+    "EnemySkillLevelId": 2517006010,
     "FinalAttackSkillEnemyId": 0
   },
   {

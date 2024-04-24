@@ -2185,6 +2185,84 @@
   },
   {
     "Title": {
+      "Ja": "ハイウインドについて",
+      "En": "The Highwind"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ハイウインド」</color>が解放されました。\n遠征から確認できます。\nハイウインドでは、<command_color=common_03>「コレクション」を集め戦力を強化</color>できます。",
+      "En": "The <command_color=common_03>Highwind</color> has been unlocked and can be accessed from Expeditions. You can <command_color=common_03>gather collection items</color> aboard the ship to <command_color=common_03>boost your power</color>."
+    },
+    "TutorialPopupGroupId": 2250001,
+    "Seq": 1,
+    "ResourceId": 225000101
+  },
+  {
+    "Title": {
+      "Ja": "ハイウインドについて",
+      "En": "The Highwind"
+    },
+    "Description": {
+      "Ja": "ハイウインドは自動で遠征を行い、<command_color=common_03>時間経過でアイテムを回収</color>できるようになります。\n回収したアイテムで<command_color=common_03>「飛空艇強化」</color>や、敵を発見して<command_color=common_03>「飛空艇バトル」</color>に挑戦できます。\n<command_color=common_03>「ハイウインドブースター」</color>を使用することで時間を待たずに回収することも可能です。",
+      "En": "The Highwind sets out on automated expeditions, <command_color=common_03>allowing you to collect items after a certain period of time</color>. These items can be used for <command_color=common_03>Airship Enhancement</color>, and the act of collecting them may lead you to discover enemies, triggering <command_color=common_03>Airship Battles</color>. Items can be collected instantly with <command_color=common_03>Highwind Boosters</color>."
+    },
+    "TutorialPopupGroupId": 2251001,
+    "Seq": 1,
+    "ResourceId": 225100101
+  },
+  {
+    "Title": {
+      "Ja": "すでにアイテムを回収できる状態です。\n回収してアイテムを確認してみましょう。",
+      "En": "There are items ready for collection. Collect them and take a look at your rewards."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2251101,
+    "Seq": 1,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "飛空艇強化について",
+      "En": "Airship Enhancement"
+    },
+    "Description": {
+      "Ja": "飛空艇強化では、<command_color=common_03>回収したアイテムを消費してハイウインドや各パーツを強化</color>できます。\n<command_color=common_03>強化することで、アイテムの回収効率やレアアイテムの発見確率が上昇</color>します。",
+      "En": "Through Airship Enhancement, you can <command_color=common_03>enhance the Highwind and its parts with items you've collected</color>. Doing so will <command_color=common_03>increase your item collection efficiency and discovery rate of rare items</color>."
+    },
+    "TutorialPopupGroupId": 2252001,
+    "Seq": 1,
+    "ResourceId": 225200101
+  },
+  {
+    "Title": {
+      "Ja": "飛空艇バトルについて",
+      "En": "Airship Battles"
+    },
+    "Description": {
+      "Ja": "飛空艇を強化すると、エネミーとのバトルが解放されます。\n飛空艇バトルに勝利すると<command_color=common_03>「コレクション」や「レアアイテム」を獲得</color>できます。\n<command_color=common_02>※一部の飛空艇バトルは時間経過で挑戦できなくなるものもあります。</color>",
+      "En": "Enhancing the airship unlocks Airship Battles, and winning these battles yield <command_color=common_03>collection items and rare items</color>.\n<command_color=common_02>*Some Airship Battles are only available for a certain period of time.</color>"
+    },
+    "TutorialPopupGroupId": 2253001,
+    "Seq": 1,
+    "ResourceId": 225300101
+  },
+  {
+    "Title": {
+      "Ja": "ハイウインドコレクションについて",
+      "En": "Highwind Collection"
+    },
+    "Description": {
+      "Ja": "「コレクション」は持っているだけで、<command_color=common_03>キャラクターのステータスなどを上昇させる効果</color>を得られます。\nまた、<command_color=common_03>条件を達成することで強化が可能</color>になり、効果を高めることができます。",
+      "En": "Collection items have effects that <command_color=common_03>strengthen your characters</color> by simply possessing them. <command_color=common_03>Fulfilling certain conditions will allow you to enhance these items</color> and boost their effects."
+    },
+    "TutorialPopupGroupId": 2254001,
+    "Seq": 1,
+    "ResourceId": 225400101
+  },
+  {
+    "Title": {
       "Ja": "AUTO機能が使用できるようになりました。\nMANUALから切り替えて選択できます。",
       "En": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },

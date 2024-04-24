@@ -1431,6 +1431,59 @@
     "GachaWishId": 30
   },
   {
+    "Id": 10031,
+    "Name": {
+      "Ja": "ハイウインド登場記念セレクトガチャ",
+      "En": "Highwind Launch Special Pick Draw"
+    },
+    "Description": {
+      "Ja": "ハイウインド登場記念セレクトガチャ",
+      "En": "Highwind Launch Special Pick Draw"
+    },
+    "Attention": {
+      "Ja": "・本ガチャの開催期間は、予告なく変更する場合があります。\n・出現する武器は重複する可能性がございます。なお、同一の武器を重複して獲得することは\n　できないため、同一の武器を獲得した場合は、武器保管庫に送られます。\n・すでに所持している同名武器よりレアリティの高い武器を獲得した場合、\n　自動でレアリティの高いものになります。この際、武器のレベルは引き継がれ、\n　レアリティの低い武器は武器保管庫に送られます。\n・通信状況によって、ガチャの演出がとばされたり、ガチャ演出の一部または全てが正常ではない\n　状態で表示されたりする可能性がありますが、武器の追加は正常に完了しておりますため、\n　武器一覧をご確認ください。\n・レッドクリスタルとブルークリスタルを所持している場合、\n　ブルークリスタルから先に消費されます。\n・ガチャから出現する武器の個別の提供割合は、小数点第6位以下がある場合でも、小数点第5位までを\n　表示いたします。そのため、表示している数字をレアリティ毎にまたはすべて足しても、\n　レアリティ別の合計値または100%とならない場合がございます。\n・実際の提供割合については、小数点第6位以下の四捨五入、切り上げ、切り捨て等は\n　行っておりません。\n・本ガチャは、1回ごとにその提供割合に基づいて抽選を行います。そのため、\n　本ガチャを特定回数繰り返しても、必ず特定の武器が出現するという仕組みではありません。",
+      "En": "- The period may change without notice.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Connectivity issues may result in skipped or faulty draw animations, but does not affect the outcome of the draw. Please check the weapon list for confirmation.\n- If both red and blue crystals are held, blue crystals will be used first.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n- Actual probabilities are neither rounded up nor down.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws."
+    },
+    "Summary": {
+      "Ja": "{0}から{1}を開催いたしました。\n\n本ガチャでは、出現する<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>武器はウィッシュリストで選択された武器のみとなります。",
+      "En": "{1} (Held from {0})!\n\nIn this Draw, only <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> weapons that are selected on the Wishlist will appear."
+    },
+    "GachaEmissionRate": {
+      "Ja": "※1回ごとに、提供割合に基づいて抽選を行っております。",
+      "En": "*Draws are based on probabilities."
+    },
+    "WeaponEmissionRate": {
+      "Ja": "※本ガチャの個別武器出現割合に補足事項はありません。",
+      "En": "*There is no supplemental information regarding the probabilities of each individual weapon in this draw."
+    },
+    "GachaGroupId": 10,
+    "GachaType": 0,
+    "DisplayConditionSetId": 170000010031,
+    "LockConditionSetId": 0,
+    "GachaDetailTemplateType": 1,
+    "TicketItemId": 0,
+    "GachaDirectionLotGroupId": 1,
+    "GachaAppealId0": 1003101,
+    "GachaAppealId1": 0,
+    "GachaAppealId2": 0,
+    "GachaAppealId3": 0,
+    "GachaAppealId4": 0,
+    "GachaAppealId5": 0,
+    "GachaAppealId6": 0,
+    "GachaAppealId7": 0,
+    "GachaAppealId8": 0,
+    "GachaAppealId9": 0,
+    "GachaStampSheetGroupId": 10031,
+    "GachaRarityLotGroupId": 1,
+    "GachaWeaponLotSetId": 100311,
+    "PickupGachaRarityLotGroupId": 0,
+    "PickupGachaWeaponLotSetId": 0,
+    "GachaNotiType": 0,
+    "ResourceId": 10031,
+    "Priority": 0,
+    "GachaWishId": 31
+  },
+  {
     "Id": 20001,
     "Name": {
       "Ja": "チケットガチャ",
