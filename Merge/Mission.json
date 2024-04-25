@@ -1380,6 +1380,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 110003020,
+    "NameTemplate": {
+      "Ja": "フェザーグラブのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Feathered Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "フェザーグラブのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Feathered Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 36,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 3020,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 136,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000003020,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110003025,
     "NameTemplate": {
       "Ja": "聖火のグローブのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -1851,6 +1881,36 @@
     "OrderNo": 130,
     "BonusPoint": 0,
     "DisplayConditionSetId": 240000020011,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 110020014,
+    "NameTemplate": {
+      "Ja": "プレッシャーリッジのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Pressure Ridge's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "プレッシャーリッジのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Pressure Ridge's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 37,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 20014,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 137,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000020014,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 38,
@@ -19015,6 +19075,396 @@
     "LockConditionSetId": 0,
     "TransitionType": 0,
     "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040001,
+    "NameTemplate": {
+      "Ja": "バトルタワーの未クリア階層を{0}回クリアする。",
+      "En": "Clear a new floor in the battle tower {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バトルタワーの未クリア階層を{0}回クリアする。",
+      "En": "Clear a new floor in the battle tower {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 116,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040002,
+    "NameTemplate": {
+      "Ja": "バトルタワーの未クリア階層を{0}回クリアする。",
+      "En": "Clear a new floor in the battle tower {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バトルタワーの未クリア階層を{0}回クリアする。",
+      "En": "Clear a new floor in the battle tower {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 116,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040003,
+    "NameTemplate": {
+      "Ja": "バトルタワーの未クリア階層を{0}回クリアする。",
+      "En": "Clear a new floor in the battle tower {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バトルタワーの未クリア階層を{0}回クリアする。",
+      "En": "Clear a new floor in the battle tower {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 116,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040004,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040005,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040006,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトル（イベントを除く）を{0}回クリアする。",
+      "En": "Clear {0} Co-op battle(s) with the exception of event."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトル（イベントを除く）を{0}回クリアする。",
+      "En": "Clear {0} Co-op battle(s) with the exception of event."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 24,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040007,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040008,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040009,
+    "NameTemplate": {
+      "Ja": "合成を{0}回する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "合成を{0}回する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040010,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040011,
+    "NameTemplate": {
+      "Ja": "任意の武器強化クエストを{0}回クリアする。",
+      "En": "Clear weapon enhancement quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器強化クエストを{0}回クリアする。",
+      "En": "Clear weapon enhancement quests {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040012,
+    "NameTemplate": {
+      "Ja": "任意のキャラ成長クエストを{0}回クリアする。",
+      "En": "Clear training quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のキャラ成長クエストを{0}回クリアする。",
+      "En": "Clear training quests {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 1,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500040013,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "MissionSetId": 500040,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500040,
+    "OpenConditionSetId": 260000500040,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
@@ -41095,6 +41545,396 @@
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 3008,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300901011,
+    "NameTemplate": {
+      "Ja": "「新緑のミラージュ」の「開園：緑の楽園」を見る。",
+      "En": "Play \"A Luscious Green Haven\" of \"A Brilliant Green Mirage\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「新緑のミラージュ」の「開園：緑の楽園」を見る。",
+      "En": "Play \"A Luscious Green Haven\" of \"A Brilliant Green Mirage\"."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300901,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 131000300901,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900000,
+    "OpenConditionSetId": 12120300900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300901012,
+    "NameTemplate": {
+      "Ja": "「新緑のミラージュ」の「休園：灼熱の緑」を見る。",
+      "En": "Play \"A Scorching Green Spirit\" of \"A Brilliant Green Mirage\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「新緑のミラージュ」の「休園：灼熱の緑」を見る。",
+      "En": "Play \"A Scorching Green Spirit\" of \"A Brilliant Green Mirage\"."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 300915,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 131000300902,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900001,
+    "OpenConditionSetId": 12120300900001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300901021,
+    "NameTemplate": {
+      "Ja": "ルーンブレイドをLv.{0}に武器強化する。",
+      "En": "Raise the Rune Blade to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルーンブレイドをLv.{0}に武器強化する。",
+      "En": "Raise the Rune Blade to Lv. {0}."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 21,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 1034,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900000,
+    "OpenConditionSetId": 12120300900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300901022,
+    "NameTemplate": {
+      "Ja": "アメジストカラーをLv.{0}に武器強化する。",
+      "En": "Raise the Amethyst Collar to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アメジストカラーをLv.{0}に武器強化する。",
+      "En": "Raise the Amethyst Collar to Lv. {0}."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 22,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 5034,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900001,
+    "OpenConditionSetId": 12120300900001,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300901031,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 31,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900000,
+    "OpenConditionSetId": 12120300900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300901032,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 32,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900000,
+    "OpenConditionSetId": 12120300900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300901033,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 33,
+    "AutoMissionCountType": 1,
+    "MissionType": 52,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900000,
+    "OpenConditionSetId": 12120300900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300901034,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 34,
+    "AutoMissionCountType": 1,
+    "MissionType": 84,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900001,
+    "OpenConditionSetId": 12120300900001,
+    "LockConditionSetId": 0,
+    "TransitionType": 39,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300901035,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 120300901,
+    "MissionSetIdx": 35,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900001,
+    "OpenConditionSetId": 12120300900001,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120300902001,
+    "NameTemplate": {
+      "Ja": "赤いタネを{0}個取得する。",
+      "En": "Obtain {0} Red Seed(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "赤いタネを{0}個取得する。",
+      "En": "Obtain {0} Red Seed(s)."
+    },
+    "MissionSetId": 120300902,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030092,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900000,
+    "OpenConditionSetId": 12120300900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300902002,
+    "NameTemplate": {
+      "Ja": "赤いタネを{0}個取得する。",
+      "En": "Obtain {0} Red Seed(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "赤いタネを{0}個取得する。",
+      "En": "Obtain {0} Red Seed(s)."
+    },
+    "MissionSetId": 120300902,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030092,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900000,
+    "OpenConditionSetId": 12120300900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300902011,
+    "NameTemplate": {
+      "Ja": "青いタネを{0}個取得する。",
+      "En": "Obtain {0} Blue Seed(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "青いタネを{0}個取得する。",
+      "En": "Obtain {0} Blue Seed(s)."
+    },
+    "MissionSetId": 120300902,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030093,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900001,
+    "OpenConditionSetId": 12120300900001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120300902012,
+    "NameTemplate": {
+      "Ja": "青いタネを{0}個取得する。",
+      "En": "Obtain {0} Blue Seed(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "青いタネを{0}個取得する。",
+      "En": "Obtain {0} Blue Seed(s)."
+    },
+    "MissionSetId": 120300902,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030093,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120300900001,
+    "OpenConditionSetId": 12120300900001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3009,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false

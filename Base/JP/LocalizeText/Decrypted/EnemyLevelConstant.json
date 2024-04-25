@@ -389,6 +389,10 @@
             "value": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>水属性の物理攻撃</color>を多用する。\n[<color=#D9DA59>スレッドストーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=384>鈍重</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与し、\n[<color=#D9DA59>アクアボール</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=682>水属性耐性ダウン</color>を付与する。\n\n<color=#95C7FF>雷属性の魔法攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。"
         },
         {
+            "id": 130000002054001,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>である [<color=#D9DA59>ジェノバレーザー</color>] を使用する。\n[<color=#D9DA59>フェイス</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=326>魔攻アップ</color>を付与し、\n[<color=#D9DA59>デマバリ</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。"
+        },
+        {
             "id": 130000002056002,
             "value": "無効：なし\n\n[<color=#D9DA59>サイレス</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=393>沈黙</color>を付与する。\n\n<color=#95C7FF>水属性アビリティ</color>が有効。\n\n\n"
         },
@@ -427,6 +431,10 @@
         {
             "id": 130000002505001,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>魔晄の息</color>] は対象全体に<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>を付与する。\nHPが一定以下になると [<color=#D9DA59>OPT排出</color>] により仲間を呼び出す。\n\n<color=#95C7FF>物理</color>・<color=#95C7FF>全体攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策が有効。"
+        },
+        {
+            "id": 130000002505002,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>オイルヘドロ</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=686>炎属性耐性ダウン</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\nまた、[<color=#D9DA59>具現化</color>] により仲間を呼び出す。\n\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。"
         },
         {
             "id": 130000002506001,
@@ -579,6 +587,10 @@
         {
             "id": 130000002540001,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン \n\n<color=#95C7FF>魔法攻撃</color>を多用する。\n<color=#95C7FF>黒のワルツ1号</color>、<color=#95C7FF>黒のワルツ2号</color>との強力な連携攻撃を行う。\nフォースゲージ [<color=#D9DA59>FLYING</color>] 発動中は物理ダメージを無効化する。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>でのみ減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。"
+        },
+        {
+            "id": 130000002541001,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。"
         },
         {
             "id": 130000002542001,

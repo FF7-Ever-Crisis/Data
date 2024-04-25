@@ -2905,6 +2905,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>である [<color=#D9DA59>ジェノバレーザー</color>] を使用する。\n[<color=#D9DA59>フェイス</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=326>魔攻アップ</color>を付与し、\n[<color=#D9DA59>デマバリ</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses the <color=#95C7FF>powerful magic attack</color> <color=#D9DA59>Vengeance</color>. Grants <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color> with <color=#D9DA59>Faith</color>, and inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Mana Breach</color>."
+    },
+    "EnemyLevelConstantGroupId": 2054001,
+    "Level": 1,
+    "ResourceId": 2054001010,
+    "EnemySkillLevelId": 2054001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：なし\n\n[<color=#D9DA59>サイレス</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=393>沈黙</color>を付与する。\n\n<color=#95C7FF>水属性アビリティ</color>が有効。\n\n\n",
       "En": "Immunities: None\n\nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=393>silence</color>."
     },
@@ -3363,6 +3374,17 @@
     "Level": 1,
     "ResourceId": 2505001010,
     "EnemySkillLevelId": 2505005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与し、<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>オイルヘドロ</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=686>炎属性耐性ダウン</color>・<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\nまた、[<color=#D9DA59>具現化</color>] により仲間を呼び出す。\n\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=386>暗闇</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color>, and subsequently uses many <color=#95C7FF>physical attacks</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=686>Fire Resistance Down</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=386>Darkness</color> with <color=#D9DA59>Oil Sludge</color>, and calls for allies with <color=#D9DA59>Materialize</color>.\n \n<color=#95C7FF>Ice-element physical attacks</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2505101,
+    "Level": 1,
+    "ResourceId": 2505101010,
+    "EnemySkillLevelId": 2505101010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -4573,6 +4595,105 @@
     "Level": 1,
     "ResourceId": 2521101010,
     "EnemySkillLevelId": 2521101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521201,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521202,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521202010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521203,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521203010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521204,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521204010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521205,
+    "Level": 1,
+    "ResourceId": 2521202010,
+    "EnemySkillLevelId": 2521201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521206,
+    "Level": 1,
+    "ResourceId": 2521202010,
+    "EnemySkillLevelId": 2521201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521207,
+    "Level": 1,
+    "ResourceId": 2521203010,
+    "EnemySkillLevelId": 2521201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521208,
+    "Level": 1,
+    "ResourceId": 2521204010,
+    "EnemySkillLevelId": 2521201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な魔法攻撃</color>を使用する。\nフォースゲージ [<color=#D9DA59>MAGIC CHARGE</color>] は時間経過で増加する。\nまた、 [<color=#D9DA59>魔力大暴走</color>] で大幅に増加する。\nフォースゲージはダメージを与えることで減少する。\n<color=#95C7FF>冷属性の物理攻撃</color>が有効。\nまた、<sprite=\"tmp_icon\" index=684><color=#95C7FF>冷属性耐性ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful magic attacks</color>. Force Gauge: <color=#D9DA59>Magic Charge</color> fills over time and can be filled even more with <color=#D9DA59>Magic Infusion</color>. The gauge can be depleted with damage.\n \n<color=#95C7FF>Ice-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2521209,
+    "Level": 1,
+    "ResourceId": 2521204010,
+    "EnemySkillLevelId": 2521201010,
     "FinalAttackSkillEnemyId": 0
   },
   {
