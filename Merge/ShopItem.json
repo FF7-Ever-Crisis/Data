@@ -55202,8 +55202,8 @@
   {
     "Id": 210027010,
     "Name": {
-      "Ja": "合成触媒・ミメイ",
-      "En": "Synth Catalyst – Dawn"
+      "Ja": "合成触媒・ヨイ",
+      "En": "Synth Catalyst – Night"
     },
     "SubName": {
       "Ja": "",
@@ -62003,6 +62003,70 @@
     "DisplayConditionSetId": 350501001016,
     "LockConditionSetId": 350501001016,
     "RewardSetId": 160501001016,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 0,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 2,
+    "CanMultiPurchase": false,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 501001002,
+    "IsSale": false
+  },
+  {
+    "Id": 501001017,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ShopId": 501001,
+    "ShopItemType": 0,
+    "MaxCount": 200,
+    "DisplayConditionSetId": 350501001017,
+    "LockConditionSetId": 350501001017,
+    "RewardSetId": 520000000907,
+    "BonusRewardSetId": 0,
+    "ConsumptionSetId": 200000200,
+    "ShopItemRepeatGroupId": 0,
+    "ShopItemBonusId": 0,
+    "OrderNo": 1,
+    "CanMultiPurchase": true,
+    "ResourceId": 0,
+    "ResetId": 0,
+    "PremiseShopItemId": 0,
+    "StoreProductGroupId": 0,
+    "IsSale": false
+  },
+  {
+    "Id": 501001018,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "SubName": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "・選べる<sprite=\"tmp_icon\" index=196>5武器交換券\n・選べるウェア交換券\n・ホーム背景\n・ブルークリスタル×6,000\n※最大探索Lvに到達した際に獲得できるものとなります。",
+      "En": "- 5<sprite=\"tmp_icon\" index=196> Weapon Voucher\n- Gear Voucher\n- Wallpaper\n- 6,000 Blue Crystals\n*Total amount received at Max. Exploration Lv."
+    },
+    "ShopId": 501001,
+    "ShopItemType": 4,
+    "MaxCount": 1,
+    "DisplayConditionSetId": 350501001018,
+    "LockConditionSetId": 350501001018,
+    "RewardSetId": 160501001018,
     "BonusRewardSetId": 0,
     "ConsumptionSetId": 0,
     "ShopItemRepeatGroupId": 0,
