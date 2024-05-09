@@ -1770,6 +1770,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 110006005,
+    "NameTemplate": {
+      "Ja": "ホークアイのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Hawkeye's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ホークアイのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Hawkeye's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 38,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 6005,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 138,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000006005,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110006014,
     "NameTemplate": {
       "Ja": "ダイナートレーのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -2151,6 +2181,36 @@
     "OrderNo": 107,
     "BonusPoint": 0,
     "DisplayConditionSetId": 240000051009,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 110051012,
+    "NameTemplate": {
+      "Ja": "シリンジレイピアのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Syringe Rapier's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "DescriptionTemplate": {
+      "Ja": "シリンジレイピアのレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
+      "En": "Raise Syringe Rapier's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    "MissionSetId": 100002,
+    "MissionSetIdx": 39,
+    "AutoMissionCountType": 1,
+    "MissionType": 22,
+    "TargetId1": 51012,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 139,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240000051012,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 38,
@@ -6720,6 +6780,36 @@
     "IsRefresh": true
   },
   {
+    "Id": 190800301,
+    "NameTemplate": {
+      "Ja": "リヴァイアサンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Leviathan's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "リヴァイアサンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Leviathan's summon stream."
+    },
+    "MissionSetId": 190007,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190800301,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190800301,
+    "OpenConditionSetId": 240190800301,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190800601,
     "NameTemplate": {
       "Ja": "バハムートの召喚獣ストリームのマスを{0}個解放する。",
@@ -6895,6 +6985,66 @@
     "LockConditionSetId": 0,
     "TransitionType": 30,
     "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190900301,
+    "NameTemplate": {
+      "Ja": "召喚獣ストリームでウォータービームを取得する。",
+      "En": "Acquire Briny Bellow from a summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣ストリームでウォータービームを取得する。",
+      "En": "Acquire Briny Bellow from a summon stream."
+    },
+    "MissionSetId": 190008,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 3,
+    "MissionType": 9,
+    "TargetId1": 200302,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 409003010001,
+    "OrderNo": 190900301,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190900301,
+    "OpenConditionSetId": 240190900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190900302,
+    "NameTemplate": {
+      "Ja": "大海衝のレベルを{0}にする。",
+      "En": "Raise Tidal Wave to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "大海衝のレベルを{0}にする。",
+      "En": "Raise Tidal Wave to Lv. {0}."
+    },
+    "MissionSetId": 190010,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 12,
+    "TargetId1": 200301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 900302,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190900302,
+    "OpenConditionSetId": 240190900302,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 3,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": true
@@ -19800,6 +19950,276 @@
     "IsRefresh": false
   },
   {
+    "Id": 500042001,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサン NORMALを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Leviathan - Normal {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサン NORMALを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Leviathan - Normal {0} time(s)."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 11010301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042002,
+    "NameTemplate": {
+      "Ja": "「バトルランキング 雷撃風刃」の「アーマースコーピオン トライアル1」に{0}回挑戦する。",
+      "En": "Attempt \"Armored Scorpion Trial 1\" in \"Battle Ranking: Fury of Lightning & Wind\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「バトルランキング 雷撃風刃」の「アーマースコーピオン トライアル1」に{0}回挑戦する。",
+      "En": "Attempt \"Armored Scorpion Trial 1\" in \"Battle Ranking: Fury of Lightning & Wind\"."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 72,
+    "TargetId1": 12001101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042003,
+    "NameTemplate": {
+      "Ja": "「バトルランキング 雷撃風刃」の「金剛坊ウー＆金剛坊タイ トライアル1」に{0}回挑戦する。",
+      "En": "Attempt \"Vajradhara Wu & Tai Trial 1\" in \"Battle Ranking: Fury of Lightning & Wind\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「バトルランキング 雷撃風刃」の「金剛坊ウー＆金剛坊タイ トライアル1」に{0}回挑戦する。",
+      "En": "Attempt \"Vajradhara Wu & Tai Trial 1\" in \"Battle Ranking: Fury of Lightning & Wind\"."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 72,
+    "TargetId1": 12001201,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042004,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 95,
+    "TargetId1": 110103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042005,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 95,
+    "TargetId1": 110103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042006,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 95,
+    "TargetId1": 110103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042007,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 95,
+    "TargetId1": 110103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042008,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 リヴァイアサンでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 95,
+    "TargetId1": 110103,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500042009,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 500042,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 600011001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -28360,6 +28780,516 @@
       "En": "Deliver {0} Magic Chip(s)."
     },
     "MissionSetId": 800202,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200051110010,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800301001,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 VERY HARD 1 リヴァイアサンを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Leviathan - Very Hard {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 VERY HARD 1 リヴァイアサンを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Leviathan - Very Hard {0} time(s)."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 11010321,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800301002,
+    "NameTemplate": {
+      "Ja": "ウォータービームのレベルを{0}にする。",
+      "En": "Raise Briny Bellow to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウォータービームのレベルを{0}にする。",
+      "En": "Raise Briny Bellow to Lv. {0}."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 12,
+    "TargetId1": 200302,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 800301003,
+    "NameTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 111,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800301004,
+    "NameTemplate": {
+      "Ja": "マルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800301005,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョン「ニブル山 HARD」をS+ランクでクリアする。",
+      "En": "Clear Crisis Dungeon Mt. Nibel - Hard with Rank S+."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョン「ニブル山 HARD」をS+ランクでクリアする。",
+      "En": "Clear Crisis Dungeon Mt. Nibel - Hard with Rank S+."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 38,
+    "TargetId1": 2040201,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 14,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 54,
+    "TransitionId": 2040201,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 800301006,
+    "NameTemplate": {
+      "Ja": "{0}回合成する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "{0}回合成する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800301007,
+    "NameTemplate": {
+      "Ja": "リヴァイアサンのメモリーを{0}個納品する。",
+      "En": "Deliver Leviathan's Memory x{0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "リヴァイアサンのメモリーを{0}個納品する。",
+      "En": "Deliver Leviathan's Memory x{0}."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200030030030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800301008,
+    "NameTemplate": {
+      "Ja": "水結晶石を{0}個納品する。",
+      "En": "Deliver {0} Water Crystal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "水結晶石を{0}個納品する。",
+      "En": "Deliver {0} Water Crystal(s)."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200050520030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800301009,
+    "NameTemplate": {
+      "Ja": "マジック・タンブルを{0}個納品する。",
+      "En": "Deliver {0} Magic Tumble(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マジック・タンブルを{0}個納品する。",
+      "En": "Deliver {0} Magic Tumble(s)."
+    },
+    "MissionSetId": 800301,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200051120010,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800302001,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練 NORMAL リヴァイアサンを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Leviathan - Normal {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練 NORMAL リヴァイアサンを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Leviathan - Normal {0} time(s)."
+    },
+    "MissionSetId": 800302,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 11010301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800302002,
+    "NameTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "MissionSetId": 800302,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 111,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800302003,
+    "NameTemplate": {
+      "Ja": "マルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "MissionSetId": 800302,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800302004,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョン「ニブル山 NORMAL」をS+ランクでクリアする。",
+      "En": "Clear Crisis Dungeon Mt. Nibel - Normal with Rank S+."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョン「ニブル山 NORMAL」をS+ランクでクリアする。",
+      "En": "Clear Crisis Dungeon Mt. Nibel - Normal with Rank S+."
+    },
+    "MissionSetId": 800302,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 38,
+    "TargetId1": 2040101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 14,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 54,
+    "TransitionId": 2040101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 800302005,
+    "NameTemplate": {
+      "Ja": "{0}回合成する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "{0}回合成する。",
+      "En": "Perform synthesis {0} time(s)."
+    },
+    "MissionSetId": 800302,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800302006,
+    "NameTemplate": {
+      "Ja": "リヴァイアサンのメモリーを{0}個納品する。",
+      "En": "Deliver Leviathan's Memory x{0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "リヴァイアサンのメモリーを{0}個納品する。",
+      "En": "Deliver Leviathan's Memory x{0}."
+    },
+    "MissionSetId": 800302,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200030030010,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800302007,
+    "NameTemplate": {
+      "Ja": "水原石を{0}個納品する。",
+      "En": "Deliver {0} Water Ore(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "水原石を{0}個納品する。",
+      "En": "Deliver {0} Water Ore(s)."
+    },
+    "MissionSetId": 800302,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200050510030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 800302008,
+    "NameTemplate": {
+      "Ja": "マジック・チップを{0}個納品する。",
+      "En": "Deliver {0} Magic Chip(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マジック・チップを{0}個納品する。",
+      "En": "Deliver {0} Magic Chip(s)."
+    },
+    "MissionSetId": 800302,
     "MissionSetIdx": 7,
     "AutoMissionCountType": 3,
     "MissionType": 6,

@@ -2588,6 +2588,19 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「MAELSTROM」",
+      "En": "Force Gauge: Maelstrom"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>雷属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージが表示されてから一定時間経過後、<command_color=common_03>敵のアビリティ「大海衝」が発動</color>します。\nその際、<command_color=common_03>フォースゲージの量が多いほど「大海衝」の威力が上昇</color>します。",
+      "En": "Once the force gauge is displayed, the enemy will unleash <command_color=common_03>Tidal Wave</color> after a certain amount of time. The potency of the attack is greater <command_color=common_03>the more the force gauge is filled</color>. <command_color=common_03>Dealing lightning-element damage</color> will deplete the gauge."
+    },
+    "TutorialPopupGroupId": 310000010,
+    "Seq": 1,
+    "ResourceId": 3100000101
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「PRESENT」",
       "En": "Force Gauge: Present"
     },
@@ -2663,6 +2676,19 @@
     "TutorialPopupGroupId": 310000019,
     "Seq": 1,
     "ResourceId": 3100000191
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「COMET」",
+      "En": "Force Gauge: Comet"
+    },
+    "Description": {
+      "Ja": "フォースゲージは時間経過でたまっていき、ダメージを与えることで減らすことができます。\nフォースゲージが表示されてから一定時間経過後、\nまたは最大までたまると<command_color=common_03>敵のアビリティ「星石招来」が発動</color>します。\n「星石招来」が発動したときのフォースゲージの量が多いほど、\nその後に発動する<command_color=common_03>敵の強力なアビリティの威力が上昇</color>します。",
+      "En": "Once the force gauge has been displayed for a certain amount of time or once the gauge is full, the enemy will initiate <command_color=common_03>Cosmic Summoning</color>. Shortly after, the enemy will unleash a powerful ability, <command_color=common_03>its potency based on the amount the force gauge was filled</color> when Cosmic Summoning was initiated. The force gauge fills over time and can be depleted by dealing damage to the enemy."
+    },
+    "TutorialPopupGroupId": 310000020,
+    "Seq": 1,
+    "ResourceId": 3100000201
   },
   {
     "Title": {

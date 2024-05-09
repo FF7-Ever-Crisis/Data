@@ -1080,6 +1080,30 @@
     "MissionGroupEmptyBehaviorType": 0
   },
   {
+    "Id": 500042,
+    "Name": {
+      "Ja": "リヴァイアサン登場記念",
+      "En": "Leviathan Arrival"
+    },
+    "MissionGroupType": 4,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 260000500042,
+    "OpenConditionSetId": 260000500042,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-05-16T02:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 500018,
+    "MissionGroupEmptyBehaviorType": 0
+  },
+  {
     "Id": 600011,
     "Name": {
       "Ja": "デイリー探索",
@@ -2397,6 +2421,54 @@
     "SeasonPassId": 0,
     "IconResourceId": 0,
     "OrderNo": 800201,
+    "MissionGroupEmptyBehaviorType": 0
+  },
+  {
+    "Id": 800301,
+    "Name": {
+      "Ja": "大海衝",
+      "En": "Tidal Wave"
+    },
+    "MissionGroupType": 8,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 290000800201,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "1970-01-01T00:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 3,
+    "RewardSkillSpecialId": 200301,
+    "RewardSummonId": 3,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 800302,
+    "MissionGroupEmptyBehaviorType": 0
+  },
+  {
+    "Id": 800302,
+    "Name": {
+      "Ja": "ウォータービーム",
+      "En": "Briny Bellow"
+    },
+    "MissionGroupType": 8,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 290000800202,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "1970-01-01T00:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 3,
+    "RewardSkillSpecialId": 200302,
+    "RewardSummonId": 3,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 800301,
     "MissionGroupEmptyBehaviorType": 0
   },
   {

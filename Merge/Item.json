@@ -1562,6 +1562,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 3003,
+    "Name": {
+      "Ja": "リヴァイアサンのメモリー",
+      "En": "Leviathan's Memory"
+    },
+    "Description": {
+      "Ja": "召喚獣ストリームのマス解放に必要。\n<command_color=common_03>「リヴァイアサン」の召喚獣ストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Leviathan's summon stream</color> nodes."
+    },
+    "ItemType": 3,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 3003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 3006,
     "Name": {
       "Ja": "ラムウのメモリー",
@@ -1641,6 +1663,28 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 3102,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 3103,
+    "Name": {
+      "Ja": "リヴァイアサンのノーブルメモリー",
+      "En": "Leviathan's Noble Memory"
+    },
+    "Description": {
+      "Ja": "召喚獣ストリームのマス解放に必要。\n<command_color=common_03>「リヴァイアサン」の召喚獣ストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Leviathan's summon stream</color> nodes."
+    },
+    "ItemType": 3,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 3103,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -4796,6 +4840,94 @@
     "OrderNo": 0
   },
   {
+    "Id": 22001,
+    "Name": {
+      "Ja": "ミスリル選択ボックス",
+      "En": "Custom Box - Mythril"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=192>4武器強化素材選択ボックス",
+      "En": "Custom Box - 4<sprite=\"tmp_icon\" index=192> Weapon Enhance Materials"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999,
+    "ResourceId": 22002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22003,
+    "Name": {
+      "Ja": "ウェポンパーツ（FF7）選択ボックス",
+      "En": "Custom Box - Weapon Parts (FF7)"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 22003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22004,
+    "Name": {
+      "Ja": "ウェポンパーツ（CC&FS）選択ボックス",
+      "En": "Custom Box - Weapon Parts (CC & FS)"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 22003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 30001,
     "Name": {
       "Ja": "スコアバトルキー",
@@ -6512,6 +6644,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1002027,
+    "Name": {
+      "Ja": "リヴァイアサンバスター・パーツ",
+      "En": "Leviathan Buster Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「リヴァイアサンバスター」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Leviathan Buster</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1002027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1003001,
     "Name": {
       "Ja": "レザーグローブ・パーツ",
@@ -7722,6 +7876,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1006005,
+    "Name": {
+      "Ja": "ホークアイ・パーツ",
+      "En": "Hawkeye Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ホークアイ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Hawkeye</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-09T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1006006,
     "Name": {
       "Ja": "クリスタルクロス・パーツ",
@@ -7889,6 +8065,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1006022,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1006024,
+    "Name": {
+      "Ja": "リヴァイアサンカッター・パーツ",
+      "En": "Leviathan Cutter Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「リヴァイアサンカッター」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Leviathan Cutter</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006024,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -9412,6 +9610,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2023-12-15T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1051012,
+    "Name": {
+      "Ja": "シリンジレイピア・パーツ",
+      "En": "Syringe Rapier Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シリンジレイピア」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Syringe Rapier</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1051012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-09T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
