@@ -1104,6 +1104,30 @@
     "MissionGroupEmptyBehaviorType": 0
   },
   {
+    "Id": 500043,
+    "Name": {
+      "Ja": "新チャプター公開記念",
+      "En": "New Chapter Release"
+    },
+    "MissionGroupType": 4,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 260000500043,
+    "OpenConditionSetId": 260000500043,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-05-27T02:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 500017,
+    "MissionGroupEmptyBehaviorType": 0
+  },
+  {
     "Id": 600011,
     "Name": {
       "Ja": "デイリー探索",
@@ -3612,6 +3636,54 @@
     "LockConditionSetId": 0,
     "ResourceId": 0,
     "ExpiredSendGiftStartDatetime": "2024-04-28T02:00:00+00:00",
+    "ResetId": 4,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 1200002,
+    "MissionGroupEmptyBehaviorType": 0
+  },
+  {
+    "Id": 120200701,
+    "Name": {
+      "Ja": "イベント",
+      "En": "Events"
+    },
+    "MissionGroupType": 9,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 611000002007,
+    "OpenConditionSetId": 613000002007,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-05-30T02:00:00+00:00",
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 1200001,
+    "MissionGroupEmptyBehaviorType": 0
+  },
+  {
+    "Id": 120200702,
+    "Name": {
+      "Ja": "デイリー",
+      "En": "Daily"
+    },
+    "MissionGroupType": 11,
+    "MissionBonusGroupId": 0,
+    "DisplayConditionSetId": 611000002007,
+    "OpenConditionSetId": 613000002007,
+    "LockConditionSetId": 0,
+    "ResourceId": 0,
+    "ExpiredSendGiftStartDatetime": "2024-05-30T02:00:00+00:00",
     "ResetId": 4,
     "SpecialTargetId": 0,
     "RewardSkillSpecialId": 0,

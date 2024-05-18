@@ -2393,6 +2393,19 @@
   },
   {
     "Title": {
+      "Ja": "サイン防御",
+      "En": "Sigil Guard"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>サインを破壊できない</color>状態です。\n<command_color=common_03>対象以外のサインをすべて破壊する</color>ことで、\n<command_color=common_03>サイン防御を解除する</color>ことができます。",
+      "En": "Sigils of enemies in this state <command_color=common_03>cannot be destroyed</color>. <command_color=common_03>Sigil Guard</color> can be canceled by <command_color=common_03>destroying all of the other enemies' sigils</color>."
+    },
+    "TutorialPopupGroupId": 300000008,
+    "Seq": 1,
+    "ResourceId": 3000000081
+  },
+  {
+    "Title": {
       "Ja": "挑発",
       "En": "Provoke"
     },
@@ -2702,5 +2715,18 @@
     "TutorialPopupGroupId": 310000021,
     "Seq": 1,
     "ResourceId": 3100000211
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「RUSH CHARGE」",
+      "En": "Force Gauge: Rush Charge"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>物攻</color>」が上昇している状態です。\n敵に<command_color=common_03>風属性でダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると、<command_color=common_03>敵を一定時間行動不能にする</color>ことができます。",
+      "En": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>PATK</color>. <command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time."
+    },
+    "TutorialPopupGroupId": 310000024,
+    "Seq": 1,
+    "ResourceId": 3100000241
   }
 ]
