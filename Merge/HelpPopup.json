@@ -1232,16 +1232,31 @@
   {
     "Id": 2701,
     "Title": {
-      "Ja": "セトラの封印塔について",
-      "En": "Sealed Tower of the Cetra"
+      "Ja": "バトルタワーについて",
+      "En": "The Battle Tower"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「セトラの封印塔」</color>では、各階層でバトルし最下層を目指します。\n階層ごとに様々な影響を与える<command_color=common_03>「バトル効果」があり、バトル中に常に効果を発揮</color>します。\n効果を考えた攻略が重要になります。",
-      "En": "In the Sealed Tower of the Cetra, strive to reach the bottom level while undertaking battles on each floor. Each floor has a Battle Effect that will influence your party's performance. Form parties that make the most of these effects."
+      "Ja": "<command_color=common_03>「バトルタワー」</color>では、階層ごとに様々な影響を与える<command_color=common_03>「バトル効果」があり、バトル中に常に効果を発揮</color>します。\n効果を考えた攻略が重要になります。",
+      "En": "In the <command_color=common_03>battle tower</color>, each floor has different <command_color=common_03>battle effects</color> that are active during battle. These effects should be taken into consideration when creating a strategy."
+    },
+    "HelpPopupGroupId": 27,
+    "Seq": 2,
+    "ResourceId": 2701,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2702,
+    "Title": {
+      "Ja": "バトルタワーについて",
+      "En": "The Battle Tower"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「バトルタワー」</color>では、各階層でバトルし最下層を目指します。\n様々なタワーがあり、タワーの特性に合わせた攻略が必要となります。",
+      "En": "The objective of the <command_color=common_03>battle tower</color> is to fight the enemies on each floor and make your way to the bottom. There are different towers, and a suitable strategy is needed for each one."
     },
     "HelpPopupGroupId": 27,
     "Seq": 1,
-    "ResourceId": 2701,
+    "ResourceId": 2702,
     "ConditionSetId": 0
   },
   {
