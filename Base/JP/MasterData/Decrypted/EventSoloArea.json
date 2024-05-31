@@ -171,6 +171,15 @@
         "NameLanguageId": 851000000002006
     },
     {
+        "Id": 5007,
+        "EventSoloAreaGroupId": 5007,
+        "OrderNo": 1,
+        "ResourceId": 100000,
+        "DisplayConditionSetId": 611000005007,
+        "LockConditionSetId": 612000005007,
+        "NameLanguageId": 851000000002007
+    },
+    {
         "Id": 800101,
         "EventSoloAreaGroupId": 8001,
         "OrderNo": 1,
@@ -257,6 +266,24 @@
         "OrderNo": 1,
         "ResourceId": 1100102,
         "DisplayConditionSetId": 611000011001,
+        "LockConditionSetId": 0,
+        "NameLanguageId": 2
+    },
+    {
+        "Id": 1100201,
+        "EventSoloAreaGroupId": 11002,
+        "OrderNo": 1,
+        "ResourceId": 1100202,
+        "DisplayConditionSetId": 0,
+        "LockConditionSetId": 750001100201,
+        "NameLanguageId": 2
+    },
+    {
+        "Id": 1100202,
+        "EventSoloAreaGroupId": 11002,
+        "OrderNo": 1,
+        "ResourceId": 1100201,
+        "DisplayConditionSetId": 0,
         "LockConditionSetId": 0,
         "NameLanguageId": 2
     },

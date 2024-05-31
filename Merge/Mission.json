@@ -3130,12 +3130,12 @@
   {
     "Id": 190101901,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -4715,6 +4715,74 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 190202201,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 190202301,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ジェノバ・BIRTH」を{0}回クリアする。",
+      "En": "Clear the Jenova・BIRTH Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ジェノバ・BIRTH」を{0}回クリアする。",
+      "En": "Clear the Jenova・BIRTH Co-op battle {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190002,
+    "MissionSetIdx": 38,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202401,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190202301,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 190202401,
+    "NameTemplate": {
+      "Ja": "マルチバトルで「ユフィ」を{0}回クリアする。",
+      "En": "Clear the Yuffie Co-op battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルで「ユフィ」を{0}回クリアする。",
+      "En": "Clear the Yuffie Co-op battle {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190002,
+    "MissionSetIdx": 39,
+    "AutoMissionCountType": 1,
+    "MissionType": 100,
+    "TargetId1": 202301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190202401,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -6517,6 +6585,40 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 190501201,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 190501301,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョン「ハナジャの丘 VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Hanaja Hill - Very Hard."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョン「ハナジャの丘 VERY HARD」をクリアする。",
+      "En": "Clear Crisis Dungeon Hanaja Hill - Very Hard."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190004,
+    "MissionSetIdx": 19,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 2130301,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190501301,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -8740,12 +8842,12 @@
   {
     "Id": 200001008,
     "NameTemplate": {
-      "Ja": "毎日合成する。",
-      "En": "Perform synthesis every day."
+      "Ja": "毎日マテリアを合成する。",
+      "En": "Synthesize materia every day."
     },
     "DescriptionTemplate": {
-      "Ja": "毎日合成する。",
-      "En": "Perform synthesis every day."
+      "Ja": "毎日マテリアを合成する。",
+      "En": "Synthesize materia every day."
     },
     "ShortName": {
       "Ja": "",
@@ -9046,12 +9148,12 @@
   {
     "Id": 300001006,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -10134,12 +10236,12 @@
   {
     "Id": 500001005,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -13364,12 +13466,12 @@
   {
     "Id": 500008009,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -14520,12 +14622,12 @@
   {
     "Id": 500018002,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -22374,12 +22476,12 @@
   {
     "Id": 500040009,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -22646,12 +22748,12 @@
   {
     "Id": 500041004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -24106,6 +24208,516 @@
     "IsRefresh": false
   },
   {
+    "Id": 500045001,
+    "NameTemplate": {
+      "Ja": "機体の各部位の合計レベルを{0}にする。",
+      "En": "Raise the total of all airship parts to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "機体の各部位の合計レベルを{0}にする。",
+      "En": "Raise the total of all airship parts to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 125,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500045002,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045003,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045004,
+    "NameTemplate": {
+      "Ja": "クラウドを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cloud in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クラウドを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cloud in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045005,
+    "NameTemplate": {
+      "Ja": "バレットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Barret in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バレットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Barret in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045006,
+    "NameTemplate": {
+      "Ja": "ティファを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Tifa in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ティファを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Tifa in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045007,
+    "NameTemplate": {
+      "Ja": "エアリスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Aerith in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エアリスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Aerith in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 4,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045008,
+    "NameTemplate": {
+      "Ja": "レッドXIIIを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Red XIII in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "レッドXIIIを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Red XIII in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 5,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045009,
+    "NameTemplate": {
+      "Ja": "ユフィを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Yuffie in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ユフィを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Yuffie in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045010,
+    "NameTemplate": {
+      "Ja": "ケット・シーを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cait Sith in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ケット・シーを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Cait Sith in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 7,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045011,
+    "NameTemplate": {
+      "Ja": "ザックスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Zack in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Zack in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045012,
+    "NameTemplate": {
+      "Ja": "セフィロスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Sephiroth in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Sephiroth in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 49,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045013,
+    "NameTemplate": {
+      "Ja": "グレンを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Glenn in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "グレンを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Glenn in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 50,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045014,
+    "NameTemplate": {
+      "Ja": "マットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Matt in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マットを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Matt in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 14,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500045015,
+    "NameTemplate": {
+      "Ja": "ルティアを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Lucia in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ルティアを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Lucia in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500045,
+    "MissionSetIdx": 15,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 15,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 260000500045,
+    "OpenConditionSetId": 260000500045,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 600011001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -24312,12 +24924,12 @@
   {
     "Id": 600012004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -24788,12 +25400,12 @@
   {
     "Id": 600022004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -25264,12 +25876,12 @@
   {
     "Id": 600032004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -25740,12 +26352,12 @@
   {
     "Id": 600042004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -26216,12 +26828,12 @@
   {
     "Id": 600052004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -26590,12 +27202,12 @@
   {
     "Id": 600061004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -26760,12 +27372,12 @@
   {
     "Id": 600062004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -27168,12 +27780,12 @@
   {
     "Id": 600071004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -27338,12 +27950,12 @@
   {
     "Id": 600072004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -27746,12 +28358,12 @@
   {
     "Id": 600081004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -27916,12 +28528,12 @@
   {
     "Id": 600082004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -28324,12 +28936,12 @@
   {
     "Id": 600091004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -28494,12 +29106,12 @@
   {
     "Id": 600092004,
     "NameTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "合成を{0}回する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -28778,6 +29390,584 @@
       "En": ""
     },
     "MissionSetId": 600093,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 11,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600101001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600101,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600101002,
+    "NameTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600101,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600101003,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600101,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600101004,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600101,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600101005,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600101,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600102001,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600102,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 0,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600102002,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600102,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 54,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 11,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600102003,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600102,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600102004,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600102,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600102005,
+    "NameTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のシングルコンテンツでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Solo Content."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600102,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 111,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600102006,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600102,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600102007,
+    "NameTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600102,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600103001,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600103,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600103002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600103,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600103003,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600103,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600103004,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600103,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600103005,
+    "NameTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クライシスダンジョンを{0}回クリアする。",
+      "En": "Clear Crisis Dungeon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600103,
     "MissionSetIdx": 4,
     "AutoMissionCountType": 1,
     "MissionType": 54,
@@ -33050,12 +34240,12 @@
   {
     "Id": 800101005,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -33390,12 +34580,12 @@
   {
     "Id": 800201005,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -33696,12 +34886,12 @@
   {
     "Id": 800202005,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -34002,12 +35192,12 @@
   {
     "Id": 800301006,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -34274,12 +35464,12 @@
   {
     "Id": 800302005,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -34512,12 +35702,12 @@
   {
     "Id": 800601004,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -34784,12 +35974,12 @@
   {
     "Id": 801001005,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -35090,12 +36280,12 @@
   {
     "Id": 801002005,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -35328,12 +36518,12 @@
   {
     "Id": 805101004,
     "NameTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "DescriptionTemplate": {
-      "Ja": "{0}回合成する。",
-      "En": "Perform synthesis {0} time(s)."
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
     },
     "ShortName": {
       "Ja": "",
@@ -45866,6 +47056,1026 @@
     "IsRefresh": true
   },
   {
+    "Id": 4900000001,
+    "NameTemplate": {
+      "Ja": "チョコボファームにいるアイルーから{0}回アイテムを受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne at the chocobo farm."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボファームにいるアイルーから{0}回アイテムを受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne at the chocobo farm."
+    },
+    "ShortName": {
+      "Ja": "アイルーからアイテムを{0}回受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 152,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100101,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000002,
+    "NameTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "DescriptionTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "ShortName": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100102,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000003,
+    "NameTemplate": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 107,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100103,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000004,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100104,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000005,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100105,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000006,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100106,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 48,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000007,
+    "NameTemplate": {
+      "Ja": "イベントのシングルバトルを{0}回クリアする。",
+      "En": "Clear Solo battle in Event {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのシングルバトルを{0}回クリアする。",
+      "En": "Clear Solo battle in Event {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "イベントのシングルバトルを{0}回クリアする。",
+      "En": "Clear Solo battle in Event {0} time(s)."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 106,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100107,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000008,
+    "NameTemplate": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draws."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draws."
+    },
+    "ShortName": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draws."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 44,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100108,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 36,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000009,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 84,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100109,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 47,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000010,
+    "NameTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "DescriptionTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "ShortName": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "MissionSetId": 4900001,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 5,
+    "TargetId1": 900001,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100110,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 4900000101,
+    "NameTemplate": {
+      "Ja": "チョコボファームにいるアイルーから{0}回アイテムを受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne at the chocobo farm."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボファームにいるアイルーから{0}回アイテムを受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne at the chocobo farm."
+    },
+    "ShortName": {
+      "Ja": "アイルーからアイテムを{0}回受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 152,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100201,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000102,
+    "NameTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "DescriptionTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "ShortName": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100202,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000103,
+    "NameTemplate": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 107,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100203,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000104,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100204,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000105,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100205,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000106,
+    "NameTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "任意の武器の強化を{0}回する。",
+      "En": "Enhance any weapon {0} time(s)."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 20,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100206,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000107,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100207,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000108,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100208,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000109,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100209,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 48,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000110,
+    "NameTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "DescriptionTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "ShortName": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "MissionSetId": 4900011,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 5,
+    "TargetId1": 900002,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100210,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 4900000201,
+    "NameTemplate": {
+      "Ja": "チョコボファームにいるアイルーから{0}回アイテムを受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne at the chocobo farm."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボファームにいるアイルーから{0}回アイテムを受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne at the chocobo farm."
+    },
+    "ShortName": {
+      "Ja": "アイルーからアイテムを{0}回受け取る。",
+      "En": "Receive items {0} time(s) from the Felyne."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 152,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100301,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000202,
+    "NameTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "DescriptionTemplate": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "ShortName": {
+      "Ja": "スタミナを{0}消費する。",
+      "En": "Consume {0} stamina."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100302,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000203,
+    "NameTemplate": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "イベントのマルチバトルを{0}回クリアする。",
+      "En": "Clear Co-op battle in Event {0} time(s)."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 107,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100303,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000204,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100304,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000205,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 4,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100305,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000206,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 84,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100306,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 47,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000207,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100307,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000208,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100308,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000209,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100309,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 48,
+    "TransitionId": 0,
+    "ResourceId": 1,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 4900000210,
+    "NameTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "DescriptionTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "ShortName": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "MissionSetId": 4900021,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 5,
+    "TargetId1": 900003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 20100310,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 10024061008,
+    "OpenConditionSetId": 10024061008,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 120200201001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -55548,6 +57758,244 @@
     "BonusPoint": 0,
     "DisplayConditionSetId": 11121100100001,
     "OpenConditionSetId": 12121100100001,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100201021,
+    "NameTemplate": {
+      "Ja": "飛竜刀神羅号をLv.{0}に武器強化する。",
+      "En": "Raise the Shinra Wyvern Blade to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "阿修羅をLv.{0}に武器強化する。",
+      "En": "Raise the Ashura to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100201,
+    "MissionSetIdx": 21,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 49023,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100200000,
+    "OpenConditionSetId": 12121100200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100201024,
+    "NameTemplate": {
+      "Ja": "データ破壊を{0}回行う。",
+      "En": "Purge data {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "データ破壊を{0}回行う。",
+      "En": "Purge data {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100201,
+    "MissionSetIdx": 24,
+    "AutoMissionCountType": 1,
+    "MissionType": 153,
+    "TargetId1": 121100201024,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100200000,
+    "OpenConditionSetId": 12121100200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100201031,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100201,
+    "MissionSetIdx": 31,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100200000,
+    "OpenConditionSetId": 12121100200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100201032,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100201,
+    "MissionSetIdx": 32,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100200000,
+    "OpenConditionSetId": 12121100200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100201033,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100201,
+    "MissionSetIdx": 33,
+    "AutoMissionCountType": 1,
+    "MissionType": 52,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100200000,
+    "OpenConditionSetId": 12121100200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100202001,
+    "NameTemplate": {
+      "Ja": "火竜討伐証を{0}個取得する。",
+      "En": "Obtain Proof of Defeat: Rathalos x{0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "火竜討伐証を{0}個取得する。",
+      "En": "Obtain Proof of Defeat: Rathalos x{0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100202,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2110023,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100200000,
+    "OpenConditionSetId": 12121100200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100202002,
+    "NameTemplate": {
+      "Ja": "火竜討伐証を{0}個取得する。",
+      "En": "Obtain Proof of Defeat: Rathalos x{0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "火竜討伐証を{0}個取得する。",
+      "En": "Obtain Proof of Defeat: Rathalos x{0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100202,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2110023,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100200000,
+    "OpenConditionSetId": 12121100200000,
     "LockConditionSetId": 0,
     "TransitionType": 0,
     "TransitionId": 0,

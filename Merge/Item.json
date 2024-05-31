@@ -5104,6 +5104,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21010,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -5227,6 +5249,28 @@
     "ItemRarityType": 5,
     "MaxCapacity": 99999,
     "ResourceId": 22001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22501,
+    "Name": {
+      "Ja": "ブルークリスタル抽選ボックス",
+      "En": "Lottery Box - Blue Crystals"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -6182,6 +6226,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 100036,
+    "Name": {
+      "Ja": "モンハンコラボ専用プレミアムガチャチケット",
+      "En": "MH Crossover-Exclusive Premium Draw Ticket"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「「モンスターハンター」コラボガチャ」</color>を引くことができるチケット。\n\n※<command_color=common_03>「「モンスターハンター」コラボガチャ」</color>で「10回引く」を実行した場合、スタンプが押されます。",
+      "En": "Used to perform <command_color=common_03>Monster Hunter Crossover Draws</color>.\n\n*A 10 Draw in a <command_color=common_03>Monster Hunter Crossover Draw</color> will yield one or several stamps."
+    },
+    "ItemType": 34,
+    "ItemRarityType": 3,
+    "MaxCapacity": 999,
+    "ResourceId": 100036,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100037,
+    "Name": {
+      "Ja": "選べる限定<sprite=\"tmp_icon\" index=196>5武器交換券",
+      "En": "Special 5<sprite=\"tmp_icon\" index=196> Weapon Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「特別交換所」</color>で使用できます。\n\n※交換できるラインナップは特別交換所でご確認ください。",
+      "En": "Traded for weapons at the <command_color=common_03>Special Exchange</color>.\n\n*Please check the exchangeable lineup at the Special Exchange."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100037,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300001,
     "Name": {
       "Ja": "2023ウインターメダル",
@@ -6596,6 +6684,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001033,
+    "Name": {
+      "Ja": "ディノソード・パーツ",
+      "En": "Glavenus Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ディノソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Glavenus Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001033,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -9042,6 +9152,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1020023,
+    "Name": {
+      "Ja": "ジンオウブレード・パーツ",
+      "En": "Zinogre Blade Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ジンオウブレード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Zinogre Blade</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1020024,
     "Name": {
       "Ja": "キャロットソード・パーツ",
@@ -9434,6 +9566,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049023,
+    "Name": {
+      "Ja": "飛竜刀神羅号・パーツ",
+      "En": "Shinra Wyvern Blade Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「飛竜刀神羅号」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Shinra Wyvern Blade</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -11173,6 +11327,116 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-02-16T02:00:00+00:00",
     "EndDatetime": "2024-03-06T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110021,
+    "Name": {
+      "Ja": "火竜の厚鱗",
+      "En": "Rathalos Shard"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110021,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "2024-07-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110022,
+    "Name": {
+      "Ja": "火竜の天鱗",
+      "En": "Rathalos Mantle"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110022,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "2024-07-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110023,
+    "Name": {
+      "Ja": "火竜討伐証",
+      "En": "Proof of Defeat: Rathalos"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "2024-07-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110026,
+    "Name": {
+      "Ja": "モンスターのキモ",
+      "En": "Monster Guts"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on an expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2110026,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "2024-07-03T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110027,
+    "Name": {
+      "Ja": "燃石炭",
+      "En": "Coal"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on an expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2110027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "2024-07-03T01:59:59+00:00",
     "OrderNo": 0
   }
 ]

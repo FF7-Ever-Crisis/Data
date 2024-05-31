@@ -228,6 +228,18 @@
     "LockConditionSetId": 612000005006
   },
   {
+    "Id": 5007,
+    "Name": {
+      "Ja": "ガロンバロイル・フムス討伐",
+      "En": "Gallonbaloir Humus Hunt"
+    },
+    "EventSoloAreaGroupId": 5007,
+    "OrderNo": 1,
+    "ResourceId": 100000,
+    "DisplayConditionSetId": 611000005007,
+    "LockConditionSetId": 612000005007
+  },
+  {
     "Id": 800101,
     "Name": {
       "Ja": "",
@@ -345,6 +357,30 @@
     "OrderNo": 1,
     "ResourceId": 1100102,
     "DisplayConditionSetId": 611000011001,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 1100201,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventSoloAreaGroupId": 11002,
+    "OrderNo": 1,
+    "ResourceId": 1100202,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 750001100201
+  },
+  {
+    "Id": 1100202,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventSoloAreaGroupId": 11002,
+    "OrderNo": 1,
+    "ResourceId": 1100201,
+    "DisplayConditionSetId": 0,
     "LockConditionSetId": 0
   },
   {
