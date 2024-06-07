@@ -5280,6 +5280,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 22502,
+    "Name": {
+      "Ja": "ウェポンパーツ抽選ボックス",
+      "En": "Lottery Box - Character-Specific Weapon Parts"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999,
+    "ResourceId": 22005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22503,
+    "Name": {
+      "Ja": "武器強化素材抽選ボックス",
+      "En": "Lottery Box - Weapon Enhance Materials"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 22006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 30001,
     "Name": {
       "Ja": "スコアバトルキー",
@@ -8752,6 +8796,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007023,
+    "Name": {
+      "Ja": "ねこ？めがほん・パーツ",
+      "En": "Catsmegaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ねこ？めがほん」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Catsmegaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-06-06T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },

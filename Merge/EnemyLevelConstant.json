@@ -1057,6 +1057,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：なし\n\nバトル開始直後 [<color=#D9DA59>気合入れ</color>] で自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与する。",
+      "En": "Immunities: None\n \nAt the start of battle, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>PATK Up</color> with <color=#D9DA59>Amp Up</color>."
+    },
+    "EnemyLevelConstantGroupId": 2008201,
+    "Level": 1,
+    "ResourceId": 2008201010,
+    "EnemySkillLevelId": 2008201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>フォーグ</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=385>忘却</color>を付与する。\n仲間がいなくなると [<color=#D9DA59>忘我</color>] を使用して、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>・<sprite=\"tmp_icon\" index=326><color=#95C7FF>魔攻アップ</color>を付与する。\n\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <color=#95C7FF><sprite=\"tmp_icon\" index=385>fog</color> with <color=#D9DA59>Fog</color>. When allies are defeated, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color> with <color=#D9DA59>Concentration</color>."
     },
@@ -2230,6 +2241,17 @@
     "Level": 1,
     "ResourceId": 2032001010,
     "EnemySkillLevelId": 2032001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：なし\n\n[<color=#D9DA59>チェイス撃</color>] を発動した対象に対し、集中攻撃をする。\nHPが一定以下になると<color=#95C7FF>強力な物理攻撃である</color> [<color=#D9DA59>リベンジ撃</color>] を多用する。",
+      "En": "Immunities: None\n \nFocuses attacks on the enemy it targets with <color=#D9DA59>Pursuit</color>. When HP falls below a certain amount, frequently uses the <color=#95C7FF>powerful physical attack</color> <color=#D9DA59>Vengeance</color>."
+    },
+    "EnemyLevelConstantGroupId": 2032101,
+    "Level": 1,
+    "ResourceId": 2032101010,
+    "EnemySkillLevelId": 2032101010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -4848,6 +4870,50 @@
     "Level": 1,
     "ResourceId": 2521204010,
     "EnemySkillLevelId": 2521201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=326>魔攻アップ</color>を付与し、<color=#95C7FF>強力な魔法攻撃</color>を多用する。\nバトル開始直後、対象全体に<color=#95C7FF>死の宣告</color>を付与する。\n[<color=#D9DA59>呪いの視線</color>] [<color=#D9DA59>呪いの発動</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>護りの結界</color>] は自身に<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>を付与する。\n\n<color=#95C7FF>風属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>または<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color>, and uses many <color=#95C7FF>powerful magic attacks</color>. At the start of battle, inflicts all targets with <color=#95C7FF>Doom</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Curse Gaze</color> and <color=#D9DA59>Invoke Curse</color>. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <color=#D9DA59>Guard Barrier</color>."
+    },
+    "EnemyLevelConstantGroupId": 2522001,
+    "Level": 1,
+    "ResourceId": 2522001010,
+    "EnemySkillLevelId": 2522001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=326>魔攻アップ</color>を付与し、<color=#95C7FF>強力な魔法攻撃</color>を多用する。\nバトル開始直後、対象全体に<color=#95C7FF>死の宣告</color>を付与する。\n[<color=#D9DA59>呪いの視線</color>] [<color=#D9DA59>呪いの発動</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>護りの結界</color>] は自身に<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>を付与する。\n\n<color=#95C7FF>風属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>または<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color>, and uses many <color=#95C7FF>powerful magic attacks</color>. At the start of battle, inflicts all targets with <color=#95C7FF>Doom</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Curse Gaze</color> and <color=#D9DA59>Invoke Curse</color>. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <color=#D9DA59>Guard Barrier</color>."
+    },
+    "EnemyLevelConstantGroupId": 2522002,
+    "Level": 1,
+    "ResourceId": 2522002010,
+    "EnemySkillLevelId": 2522002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=326>魔攻アップ</color>を付与し、<color=#95C7FF>強力な魔法攻撃</color>を多用する。\nバトル開始直後、対象全体に<color=#95C7FF>死の宣告</color>を付与する。\n[<color=#D9DA59>呪いの視線</color>] [<color=#D9DA59>呪いの発動</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>護りの結界</color>] は自身に<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>を付与する。\n\n<color=#95C7FF>風属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>または<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color>, and uses many <color=#95C7FF>powerful magic attacks</color>. At the start of battle, inflicts all targets with <color=#95C7FF>Doom</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Curse Gaze</color> and <color=#D9DA59>Invoke Curse</color>. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <color=#D9DA59>Guard Barrier</color>."
+    },
+    "EnemyLevelConstantGroupId": 2522003,
+    "Level": 1,
+    "ResourceId": 2522002010,
+    "EnemySkillLevelId": 2522003010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=326>魔攻アップ</color>を付与し、<color=#95C7FF>強力な魔法攻撃</color>を多用する。\nバトル開始直後、対象全体に<color=#95C7FF>死の宣告</color>を付与する。\n[<color=#D9DA59>呪いの視線</color>] [<color=#D9DA59>呪いの発動</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n[<color=#D9DA59>護りの結界</color>] は自身に<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>を付与する。\n\n<color=#95C7FF>風属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<color=#95C7FF><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<color=#95C7FF><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>または<sprite=\"tmp_icon\" index=389><color=#95C7FF>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nGrants self <color=#95C7FF><sprite=\"tmp_icon\" index=326>MATK Up</color>, and uses many <color=#95C7FF>powerful magic attacks</color>. At the start of battle, inflicts all targets with <color=#95C7FF>Doom</color>. Inflicts <color=#95C7FF><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <color=#D9DA59>Curse Gaze</color> and <color=#D9DA59>Invoke Curse</color>. Grants self <color=#95C7FF><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <color=#95C7FF><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <color=#D9DA59>Guard Barrier</color>."
+    },
+    "EnemyLevelConstantGroupId": 2522004,
+    "Level": 1,
+    "ResourceId": 2522002010,
+    "EnemySkillLevelId": 2522004010,
     "FinalAttackSkillEnemyId": 0
   },
   {

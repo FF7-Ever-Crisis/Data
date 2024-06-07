@@ -2497,6 +2497,19 @@
   },
   {
     "Title": {
+      "Ja": "死の宣告",
+      "En": "Doom"
+    },
+    "Description": {
+      "Ja": "死の宣告が付与されているキャラクターに、カウントが表示されます。\n<command_color=common_03>カウントは時間経過で減っていき、0になるとそのキャラクターのHPは強制的に0になります</color>。\nそのバトルが終了するか次のWAVEへ移行することで、<command_color=common_03>死の宣告は解除</color>されます。",
+      "En": "When a character is inflicted with Doom, a counter will appear above their head. When it expires, <command_color=common_03>their HP will be forcibly reduced to 0</color>. <command_color=common_03>Doom is canceled</color> when transitioning to the next wave, or if the battle ends."
+    },
+    "TutorialPopupGroupId": 300000017,
+    "Seq": 1,
+    "ResourceId": 3000000171
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「CHARGE」",
       "En": "Force Gauge: Charge"
     },
