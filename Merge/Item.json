@@ -6314,6 +6314,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 100038,
+    "Name": {
+      "Ja": "選べる限定<sprite=\"tmp_icon\" index=196>5武器交換券 Vol. 2",
+      "En": "Special 5<sprite=\"tmp_icon\" index=196> Weapon Voucher Vol. 2"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「特別交換所」</color>で使用できます。\n\n※交換できるラインナップは特別交換所でご確認ください。",
+      "En": "Traded for weapons at the <command_color=common_03>Special Exchange</color>.\n\n*Please check the exchangeable lineup at the Special Exchange."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100038,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300001,
     "Name": {
       "Ja": "2023ウインターメダル",
@@ -7502,6 +7524,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1003032,
+    "Name": {
+      "Ja": "キリングローブ・パーツ",
+      "En": "Kirin Gloves Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「キリングローブ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Kirin Gloves</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003032,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-06-13T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1004001,
     "Name": {
       "Ja": "ガードロッド・パーツ",
@@ -7872,6 +7916,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004025,
+    "Name": {
+      "Ja": "カムラワンド・パーツ",
+      "En": "Kamura Wand Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「カムラワンド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Kamura Wand</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004025,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-06-13T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -9988,6 +10054,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1050023,
+    "Name": {
+      "Ja": "シルバーソルバスター・パーツ",
+      "En": "Silver Sol Buster Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シルバーソルバスター」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Silver Sol Buster</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1050023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-06-13T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1051001,
     "Name": {
       "Ja": "ブロードソード-アクシス-・パーツ",
@@ -11458,6 +11546,50 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "2024-07-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110024,
+    "Name": {
+      "Ja": "銀火竜の厚鱗",
+      "En": "Silver Rathalos Shard"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110024,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-06-13T02:00:00+00:00",
+    "EndDatetime": "2024-07-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110025,
+    "Name": {
+      "Ja": "銀火竜討伐証",
+      "En": "Proof of Defeat: Silver Rathalos"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110025,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-06-13T02:00:00+00:00",
     "EndDatetime": "2024-07-05T01:59:59+00:00",
     "OrderNo": 0
   },
