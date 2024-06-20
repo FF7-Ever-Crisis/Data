@@ -449,6 +449,10 @@
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な炎属性の魔法攻撃</color> [<color=#D9DA59>ローリングファイア</color>]を使用する。\nストリームフェイズ中、時間が経過するほどに攻撃が激しくなる。\n\n<color=#95C7FF>物理攻撃</color>、<color=#95C7FF>素早いサイン破壊</color>が有効。"
         },
         {
+            "id": 130000002506101,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な雷属性のアビリティ</color>を使用する。\n[<color=#D9DA59>プラズマランオーバー</color>] を使用する度、雷属性威力が増加する。\n[<color=#D9DA59>サンダーボム召喚</color>] は2体の<color=#95C7FF>サンダーボム</color>を呼び出す。\n<color=#95C7FF>サンダーボム</color>は、強大なダメージを与える[<color=#D9DA59>大爆発</color>] を使用する。\n\n<color=#95C7FF>水属性の物理攻撃</color>が有効。\n雷属性の攻撃が強力なため、<color=#95C7FF>雷属性耐性</color>が有効。"
+        },
+        {
             "id": 130000002507031,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>物理攻撃</color>を多用する。\n[<color=#D9DA59>ポイズンブレス</color>] [<color=#D9DA59>ポイズンスクリーム</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>を付与し、\n[<color=#D9DA59>ブレイクバイト</color>] は対象に<color=#95C7FF><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。"
         },
@@ -642,11 +646,11 @@
         },
         {
             "id": 130000002548001,
-            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n"
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n"
         },
         {
             "id": 130000002548101,
-            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n"
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n"
         }
     ]
 }

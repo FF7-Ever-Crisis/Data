@@ -2124,6 +2124,50 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な雷属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n \nWhen HP falls below a certain amount, uses the <color=#95C7FF>powerful lightning-element magic attack</color> <color=#D9DA59>Burst</color> and reduces own HP to 0."
+    },
+    "EnemyLevelConstantGroupId": 2026402,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な雷属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n \nWhen HP falls below a certain amount, uses the <color=#95C7FF>powerful lightning-element magic attack</color> <color=#D9DA59>Burst</color> and reduces own HP to 0."
+    },
+    "EnemyLevelConstantGroupId": 2026403,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な雷属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n \nWhen HP falls below a certain amount, uses the <color=#95C7FF>powerful lightning-element magic attack</color> <color=#D9DA59>Burst</color> and reduces own HP to 0."
+    },
+    "EnemyLevelConstantGroupId": 2026404,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\nHPが一定以下になると<color=#95C7FF>強力な雷属性の魔法攻撃</color>である\n[<color=#D9DA59>大爆発</color>] を使用して、自身のHPを0にする。\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n \nWhen HP falls below a certain amount, uses the <color=#95C7FF>powerful lightning-element magic attack</color> <color=#D9DA59>Burst</color> and reduces own HP to 0."
+    },
+    "EnemyLevelConstantGroupId": 2026405,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：なし\n\n一定時間経過すると[<color=#D9DA59>ブチ切れた……！</color>] を使用して、\n自身に<color=#95C7FF><sprite=\"tmp_icon\" index=324>物攻アップ</color>を付与する。\n\n\n\n",
       "En": "Immunities: None\n \nAfter a certain amount of time, grants self <color=#95C7FF><sprite=\"tmp_icon\" index=324>ATK Up</color> with <color=#D9DA59>Angered</color>."
     },
@@ -3517,6 +3561,61 @@
     "Level": 1,
     "ResourceId": 2506001010,
     "EnemySkillLevelId": 2506005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な雷属性のアビリティ</color>を使用する。\n[<color=#D9DA59>プラズマランオーバー</color>] を使用する度、雷属性威力が増加する。\n[<color=#D9DA59>サンダーボム召喚</color>] は2体の<color=#95C7FF>サンダーボム</color>を呼び出す。\n<color=#95C7FF>サンダーボム</color>は、強大なダメージを与える[<color=#D9DA59>大爆発</color>] を使用する。\n\n<color=#95C7FF>水属性の物理攻撃</color>が有効。\n雷属性の攻撃が強力なため、<color=#95C7FF>雷属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful lightning-element abilities</color>. Increases lightning potency with <color=#D9DA59>Plasma Roller</color>. Uses <color=#D9DA59>Summon Thunder Bomb</color> to call forth two <color=#95C7FF>Thunder Bombs</color> that deal great damage with <color=#D9DA59>Burst</color>."
+    },
+    "EnemyLevelConstantGroupId": 2506101,
+    "Level": 1,
+    "ResourceId": 2506101010,
+    "EnemySkillLevelId": 2506101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な雷属性のアビリティ</color>を使用する。\n[<color=#D9DA59>プラズマランオーバー</color>] を使用する度、雷属性威力が増加する。\n[<color=#D9DA59>サンダーボム召喚</color>] は2体の<color=#95C7FF>サンダーボム</color>を呼び出す。\n<color=#95C7FF>サンダーボム</color>は、強大なダメージを与える[<color=#D9DA59>大爆発</color>] を使用する。\n\n<color=#95C7FF>水属性の物理攻撃</color>が有効。\n雷属性の攻撃が強力なため、<color=#95C7FF>雷属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful lightning-element abilities</color>. Increases lightning potency with <color=#D9DA59>Plasma Roller</color>. Uses <color=#D9DA59>Summon Thunder Bomb</color> to call forth two <color=#95C7FF>Thunder Bombs</color> that deal great damage with <color=#D9DA59>Burst</color>."
+    },
+    "EnemyLevelConstantGroupId": 2506102,
+    "Level": 1,
+    "ResourceId": 2506101010,
+    "EnemySkillLevelId": 2506101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な雷属性のアビリティ</color>を使用する。\n[<color=#D9DA59>プラズマランオーバー</color>] を使用する度、雷属性威力が増加する。\n[<color=#D9DA59>サンダーボム召喚</color>] は2体の<color=#95C7FF>サンダーボム</color>を呼び出す。\n<color=#95C7FF>サンダーボム</color>は、強大なダメージを与える[<color=#D9DA59>大爆発</color>] を使用する。\n\n<color=#95C7FF>水属性の物理攻撃</color>が有効。\n雷属性の攻撃が強力なため、<color=#95C7FF>雷属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful lightning-element abilities</color>. Increases lightning potency with <color=#D9DA59>Plasma Roller</color>. Uses <color=#D9DA59>Summon Thunder Bomb</color> to call forth two <color=#95C7FF>Thunder Bombs</color> that deal great damage with <color=#D9DA59>Burst</color>."
+    },
+    "EnemyLevelConstantGroupId": 2506103,
+    "Level": 1,
+    "ResourceId": 2506102010,
+    "EnemySkillLevelId": 2506102010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な雷属性のアビリティ</color>を使用する。\n[<color=#D9DA59>プラズマランオーバー</color>] を使用する度、雷属性威力が増加する。\n[<color=#D9DA59>サンダーボム召喚</color>] は2体の<color=#95C7FF>サンダーボム</color>を呼び出す。\n<color=#95C7FF>サンダーボム</color>は、強大なダメージを与える[<color=#D9DA59>大爆発</color>] を使用する。\n\n<color=#95C7FF>水属性の物理攻撃</color>が有効。\n雷属性の攻撃が強力なため、<color=#95C7FF>雷属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful lightning-element abilities</color>. Increases lightning potency with <color=#D9DA59>Plasma Roller</color>. Uses <color=#D9DA59>Summon Thunder Bomb</color> to call forth two <color=#95C7FF>Thunder Bombs</color> that deal great damage with <color=#D9DA59>Burst</color>."
+    },
+    "EnemyLevelConstantGroupId": 2506104,
+    "Level": 1,
+    "ResourceId": 2506102010,
+    "EnemySkillLevelId": 2506102010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<color=#95C7FF>強力な雷属性のアビリティ</color>を使用する。\n[<color=#D9DA59>プラズマランオーバー</color>] を使用する度、雷属性威力が増加する。\n[<color=#D9DA59>サンダーボム召喚</color>] は2体の<color=#95C7FF>サンダーボム</color>を呼び出す。\n<color=#95C7FF>サンダーボム</color>は、強大なダメージを与える[<color=#D9DA59>大爆発</color>] を使用する。\n\n<color=#95C7FF>水属性の物理攻撃</color>が有効。\n雷属性の攻撃が強力なため、<color=#95C7FF>雷属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <color=#95C7FF>powerful lightning-element abilities</color>. Increases lightning potency with <color=#D9DA59>Plasma Roller</color>. Uses <color=#D9DA59>Summon Thunder Bomb</color> to call forth two <color=#95C7FF>Thunder Bombs</color> that deal great damage with <color=#D9DA59>Burst</color>."
+    },
+    "EnemyLevelConstantGroupId": 2506105,
+    "Level": 1,
+    "ResourceId": 2506103010,
+    "EnemySkillLevelId": 2506103010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -5908,7 +6007,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nUses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548001,
@@ -5919,7 +6018,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nUses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548002,
@@ -5930,7 +6029,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nUses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548003,
@@ -5941,7 +6040,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nUses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548004,
@@ -5952,7 +6051,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nUses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548005,
@@ -5963,7 +6062,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nGrants self <color=#95C7FF>Fire Potency Up</color> with <color=#D9DA59>Incandescent State</color>, and uses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548101,
@@ -5974,7 +6073,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nGrants self <color=#95C7FF>Fire Potency Up</color> with <color=#D9DA59>Incandescent State</color>, and uses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548102,
@@ -5985,7 +6084,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nGrants self <color=#95C7FF>Fire Potency Up</color> with <color=#D9DA59>Incandescent State</color>, and uses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548103,
@@ -5996,7 +6095,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nGrants self <color=#95C7FF>Fire Potency Up</color> with <color=#D9DA59>Incandescent State</color>, and uses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548104,
@@ -6007,7 +6106,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=323><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<color=#D9DA59>劫炎状態</color>]は自身に<color=#95C7FF>炎属性威力アップを付与し、\n</color><color=#95C7FF>強力な炎属性の魔法アビリティ</color>を使用する。\nフォースゲージ [<color=#D9DA59>STABILITY</color>] を0にすると、\n「<color=#D9DA59>データ破壊</color>」が発生し、追加で報酬を得られる場合がある。\nフォースゲージは<color=#95C7FF>魔法アビリティ</color>で減少する。\n\n魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><color=#95C7FF>魔防アップ</color>や<sprite=\"tmp_icon\" index=390><color=#95C7FF>魔攻ダウン</color>が有効。\nまた、<color=#95C7FF><sprite=\"tmp_icon\" index=395>毒</color>対策、<color=#95C7FF>炎属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog \n \nGrants self <color=#95C7FF>Fire Potency Up</color> with <color=#D9DA59>Incandescent State</color>, and uses <color=#95C7FF>powerful fire-element magic abilities</color>. Force Gauge: <color=#D9DA59>Stability</color> can be depleted with <color=#95C7FF>magic abilities</color>. Fully depleting the gauge triggers <color=#D9DA59>Data Purge</color> and may yield additional rewards.\n \n<color=#95C7FF><sprite=\"tmp_icon\" index=395>Poison Resistance</color> and <color=#95C7FF>Fire Resistance</color> are effective against this enemy."
     },
     "EnemyLevelConstantGroupId": 2548105,
