@@ -3,7 +3,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 1,
     "EffectValue": 25,
@@ -17,7 +17,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 2,
     "EffectValue": 50,
@@ -31,7 +31,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 3,
     "EffectValue": 150,
@@ -45,7 +45,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 4,
     "EffectValue": 250,
@@ -59,7 +59,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 5,
     "EffectValue": 250,
@@ -73,7 +73,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 6,
     "EffectValue": 250,
@@ -87,7 +87,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 7,
     "EffectValue": 250,
@@ -101,7 +101,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 8,
     "EffectValue": 250,
@@ -115,7 +115,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 9,
     "EffectValue": 250,
@@ -129,7 +129,7 @@
     "Id": 101011,
     "Description": {
       "Ja": "HP+{0} / +{1}%",
-      "En": "HP+ {0} / +{1}%"
+      "En": "HP +{0} / +{1}%"
     },
     "Level": 10,
     "EffectValue": 250,
@@ -3676,6 +3676,34 @@
     "Level": 1,
     "EffectValue": 0,
     "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "skillpassiveeffectlevel_8": 0
+  },
+  {
+    "Id": 532011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "skillpassiveeffectlevel_8": 0
+  },
+  {
+    "Id": 532012,
+    "Description": {
+      "Ja": "物理防御力+{1}%",
+      "En": "Phys. Defense +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
