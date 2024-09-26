@@ -25,6 +25,10 @@
             "value": "Sub Weapons"
         },
         {
+            "id": 907000000010304,
+            "value": "Ultimate Weapons"
+        },
+        {
             "id": 907000000010401,
             "value": "Materia"
         },
@@ -133,6 +137,10 @@
             "value": "Battle Gear"
         },
         {
+            "id": 907000000011401,
+            "value": "U. C. Abilities (Ultimate Command Abilities)"
+        },
+        {
             "id": 907000000020101,
             "value": "Character Enhancement"
         },
@@ -195,6 +203,14 @@
         {
             "id": 907000000020602,
             "value": "Materia Upgrades"
+        },
+        {
+            "id": 907000000020701,
+            "value": "Ultimate Weapons"
+        },
+        {
+            "id": 907000000020801,
+            "value": "Brands"
         },
         {
             "id": 907000000030101,
@@ -673,6 +689,10 @@
             "value": "Wallpaper Settings"
         },
         {
+            "id": 907000000150501,
+            "value": "Block List"
+        },
+        {
             "id": 907000000160101,
             "value": "Name"
         },
@@ -765,6 +785,90 @@
             "value": "Overboosting Collection Items"
         },
         {
+            "id": 907000000200101,
+            "value": "Guilds"
+        },
+        {
+            "id": 907000000200102,
+            "value": "Guild Lv."
+        },
+        {
+            "id": 907000000200201,
+            "value": "Joining Guilds"
+        },
+        {
+            "id": 907000000200301,
+            "value": "Guild Search"
+        },
+        {
+            "id": 907000000200302,
+            "value": "Watch List"
+        },
+        {
+            "id": 907000000200401,
+            "value": "Leaving Guilds"
+        },
+        {
+            "id": 907000000200402,
+            "value": "24-Hour Cooldown"
+        },
+        {
+            "id": 907000000200403,
+            "value": "Leaving Guilds During Guild Battle"
+        },
+        {
+            "id": 907000000200501,
+            "value": "Guild Login Bonuses"
+        },
+        {
+            "id": 907000000200601,
+            "value": "Guild Missions"
+        },
+        {
+            "id": 907000000200701,
+            "value": "Guild Bonuses"
+        },
+        {
+            "id": 907000000200801,
+            "value": "Chat"
+        },
+        {
+            "id": 907000000200901,
+            "value": "Guild Settings"
+        },
+        {
+            "id": 907000000200902,
+            "value": "Various Settings"
+        },
+        {
+            "id": 907000000200903,
+            "value": "Guild Emblems and Wallpapers"
+        },
+        {
+            "id": 907000000200904,
+            "value": "Recommended Search Settings"
+        },
+        {
+            "id": 907000000200905,
+            "value": "Request Setting"
+        },
+        {
+            "id": 907000000201001,
+            "value": "Guild Roster"
+        },
+        {
+            "id": 907000000201101,
+            "value": "Achievements"
+        },
+        {
+            "id": 907000000201102,
+            "value": "Obtained Rewards"
+        },
+        {
+            "id": 907000000201201,
+            "value": "Guild Cards"
+        },
+        {
             "id": 908000000010101,
             "value": "An indication of character growth. A character's level (Lv) increases\nwhen a certain amount of experience is gained, also <color=#95C7FF>increasing their stats</color>."
         },
@@ -786,7 +890,11 @@
         },
         {
             "id": 908000000010303,
-            "value": "<color=#95C7FF>Sub Weapons</color>, when equipped, have the following effects.\n\nCharacter:\n *<color=#95C7FF>50% of the weapon's stats are reflected</color>.\n *<color=#95C7FF>50% of the R. Ability pts are reflected</color>.\n\nUnlike a main weapon and ability weapon, <color=#95C7FF>sub weapons</color> can be\nequipped no matter the type."
+            "value": "<color=#95C7FF>Sub Weapons</color>, when equipped, have the following effects.\n\nCharacter:\n *<color=#95C7FF>50% of the weapon's stats are reflected</color>.\n *<color=#95C7FF>50% of the R. Ability pts are reflected</color>.\n\nUnlike a main weapon, ability weapon and ultimate weapon, <color=#95C7FF>sub weapons</color> can be\nequipped no matter the type."
+        },
+        {
+            "id": 908000000010304,
+            "value": "Equipping ultimate weapons has the following effects:\n\n- Reflects weapon stats\n- Allows use of <color=#95C7FF>U. C. abilities in battle</color>\n- <color=#95C7FF>Reflects R. abilities</color>"
         },
         {
             "id": 908000000010401,
@@ -897,6 +1005,10 @@
             "value": "When assigning gear to a character, it will affect both the character's appearance\nand their R. Ability pts."
         },
         {
+            "id": 908000000011401,
+            "value": "These abilities can be used in battle by equipping ultimate weapons. \nThey can be used without consuming ATB, but there is <color=#95C7FF>a limit to the number of times</color> \nthey can be used in a single battle and may require time to <color=#95C7FF>recharge</color>."
+        },
+        {
             "id": 908000000020101,
             "value": "There are two ways to enhance a character.\n\n- By <color=#95C7FF>raising a character's level</color>, all stats are increased.\n\n- By <color=#95C7FF>unlocking nodes on the Character Stream</color>, each stat can be\nenhanced individually, and the character's Limit Break can be enhanced."
         },
@@ -942,7 +1054,7 @@
         },
         {
             "id": 908000000020401,
-            "value": "Weapons have three levels of rarity: 3★, 4★, and 5★. \nThe higher the rarity, the higher the weapon's stats and ability effects."
+            "value": "Weapon rarity levels range from 3★ to 6★.\nBetween rarities 3★ to 5★, the higher the rarity, the higher the weapon's stats and ability effects.\n6★ is a rarity exclusive to Ultimate Weapons."
         },
         {
             "id": 908000000020402,
@@ -959,6 +1071,14 @@
         {
             "id": 908000000020602,
             "value": "Materia that have reached their maximum level can be further enhanced by consuming items. \nEnhanced Materia will become higher-tier Materia, and their abilities will be <color=#95C7FF>enhanced</color>. \nAdditionally, their maximum level will be increased, becoming even more powerful. \n\nThe Materia's <color=#95C7FF>rarity</color> may increase when it is <color=#95C7FF>enhanced</color>."
+        },
+        {
+            "id": 908000000020701,
+            "value": "Ultimate weapons can be equipped in specific slots, \nand their <color=#95C7FF>levels</color> can be increased through <color=#95C7FF>weapon enhancement</color>.\n \nDifferent characters can equip different weapons."
+        },
+        {
+            "id": 908000000020801,
+            "value": "<color=#95C7FF>Branding stones</color> can be used to brand weapons and apply <color=#95C7FF>new effects</color>.\n\nThe effects and their values are chosen <color=#95C7FF>at random</color>, but the type of stone dictates which effects are <color=#95C7FF>more likely to be chosen</color>.\n\nWeapons can also be rebranded, allowing you to choose between keeping the current effects or overwriting them with new ones."
         },
         {
             "id": 908000000030101,
@@ -1062,11 +1182,11 @@
         },
         {
             "id": 908000000050103,
-            "value": "There are abilities that can be activated during battle, some of which the player can <color=#95C7FF>activate\nmanually</color>, and some that will <color=#95C7FF>automatically activate</color>.\n\n・Abilities that the player can manually activate: <color=#95C7FF>C. Abilities, L. Abilities</color>\n・Abilities that automatically activate in battle: <color=#95C7FF>R. Abilities, S. Abilities</color>"
+            "value": "There are abilities that can be activated during battle, some of which the player can <color=#95C7FF>activate\nmanually</color>, and some that will <color=#95C7FF>automatically activate</color>.\n\n・Abilities that the player can manually activate: <color=#95C7FF>C. Abilities, L. Abilities, U. C. Abilities</color>\n・Abilities that automatically activate in battle: <color=#95C7FF>R. Abilities, S. Abilities</color>"
         },
         {
             "id": 908000000050104,
-            "value": "<color=#95C7FF>C. Abilities and L. Abilities</color> are abilities that can be manually activated during battle\nby consuming the <color=#95C7FF>ATB Gauge and the Limit Gauge</color> respectively.\n\nThey have various effects, such as attack, healing, stat enhancement, and status ailments. \nFor elemental attacks, the damage varies depending on whether the target's weakness or\nresistance is hit."
+            "value": "<color=#95C7FF>C. Abilities and L. Abilities</color> are abilities that can be manually activated during battle\nby consuming the <color=#95C7FF>ATB Gauge and the Limit Gauge</color> respectively.\n\n<color=#95C7FF>U. C. Abilities</color> can be used without consuming ATB, but there is <color=#95C7FF>a limit to the number of times</color> they can be used in a single battle and may require time to <color=#95C7FF>recharge</color>.\n\nThey have various effects, such as attack, healing, stat enhancement, and status ailments. \nFor elemental attacks, the damage varies depending on whether the target's weakness or\nresistance is hit."
         },
         {
             "id": 908000000050105,
@@ -1086,7 +1206,7 @@
         },
         {
             "id": 908000000050301,
-            "value": "<color=#95C7FF>Limit Breaks and Summon abilities</color> have powerful effects, but their gauge must be charged\nin order to activate them. \nThe required gauge amount varies depending on each Limit Breaks and Summon abilities. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>.\n\nThe gauge will not be activated automatically during auto mode or by party members. \nThere is no limit to the number of times it can be activated during battles."
+            "value": "<color=#95C7FF>Limit Breaks and Summon abilities</color> have powerful effects, but their gauge must be charged\nin order to activate them. \nThe required gauge amount varies depending on each Limit Breaks and Summon abilities. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>.\n\nThere is no limit to the number of times it can be activated during battles."
         },
         {
             "id": 908000000050302,
@@ -1138,7 +1258,7 @@
         },
         {
             "id": 908000000051202,
-            "value": "You can switch between the following 3 modes to control characters during battle:\n\n・<color=#95C7FF>MANUAL</color>\nAll actions are performed manually by the player.\n\n・<color=#95C7FF>SEMI AUTO</color>\nThe controlled character will use <color=#95C7FF>C. Abilities automatically when the ATB gauge is full</color>.\n\n・<color=#95C7FF>AUTO</color>\nAll actions with exception of <color=#95C7FF>Limit Breaks are performed automatically</color>."
+            "value": "You can switch between the following 3 modes to control characters during battle:\n\n・<color=#95C7FF>MANUAL</color>\nAll actions are performed manually by the player.\n\n・<color=#95C7FF>SEMI AUTO</color>\nThe controlled character will use <color=#95C7FF>C. Abilities automatically when the ATB gauge is full</color>.\n\n・<color=#95C7FF>AUTO</color>\nAll actions with the exception of <color=#95C7FF>Limit Breaks are performed automatically</color>.\n*Auto-ability settings for Limit and U. C. abilities can be changed."
         },
         {
             "id": 908000000051203,
@@ -1166,11 +1286,11 @@
         },
         {
             "id": 908000000051306,
-            "value": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed."
+            "value": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)"
         },
         {
             "id": 908000000051307,
-            "value": "- Decreased Stats\n<sprite=\"tmp_icon\" index=388>Phys. Attack Down: Phys. Attack is decreased.\n<sprite=\"tmp_icon\" index=387>Phys. Defense Down: Phys. Defense is decreased.\n<sprite=\"tmp_icon\" index=390>Mag. Attack Down: Mag. Attack is decreased.\n<sprite=\"tmp_icon\" index=389>Mag. Defense Down: Mag. Defense is decreased.\n\n- Decreased Stats (Elemental Potency Down)\n<sprite=\"tmp_icon\" index=702>Fire Pot. Down: Damage of Fire abilities is decreased.\n<sprite=\"tmp_icon\" index=707>Ice Pot. Down: Damage of Ice abilities is decreased.\n<sprite=\"tmp_icon\" index=706>Lightning Pot. Down: Damage of Lightning abilities is decreased.\n<sprite=\"tmp_icon\" index=703>Earth Pot. Down: Damage of Earth abilities is decreased.\n<sprite=\"tmp_icon\" index=705>Water Pot. Down: Damage of Water abilities is decreased.\n<sprite=\"tmp_icon\" index=694>Wind Pot. Down: Damage of Wind abilities is decreased.\n\n- Decreased Stats (Resist. Down)\n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down: Phys. type damage taken is increased.\n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down: Mag. type damage taken is increased.\n\n- Decreased Stats (Elemental Resist. Down)\n<sprite=\"tmp_icon\" index=686>Fire Resist. Down: Damage from Fire abilities is increased.\n<sprite=\"tmp_icon\" index=684>Ice Resist. Down: Damage from Ice abilities is increased.\n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down: Damage from Lightning abilities is increased.\n<sprite=\"tmp_icon\" index=687>Earth Resist. Down: Damage from Earth abilities is increased.\n<sprite=\"tmp_icon\" index=682>Water Resist. Down: Damage from Water abilities is increased.\n<sprite=\"tmp_icon\" index=681>Wind Resist. Down: Damage from Wind abilities is increased.\n\n- Status Changes (Character)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type C. Abilities, the amount of ATB gauge consumed\n　will be increased.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type C. Abilities, the amount of ATB gauge consumed will\n　be increased.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the ATB gauge will not increase.\n<sprite=\"tmp_icon\" index=394>Sedate: The Limit/Summon gauges become harder to fill up.\n<sprite=\"tmp_icon\" index=396>Confusion: When using an ability, there is a chance of a character attacking themself.\n　Upon attacking themself, confusion has a chance of being dispelled.\n<sprite=\"tmp_icon\" index=397>Sleep: Incapacitates a character, increasing the damage they will receive next.\n　It is lifted upon recieving damage.\n<sprite=\"tmp_icon\" index=399>Slow: The ATB gauge fills more slowly. If Haste is granted, it is removed.\n<sprite=\"tmp_icon\" index=398>Block Rec.: Healing C. abilities become unusable.\n\n- Status Changes (Enemy)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the stream phase will be stopped."
+            "value": "- Decreased Stats\n<sprite=\"tmp_icon\" index=388>Phys. Attack Down: Phys. Attack is decreased.\n<sprite=\"tmp_icon\" index=387>Phys. Defense Down: Phys. Defense is decreased.\n<sprite=\"tmp_icon\" index=390>Mag. Attack Down: Mag. Attack is decreased.\n<sprite=\"tmp_icon\" index=389>Mag. Defense Down: Mag. Defense is decreased.\n\n- Decreased Stats (Elemental Potency Down)\n<sprite=\"tmp_icon\" index=702>Fire Pot. Down: Damage of Fire abilities is decreased.\n<sprite=\"tmp_icon\" index=707>Ice Pot. Down: Damage of Ice abilities is decreased.\n<sprite=\"tmp_icon\" index=706>Lightning Pot. Down: Damage of Lightning abilities is decreased.\n<sprite=\"tmp_icon\" index=703>Earth Pot. Down: Damage of Earth abilities is decreased.\n<sprite=\"tmp_icon\" index=705>Water Pot. Down: Damage of Water abilities is decreased.\n<sprite=\"tmp_icon\" index=694>Wind Pot. Down: Damage of Wind abilities is decreased.\n\n- Decreased Stats (Resist. Down)\n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down: Phys. type damage taken is increased.\n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down: Mag. type damage taken is increased.\n\n- Decreased Stats (Elemental Resist. Down)\n<sprite=\"tmp_icon\" index=686>Fire Resist. Down: Damage from Fire abilities is increased.\n<sprite=\"tmp_icon\" index=684>Ice Resist. Down: Damage from Ice abilities is increased.\n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down: Damage from Lightning abilities is increased.\n<sprite=\"tmp_icon\" index=687>Earth Resist. Down: Damage from Earth abilities is increased.\n<sprite=\"tmp_icon\" index=682>Water Resist. Down: Damage from Water abilities is increased.\n<sprite=\"tmp_icon\" index=681>Wind Resist. Down: Damage from Wind abilities is increased.\n\n- Status Changes (Character)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type C. Abilities, the amount of ATB gauge consumed\n　will be increased.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type C. Abilities, the amount of ATB gauge consumed will\n　be increased.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the ATB gauge will not increase.\n<sprite=\"tmp_icon\" index=394>Sedate: The Limit/Summon gauges become harder to fill up.\n<sprite=\"tmp_icon\" index=396>Confusion: When using an ability, there is a chance of a character attacking themself.\n　Upon attacking themself, confusion has a chance of being dispelled.\n<sprite=\"tmp_icon\" index=397>Sleep: Incapacitates a character, increasing the damage they will receive next.\n　It is lifted upon recieving damage.\n<sprite=\"tmp_icon\" index=399>Slow: The ATB gauge fills more slowly. If Haste is granted, it is removed.\n<sprite=\"tmp_icon\" index=398>Block Rec.: Healing C. abilities become unusable.\n<sprite=\"tmp_icon\" index=406>Dread: Command Gauge Fill Rate is reduced and effect of Attack Stance is nullified.\n　It is canceled when the command gauge is maxed.\n<sprite=\"tmp_icon\" index=709>Venom: Gradually saps HP. Cannot be removed with abilities that can remove poison, \n　and is unaffected by poison resistance.\n\n- Status Changes (Enemy)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the stream phase will be stopped."
         },
         {
             "id": 908000000060101,
@@ -1342,7 +1462,7 @@
         },
         {
             "id": 908000000110201,
-            "value": "In New Weapon Featured Draw, there is a feature called the <color=#95C7FF>Wishlist</color>. \nThe drop rate of weapons registered in the <color=#95C7FF>Wishlist</color> will increase. \nYou cannot select the same weapon multiple times. \nRegistration is complete when you have set different weapons for all five <color=#95C7FF>Wishlist</color> slots. \nYou can change your <color=#95C7FF>Wishlist</color> registration as many times as you want."
+            "value": "In New Weapon Featured Draw, there is a feature called the <color=#95C7FF>Wishlist</color>. \nThe drop rate of weapons registered in the <color=#95C7FF>Wishlist</color> will increase. \nYou cannot select the same weapon multiple times. \nRegistration is complete when you have set different weapons for all five <color=#95C7FF>Wishlist</color> slots. \nYou can change your <color=#95C7FF>Wishlist</color> registration as many times as you want.\n*Ultimate weapons cannot be added to your wishlist."
         },
         {
             "id": 908000000110301,
@@ -1350,7 +1470,7 @@
         },
         {
             "id": 908000000110302,
-            "value": "The weapons in the Armory, which can be accessed from the Enhance Weapons screen, \ncan be converted into <color=#95C7FF>weapon-specific Weapon Parts</color> used for Rarity Upgrades and Overboost."
+            "value": "You can visit the armory from the weapon enhancement screen. \nWeapons in the armory can be <color=#95C7FF>converted into items</color> to enhance weapons or exchange for other items."
         },
         {
             "id": 908000000110303,
@@ -1418,7 +1538,7 @@
         },
         {
             "id": 908000000150101,
-            "value": "You can check and edit your own information.\n\n・Check/edit Name\n・Check/copy Player ID\n・Set Profile Pieces\n・Check/edit self-introduction\n・Display play records"
+            "value": "You can check and edit your own information.\n\n- Check/Edit name\n- Check/Copy player ID\n- Set profile pieces\n- Check/Edit self-introduction\n- Display play records\n- Check guild information/Display guild card"
         },
         {
             "id": 908000000150201,
@@ -1435,6 +1555,10 @@
         {
             "id": 908000000150401,
             "value": "You can set the display of the obtained <color=#95C7FF>Wallpaper</color>.\n\nIf you set multiple Wallpapers in either Sequential Order or Random, \nthe home screen background will change according to the set order at regular intervals.\n\nIf you only select and set one background, it will be fixed to the selected background."
+        },
+        {
+            "id": 908000000150501,
+            "value": "Messages posted by players in your block list will not be displayed. Players added to your block list will be removed from your Friends list."
         },
         {
             "id": 908000000160101,
@@ -1527,6 +1651,90 @@
         {
             "id": 908000000180203,
             "value": "Specific items can be used to overboost collection items,\nand doing so will increase the effects gained from these items."
+        },
+        {
+            "id": 908000000200101,
+            "value": "You can create a guild where you can chat with other members and take part in guild-exclusive events."
+        },
+        {
+            "id": 908000000200102,
+            "value": "A guild levels up with the guild EXP obtained by its members."
+        },
+        {
+            "id": 908000000200201,
+            "value": "You can <color=#95C7FF>create your own guild</color> or <color=#95C7FF>join another</color>. To create a guild, <color=#95C7FF>you will need blue or red crystals</color>. To join a guild, <color=#95C7FF>you must send a request and have it approved</color>."
+        },
+        {
+            "id": 908000000200301,
+            "value": "You can search for guilds using <color=#95C7FF>certain conditions</color> or by <color=#95C7FF>guild ID</color>."
+        },
+        {
+            "id": 908000000200302,
+            "value": "You can save guilds to your watch list that you can view at any time.\nIf a guild is dissolved, it will automatically be removed from your watch list."
+        },
+        {
+            "id": 908000000200401,
+            "value": "There are three ways to leave a guild: <color=#95C7FF>voluntarily</color>, <color=#95C7FF>manual removal</color>, or <color=#95C7FF>automatic removal</color>. The guildmaster and submasters can remove people from the guild. Submasters can be removed once demoted by the guildmaster.\n\n<color=#95C7FF>If guild login is undetected for 14 days</color>, you will automatically be removed from the guild. If the guildmaster leaves, their privileges will automatically be given to a different member of the guild. A guild with no guild members will be dissolved."
+        },
+        {
+            "id": 908000000200402,
+            "value": "Regardless of how you leave a guild, leaving twice in a single day will trigger <color=#95C7FF>a 24-hour cooldown</color>, during which time you will not be able to create or join guilds."
+        },
+        {
+            "id": 908000000200403,
+            "value": "<color=#95C7FF>During Guild Battles, members cannot be Removed by the Guildmaster and submasters, \nnor can members voluntarily leave the Guild.</color>\nThis restriction is in place to prevent situations such as withdrawal due to operational errors or \nunjustified withdrawal before reward distribution.\nThe automatic withdrawal will be applied even during the Guild Battle period.\nPlease note that joining a Guild is possible during Guild Battles."
+        },
+        {
+            "id": 908000000200501,
+            "value": "You will obtain guild EXP once per day when logging in to your guild.\nThe guild login bonus resets at 5AM every day."
+        },
+        {
+            "id": 908000000200601,
+            "value": "These missions can be attempted if you belong to a guild.\nCompleting guild missions yields rewards such as guild EXP or points that can be used to unlock or enhance guild bonuses."
+        },
+        {
+            "id": 908000000200701,
+            "value": "Guild bonuses are effects that are automatically granted to all guild members. The guildmaster and submasters can <color=#95C7FF>use the guild's bonus points to unlock or enhance these bonuses</color>.\nBonus points can be obtained by members of the guild."
+        },
+        {
+            "id": 908000000200801,
+            "value": "You can use <color=#95C7FF>text and stamps</color> to communicate with other members of the guild, send co-op battle invitations, and join co-op battles in the guild chat. Chat logs are saved for <color=#95C7FF>30 days</color>."
+        },
+        {
+            "id": 908000000200901,
+            "value": "The guildmaster and submasters can change various guild settings from the guild menu."
+        },
+        {
+            "id": 908000000200902,
+            "value": "There are seven guild settings:\n\n- Guild name\n- Guild emblem\n- Guild wallpaper\n- Recommended search settings\n- Request setting\n- Guild stance\n- Guild introduction"
+        },
+        {
+            "id": 908000000200903,
+            "value": "The guild emblem and wallpaper are displayed for all guild members and are also reflected in the guild card."
+        },
+        {
+            "id": 908000000200904,
+            "value": "By selecting Hide, your guild will only appear in the search results when searching by guild ID."
+        },
+        {
+            "id": 908000000200905,
+            "value": "If the approval method is set to Auto, all requests will automatically be approved as long as there is room in the guild."
+        },
+        {
+            "id": 908000000201001,
+            "value": "You can view the guild roster or <color=#95C7FF>leave the guild</color> from the guild menu. The guildmaster can <color=#95C7FF>assign submasters and remove certain privileges</color>."
+        },
+        {
+            "id": 908000000201101,
+            "value": "You can view guild event records from the guild menu."
+        },
+        {
+            "id": 908000000201102,
+            "value": "Emblems and wallpapers can be obtained based on the guild's efforts.\nEmblems and wallpapers belong to the guild, and when switching guilds, the efforts of the new guild will be reflected."
+        },
+        {
+            "id": 908000000201201,
+            "value": "You can view the following information about your guild. If you haven't joined a guild after unlocking the Guild feature, you can send requests from guild cards.\n\n- Guild name\n- Guild level\n- View/Copy guild ID\n- Guildmaster\n- Guild members\n- Approval method\n- Last active\n- Date created\n- Guild focus\n- Guild introduction\n- Guild playstyle\n- Achievements\n- Active guild bonuses"
         }
     ]
 }

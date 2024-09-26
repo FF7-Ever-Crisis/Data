@@ -76,11 +76,25 @@
       "En": "Sub Weapons"
     },
     "Description": {
-      "Ja": "<color=#95C7FF>サブ武器</color>は、装備することで以下のような効果があります。\n\nキャラクターに対して\n・<color=#95C7FF>武器ステータスの50%</color>が反映されます。\n・<color=#95C7FF>Rアビリティのptが50%</color>分反映されます。\n\nまた、メイン武器・アビリティ武器とは異なり、武器種を問わず装備することが可能です。",
-      "En": "<color=#95C7FF>Sub Weapons</color>, when equipped, have the following effects.\n\nCharacter:\n *<color=#95C7FF>50% of the weapon's stats are reflected</color>.\n *<color=#95C7FF>50% of the R. Ability pts are reflected</color>.\n\nUnlike a main weapon and ability weapon, <color=#95C7FF>sub weapons</color> can be\nequipped no matter the type."
+      "Ja": "<color=#95C7FF>サブ武器</color>は、装備することで以下のような効果があります。\n\nキャラクターに対して\n・<color=#95C7FF>武器ステータスの50%</color>が反映されます。\n・<color=#95C7FF>Rアビリティのptが50%</color>分反映されます。\n\nまた、メイン武器・アビリティ武器・アルティメット武器とは異なり、武器種を問わず装備することが可能です。",
+      "En": "<color=#95C7FF>Sub Weapons</color>, when equipped, have the following effects.\n\nCharacter:\n *<color=#95C7FF>50% of the weapon's stats are reflected</color>.\n *<color=#95C7FF>50% of the R. Ability pts are reflected</color>.\n\nUnlike a main weapon, ability weapon and ultimate weapon, <color=#95C7FF>sub weapons</color> can be\nequipped no matter the type."
     },
     "HelpId": 103,
     "OrderNo": 3,
+    "ResourceId": 0
+  },
+  {
+    "Id": 10304,
+    "Title": {
+      "Ja": "アルティメット武器",
+      "En": "Ultimate Weapons"
+    },
+    "Description": {
+      "Ja": "アルティメット武器は、装備することで以下のような効果があります。\n\nキャラクターに対して\n・武器ステータスが反映されます。\n・<color=#95C7FF>UCアビリティをバトルで使用</color>できます。\n・<color=#95C7FF>Rアビリティが反映</color>されます。",
+      "En": "Equipping ultimate weapons has the following effects:\n\n- Reflects weapon stats\n- Allows use of <color=#95C7FF>U. C. abilities in battle</color>\n- <color=#95C7FF>Reflects R. abilities</color>"
+    },
+    "HelpId": 103,
+    "OrderNo": 4,
     "ResourceId": 0
   },
   {
@@ -462,6 +476,20 @@
     "ResourceId": 0
   },
   {
+    "Id": 11401,
+    "Title": {
+      "Ja": "UC（アルティメット・コマンド）アビリティ",
+      "En": "U. C. Abilities (Ultimate Command Abilities)"
+    },
+    "Description": {
+      "Ja": "アルティメット武器を装備することで、バトル中に使用できるアビリティです。\nATBゲージを消費せずに使用することができます。\n1バトル中に<color=#95C7FF>使用できる回数に制限</color>があるほか、使用可能になるまでに<color=#95C7FF>チャージタイムが必要</color>です。",
+      "En": "These abilities can be used in battle by equipping ultimate weapons. \nThey can be used without consuming ATB, but there is <color=#95C7FF>a limit to the number of times</color> \nthey can be used in a single battle and may require time to <color=#95C7FF>recharge</color>."
+    },
+    "HelpId": 114,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
     "Id": 20101,
     "Title": {
       "Ja": "キャラクター強化について",
@@ -622,8 +650,8 @@
       "En": "Weapon Rarity"
     },
     "Description": {
-      "Ja": "武器には★3から★5までの三段階のレアリティが存在します。\nレアリティが高いほど、武器ステータスやアビリティの効果が高くなります。",
-      "En": "Weapons have three levels of rarity: 3★, 4★, and 5★. \nThe higher the rarity, the higher the weapon's stats and ability effects."
+      "Ja": "武器には★3から★6までの四段階のレアリティが存在します。\n★3から★5まではレアリティが高いほど、武器ステータスやアビリティの効果が高くなります。\n★6はアルティメット武器専用のレアリティとなります。",
+      "En": "Weapon rarity levels range from 3★ to 6★.\nBetween rarities 3★ to 5★, the higher the rarity, the higher the weapon's stats and ability effects.\n6★ is a rarity exclusive to Ultimate Weapons."
     },
     "HelpId": 204,
     "OrderNo": 1,
@@ -683,6 +711,34 @@
     },
     "HelpId": 206,
     "OrderNo": 2,
+    "ResourceId": 0
+  },
+  {
+    "Id": 20701,
+    "Title": {
+      "Ja": "アルティメット武器",
+      "En": "Ultimate Weapons"
+    },
+    "Description": {
+      "Ja": "アルティメット武器は、専用の装備枠に装備することができます。\n\nアルティメット武器には<color=#95C7FF>レベル</color>が存在し、<color=#95C7FF>武器強化</color>を行うことでステータスを上昇させることができます。\n装備可能な武器種はキャラクターごとに異なります。",
+      "En": "Ultimate weapons can be equipped in specific slots, \nand their <color=#95C7FF>levels</color> can be increased through <color=#95C7FF>weapon enhancement</color>.\n \nDifferent characters can equip different weapons."
+    },
+    "HelpId": 207,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 20801,
+    "Title": {
+      "Ja": "刻印",
+      "En": "Brands"
+    },
+    "Description": {
+      "Ja": "<color=#95C7FF>刻印石</color>を消費することで武器に<color=#95C7FF>新たな効果</color>を付加することができます。\n\n付加される効果やその値は、刻印石消費時に<color=#95C7FF>ランダムで抽選</color>されます。\n刻印石の種類によって<color=#95C7FF>抽選されやすい効果の傾向</color>が異なります。\n\n刻印済みの武器にも、さらに刻印石を消費して再刻印することができます。\n再刻印では、既に付加されている刻印と新しい刻印のどちらかを選択でき、新しい刻印を選択した場合は効果が上書きされます。",
+      "En": "<color=#95C7FF>Branding stones</color> can be used to brand weapons and apply <color=#95C7FF>new effects</color>.\n\nThe effects and their values are chosen <color=#95C7FF>at random</color>, but the type of stone dictates which effects are <color=#95C7FF>more likely to be chosen</color>.\n\nWeapons can also be rebranded, allowing you to choose between keeping the current effects or overwriting them with new ones."
+    },
+    "HelpId": 208,
+    "OrderNo": 1,
     "ResourceId": 0
   },
   {
@@ -1042,8 +1098,8 @@
       "En": "Abilities"
     },
     "Description": {
-      "Ja": "バトル中に発動するアビリティは\nプレイヤーが<color=#95C7FF>直接操作を行える</color>ものと、<color=#95C7FF>自動で発動</color>するものがあります。\n\n・プレイヤーが任意で使用できるアビリティ：<color=#95C7FF>Cアビリティ、Lアビリティ</color>\n・バトル中自動で効果を発揮するアビリティ：<color=#95C7FF>Rアビリティ、Sアビリティ</color>",
-      "En": "There are abilities that can be activated during battle, some of which the player can <color=#95C7FF>activate\nmanually</color>, and some that will <color=#95C7FF>automatically activate</color>.\n\n・Abilities that the player can manually activate: <color=#95C7FF>C. Abilities, L. Abilities</color>\n・Abilities that automatically activate in battle: <color=#95C7FF>R. Abilities, S. Abilities</color>"
+      "Ja": "バトル中に発動するアビリティは\nプレイヤーが<color=#95C7FF>直接操作を行える</color>ものと、<color=#95C7FF>自動で発動</color>するものがあります。\n\n・プレイヤーが任意で使用できるアビリティ：<color=#95C7FF>Cアビリティ、UCアビリティ、Lアビリティ</color>\n・バトル中自動で効果を発揮するアビリティ：<color=#95C7FF>Rアビリティ、Sアビリティ</color>",
+      "En": "There are abilities that can be activated during battle, some of which the player can <color=#95C7FF>activate\nmanually</color>, and some that will <color=#95C7FF>automatically activate</color>.\n\n・Abilities that the player can manually activate: <color=#95C7FF>C. Abilities, L. Abilities, U. C. Abilities</color>\n・Abilities that automatically activate in battle: <color=#95C7FF>R. Abilities, S. Abilities</color>"
     },
     "HelpId": 501,
     "OrderNo": 5,
@@ -1056,8 +1112,8 @@
       "En": "Manual Abilities"
     },
     "Description": {
-      "Ja": "<color=#95C7FF>Cアビリティ、Lアビリティ</color>は\nそれぞれ<color=#95C7FF>ATBゲージ、LIMITゲージ</color>を消費してバトル中に任意で発動するアビリティです。\n\n攻撃・回復・ステータス増減・状態異常など、様々な効果を持つものがあります。\n属性攻撃の場合、攻撃対象の弱点か耐性かによってダメージが変化します。",
-      "En": "<color=#95C7FF>C. Abilities and L. Abilities</color> are abilities that can be manually activated during battle\nby consuming the <color=#95C7FF>ATB Gauge and the Limit Gauge</color> respectively.\n\nThey have various effects, such as attack, healing, stat enhancement, and status ailments. \nFor elemental attacks, the damage varies depending on whether the target's weakness or\nresistance is hit."
+      "Ja": "<color=#95C7FF>Cアビリティ、Lアビリティ</color>は\nそれぞれ<color=#95C7FF>ATBゲージ、LIMITゲージ</color>を消費してバトル中に任意で発動するアビリティです。\n\n<color=#95C7FF>UCアビリティ</color>は\nATBゲージを消費せずに使用することができます。1バトル中に<color=#95C7FF>使用できる回数に制限</color>があるほか、使用可能になるまでに<color=#95C7FF>チャージタイムが必要</color>です。\n\n攻撃・回復・ステータス増減・状態異常など、様々な効果を持つものがあります。\n属性攻撃の場合、攻撃対象の弱点か耐性かによってダメージが変化します。",
+      "En": "<color=#95C7FF>C. Abilities and L. Abilities</color> are abilities that can be manually activated during battle\nby consuming the <color=#95C7FF>ATB Gauge and the Limit Gauge</color> respectively.\n\n<color=#95C7FF>U. C. Abilities</color> can be used without consuming ATB, but there is <color=#95C7FF>a limit to the number of times</color> they can be used in a single battle and may require time to <color=#95C7FF>recharge</color>.\n\nThey have various effects, such as attack, healing, stat enhancement, and status ailments. \nFor elemental attacks, the damage varies depending on whether the target's weakness or\nresistance is hit."
     },
     "HelpId": 501,
     "OrderNo": 6,
@@ -1126,8 +1182,8 @@
       "En": "Limit Breaks/Summon Abilities"
     },
     "Description": {
-      "Ja": "<color=#95C7FF>リミットブレイク・召喚獣アビリティ</color>は強力な効果を持っていますが\n発動するにはゲージを溜める必要があります。\n必要なゲージ量はリミットブレイク・召喚獣アビリティ毎に異なります。\n<color=#95C7FF>ゲージが溜まると、任意のタイミングで発動</color>できるようになります。\n\nオートモード中やパーティメンバーが自動で使用することはありません。\nまたバトル中での使用回数に上限はありません。\n",
-      "En": "<color=#95C7FF>Limit Breaks and Summon abilities</color> have powerful effects, but their gauge must be charged\nin order to activate them. \nThe required gauge amount varies depending on each Limit Breaks and Summon abilities. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>.\n\nThe gauge will not be activated automatically during auto mode or by party members. \nThere is no limit to the number of times it can be activated during battles."
+      "Ja": "<color=#95C7FF>リミットブレイク・召喚獣アビリティ</color>は強力な効果を持っていますが\n発動するにはゲージを溜める必要があります。\n必要なゲージ量はリミットブレイク・召喚獣アビリティ毎に異なります。\n<color=#95C7FF>ゲージが溜まると、任意のタイミングで発動</color>できるようになります。\n\nバトル中での使用回数に上限はありません。",
+      "En": "<color=#95C7FF>Limit Breaks and Summon abilities</color> have powerful effects, but their gauge must be charged\nin order to activate them. \nThe required gauge amount varies depending on each Limit Breaks and Summon abilities. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>.\n\nThere is no limit to the number of times it can be activated during battles."
     },
     "HelpId": 503,
     "OrderNo": 1,
@@ -1308,8 +1364,8 @@
       "En": "Auto Mode"
     },
     "Description": {
-      "Ja": "バトル中の操作方法について、\n以下3つのモード切り替えを行うことができます。\n\n・<color=#95C7FF>MANUAL</color>\n全ての操作をプレイヤーが<color=#95C7FF>手動</color>で行います。\n\n・<color=#95C7FF>SEMI AUTO</color>\n操作キャラクターは<color=#95C7FF>ATBゲージがMAXになるとCアビリティを使用</color>します。\n\n・<color=#95C7FF>AUTO</color>\nリミットブレイク発動を除く<color=#95C7FF>全ての操作を自動</color>で行います。",
-      "En": "You can switch between the following 3 modes to control characters during battle:\n\n・<color=#95C7FF>MANUAL</color>\nAll actions are performed manually by the player.\n\n・<color=#95C7FF>SEMI AUTO</color>\nThe controlled character will use <color=#95C7FF>C. Abilities automatically when the ATB gauge is full</color>.\n\n・<color=#95C7FF>AUTO</color>\nAll actions with exception of <color=#95C7FF>Limit Breaks are performed automatically</color>."
+      "Ja": "バトル中の操作方法について、\n以下3つのモード切り替えを行うことができます。\n\n・<color=#95C7FF>MANUAL</color>\n全ての操作をプレイヤーが<color=#95C7FF>手動</color>で行います。\n\n・<color=#95C7FF>SEMI AUTO</color>\n操作キャラクターは<color=#95C7FF>ATBゲージがMAXになるとCアビリティを使用</color>します。\n\n・<color=#95C7FF>AUTO</color>\n<color=#95C7FF>全ての操作を自動</color>で行います。\n※リミットアビリティとUCアビリティの自動発動は、オプションでそれぞれ切り替えられます。",
+      "En": "You can switch between the following 3 modes to control characters during battle:\n\n・<color=#95C7FF>MANUAL</color>\nAll actions are performed manually by the player.\n\n・<color=#95C7FF>SEMI AUTO</color>\nThe controlled character will use <color=#95C7FF>C. Abilities automatically when the ATB gauge is full</color>.\n\n・<color=#95C7FF>AUTO</color>\nAll actions with the exception of <color=#95C7FF>Limit Breaks are performed automatically</color>.\n*Auto-ability settings for Limit and U. C. abilities can be changed."
     },
     "HelpId": 512,
     "OrderNo": 2,
@@ -1406,8 +1462,8 @@
       "En": "Effects of Buffs"
     },
     "Description": {
-      "Ja": "・上昇系(ステータスアップ)\n<sprite=\"tmp_icon\" index=324>物理攻撃力アップ　物理攻撃力が増加します。\n<sprite=\"tmp_icon\" index=323>物理防御力アップ　物理防御力が増加します。\n<sprite=\"tmp_icon\" index=326>魔法攻撃力アップ　魔法攻撃力が増加します。\n<sprite=\"tmp_icon\" index=325>魔法防御力アップ　魔法防御力が増加します。\n\n・上昇系(属性威力アップ)\n<sprite=\"tmp_icon\" index=578>炎属性威力アップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=576>冷属性威力アップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=612>雷属性威力アップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=579>土属性威力アップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=611>水属性威力アップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=610>風属性威力アップ　風属性アビリティのダメージが増加します。\n\n・上昇系(属性ダメージアップ)\n<sprite=\"tmp_icon\" index=328>炎属性ダメージアップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=329>冷属性ダメージアップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=330>雷属性ダメージアップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=331>土属性ダメージアップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=332>水属性ダメージアップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=333>風属性ダメージアップ　風属性アビリティのダメージが増加します。\n\n・上昇系(耐性アップ)\n<sprite=\"tmp_icon\" index=594>物理耐性アップ　　物理タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=595>魔法耐性アップ　　魔法タイプのダメージを軽減します。\n\n・上昇系(属性耐性アップ)\n<sprite=\"tmp_icon\" index=602>炎属性耐性アップ　炎属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=600>冷属性耐性アップ　冷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=599>雷属性耐性アップ　雷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=603>土属性耐性アップ　土属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=598>水属性耐性アップ　水属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=597>風属性耐性アップ　風属性アビリティのダメージを軽減します。\n\n・状態系\n<sprite=\"tmp_icon\" index=321>リジェネ　HPが徐々に回復します。\n<sprite=\"tmp_icon\" index=322>無敵　　　ダメージを無効化します。\n<sprite=\"tmp_icon\" index=327>ヘイスト　ATBゲージの増加速度が上昇します。スロウが付与されると解除されます。",
-      "En": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed."
+      "Ja": "・上昇系(ステータスアップ)\n<sprite=\"tmp_icon\" index=324>物理攻撃力アップ　物理攻撃力が増加します。\n<sprite=\"tmp_icon\" index=323>物理防御力アップ　物理防御力が増加します。\n<sprite=\"tmp_icon\" index=326>魔法攻撃力アップ　魔法攻撃力が増加します。\n<sprite=\"tmp_icon\" index=325>魔法防御力アップ　魔法防御力が増加します。\n\n・上昇系(属性威力アップ)\n<sprite=\"tmp_icon\" index=578>炎属性威力アップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=576>冷属性威力アップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=612>雷属性威力アップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=579>土属性威力アップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=611>水属性威力アップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=610>風属性威力アップ　風属性アビリティのダメージが増加します。\n\n・上昇系(属性ダメージアップ)\n<sprite=\"tmp_icon\" index=328>炎属性ダメージアップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=329>冷属性ダメージアップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=330>雷属性ダメージアップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=331>土属性ダメージアップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=332>水属性ダメージアップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=333>風属性ダメージアップ　風属性アビリティのダメージが増加します。\n\n・上昇系(耐性アップ)\n<sprite=\"tmp_icon\" index=594>物理耐性アップ　　物理タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=595>魔法耐性アップ　　魔法タイプのダメージを軽減します。\n\n・上昇系(属性耐性アップ)\n<sprite=\"tmp_icon\" index=602>炎属性耐性アップ　炎属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=600>冷属性耐性アップ　冷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=599>雷属性耐性アップ　雷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=603>土属性耐性アップ　土属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=598>水属性耐性アップ　水属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=597>風属性耐性アップ　風属性アビリティのダメージを軽減します。\n\n・状態系\n<sprite=\"tmp_icon\" index=321>リジェネ　HPが徐々に回復します。\n<sprite=\"tmp_icon\" index=322>無敵　　　ダメージを無効化します。\n<sprite=\"tmp_icon\" index=327>ヘイスト　ATBゲージの増加速度が上昇します。スロウが付与されると解除されます。\n<sprite=\"tmp_icon\" index=342>ラストリーヴ　致死ダメージを受けた際、一度だけHPが1残り、\n　　　　　   その後無敵効果のバフが付与され、HPが少量回復します。",
+      "En": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)"
     },
     "HelpId": 513,
     "OrderNo": 6,
@@ -1420,8 +1476,8 @@
       "En": "Effects of Debuffs"
     },
     "Description": {
-      "Ja": "・下降系(ステータスダウン)\n<sprite=\"tmp_icon\" index=388>物理攻撃力ダウン　物理攻撃力が減少します。\n<sprite=\"tmp_icon\" index=387>物理防御力ダウン　物理防御力が減少します。\n<sprite=\"tmp_icon\" index=390>魔法攻撃力ダウン　魔法攻撃力が減少します。\n<sprite=\"tmp_icon\" index=389>魔法防御力ダウン　魔法防御力が減少します。\n\n・下降系(属性威力ダウン)\n<sprite=\"tmp_icon\" index=702>炎属性威力ダウン　炎属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=707>冷属性威力ダウン　冷属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=706>雷属性威力ダウン　雷属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=703>土属性威力ダウン　土属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=705>水属性威力ダウン　水属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=694>風属性威力ダウン　風属性アビリティのダメージが減少します。\n\n・下降系(耐性ダウン)\n<sprite=\"tmp_icon\" index=678>物理耐性ダウン　　物理タイプのアビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=679>魔法耐性ダウン　　魔法タイプのアビリティで受けるダメージが増加します。\n\n・下降系(属性耐性ダウン)\n<sprite=\"tmp_icon\" index=686>炎属性耐性ダウン　炎属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=684>冷属性耐性ダウン　冷属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=683>雷属性耐性ダウン　雷属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=687>土属性耐性ダウン　土属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=682>水属性耐性ダウン　水属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=681>風属性耐性ダウン　風属性アビリティで受けるダメージが増加します。\n\n・状態系(キャラクターが受けた時の効果)\n<sprite=\"tmp_icon\" index=395>毒　　　　HPが徐々に減少します。\n<sprite=\"tmp_icon\" index=386>暗闇　　　物理タイプのCアビリティが使用できなくなります。\n<sprite=\"tmp_icon\" index=393>沈黙　　　魔法タイプのCアビリティが使用できなくなります。\n<sprite=\"tmp_icon\" index=384>鈍重　　　物理タイプのCアビリティ使用時、消費ATBゲージ量が増加します。\n<sprite=\"tmp_icon\" index=385>忘却　　　魔法タイプのCアビリティ使用時、消費ATBゲージ量が増加します。\n<sprite=\"tmp_icon\" index=392>スタン　　行動不能になり、ATBゲージが増加しなくなります。\n<sprite=\"tmp_icon\" index=394>悲しい　　LIMITゲージ・SUMMONゲージが増加しにくくなります。\n<sprite=\"tmp_icon\" index=396>混乱　　　アビリティ使用時、一定確率で失敗し自身にダメージを与えます。\n　　　　　　 アビリティ使用失敗時、一定確率で解除されます。\n<sprite=\"tmp_icon\" index=397>睡眠　　　行動不能になり、次に受けるダメージが増加します。\n　　　　　　 ダメージを受けると解除されます。\n<sprite=\"tmp_icon\" index=399>スロウ　　ATBゲージの増加速度が低下します。ヘイストが付与されると解除されます。\n<sprite=\"tmp_icon\" index=398>回復阻害　HP回復効果のあるCアビリティが使用できなくなります。\n\n\n\n・状態系(敵が受けた時の効果)\n<sprite=\"tmp_icon\" index=395>毒　　　　HPが徐々に減少します。\n<sprite=\"tmp_icon\" index=386>暗闇　　　物理タイプのアビリティを使用しなくなります。\n<sprite=\"tmp_icon\" index=393>沈黙　　　魔法タイプのアビリティを使用しなくなります。\n<sprite=\"tmp_icon\" index=384>鈍重　　　物理タイプのアビリティ使用時、待機時間が追加されます。\n<sprite=\"tmp_icon\" index=385>忘却　　　魔法タイプのアビリティ使用時、待機時間が追加されます。\n<sprite=\"tmp_icon\" index=392>スタン　　行動不能になり、ストリームフェイズなどの時間経過が停止します。\n\n",
-      "En": "- Decreased Stats\n<sprite=\"tmp_icon\" index=388>Phys. Attack Down: Phys. Attack is decreased.\n<sprite=\"tmp_icon\" index=387>Phys. Defense Down: Phys. Defense is decreased.\n<sprite=\"tmp_icon\" index=390>Mag. Attack Down: Mag. Attack is decreased.\n<sprite=\"tmp_icon\" index=389>Mag. Defense Down: Mag. Defense is decreased.\n\n- Decreased Stats (Elemental Potency Down)\n<sprite=\"tmp_icon\" index=702>Fire Pot. Down: Damage of Fire abilities is decreased.\n<sprite=\"tmp_icon\" index=707>Ice Pot. Down: Damage of Ice abilities is decreased.\n<sprite=\"tmp_icon\" index=706>Lightning Pot. Down: Damage of Lightning abilities is decreased.\n<sprite=\"tmp_icon\" index=703>Earth Pot. Down: Damage of Earth abilities is decreased.\n<sprite=\"tmp_icon\" index=705>Water Pot. Down: Damage of Water abilities is decreased.\n<sprite=\"tmp_icon\" index=694>Wind Pot. Down: Damage of Wind abilities is decreased.\n\n- Decreased Stats (Resist. Down)\n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down: Phys. type damage taken is increased.\n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down: Mag. type damage taken is increased.\n\n- Decreased Stats (Elemental Resist. Down)\n<sprite=\"tmp_icon\" index=686>Fire Resist. Down: Damage from Fire abilities is increased.\n<sprite=\"tmp_icon\" index=684>Ice Resist. Down: Damage from Ice abilities is increased.\n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down: Damage from Lightning abilities is increased.\n<sprite=\"tmp_icon\" index=687>Earth Resist. Down: Damage from Earth abilities is increased.\n<sprite=\"tmp_icon\" index=682>Water Resist. Down: Damage from Water abilities is increased.\n<sprite=\"tmp_icon\" index=681>Wind Resist. Down: Damage from Wind abilities is increased.\n\n- Status Changes (Character)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type C. Abilities, the amount of ATB gauge consumed\n　will be increased.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type C. Abilities, the amount of ATB gauge consumed will\n　be increased.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the ATB gauge will not increase.\n<sprite=\"tmp_icon\" index=394>Sedate: The Limit/Summon gauges become harder to fill up.\n<sprite=\"tmp_icon\" index=396>Confusion: When using an ability, there is a chance of a character attacking themself.\n　Upon attacking themself, confusion has a chance of being dispelled.\n<sprite=\"tmp_icon\" index=397>Sleep: Incapacitates a character, increasing the damage they will receive next.\n　It is lifted upon recieving damage.\n<sprite=\"tmp_icon\" index=399>Slow: The ATB gauge fills more slowly. If Haste is granted, it is removed.\n<sprite=\"tmp_icon\" index=398>Block Rec.: Healing C. abilities become unusable.\n\n- Status Changes (Enemy)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the stream phase will be stopped."
+      "Ja": "・下降系(ステータスダウン)\n<sprite=\"tmp_icon\" index=388>物理攻撃力ダウン　物理攻撃力が減少します。\n<sprite=\"tmp_icon\" index=387>物理防御力ダウン　物理防御力が減少します。\n<sprite=\"tmp_icon\" index=390>魔法攻撃力ダウン　魔法攻撃力が減少します。\n<sprite=\"tmp_icon\" index=389>魔法防御力ダウン　魔法防御力が減少します。\n\n・下降系(属性威力ダウン)\n<sprite=\"tmp_icon\" index=702>炎属性威力ダウン　炎属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=707>冷属性威力ダウン　冷属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=706>雷属性威力ダウン　雷属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=703>土属性威力ダウン　土属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=705>水属性威力ダウン　水属性アビリティのダメージが減少します。\n<sprite=\"tmp_icon\" index=694>風属性威力ダウン　風属性アビリティのダメージが減少します。\n\n・下降系(耐性ダウン)\n<sprite=\"tmp_icon\" index=678>物理耐性ダウン　　物理タイプのアビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=679>魔法耐性ダウン　　魔法タイプのアビリティで受けるダメージが増加します。\n\n・下降系(属性耐性ダウン)\n<sprite=\"tmp_icon\" index=686>炎属性耐性ダウン　炎属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=684>冷属性耐性ダウン　冷属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=683>雷属性耐性ダウン　雷属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=687>土属性耐性ダウン　土属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=682>水属性耐性ダウン　水属性アビリティで受けるダメージが増加します。\n<sprite=\"tmp_icon\" index=681>風属性耐性ダウン　風属性アビリティで受けるダメージが増加します。\n\n・状態系(キャラクターが受けた時の効果)\n<sprite=\"tmp_icon\" index=395>毒　　　　HPが徐々に減少します。\n<sprite=\"tmp_icon\" index=386>暗闇　　　物理タイプのCアビリティが使用できなくなります。\n<sprite=\"tmp_icon\" index=393>沈黙　　　魔法タイプのCアビリティが使用できなくなります。\n<sprite=\"tmp_icon\" index=384>鈍重　　　物理タイプのCアビリティ使用時、消費ATBゲージ量が増加します。\n<sprite=\"tmp_icon\" index=385>忘却　　　魔法タイプのCアビリティ使用時、消費ATBゲージ量が増加します。\n<sprite=\"tmp_icon\" index=392>スタン　　行動不能になり、ATBゲージが増加しなくなります。\n<sprite=\"tmp_icon\" index=394>悲しい　　LIMITゲージ・SUMMONゲージが増加しにくくなります。\n<sprite=\"tmp_icon\" index=396>混乱　　　アビリティ使用時、一定確率で失敗し自身にダメージを与えます。\n　　　　　　 アビリティ使用失敗時、一定確率で解除されます。\n<sprite=\"tmp_icon\" index=397>睡眠　　　行動不能になり、次に受けるダメージが増加します。\n　　　　　　 ダメージを受けると解除されます。\n<sprite=\"tmp_icon\" index=399>スロウ　　ATBゲージの増加速度が低下します。ヘイストが付与されると解除されます。\n<sprite=\"tmp_icon\" index=398>回復阻害　HP回復効果のあるCアビリティが使用できなくなります。\n<sprite=\"tmp_icon\" index=406>恐怖　　　コマンドゲージ増加速度が低下し、アタックシフトの効果が無効になります。\n　　　　　   コマンドゲージが最大になると解除されます。\n<sprite=\"tmp_icon\" index=709>猛毒　　　HPが徐々に減少します。毒を解除するアビリティでは解除できず、\n　　　　　   毒耐性の影響を受けません。\n\n\n・状態系(敵が受けた時の効果)\n<sprite=\"tmp_icon\" index=395>毒　　　　HPが徐々に減少します。\n<sprite=\"tmp_icon\" index=386>暗闇　　　物理タイプのアビリティを使用しなくなります。\n<sprite=\"tmp_icon\" index=393>沈黙　　　魔法タイプのアビリティを使用しなくなります。\n<sprite=\"tmp_icon\" index=384>鈍重　　　物理タイプのアビリティ使用時、待機時間が追加されます。\n<sprite=\"tmp_icon\" index=385>忘却　　　魔法タイプのアビリティ使用時、待機時間が追加されます。\n<sprite=\"tmp_icon\" index=392>スタン　　行動不能になり、ストリームフェイズなどの時間経過が停止します。\n\n",
+      "En": "- Decreased Stats\n<sprite=\"tmp_icon\" index=388>Phys. Attack Down: Phys. Attack is decreased.\n<sprite=\"tmp_icon\" index=387>Phys. Defense Down: Phys. Defense is decreased.\n<sprite=\"tmp_icon\" index=390>Mag. Attack Down: Mag. Attack is decreased.\n<sprite=\"tmp_icon\" index=389>Mag. Defense Down: Mag. Defense is decreased.\n\n- Decreased Stats (Elemental Potency Down)\n<sprite=\"tmp_icon\" index=702>Fire Pot. Down: Damage of Fire abilities is decreased.\n<sprite=\"tmp_icon\" index=707>Ice Pot. Down: Damage of Ice abilities is decreased.\n<sprite=\"tmp_icon\" index=706>Lightning Pot. Down: Damage of Lightning abilities is decreased.\n<sprite=\"tmp_icon\" index=703>Earth Pot. Down: Damage of Earth abilities is decreased.\n<sprite=\"tmp_icon\" index=705>Water Pot. Down: Damage of Water abilities is decreased.\n<sprite=\"tmp_icon\" index=694>Wind Pot. Down: Damage of Wind abilities is decreased.\n\n- Decreased Stats (Resist. Down)\n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down: Phys. type damage taken is increased.\n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down: Mag. type damage taken is increased.\n\n- Decreased Stats (Elemental Resist. Down)\n<sprite=\"tmp_icon\" index=686>Fire Resist. Down: Damage from Fire abilities is increased.\n<sprite=\"tmp_icon\" index=684>Ice Resist. Down: Damage from Ice abilities is increased.\n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down: Damage from Lightning abilities is increased.\n<sprite=\"tmp_icon\" index=687>Earth Resist. Down: Damage from Earth abilities is increased.\n<sprite=\"tmp_icon\" index=682>Water Resist. Down: Damage from Water abilities is increased.\n<sprite=\"tmp_icon\" index=681>Wind Resist. Down: Damage from Wind abilities is increased.\n\n- Status Changes (Character)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type C. Abilities, the amount of ATB gauge consumed\n　will be increased.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type C. Abilities, the amount of ATB gauge consumed will\n　be increased.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the ATB gauge will not increase.\n<sprite=\"tmp_icon\" index=394>Sedate: The Limit/Summon gauges become harder to fill up.\n<sprite=\"tmp_icon\" index=396>Confusion: When using an ability, there is a chance of a character attacking themself.\n　Upon attacking themself, confusion has a chance of being dispelled.\n<sprite=\"tmp_icon\" index=397>Sleep: Incapacitates a character, increasing the damage they will receive next.\n　It is lifted upon recieving damage.\n<sprite=\"tmp_icon\" index=399>Slow: The ATB gauge fills more slowly. If Haste is granted, it is removed.\n<sprite=\"tmp_icon\" index=398>Block Rec.: Healing C. abilities become unusable.\n<sprite=\"tmp_icon\" index=406>Dread: Command Gauge Fill Rate is reduced and effect of Attack Stance is nullified.\n　It is canceled when the command gauge is maxed.\n<sprite=\"tmp_icon\" index=709>Venom: Gradually saps HP. Cannot be removed with abilities that can remove poison, \n　and is unaffected by poison resistance.\n\n- Status Changes (Enemy)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the stream phase will be stopped."
     },
     "HelpId": 513,
     "OrderNo": 7,
@@ -2022,8 +2078,8 @@
       "En": "Wish Lists"
     },
     "Description": {
-      "Ja": "「新武器PUガチャ」では<color=#95C7FF>「ウィッシュリスト」</color>という機能があります。\nウィッシュリストに<color=#95C7FF>登録した武器は排出率が上昇</color>します。\n同じ武器を複数選択することはできず、\n5つあるウィッシュリスト枠全てに異なる武器を設定することで登録が完了します。\n一度選択した後でも、ウィッシュリスト登録は何度でも変更が可能です。",
-      "En": "In New Weapon Featured Draw, there is a feature called the <color=#95C7FF>Wishlist</color>. \nThe drop rate of weapons registered in the <color=#95C7FF>Wishlist</color> will increase. \nYou cannot select the same weapon multiple times. \nRegistration is complete when you have set different weapons for all five <color=#95C7FF>Wishlist</color> slots. \nYou can change your <color=#95C7FF>Wishlist</color> registration as many times as you want."
+      "Ja": "「新武器PUガチャ」では<color=#95C7FF>「ウィッシュリスト」</color>という機能があります。\nウィッシュリストに<color=#95C7FF>登録した武器は排出率が上昇</color>します。\n同じ武器を複数選択することはできず、\n5つあるウィッシュリスト枠全てに異なる武器を設定することで登録が完了します。\n\n一度選択した後でも、ウィッシュリスト登録は何度でも変更が可能です。\n※アルティメット武器はウィッシュリストの対象外です。",
+      "En": "In New Weapon Featured Draw, there is a feature called the <color=#95C7FF>Wishlist</color>. \nThe drop rate of weapons registered in the <color=#95C7FF>Wishlist</color> will increase. \nYou cannot select the same weapon multiple times. \nRegistration is complete when you have set different weapons for all five <color=#95C7FF>Wishlist</color> slots. \nYou can change your <color=#95C7FF>Wishlist</color> registration as many times as you want.\n*Ultimate weapons cannot be added to your wishlist."
     },
     "HelpId": 1102,
     "OrderNo": 1,
@@ -2050,8 +2106,8 @@
       "En": "The Armory"
     },
     "Description": {
-      "Ja": "武器強化画面から遷移できる保管庫内の武器は、\n武器のレアリティアップや限界突破に使用する<color=#95C7FF>武器固有のウェポンパーツに変換</color>できます。",
-      "En": "The weapons in the Armory, which can be accessed from the Enhance Weapons screen, \ncan be converted into <color=#95C7FF>weapon-specific Weapon Parts</color> used for Rarity Upgrades and Overboost."
+      "Ja": "武器強化画面やアルティメット武器強化画面から武器保管庫に遷移することができます。\n武器保管庫内の武器は、\n武器の強化や交換所でのアイテム交換に使用する<color=#95C7FF>武器変換アイテムに変換</color>できます。",
+      "En": "You can visit the armory from the weapon enhancement screen. \nWeapons in the armory can be <color=#95C7FF>converted into items</color> to enhance weapons or exchange for other items."
     },
     "HelpId": 1103,
     "OrderNo": 2,
@@ -2288,8 +2344,8 @@
       "En": "Profile"
     },
     "Description": {
-      "Ja": "プレイヤー自身の情報確認・編集を行えます。\n\n・プレイヤー名の確認・編集\n・プレイヤーIDの確認・コピー\n・プロフィールパーツの設定\n・自己紹介文の確認・編集\n・プレイ記録の表示",
-      "En": "You can check and edit your own information.\n\n・Check/edit Name\n・Check/copy Player ID\n・Set Profile Pieces\n・Check/edit self-introduction\n・Display play records"
+      "Ja": "プレイヤー自身の情報確認・編集を行えます。\n\n・プレイヤー名の確認・編集\n・プレイヤーIDの確認・コピー\n・プロフィールパーツの設定\n・自己紹介文の確認・編集\n・プレイ記録の表示\n・所属ギルドの確認・ギルドカードの表示",
+      "En": "You can check and edit your own information.\n\n- Check/Edit name\n- Check/Copy player ID\n- Set profile pieces\n- Check/Edit self-introduction\n- Display play records\n- Check guild information/Display guild card"
     },
     "HelpId": 1501,
     "OrderNo": 1,
@@ -2348,6 +2404,20 @@
       "En": "You can set the display of the obtained <color=#95C7FF>Wallpaper</color>.\n\nIf you set multiple Wallpapers in either Sequential Order or Random, \nthe home screen background will change according to the set order at regular intervals.\n\nIf you only select and set one background, it will be fixed to the selected background."
     },
     "HelpId": 1504,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 150501,
+    "Title": {
+      "Ja": "拒否リスト",
+      "En": "Block List"
+    },
+    "Description": {
+      "Ja": "拒否リストに登録したプレイヤーのチャットが見えなくなります。\nまた、フレンドを拒否リストに登録するとフレンドは解除されます。",
+      "En": "Messages posted by players in your block list will not be displayed. Players added to your block list will be removed from your Friends list."
+    },
+    "HelpId": 1505,
     "OrderNo": 1,
     "ResourceId": 0
   },
@@ -2671,6 +2741,300 @@
     },
     "HelpId": 1802,
     "OrderNo": 3,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200101,
+    "Title": {
+      "Ja": "ギルドについて",
+      "En": "Guilds"
+    },
+    "Description": {
+      "Ja": "他のプレイヤーとギルドを結成することができます。\nギルドに所属するとギルドメンバーとチャットや、ギルド限定イベントに挑戦できます。",
+      "En": "You can create a guild where you can chat with other members and take part in guild-exclusive events."
+    },
+    "HelpId": 2001,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200102,
+    "Title": {
+      "Ja": "ギルドLv",
+      "En": "Guild Lv."
+    },
+    "Description": {
+      "Ja": "ギルドメンバーが獲得したギルド経験値でギルドのレベルを上げられます。",
+      "En": "A guild levels up with the guild EXP obtained by its members."
+    },
+    "HelpId": 2001,
+    "OrderNo": 2,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200201,
+    "Title": {
+      "Ja": "ギルドへの所属方法について",
+      "En": "Joining Guilds"
+    },
+    "Description": {
+      "Ja": "ギルドには、<color=#95C7FF>自身でギルドを設立</color>するか、<color=#95C7FF>他のプレイヤーが設立したギルドに加入</color>することで所属できます。\nギルドを<color=#95C7FF>設立する際には、ブルークリスタルもしくはレッドクリスタルが必要</color>になります。\n他のプレイヤーのギルドに加入するには、<color=#95C7FF>所属したいギルドに加入申請をし、承認されると所属</color>できます。",
+      "En": "You can <color=#95C7FF>create your own guild</color> or <color=#95C7FF>join another</color>. To create a guild, <color=#95C7FF>you will need blue or red crystals</color>. To join a guild, <color=#95C7FF>you must send a request and have it approved</color>."
+    },
+    "HelpId": 2002,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200301,
+    "Title": {
+      "Ja": "ギルド検索について",
+      "En": "Guild Search"
+    },
+    "Description": {
+      "Ja": "所属したいギルドを<color=#95C7FF>条件検索</color>や<color=#95C7FF>ID検索</color>で探すことができます。",
+      "En": "You can search for guilds using <color=#95C7FF>certain conditions</color> or by <color=#95C7FF>guild ID</color>."
+    },
+    "HelpId": 2003,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200302,
+    "Title": {
+      "Ja": "ウォッチリストについて",
+      "En": "Watch List"
+    },
+    "Description": {
+      "Ja": "気になったギルドをウォッチリストに登録しておくことができます。\n登録してあるギルドはいつでも確認が可能です。\n\n解体してしまったギルドは自動的にウォッチリストから登録解除されます。",
+      "En": "You can save guilds to your watch list that you can view at any time.\nIf a guild is dissolved, it will automatically be removed from your watch list."
+    },
+    "HelpId": 2003,
+    "OrderNo": 2,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200401,
+    "Title": {
+      "Ja": "ギルドの脱退方法について",
+      "En": "Leaving Guilds"
+    },
+    "Description": {
+      "Ja": "ギルドの脱退方法は<color=#95C7FF>「自分から脱退」</color>する他に、<color=#95C7FF>「強制脱退」</color>と<color=#95C7FF>「自動脱退」</color>があります。\n\n強制脱退はギルドマスターもしくはサブマスターがギルドメンバーを強制的に脱退させることができます。\nサブマスターはギルドマスターによって権限を剥奪されてから強制脱退させることができます。\n\n自動脱退は<color=#95C7FF>ギルドに14日連続でログインしなかったときに、ギルドから自動的に脱退</color>します。\nギルドマスターが脱退した場合、他にギルドメンバーがいる場合は権限が自動的に委譲されます。\nギルドメンバーがいなくなったギルドは解体されます。",
+      "En": "There are three ways to leave a guild: <color=#95C7FF>voluntarily</color>, <color=#95C7FF>manual removal</color>, or <color=#95C7FF>automatic removal</color>. The guildmaster and submasters can remove people from the guild. Submasters can be removed once demoted by the guildmaster.\n\n<color=#95C7FF>If guild login is undetected for 14 days</color>, you will automatically be removed from the guild. If the guildmaster leaves, their privileges will automatically be given to a different member of the guild. A guild with no guild members will be dissolved."
+    },
+    "HelpId": 2004,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200402,
+    "Title": {
+      "Ja": "脱退ペナルティについて",
+      "En": "24-Hour Cooldown"
+    },
+    "Description": {
+      "Ja": "脱退方法に関係なく、1日に2回以上ギルドを脱退すると、<color=#95C7FF>24時間のペナルティが発生</color>します。\nペナルティ中は「ギルドの設立」「ギルドへの加入申請」ができません。",
+      "En": "Regardless of how you leave a guild, leaving twice in a single day will trigger <color=#95C7FF>a 24-hour cooldown</color>, during which time you will not be able to create or join guilds."
+    },
+    "HelpId": 2004,
+    "OrderNo": 2,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200403,
+    "Title": {
+      "Ja": "ギルドバトル期間中の脱退制限について",
+      "En": "Leaving Guilds During Guild Battle"
+    },
+    "Description": {
+      "Ja": "<color=#95C7FF>イベント「ギルドバトル」の期間中は、ギルドマスターとサブマスターによるメンバーの強制脱退及びメンバーの自主的な脱退ができません。</color>\n操作ミスでの脱退や、報酬配布前に不当に脱退させられるなどの事態を防ぐために、本制限を設けております。\n自動脱退については、ギルドバトルの期間中も適用されます。\nギルドへの加入はギルドバトル期間中も可能です。",
+      "En": "<color=#95C7FF>During Guild Battles, members cannot be Removed by the Guildmaster and submasters, \nnor can members voluntarily leave the Guild.</color>\nThis restriction is in place to prevent situations such as withdrawal due to operational errors or \nunjustified withdrawal before reward distribution.\nThe automatic withdrawal will be applied even during the Guild Battle period.\nPlease note that joining a Guild is possible during Guild Battles."
+    },
+    "HelpId": 2004,
+    "OrderNo": 3,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200501,
+    "Title": {
+      "Ja": "ギルドログインボーナスについて",
+      "En": "Guild Login Bonuses"
+    },
+    "Description": {
+      "Ja": "ギルドにログイン時に、1日1回ギルド経験値を受け取ることができます。\n\nギルドログインボーナスのリセットタイミングは毎日5:00です。",
+      "En": "You will obtain guild EXP once per day when logging in to your guild.\nThe guild login bonus resets at 5AM every day."
+    },
+    "HelpId": 2005,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200601,
+    "Title": {
+      "Ja": "ギルドミッションについて",
+      "En": "Guild Missions"
+    },
+    "Description": {
+      "Ja": "ギルドに所属していると挑戦できるようになるミッションです。\n\nギルドミッションを達成することで、ギルド経験値やギルドボーナスなどを\n解放・強化するためのポイントを獲得できます。",
+      "En": "These missions can be attempted if you belong to a guild.\nCompleting guild missions yields rewards such as guild EXP or points that can be used to unlock or enhance guild bonuses."
+    },
+    "HelpId": 2006,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200701,
+    "Title": {
+      "Ja": "ギルドボーナスについて",
+      "En": "Guild Bonuses"
+    },
+    "Description": {
+      "Ja": "ギルドボーナスを解放・強化することで、ギルドに所属していると自動的に受けられる効果です。\nギルドマスターとサブマスターは<color=#95C7FF>専用のポイントを消費して、新たなボーナスの解放や強化</color>ができます。\n\n解放や強化に使用できる専用のポイントは、ギルドメンバーの獲得した合計ポイントです。",
+      "En": "Guild bonuses are effects that are automatically granted to all guild members. The guildmaster and submasters can <color=#95C7FF>use the guild's bonus points to unlock or enhance these bonuses</color>.\nBonus points can be obtained by members of the guild."
+    },
+    "HelpId": 2007,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200801,
+    "Title": {
+      "Ja": "チャットについて",
+      "En": "Chat"
+    },
+    "Description": {
+      "Ja": "同じギルドのメンバー同士で<color=#95C7FF>テキストやスタンプでのやり取り</color>ができます。\nギルドメンバーにマルチバトルへの招待もチャットに送ることができ、そこから参加も可能です。\nまた、チャットのログは<color=#95C7FF>30日間保持</color>されます。",
+      "En": "You can use <color=#95C7FF>text and stamps</color> to communicate with other members of the guild, send co-op battle invitations, and join co-op battles in the guild chat. Chat logs are saved for <color=#95C7FF>30 days</color>."
+    },
+    "HelpId": 2008,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200901,
+    "Title": {
+      "Ja": "ギルド設定について",
+      "En": "Guild Settings"
+    },
+    "Description": {
+      "Ja": "ギルドのメニューから、ギルドの各種設定を変更することができます。\nギルド設定の変更は、ギルドマスターとサブマスターのみが可能です。",
+      "En": "The guildmaster and submasters can change various guild settings from the guild menu."
+    },
+    "HelpId": 2009,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200902,
+    "Title": {
+      "Ja": "設定項目",
+      "En": "Various Settings"
+    },
+    "Description": {
+      "Ja": "ギルドの設定は以下の7種類があります。\n\n・ギルド名\n・ギルドマーク\n・ギルド背景\n・おすすめ検索設定\n・加入申請設定\n・活動内容設定\n・ギルド紹介文設定",
+      "En": "There are seven guild settings:\n\n- Guild name\n- Guild emblem\n- Guild wallpaper\n- Recommended search settings\n- Request setting\n- Guild stance\n- Guild introduction"
+    },
+    "HelpId": 2009,
+    "OrderNo": 2,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200903,
+    "Title": {
+      "Ja": "ギルドのマークや背景について",
+      "En": "Guild Emblems and Wallpapers"
+    },
+    "Description": {
+      "Ja": "ギルドのマークや背景は所属するギルドに設定されている内容が、ギルドメンバー全員に表示されます。\nまた、ギルドカードの見た目についても設定したマークや背景が反映されます。",
+      "En": "The guild emblem and wallpaper are displayed for all guild members and are also reflected in the guild card."
+    },
+    "HelpId": 2009,
+    "OrderNo": 3,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200904,
+    "Title": {
+      "Ja": "おすすめ検索設定について",
+      "En": "Recommended Search Settings"
+    },
+    "Description": {
+      "Ja": "「非表示」に設定すると、ギルドIDでの検索以外で検索ギルドとして表示されなくなります。",
+      "En": "By selecting Hide, your guild will only appear in the search results when searching by guild ID."
+    },
+    "HelpId": 2009,
+    "OrderNo": 4,
+    "ResourceId": 0
+  },
+  {
+    "Id": 200905,
+    "Title": {
+      "Ja": "加入申請設定について",
+      "En": "Request Setting"
+    },
+    "Description": {
+      "Ja": "承認方法を「自動承認」に変更すると、ギルドメンバーの人数に空きがある状態であれば、\nギルドへの加入申請がきた時に自動的に承認されるようになります。",
+      "En": "If the approval method is set to Auto, all requests will automatically be approved as long as there is room in the guild."
+    },
+    "HelpId": 2009,
+    "OrderNo": 5,
+    "ResourceId": 0
+  },
+  {
+    "Id": 201001,
+    "Title": {
+      "Ja": "ギルドのメンバー確認について",
+      "En": "Guild Roster"
+    },
+    "Description": {
+      "Ja": "ギルドのメニューから、ギルドのメンバー確認や<color=#95C7FF>ギルドの脱退</color>ができます。\nギルドマスターは、<color=#95C7FF>サブマスターの任命や権限の剥奪</color>が行えます。",
+      "En": "You can view the guild roster or <color=#95C7FF>leave the guild</color> from the guild menu. The guildmaster can <color=#95C7FF>assign submasters and remove certain privileges</color>."
+    },
+    "HelpId": 2010,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 201101,
+    "Title": {
+      "Ja": "アチーブメントについて",
+      "En": "Achievements"
+    },
+    "Description": {
+      "Ja": "ギルドのメニューから、ギルドイベントでの戦績が確認できます。",
+      "En": "You can view guild event records from the guild menu."
+    },
+    "HelpId": 2011,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
+    "Id": 201102,
+    "Title": {
+      "Ja": "獲得報酬について",
+      "En": "Obtained Rewards"
+    },
+    "Description": {
+      "Ja": "ギルドのこれまでの実績に応じて、ギルドのマークや背景を獲得できます。\n\n獲得したマークや背景は、ギルドが所持します。\n別のギルドに所属を変えた場合、新しく所属したギルドの獲得状況が反映されます。",
+      "En": "Emblems and wallpapers can be obtained based on the guild's efforts.\nEmblems and wallpapers belong to the guild, and when switching guilds, the efforts of the new guild will be reflected."
+    },
+    "HelpId": 2011,
+    "OrderNo": 2,
+    "ResourceId": 0
+  },
+  {
+    "Id": 201201,
+    "Title": {
+      "Ja": "ギルドカード",
+      "En": "Guild Cards"
+    },
+    "Description": {
+      "Ja": "所属しているギルドの情報確認を行えます。\nまた、ギルド機能を解放した後、ギルド未所属の場合、ギルドカードからの加入申請もできます。\n\n・ギルド名の確認\n・ギルドレベル\n・ギルドIDの確認・コピー\n・ギルドマスター名\n・ギルドメンバー数\n・承認方法\n・最終活動日\n・設立日数\n・活動方針\n・ギルド紹介文の確認\n・ギルドスタイル\n・アチーブメント\n・発動中のギルドボーナス",
+      "En": "You can view the following information about your guild. If you haven't joined a guild after unlocking the Guild feature, you can send requests from guild cards.\n\n- Guild name\n- Guild level\n- View/Copy guild ID\n- Guildmaster\n- Guild members\n- Approval method\n- Last active\n- Date created\n- Guild focus\n- Guild introduction\n- Guild playstyle\n- Achievements\n- Active guild bonuses"
+    },
+    "HelpId": 2012,
+    "OrderNo": 1,
     "ResourceId": 0
   }
 ]

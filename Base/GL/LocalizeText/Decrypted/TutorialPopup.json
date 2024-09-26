@@ -122,7 +122,7 @@
         },
         {
             "id": 970000201100104,
-            "value": "R. abilities (Reinforcement abilities) have passive benefits that are always in \neffect when equipped with a main weapon, ability weapon, or sub weapon."
+            "value": "R. abilities (Reinforcement abilities) have passive benefits that are always \nin effect when equipped with various types of weapons and Gear."
         },
         {
             "id": 970000201100105,
@@ -137,8 +137,12 @@
             "value": "L. abilities (Limit abilities) can be used during battle if limit breaks\nor summon abilities are equipped."
         },
         {
+            "id": 970000201100108,
+            "value": "You can change the appearance of your gear and weapons regardless of your main weapon settings."
+        },
+        {
             "id": 970000201300101,
-            "value": "When gear is set for \"Battle\", its appearance\nand the R. ability will be reflected."
+            "value": "When gear is equipped, its appearance\nand the R. ability will be reflected."
         },
         {
             "id": 970000201300102,
@@ -162,7 +166,7 @@
         },
         {
             "id": 970000202200101,
-            "value": "Weapons in the armory can be converted to\nWeapon-specific Parts used to upgrade rarity or to Overboost."
+            "value": "Weapons in the armory can be converted into\nitems used to level boost or upgrade the rarity of weapons."
         },
         {
             "id": 970000202200102,
@@ -621,6 +625,82 @@
             "value": "Extra Sections"
         },
         {
+            "id": 970000224000101,
+            "value": "Guilds"
+        },
+        {
+            "id": 970000224100101,
+            "value": "You can create your own guild by using crystals."
+        },
+        {
+            "id": 970000224100102,
+            "value": "To join a guild, use Guild Search to find a guild that suits your playstyle."
+        },
+        {
+            "id": 970000224200101,
+            "value": "There are guild missions that yield guild EXP and bonus points."
+        },
+        {
+            "id": 970000224200102,
+            "value": "Guild EXP and bonus points are obtained by guild members."
+        },
+        {
+            "id": 970000224200103,
+            "value": "Guild medals are obtained through guild activities. \nYou can trade these medals and items at the exchange."
+        },
+        {
+            "id": 970000224200104,
+            "value": "Guild messages are posted in Announcements and\ncan be edited by the guildmaster or submasters."
+        },
+        {
+            "id": 970000224200105,
+            "value": "From the guild menu, you can view the guild roster and various achievements."
+        },
+        {
+            "id": 970000224200106,
+            "value": "The guildmaster and submasters can change the guild's name,\nemblem, wallpaper, and search conditions."
+        },
+        {
+            "id": 970000224200107,
+            "value": "Guild bonuses are effects that are automatically granted to all members in the guild."
+        },
+        {
+            "id": 970000224200108,
+            "value": "The guildmaster and submasters can use guild bonus points to unlock and enhance bonuses."
+        },
+        {
+            "id": 970000224200109,
+            "value": "You can use the Chat feature to communicate with other guild members\nand receive co-op battle invitations."
+        },
+        {
+            "id": 970000224200110,
+            "value": "You can check the guild chat from the chat panel,\nbut cannot send messages or receive co-op invitations."
+        },
+        {
+            "id": 970000224300101,
+            "value": "Guild Battle 1"
+        },
+        {
+            "id": 970000224300102,
+            "value": "Guild Battle 2"
+        },
+        {
+            "id": 970000224300103,
+            "value": "Guild Battle 3"
+        },
+        {
+            "id": 970000224300104,
+            "value": "Guild Battle 4"
+        },
+        {
+            "id": 970000224300105,
+            "value": "Additional Equipment"
+        },
+        {
+            "id": 970000224300106,
+            "value": "Mock Battles"
+        },
+        {
             "id": 970000225000101,
             "value": "The Highwind"
         },
@@ -641,12 +721,48 @@
             "value": "Highwind Collection"
         },
         {
+            "id": 970000226000101,
+            "value": "Ultimate Weapons 1"
+        },
+        {
+            "id": 970000226000102,
+            "value": "Ultimate Weapons 2"
+        },
+        {
+            "id": 970000226000103,
+            "value": "Ultimate Weapons 3"
+        },
+        {
+            "id": 970000226100101,
+            "value": "Ultimate Weapon Slots Unlocked"
+        },
+        {
+            "id": 970000226200101,
+            "value": "Enhancing Ultimate Weapons"
+        },
+        {
+            "id": 970000227000101,
+            "value": "Brands Unlocked"
+        },
+        {
+            "id": 970000227100101,
+            "value": "Brands 1"
+        },
+        {
+            "id": 970000227100102,
+            "value": "Brands 2"
+        },
+        {
+            "id": 970000227100103,
+            "value": "Rebranding Weapons"
+        },
+        {
             "id": 970000301000101,
             "value": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
         },
         {
             "id": 970000301000102,
-            "value": "SEMI: Unleashes C. Abilities when ATB gauge is full\nAUTO: Performs all actions except Limit Breaks"
+            "value": "SEMI: Unleashes C. Abilities when ATB gauge is full\nAUTO: Performs all actions　*Auto-ability settings for L. abilities can be changed."
         },
         {
             "id": 970000301000103,
@@ -745,6 +861,10 @@
             "value": "Force Gauge: Flying"
         },
         {
+            "id": 970003100000081,
+            "value": "Force Gauge: Rock Armor"
+        },
+        {
             "id": 970003100000091,
             "value": "Force Gauge: Mako Charge"
         },
@@ -785,12 +905,32 @@
             "value": "Force Gauge: Magic Charge"
         },
         {
+            "id": 970003100000221,
+            "value": "Force Gauge: Metal Skin"
+        },
+        {
             "id": 970003100000231,
             "value": "Force Gauge: Stability"
         },
         {
             "id": 970003100000241,
             "value": "Force Gauge: Rush Charge"
+        },
+        {
+            "id": 970003100000251,
+            "value": "Force Gauge: Mode Change"
+        },
+        {
+            "id": 970003100000261,
+            "value": "Force Gauge: Fireworks"
+        },
+        {
+            "id": 970003100000271,
+            "value": "Force Gauge: Outrage"
+        },
+        {
+            "id": 970003200000011,
+            "value": "Status Ailment: Dread"
         },
         {
             "id": 971000101400101,
@@ -918,7 +1058,7 @@
         },
         {
             "id": 971000208200101,
-            "value": "Touching a symbol will trigger a boss battle. \nNot only will <command_color=common_03>HP not be restored after each battle, but damage taken will also lower your max HP.</color>"
+            "value": "Touching a symbol will trigger a boss battle. \nNot only will <command_color=common_03>HP not be restored after each battle, but damage taken will also lower your max HP.</color>\nU. C. abilities used will not be reset."
         },
         {
             "id": 971000208200301,
@@ -1005,6 +1145,34 @@
             "value": "In Extra Sections, you can challenge <command_color=common_03>a stronger version of the boss</color> from that chapter. Make sure you're prepared before taking on these difficult battles.\n \n<command_color=common_02>*Extra Sections do not affect story progression.</color>"
         },
         {
+            "id": 971000224000101,
+            "value": "The <command_color=common_03>Guild</color> feature has been unlocked. Being part of a guild allows you to <command_color=common_03>chat with other guild members</color> and <command_color=common_03>receive certain perks</color>."
+        },
+        {
+            "id": 971000224300101,
+            "value": "In <command_color=common_03>guild battles</color>, the guild ranking is determined by <command_color=common_03>the total score obtained by each guild</color> during the event.\n<command_color=common_02>*There is a limit to the guild battles each player can attempt in a single day.</color>"
+        },
+        {
+            "id": 971000224300102,
+            "value": "Guild battle bosses have a massive amount of HP, and any damage dealt <command_color=common_03>will be carried over into the next battle</color>. \n<command_color=common_03>Damage dealt by other guild members</color> will also be reflected in the bosses' HP."
+        },
+        {
+            "id": 971000224300103,
+            "value": "Depleting the boss's HP a set amount <command_color=common_03>will yield an additional score bonus</color>. \nFor battles with multiple bosses, depleting the <command_color=common_03>bosses' total HP a set amount</color> will yield a score bonus. \nDefeating the bosses in each battle <command_color=common_03>will yield rewards for all guild members.</color>\n<command_color=common_02>*If a battle has multiple bosses, all bosses must be defeated in order to earn the reward.</color>"
+        },
+        {
+            "id": 971000224300104,
+            "value": "Defeated bosses are <command_color=common_03>revived at a certain time.</color> Defeating all of the bosses <command_color=common_03>will revive all bosses immediately</color>.\n<command_color=common_02>*The HP of undefeated bosses will not be restored when revived.</color>"
+        },
+        {
+            "id": 971000224300105,
+            "value": "Guild battles allow for the use of <command_color=common_03>additional equipment</color>, in which spare weapons and gear can be set to <command_color=common_03>increase the potency of abilities</color>.\n These weapons and gear have points, and <command_color=common_03>the effect is increased based on the point total</color>.\n(Ultimate weapons are not subject.)\n<command_color=common_02>*Weapon points vary based on weapon enhancements.\n*Characters' current equipment cannot be set as additional equipment.</color>"
+        },
+        {
+            "id": 971000224300106,
+            "value": "<command_color=common_03>Mock battles</color> do not yield scores or rewards, but allow players to <command_color=common_03>take on guild battles without using any attempts</color>.\n<command_color=common_02>*Only mock battles are available during the strategy period.\n*The bosses' HP in mock battles are not shared among guild members.</color>"
+        },
+        {
             "id": 971000225000101,
             "value": "The <command_color=common_03>Highwind</color> has been unlocked and can be accessed from Expeditions. You can <command_color=common_03>gather collection items</color> aboard the ship to <command_color=common_03>boost your power</color>."
         },
@@ -1023,6 +1191,42 @@
         {
             "id": 971000225400101,
             "value": "Collection items have effects that <command_color=common_03>strengthen your characters</color> by simply possessing them. <command_color=common_03>Fulfilling certain conditions will allow you to enhance these items</color> and boost their effects."
+        },
+        {
+            "id": 971000226000101,
+            "value": "<command_color=common_03>Ultimate weapons</color> can be equipped in their dedicated weapons slots.\n<command_color=common_02>*Duplicates of ultimate weapons offer no additional enhancements.</color>"
+        },
+        {
+            "id": 971000226000102,
+            "value": "Equipping <command_color=common_03>ultimate weapons</color> allows the use of <command_color=common_03>U. C. abilities</color> in battle. These powerful abilities <command_color=common_03>do not consume ATB</color>. U. C. abilities can be unleashed by tapping the corresponding icons."
+        },
+        {
+            "id": 971000226000103,
+            "value": "<command_color=common_03>U. C. abilities</color> have a <command_color=common_03>limit</color> to the number of times they can be used and require <command_color=common_03>time to charge</color> before use."
+        },
+        {
+            "id": 971000226100101,
+            "value": "<command_color=common_03>Ultimate weapon slots</color> have been unlocked. Ultimate weapons can be equipped from the <command_color=common_03>character</color> screen. \nThe type of Ultimate Weapon that can be equipped varies depending on the character."
+        },
+        {
+            "id": 971000226200101,
+            "value": "Ultimate weapons <command_color=common_03>cannot be overboosted or have their rarity upgraded</color>, but can be strengthened through weapon enhancement."
+        },
+        {
+            "id": 971000227000101,
+            "value": "<command_color=common_03>Branding stones</color> can be used to brand and apply additional effects to standard and ultimate weapons. Weapons can be branded through <command_color=common_03>weapon enhancement</color>."
+        },
+        {
+            "id": 971000227100101,
+            "value": "In the weapon enhancement screen, you can use <command_color=common_03>branding stones</color> to <command_color=common_03>brand</color> weapons and <command_color=common_03>apply random effects</color>. Odds and effect types differ with each type of branding stone."
+        },
+        {
+            "id": 971000227100102,
+            "value": "<command_color=common_03>Up to three random effects</color> can be applied at a time. Weapons can also be <command_color=common_03>rebranded</color> to overwrite any current effects."
+        },
+        {
+            "id": 971000227100103,
+            "value": "When rebranding a weapon, you can choose to <command_color=common_03>retain current effects or apply new ones</color> by selecting Retain or Rebrand. If you select <command_color=common_03>Rebrand</color>, all current effects will be <command_color=common_03>overwritten</color>."
         },
         {
             "id": 971003000000011,
@@ -1113,6 +1317,10 @@
             "value": "<command_color=common_03>Dealing magic damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy's <command_color=common_03>Physical Resistance will be lost</color> and their <command_color=common_03>PDEF greatly reduced</color>."
         },
         {
+            "id": 971003100000081,
+            "value": "The enemy's force gauge fills over time and as they use their abilities. When the gauge is full, they grant themselves <command_color=common_03>PDEF Up, MDEF Up, and Wind Resistance Up</color>. Dealing damage with <command_color=common_03>wind-element abilities</color> will deplete the gauge."
+        },
+        {
             "id": 971003100000091,
             "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. The more the enemy's force gauge is filled, the stronger their <command_color=common_03>MATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
         },
@@ -1153,12 +1361,32 @@
             "value": "The enemy's force gauge fills over time and <command_color=common_03>can be filled even more with certain abilities</color>. When the gauge is full, the enemy will unleash <command_color=common_03>an extremely charged and powerful Flare</color>. The gauge can be depleted by dealing damage to the enemy."
         },
         {
+            "id": 971003100000221,
+            "value": "The force gauge can be depleted by <command_color=common_03>landing attacks</color>. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time, and their <command_color=common_03>physical and magic damage resistance will be greatly reduced</color>."
+        },
+        {
             "id": 971003100000231,
             "value": "Dealing <command_color=common_03>magic damage</color> to the enemy will deplete their force gauge. When the gauge is fully depleted, their <command_color=common_03>PDEF and MDEF will be greatly reduced</color>. <command_color=common_03>Additional rewards</color> may be obtained in certain situations."
         },
         {
             "id": 971003100000241,
             "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>PATK</color>. <command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time."
+        },
+        {
+            "id": 971003100000251,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete its force gauge. When the gauge is fully depleted, it will <command_color=common_03>metamorphose into a physically or magically enhanced state</color> depending on the amount of <command_color=common_03>physical or magic damage taken while the force gauge is active</color>."
+        },
+        {
+            "id": 971003100000261,
+            "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>fire-element potency</color>. The gauge can be depleted by <command_color=common_03>dealing damage with ice-element abilities</color>. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+        },
+        {
+            "id": 971003100000271,
+            "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time, and <command_color=common_03>their PDEF and MDEF will be greatly reduced</color>."
+        },
+        {
+            "id": 971003200000011,
+            "value": "Depending on the number of characters afflicted with <command_color=common_03>dread</color>, <command_color=common_03>the speed at which the command gauge increases in Attack Stance will slow</color>. While afflicted, <command_color=common_03>Attack Stance perks</color> that boost damage and the amount of sigils destroyed <command_color=common_03>will be inactive</color>. Dread is canceled <command_color=common_03>when the command gauge is maxed out</color> in Attack Stance."
         }
     ]
 }

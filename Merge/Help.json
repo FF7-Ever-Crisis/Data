@@ -51,7 +51,7 @@
       "En": "L. Abilities (Limit Abilities)"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 2
+    "OrderNo": 3
   },
   {
     "Id": 107,
@@ -60,7 +60,7 @@
       "En": "R. Abilities (Reinforcement Abilities)"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 3
+    "OrderNo": 4
   },
   {
     "Id": 108,
@@ -69,7 +69,7 @@
       "En": "S. Abilities (Support Abilities)"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 4
+    "OrderNo": 5
   },
   {
     "Id": 109,
@@ -78,7 +78,7 @@
       "En": "Stats"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 7
+    "OrderNo": 8
   },
   {
     "Id": 110,
@@ -115,6 +115,15 @@
     },
     "HelpCategoryId": 1,
     "OrderNo": 6
+  },
+  {
+    "Id": 114,
+    "Title": {
+      "Ja": "UC（アルティメット・コマンド）アビリティ",
+      "En": "U. C. Abilities (Ultimate Command Abilities)"
+    },
+    "HelpCategoryId": 5,
+    "OrderNo": 2
   },
   {
     "Id": 201,
@@ -169,6 +178,24 @@
     },
     "HelpCategoryId": 3,
     "OrderNo": 2
+  },
+  {
+    "Id": 207,
+    "Title": {
+      "Ja": "アルティメット武器",
+      "En": "Ultimate Weapons"
+    },
+    "HelpCategoryId": 19,
+    "OrderNo": 5
+  },
+  {
+    "Id": 208,
+    "Title": {
+      "Ja": "刻印",
+      "En": "Brands"
+    },
+    "HelpCategoryId": 19,
+    "OrderNo": 6
   },
   {
     "Id": 301,
@@ -249,7 +276,7 @@
       "En": "Commands"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 5
+    "OrderNo": 6
   },
   {
     "Id": 503,
@@ -258,7 +285,7 @@
       "En": "Limit Breaks & Summon Abilities"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 6
+    "OrderNo": 7
   },
   {
     "Id": 504,
@@ -267,7 +294,7 @@
       "En": "Elements"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 8
+    "OrderNo": 9
   },
   {
     "Id": 505,
@@ -276,7 +303,7 @@
       "En": "Targets"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 10
+    "OrderNo": 11
   },
   {
     "Id": 506,
@@ -285,7 +312,7 @@
       "En": "Stream Phase"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 11
+    "OrderNo": 12
   },
   {
     "Id": 507,
@@ -294,7 +321,7 @@
       "En": "Sigils"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 12
+    "OrderNo": 13
   },
   {
     "Id": 508,
@@ -303,7 +330,7 @@
       "En": "Destroying Sigils & Interrupts"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 13
+    "OrderNo": 14
   },
   {
     "Id": 509,
@@ -312,7 +339,7 @@
       "En": "Swapping Characters"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 9
+    "OrderNo": 10
   },
   {
     "Id": 510,
@@ -321,7 +348,7 @@
       "En": "KO"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 15
+    "OrderNo": 16
   },
   {
     "Id": 511,
@@ -330,7 +357,7 @@
       "En": "Time Limit"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 16
+    "OrderNo": 17
   },
   {
     "Id": 512,
@@ -339,7 +366,7 @@
       "En": "Battle Menu"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 17
+    "OrderNo": 18
   },
   {
     "Id": 513,
@@ -348,7 +375,7 @@
       "En": "Buffs and Debuffs"
     },
     "HelpCategoryId": 5,
-    "OrderNo": 14
+    "OrderNo": 15
   },
   {
     "Id": 601,
@@ -738,6 +765,15 @@
     "OrderNo": 3
   },
   {
+    "Id": 1505,
+    "Title": {
+      "Ja": "拒否リスト",
+      "En": "Block List"
+    },
+    "HelpCategoryId": 15,
+    "OrderNo": 4
+  },
+  {
     "Id": 1601,
     "Title": {
       "Ja": "プレイヤー",
@@ -808,5 +844,113 @@
     },
     "HelpCategoryId": 21,
     "OrderNo": 1
+  },
+  {
+    "Id": 2001,
+    "Title": {
+      "Ja": "ギルド",
+      "En": "Guilds"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 0
+  },
+  {
+    "Id": 2002,
+    "Title": {
+      "Ja": "所属方法",
+      "En": "Joining Guilds"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 1
+  },
+  {
+    "Id": 2003,
+    "Title": {
+      "Ja": "ギルド検索",
+      "En": "Guild Search"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 2
+  },
+  {
+    "Id": 2004,
+    "Title": {
+      "Ja": "脱退方法",
+      "En": "Leaving Guilds"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 3
+  },
+  {
+    "Id": 2005,
+    "Title": {
+      "Ja": "ギルドログインボーナス",
+      "En": "Guild Login Bonuses"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 4
+  },
+  {
+    "Id": 2006,
+    "Title": {
+      "Ja": "ギルドミッション",
+      "En": "Guild Missions"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 5
+  },
+  {
+    "Id": 2007,
+    "Title": {
+      "Ja": "ギルドボーナス",
+      "En": "Guild Bonuses"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 6
+  },
+  {
+    "Id": 2008,
+    "Title": {
+      "Ja": "チャット",
+      "En": "Chat"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 7
+  },
+  {
+    "Id": 2009,
+    "Title": {
+      "Ja": "ギルド設定",
+      "En": "Guild Settings"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 8
+  },
+  {
+    "Id": 2010,
+    "Title": {
+      "Ja": "メンバー確認",
+      "En": "Guild Roster"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 9
+  },
+  {
+    "Id": 2011,
+    "Title": {
+      "Ja": "ギルド実績",
+      "En": "Guild Records"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 10
+  },
+  {
+    "Id": 2012,
+    "Title": {
+      "Ja": "ギルドカード",
+      "En": "Guild Cards"
+    },
+    "HelpCategoryId": 20,
+    "OrderNo": 11
   }
 ]

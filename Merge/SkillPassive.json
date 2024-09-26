@@ -110,6 +110,36 @@
     "PassiveSkillCategoryType": 1
   },
   {
+    "Id": 11401,
+    "Name": {
+      "Ja": "味方全体物理防御力アップ",
+      "En": "Boost PDEF (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 11401,
+    "ResourceId": 11401,
+    "PassiveSkillCategoryType": 1
+  },
+  {
+    "Id": 11501,
+    "Name": {
+      "Ja": "味方全体魔法防御力アップ",
+      "En": "Boost MDEF (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 11501,
+    "ResourceId": 11501,
+    "PassiveSkillCategoryType": 1
+  },
+  {
+    "Id": 12001,
+    "Name": {
+      "Ja": "味方全体攻撃力アップ",
+      "En": "Boost ATK (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 12001,
+    "ResourceId": 12001,
+    "PassiveSkillCategoryType": 1
+  },
+  {
     "Id": 20201,
     "Name": {
       "Ja": "炎属性威力アップ",
@@ -330,6 +360,16 @@
     "PassiveSkillCategoryType": 3
   },
   {
+    "Id": 40101,
+    "Name": {
+      "Ja": "毒耐性アップ",
+      "En": "Boost Poison Resist."
+    },
+    "PassiveSkillEffectGroupId": 40101,
+    "ResourceId": 40101,
+    "PassiveSkillCategoryType": 4
+  },
+  {
     "Id": 51301,
     "Name": {
       "Ja": "アビリティ威力アップ",
@@ -367,6 +407,16 @@
     },
     "PassiveSkillEffectGroupId": 51701,
     "ResourceId": 51701,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 51801,
+    "Name": {
+      "Ja": "ATBブースト",
+      "En": "ATB Boost"
+    },
+    "PassiveSkillEffectGroupId": 51801,
+    "ResourceId": 51801,
     "PassiveSkillCategoryType": 4
   },
   {
@@ -450,6 +500,16 @@
     "PassiveSkillCategoryType": 4
   },
   {
+    "Id": 53101,
+    "Name": {
+      "Ja": "ラストリーヴ",
+      "En": "Reprieve"
+    },
+    "PassiveSkillEffectGroupId": 53101,
+    "ResourceId": 53101,
+    "PassiveSkillCategoryType": 4
+  },
+  {
     "Id": 53201,
     "Name": {
       "Ja": "太陽の恵み",
@@ -457,6 +517,56 @@
     },
     "PassiveSkillEffectGroupId": 53201,
     "ResourceId": 53201,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 53301,
+    "Name": {
+      "Ja": "魔法の障壁",
+      "En": "Magic Ward"
+    },
+    "PassiveSkillEffectGroupId": 53301,
+    "ResourceId": 53301,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 53401,
+    "Name": {
+      "Ja": "誘惑の策略",
+      "En": "Alluring Ploy"
+    },
+    "PassiveSkillEffectGroupId": 53401,
+    "ResourceId": 53401,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 53501,
+    "Name": {
+      "Ja": "バハムートの鋭牙",
+      "En": "Bahamut's Bite"
+    },
+    "PassiveSkillEffectGroupId": 53501,
+    "ResourceId": 53501,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 53502,
+    "Name": {
+      "Ja": "バハムートの護り",
+      "En": "Bahamut's Protection"
+    },
+    "PassiveSkillEffectGroupId": 53502,
+    "ResourceId": 53502,
+    "PassiveSkillCategoryType": 1
+  },
+  {
+    "Id": 53601,
+    "Name": {
+      "Ja": "インタラプトの極意",
+      "En": "Interruption Mastery"
+    },
+    "PassiveSkillEffectGroupId": 53601,
+    "ResourceId": 53601,
     "PassiveSkillCategoryType": 4
   }
 ]

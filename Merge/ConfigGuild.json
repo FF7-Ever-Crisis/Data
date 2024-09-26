@@ -3,31 +3,31 @@
     "Id": 1,
     "GuildNameDefault": {
       "Ja": "GUILD",
-      "En": "(ギルド系テキスト)"
+      "En": "Guild"
     },
     "GuildIntroductionDefault": {
       "Ja": "よろしくお願いします！",
-      "En": "(ギルド系テキスト)"
+      "En": "Welcome!"
     },
     "GuildMessageDefault": {
       "Ja": "よろしくお願いします！",
-      "En": "(ギルド系テキスト)"
+      "En": "Welcome!"
     },
     "GuildExpTitle": {
       "Ja": "ギルド経験値",
-      "En": "(ギルド系テキスト)"
+      "En": "Guild EXP"
     },
     "GuildExpDescription": {
       "Ja": "ギルドのレベルアップに必要な経験値です。",
-      "En": "(ギルド系テキスト)"
+      "En": "Raises the level of a guild."
     },
     "GuildBonusExpTitle": {
       "Ja": "ギルドボーナスポイント",
-      "En": "(ギルド系テキスト)"
+      "En": "Guild Bonus Points"
     },
     "GuildBonusExpDescription": {
       "Ja": "ギルドボーナスの解放や強化に必要なポイントです。",
-      "En": "(ギルド系テキスト)"
+      "En": "Used to unlock and enhance guild bonuses."
     },
     "GuildDefaultEmblemGuildItemId": 200001,
     "GuildDefaultHomeBackgroundGuildItemId": 400001,
@@ -40,9 +40,8 @@
     "GuildWatchListCountMax": 20,
     "GuildDefaultReleaseGuildBonusId": 1,
     "GuildSubMasterMaxMemberCount": 4,
-    "GuildRankingBattleChallengeCloseBeforeEndOffsetMinutes": 0,
-    "GuildAutoEnergyShareResetId": 1,
-    "GuildPenaltyReceivedLeaveCount": 0,
-    "GuildPenaltyReceivedLeaveCountResetId": 18
+    "GuildPenaltyReceivedLeaveCount": 2,
+    "GuildPenaltyReceivedLeaveCountResetId": 25,
+    "UserGuildExpResetId": 26
   }
 ]

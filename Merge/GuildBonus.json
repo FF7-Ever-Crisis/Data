@@ -2,15 +2,57 @@
   {
     "Id": 1,
     "Name": {
-      "Ja": "",
-      "En": ""
+      "Ja": "チョコボ",
+      "En": "Chocobos"
     },
     "Title": {
-      "Ja": "",
-      "En": ""
+      "Ja": "チョコボ遠征ボーナス",
+      "En": "Expedition Bonus"
     },
-    "GuildBonusType": 5,
+    "GuildBonusType": 2,
     "GuildBonusLevelGroupId": 1,
     "GuildBonusEffectGroupId": 1
+  },
+  {
+    "Id": 2,
+    "Name": {
+      "Ja": "マテリア",
+      "En": "Materia"
+    },
+    "Title": {
+      "Ja": "マテリア合成ボーナス",
+      "En": "Synthesis Bonus"
+    },
+    "GuildBonusType": 5,
+    "GuildBonusLevelGroupId": 2,
+    "GuildBonusEffectGroupId": 2
+  },
+  {
+    "Id": 3,
+    "Name": {
+      "Ja": "バトル",
+      "En": "Battles"
+    },
+    "Title": {
+      "Ja": "強化・育成ボーナス",
+      "En": "Enhancement/Training Bonus"
+    },
+    "GuildBonusType": 6,
+    "GuildBonusLevelGroupId": 3,
+    "GuildBonusEffectGroupId": 3
+  },
+  {
+    "Id": 4,
+    "Name": {
+      "Ja": "ハイウインド",
+      "En": "Highwind"
+    },
+    "Title": {
+      "Ja": "ハイウインドボーナス",
+      "En": "Highwind Bonus"
+    },
+    "GuildBonusType": 7,
+    "GuildBonusLevelGroupId": 4,
+    "GuildBonusEffectGroupId": 4
   }
 ]

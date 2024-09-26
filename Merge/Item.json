@@ -143,7 +143,7 @@
     },
     "ItemType": 13,
     "ItemRarityType": 0,
-    "MaxCapacity": 200,
+    "MaxCapacity": 400,
     "ResourceId": 7,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
@@ -990,6 +990,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 49,
+    "Name": {
+      "Ja": "ギルドメダル",
+      "En": "Guild Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「ギルド交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Guild Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 49,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1001,
     "Name": {
       "Ja": "クラウド専用ウェポンパーツ",
@@ -1135,6 +1157,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1007,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008,
+    "Name": {
+      "Ja": "ヴィンセント専用ウェポンパーツ",
+      "En": "Vincent-Specific Weapon Part"
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「ヴィンセント」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Vincent's weapons</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -1408,6 +1452,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 2008,
+    "Name": {
+      "Ja": "ヴィンセントのメモリー",
+      "En": "Vincent's Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「ヴィンセント」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Vincent's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2020,
     "Name": {
       "Ja": "ザックスのメモリー",
@@ -1663,6 +1729,28 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 2107,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2108,
+    "Name": {
+      "Ja": "ヴィンセントのノーブルメモリー",
+      "En": "Vincent's Noble Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「ヴィンセント」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Vincent's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2108,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -1949,6 +2037,28 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 3103,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 3106,
+    "Name": {
+      "Ja": "ラムウのノーブルメモリー",
+      "En": "Ramuh's Noble Memory"
+    },
+    "Description": {
+      "Ja": "召喚獣ストリームのマス解放に必要。\n<command_color=common_03>「ラムウ」の召喚獣ストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Ramuh's summon stream</color> nodes."
+    },
+    "ItemType": 3,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 3106,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -3461,7 +3571,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3483,7 +3593,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3505,7 +3615,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3527,7 +3637,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3549,7 +3659,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3571,7 +3681,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3593,7 +3703,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3615,7 +3725,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3637,7 +3747,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3659,7 +3769,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3681,7 +3791,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3703,7 +3813,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3725,7 +3835,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3747,7 +3857,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3769,7 +3879,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3791,7 +3901,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3813,7 +3923,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3835,7 +3945,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3857,7 +3967,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3879,7 +3989,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3901,7 +4011,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3923,7 +4033,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3945,7 +4055,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3967,7 +4077,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -3989,7 +4099,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4011,7 +4121,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4033,7 +4143,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4055,7 +4165,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4077,7 +4187,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4099,7 +4209,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4121,7 +4231,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4143,7 +4253,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4165,7 +4275,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4187,7 +4297,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4209,7 +4319,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4231,7 +4341,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 3,
@@ -4253,7 +4363,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4275,7 +4385,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4297,7 +4407,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4319,7 +4429,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4341,7 +4451,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4363,7 +4473,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4385,7 +4495,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4407,7 +4517,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4429,7 +4539,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4451,7 +4561,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4473,7 +4583,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4495,7 +4605,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4517,7 +4627,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4539,7 +4649,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4561,7 +4671,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4583,7 +4693,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4605,7 +4715,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4627,7 +4737,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4649,7 +4759,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4671,7 +4781,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4693,7 +4803,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4715,7 +4825,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4737,7 +4847,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4759,7 +4869,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -4771,6 +4881,50 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16617,
+    "Name": {
+      "Ja": "緑の溶岩石",
+      "En": "Green Lava Stone"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16617,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16618,
+    "Name": {
+      "Ja": "開拓地の灰",
+      "En": "Outpost Ashes"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16618,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-10T01:59:59+00:00",
     "OrderNo": 0
   },
   {
@@ -5148,6 +5302,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 21012,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 21013,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -5280,6 +5478,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 22013,
+    "Name": {
+      "Ja": "武器レベル上限解放素材選択ボックス II",
+      "En": "Custom Box - Wpn. LV Uncap II"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 22003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22501,
     "Name": {
       "Ja": "ブルークリスタル抽選ボックス",
@@ -5337,6 +5557,116 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999,
     "ResourceId": 22006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22504,
+    "Name": {
+      "Ja": "300日記念抽選ボックス",
+      "En": "Lottery Box - 300 Days Since Release"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22505,
+    "Name": {
+      "Ja": "ラムウEX追加記念★5武器抽選ボックス",
+      "En": "Lottery Box - Ramuh EX Arrival 5★ Weapon"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22506,
+    "Name": {
+      "Ja": "1st Anniversaryカウントダウン抽選ボックス\t",
+      "En": "Lottery Box - 1st Anniv. Countdown"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22507,
+    "Name": {
+      "Ja": "1st Anniversary抽選ボックス        ",
+      "En": "Lottery Box - 1st Anniversary"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22508,
+    "Name": {
+      "Ja": "900万DL記念抽選ボックス",
+      "En": "Lottery Box - 9 Million DL Celebration"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -5431,6 +5761,204 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-03-28T02:00:00+00:00",
     "EndDatetime": "2024-04-24T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38011,
+    "Name": {
+      "Ja": "欠けた力の刻印石",
+      "En": "Lesser Power Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 38011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38012,
+    "Name": {
+      "Ja": "力の刻印石",
+      "En": "Power Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999,
+    "ResourceId": 38012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38013,
+    "Name": {
+      "Ja": "高貴な力の刻印石",
+      "En": "Greater Power Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 38013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38021,
+    "Name": {
+      "Ja": "欠けた魔力の刻印石",
+      "En": "Lesser Magic Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 38021,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38022,
+    "Name": {
+      "Ja": "魔力の刻印石",
+      "En": "Magic Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999,
+    "ResourceId": 38022,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38023,
+    "Name": {
+      "Ja": "高貴な魔力の刻印石",
+      "En": "Greater Magic Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 38023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38031,
+    "Name": {
+      "Ja": "欠けた体力の刻印石",
+      "En": "Lesser Stamina Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 38031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38032,
+    "Name": {
+      "Ja": "体力の刻印石",
+      "En": "Stamina Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999,
+    "ResourceId": 38032,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 38033,
+    "Name": {
+      "Ja": "高貴な体力の刻印石",
+      "En": "Greater Stamina Branding Stone"
+    },
+    "Description": {
+      "Ja": "刻印に必要なアイテムです。\n刻印することで武器に<command_color=common_03>ランダムな効果を付加</color>します。",
+      "En": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    "ItemType": 38,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 38033,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
   {
@@ -6188,8 +6716,8 @@
       "En": "Premium Draw Ticket"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「リミットブレイクガチャ」「新武器PUガチャ」「コラボガチャ」</color>を引くことができるチケット。\n\n※<command_color=common_03>「リミットブレイクガチャ」「新武器PUガチャ」「コラボガチャ」</color>で「10回引く」を実行した場合、スタンプが押されます。\n\n※<command_color=common_03>「「モンスターハンター」コラボガチャ」</color>では本チケットは使用できません。",
-      "En": "Used to perform <command_color=common_03>Limit Break Draws</color>, <command_color=common_03>New Weapon Featured Draws</color> and <command_color=common_03>Crossover Draws</color>.\n\n*A x10 Draw in a <command_color=common_03>Limit Break Draw</color>, <command_color=common_03>New Weapon Featured Draw</color> or <command_color=common_03>Crossover Draw</color> will yield one or several stamps.\n\n*This ticket cannot be used in the <command_color=common_03>Monster Hunter Crossover Draws.</color>"
+      "Ja": "<command_color=common_03>「リミットブレイクガチャ」「新武器PUガチャ」「コラボガチャ」「復刻ガチャ」</color>を引くことができるチケット。\n\n※<command_color=common_03>「リミットブレイクガチャ」「新武器PUガチャ」「コラボガチャ」「復刻ガチャ」</color>で「10回引く」を実行した場合、スタンプが押されます。",
+      "En": "Used to perform <command_color=common_03>Limit Break Draws</color>, <command_color=common_03>New Weapon Featured Draws</color>, <command_color=common_03>Crossover Draw</color> or <command_color=common_03>Reawakened Draw</color>.\n\n*A x10 Draw in a <command_color=common_03>Limit Break Draw</color>, <command_color=common_03>New Weapon Featured Draw</color>, <command_color=common_03>Crossover Draw</color> or <command_color=common_03>Reawakened Draw</color> will yield one or several stamps."
     },
     "ItemType": 34,
     "ItemRarityType": 3,
@@ -6358,6 +6886,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 100039,
+    "Name": {
+      "Ja": "ヴィンセント武器確定ガチャチケット",
+      "En": "Vincent Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「ヴィンセント武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Vincent - Guaranteed Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 999,
+    "ResourceId": 100039,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100040,
+    "Name": {
+      "Ja": "ヴィンセント<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Vincent 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「ヴィンセント<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Vincent - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100040,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300001,
     "Name": {
       "Ja": "2023ウインターメダル",
@@ -6371,6 +6943,72 @@
     "ItemRarityType": 3,
     "MaxCapacity": 999,
     "ResourceId": 300001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300002,
+    "Name": {
+      "Ja": "アルティメットメダル",
+      "En": "Ultimate Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「メダル交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Medal Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300003,
+    "Name": {
+      "Ja": "バハムートチョコボメダル",
+      "En": "Bahamut Chocobo Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「バハムートチョコボメダル交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Bahamut Chocobo Medal Exchange</color>."
+    },
+    "ItemType": 17,
+    "ItemRarityType": 3,
+    "MaxCapacity": 0,
+    "ResourceId": 300003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300004,
+    "Name": {
+      "Ja": "1st Anniversary記念ウェア交換券",
+      "En": "1st Anniv. Gear Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「1st Anniversary記念ウェア交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>1st Anniv. Gear Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300004,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -6574,6 +7212,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001013,
+    "Name": {
+      "Ja": "釘バット・パーツ",
+      "En": "Nail Bat Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「釘バット」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Nail Bat</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -6842,6 +7502,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1001036,
+    "Name": {
+      "Ja": "バハムート大剣・パーツ",
+      "En": "Bahamut Greatsword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バハムート大剣」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Bahamut Greatsword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001036,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001037,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1002001,
     "Name": {
       "Ja": "ガトリングガン・パーツ",
@@ -7106,6 +7810,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1002020,
+    "Name": {
+      "Ja": "ロケットパンチ・パーツ",
+      "En": "Rocket Punch Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ロケットパンチ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Rocket Punch</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1002020,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1002021,
+    "Name": {
+      "Ja": "シャークプランジャー・パーツ",
+      "En": "Sharkslayer Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シャークプランジャー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Sharkslayer</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1002021,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-11T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1002022,
     "Name": {
       "Ja": "シヴァランチャー・パーツ",
@@ -7185,6 +7933,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1002027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1002031,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -7344,6 +8114,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003014,
+    "Name": {
+      "Ja": "軍手・パーツ",
+      "En": "Work Gloves Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「軍手」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Work Gloves</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -7590,6 +8382,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 1003033,
+    "Name": {
+      "Ja": "シェルナックル・パーツ",
+      "En": "Shell Knuckles Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シェルナックル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Shell Knuckles</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003033,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-11T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003034,
+    "Name": {
+      "Ja": "シキジングローブ・パーツ",
+      "En": "Steward Gloves Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シキジングローブ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Steward Gloves</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003034,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-08T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003037,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1004001,
     "Name": {
       "Ja": "ガードロッド・パーツ",
@@ -7832,6 +8690,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1004016,
+    "Name": {
+      "Ja": "アンブレラ・パーツ",
+      "En": "Umbrella Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「アンブレラ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Umbrella</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004016,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1004019,
     "Name": {
       "Ja": "チョコボステッキ・パーツ",
@@ -8004,6 +8884,94 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-06-20T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004027,
+    "Name": {
+      "Ja": "ヘルハウスロッド・パーツ",
+      "En": "Hell House Rod Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ヘルハウスロッド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Hell House Rod</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-11T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004028,
+    "Name": {
+      "Ja": "シトラスワンド・パーツ",
+      "En": "Citric Wand Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シトラスワンド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Citric Wand</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004028,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-31T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004029,
+    "Name": {
+      "Ja": "バハムートロッド・パーツ",
+      "En": "Bahamut Rod Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バハムートロッド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Bahamut Rod</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004029,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004030,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -8294,6 +9262,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1005027,
+    "Name": {
+      "Ja": "ヘッドホン・パーツ",
+      "En": "Headphones Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ヘッドホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Headphones</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1005027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1005028,
     "Name": {
       "Ja": "シーサイドカラー・パーツ",
@@ -8400,6 +9390,50 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-04-25T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1005035,
+    "Name": {
+      "Ja": "シキジンカラー・パーツ",
+      "En": "Steward Collar Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シキジンカラー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Steward Collar</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1005035,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-08T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1005036,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -8668,6 +9702,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1006016,
+    "Name": {
+      "Ja": "バンブーリング・パーツ",
+      "En": "Bamboo Ring Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バンブーリング」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Bamboo Ring</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006016,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1006022,
     "Name": {
       "Ja": "チャリオットホイール・パーツ",
@@ -8730,6 +9786,72 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-06-27T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1006027,
+    "Name": {
+      "Ja": "サボうちわ・パーツ",
+      "En": "Cactuar Fan Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「サボうちわ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Cactuar Fan</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-31T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1006028,
+    "Name": {
+      "Ja": "バハムートカッター・パーツ",
+      "En": "Bahamut Cutter Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バハムートカッター」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Bahamut Cutter</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006028,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1006029,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -8910,6 +10032,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1007011,
+    "Name": {
+      "Ja": "法螺貝・パーツ",
+      "En": "Trumpet Shell Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「法螺貝」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Trumpet Shell</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1007014,
     "Name": {
       "Ja": "マーチングラッパ・パーツ",
@@ -8994,6 +10138,380 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-05-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007025,
+    "Name": {
+      "Ja": "花火メガホン・パーツ",
+      "En": "Fireworks Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「花火メガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Fireworks Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007025,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-31T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007026,
+    "Name": {
+      "Ja": "アルバメガホン・パーツ",
+      "En": "Alba Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「アルバメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Alba Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007026,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007028,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007029,
+    "Name": {
+      "Ja": "クイナメガホン・パーツ",
+      "En": "Quina Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「クイナメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Quina Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007029,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-22T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008002,
+    "Name": {
+      "Ja": "キャスパリーグ・パーツ",
+      "En": "Cath Palug Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「キャスパリーグ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Cath Palug</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008003,
+    "Name": {
+      "Ja": "ギルデッドエイジ・パーツ",
+      "En": "Gilded Age Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ギルデッドエイジ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Gilded Age</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008004,
+    "Name": {
+      "Ja": "S1976C・パーツ",
+      "En": "S1976C Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「S1976C」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>S1976C</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008005,
+    "Name": {
+      "Ja": "ランダル・パーツ",
+      "En": "Shortbarrel Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ランダル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Shortbarrel</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008007,
+    "Name": {
+      "Ja": "T03 model.N・パーツ",
+      "En": "T03 Model N Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「T03 model.N」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>T03 Model N</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008007,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008008,
+    "Name": {
+      "Ja": "GSソードオフ・パーツ",
+      "En": "Sawed-Off GS Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「GSソードオフ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Sawed-Off GS</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008009,
+    "Name": {
+      "Ja": "ケイローン・パーツ",
+      "En": "Chiron Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ケイローン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Chiron</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008009,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008010,
+    "Name": {
+      "Ja": "ダブルステムE・パーツ",
+      "En": "Double Stem E Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ダブルステムE」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Double Stem E</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008010,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008012,
+    "Name": {
+      "Ja": "ホワイトドッグ・パーツ",
+      "En": "White Dog Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ホワイトドッグ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>White Dog</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008014,
+    "Name": {
+      "Ja": "銀玉鉄砲・パーツ",
+      "En": "Silver Rifle Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「銀玉鉄砲」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Silver Rifle</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008015,
+    "Name": {
+      "Ja": "フギンムニン・パーツ",
+      "En": "Hugin & Munin Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「フギンムニン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Hugin & Munin</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008015,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-31T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008017,
+    "Name": {
+      "Ja": "クイックシルバー・パーツ",
+      "En": "Quicksilver Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「クイックシルバー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Quicksilver</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008017,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008019,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -9240,6 +10758,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1020013,
+    "Name": {
+      "Ja": "ブーケ・パーツ",
+      "En": "Bouquet Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ブーケ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Bouquet</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1020014,
     "Name": {
       "Ja": "プレッシャーリッジ・パーツ",
@@ -9412,6 +10952,72 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1020025,
+    "Name": {
+      "Ja": "アルバブレイド・パーツ",
+      "En": "Alba Blade Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「アルバブレイド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Alba Blade</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020025,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1020026,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1020027,
+    "Name": {
+      "Ja": "ベアトリクスソード・パーツ",
+      "En": "Beatrix Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ベアトリクスソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Beatrix Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-15T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -9680,6 +11286,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1049013,
+    "Name": {
+      "Ja": "世界樹の枝・パーツ",
+      "En": "World Tree Bough Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「世界樹の枝」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>World Tree Bough</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1049015,
     "Name": {
       "Ja": "冥き飛翔・パーツ",
@@ -9830,6 +11458,72 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-05-31T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049024,
+    "Name": {
+      "Ja": "ブルーブランブル・パーツ",
+      "En": "Blue Bramble Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ブルーブランブル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Blue Bramble</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049024,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-08T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049026,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1049027,
+    "Name": {
+      "Ja": "魔晄の貴石（源氏の刀）",
+      "En": "Mako Gem (Genji Blade)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -10054,6 +11748,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1050014,
+    "Name": {
+      "Ja": "ピコピコハンマー・パーツ",
+      "En": "Squeaky Hammer Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ピコピコハンマー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Squeaky Hammer</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1050014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1050015,
     "Name": {
       "Ja": "イフリートグレイブ・パーツ",
@@ -10226,6 +11942,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-06-13T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1050024,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -10472,6 +12210,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1051013,
+    "Name": {
+      "Ja": "ソフトチャンバラ・パーツ",
+      "En": "Foam Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ソフトチャンバラ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Foam Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1051013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1051014,
     "Name": {
       "Ja": "シヴァストリッシャー・パーツ",
@@ -10622,6 +12382,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-06-27T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1051024,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -10824,6 +12606,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1052013,
+    "Name": {
+      "Ja": "ナイトジャー・パーツ",
+      "En": "Nightjar Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ナイトジャー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Nightjar</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1052013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-08T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1052014,
+    "Name": {
+      "Ja": "輪ゴム銃・パーツ",
+      "En": "Rubber Band Gun Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「輪ゴム銃」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Rubber Band Gun</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1052014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1052015,
     "Name": {
       "Ja": "フェザースキャッタ・パーツ",
@@ -11018,6 +12844,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-06-27T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1052026,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -11283,6 +13131,138 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-06-27T02:00:00+00:00",
     "EndDatetime": "2024-07-06T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020091,
+    "Name": {
+      "Ja": "討伐ガチャチケット",
+      "En": "Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「復刻 強敵襲来 ヘルハウス討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 39,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-11T02:00:00+00:00",
+    "EndDatetime": "2024-08-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020092,
+    "Name": {
+      "Ja": "討伐ガチャチケット・銀",
+      "En": "Silver Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「復刻 強敵襲来 ヘルハウス討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Silver Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 40,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-11T02:00:00+00:00",
+    "EndDatetime": "2024-08-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020093,
+    "Name": {
+      "Ja": "討伐ガチャチケット・金",
+      "En": "Gold Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「復刻 強敵襲来 ヘルハウス討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Gold Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 41,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-22T02:00:00+00:00",
+    "EndDatetime": "2024-08-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020101,
+    "Name": {
+      "Ja": "討伐ガチャチケット",
+      "En": "Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「ベヒーモス・シキジン討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020101,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-08T02:00:00+00:00",
+    "EndDatetime": "2024-08-24T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020102,
+    "Name": {
+      "Ja": "討伐ガチャチケット・銀",
+      "En": "Silver Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「ベヒーモス・シキジン討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Silver Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020102,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-08T02:00:00+00:00",
+    "EndDatetime": "2024-08-24T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020103,
+    "Name": {
+      "Ja": "討伐ガチャチケット・金",
+      "En": "Gold Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「ベヒーモス・シキジン討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Gold Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020103,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-15T02:00:00+00:00",
+    "EndDatetime": "2024-08-24T01:59:59+00:00",
     "OrderNo": 0
   },
   {
@@ -11569,6 +13549,226 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-07-08T02:00:00+00:00",
     "EndDatetime": "2024-07-24T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030121,
+    "Name": {
+      "Ja": "はちまき",
+      "En": "Headband"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030121,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-31T02:00:00+00:00",
+    "EndDatetime": "2024-08-22T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030122,
+    "Name": {
+      "Ja": "赤の花火",
+      "En": "Red Fireworks"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030122,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-31T02:00:00+00:00",
+    "EndDatetime": "2024-08-22T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030123,
+    "Name": {
+      "Ja": "青の花火",
+      "En": "Blue Fireworks"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030123,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-31T02:00:00+00:00",
+    "EndDatetime": "2024-08-22T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030131,
+    "Name": {
+      "Ja": "黒い羽根",
+      "En": "Black Feather"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 36,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-15T02:00:00+00:00",
+    "EndDatetime": "2024-09-09T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030132,
+    "Name": {
+      "Ja": "ペリドット",
+      "En": "Peridot"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 37,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-15T02:00:00+00:00",
+    "EndDatetime": "2024-09-09T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030133,
+    "Name": {
+      "Ja": "アクアマリン",
+      "En": "Aquamarine"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 38,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-15T02:00:00+00:00",
+    "EndDatetime": "2024-09-09T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030141,
+    "Name": {
+      "Ja": "リベンジメダル",
+      "En": "Vengeance Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 48,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-08-29T02:00:00+00:00",
+    "EndDatetime": "2024-09-09T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030151,
+    "Name": {
+      "Ja": "アルバの角",
+      "En": "Alba's Horn"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030151,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030152,
+    "Name": {
+      "Ja": "アルバの爪",
+      "En": "Alba's Claw"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030152,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030153,
+    "Name": {
+      "Ja": "アルバの鱗",
+      "En": "Alba's Scale"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「イベント交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Event Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030153,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-10T01:59:59+00:00",
     "OrderNo": 0
   },
   {
@@ -11931,7 +14131,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -11953,7 +14153,7 @@
     },
     "Description": {
       "Ja": "チョコボ遠征での探索の証。",
-      "En": "Proof of exploration on an expedition."
+      "En": "Proof of exploration on a chocobo expedition."
     },
     "ItemType": 28,
     "ItemRarityType": 4,
@@ -11965,6 +14165,160 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-05-31T02:00:00+00:00",
     "EndDatetime": "2024-07-03T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130011,
+    "Name": {
+      "Ja": "異形の蹂躙武器交換券（<sprite=\"tmp_icon\" index=5>）",
+      "En": "Chaos of the Corrupted Weapon Voucher (<sprite=\"tmp_icon\" index=5>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「異形の蹂躙交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Chaos of the Corrupted Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-30T19:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130012,
+    "Name": {
+      "Ja": "異形の蹂躙武器交換券（<sprite=\"tmp_icon\" index=135>）",
+      "En": "Chaos of the Corrupted Weapon Voucher (<sprite=\"tmp_icon\" index=135>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「異形の蹂躙交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Chaos of the Corrupted Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-30T19:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130013,
+    "Name": {
+      "Ja": "異形の蹂躙武器交換券（<sprite=\"tmp_icon\" index=133>）",
+      "En": "Chaos of the Corrupted Weapon Voucher (<sprite=\"tmp_icon\" index=133>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「異形の蹂躙交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Chaos of the Corrupted Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-30T19:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130014,
+    "Name": {
+      "Ja": "異形の蹂躙武器交換券（<sprite=\"tmp_icon\" index=131>）",
+      "En": "Chaos of the Corrupted Weapon Voucher (<sprite=\"tmp_icon\" index=131>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「異形の蹂躙交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Chaos of the Corrupted Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-30T19:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130015,
+    "Name": {
+      "Ja": "異形の蹂躙武器交換券（<sprite=\"tmp_icon\" index=130>）",
+      "En": "Chaos of the Corrupted Weapon Voucher (<sprite=\"tmp_icon\" index=130>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「異形の蹂躙交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Chaos of the Corrupted Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130015,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-30T19:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130016,
+    "Name": {
+      "Ja": "異形の蹂躙武器交換券（<sprite=\"tmp_icon\" index=129>）",
+      "En": "Chaos of the Corrupted Weapon Voucher (<sprite=\"tmp_icon\" index=129>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「異形の蹂躙交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Chaos of the Corrupted Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130016,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-30T19:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130017,
+    "Name": {
+      "Ja": "異形の蹂躙武器交換券（<sprite=\"tmp_icon\" index=136>）",
+      "En": "Chaos of the Corrupted Weapon Voucher (<sprite=\"tmp_icon\" index=136>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「異形の蹂躙交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Chaos of the Corrupted Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130017,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-09-07T02:00:00+00:00",
+    "EndDatetime": "2024-10-30T19:59:59+00:00",
     "OrderNo": 0
   }
 ]

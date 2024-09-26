@@ -348,7 +348,7 @@
     },
     "TutorialPopupGroupId": 2010001,
     "Seq": 2,
-    "ResourceId": 201000103
+    "ResourceId": 201000102
   },
   {
     "Title": {
@@ -361,7 +361,7 @@
     },
     "TutorialPopupGroupId": 2010001,
     "Seq": 3,
-    "ResourceId": 201000102
+    "ResourceId": 201000103
   },
   {
     "Title": {
@@ -417,8 +417,8 @@
   },
   {
     "Title": {
-      "Ja": "R（ライズ）アビリティは常に効果を発揮するアビリティです。\nメイン武器、アビリティ武器、サブ装備を装備することで使えます。",
-      "En": "R. abilities (Reinforcement abilities) have passive benefits that are always in \neffect when equipped with a main weapon, ability weapon, or sub weapon."
+      "Ja": "R（ライズ）アビリティは常に効果を発揮するアビリティです。\n各種武器やウェアを装備することで効果を発揮します。",
+      "En": "R. abilities (Reinforcement abilities) have passive benefits that are always \nin effect when equipped with various types of weapons and Gear."
     },
     "Description": {
       "Ja": "",
@@ -443,8 +443,8 @@
   },
   {
     "Title": {
-      "Ja": "装備のより詳しい説明はヘルプから確認ください。",
-      "En": "Further equipment details can be viewed from Help."
+      "Ja": "ビジュアル変更機能を使うことでメイン装備の設定にかかわらず\nウェアと武器の見た目を設定することができます。",
+      "En": "You can change the appearance of your gear and weapons regardless of your main weapon settings."
     },
     "Description": {
       "Ja": "",
@@ -456,8 +456,21 @@
   },
   {
     "Title": {
-      "Ja": "「バトル」に設定されたウェアは、\n見た目とRアビリティが反映されます。",
-      "En": "When gear is set for \"Battle\", its appearance\nand the R. ability will be reflected."
+      "Ja": "装備のより詳しい説明はヘルプから確認ください。",
+      "En": "Further equipment details can be viewed from Help."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2011001,
+    "Seq": 8,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "装備されたウェアは、\n見た目とRアビリティが反映されます。",
+      "En": "When gear is equipped, its appearance\nand the R. ability will be reflected."
     },
     "Description": {
       "Ja": "",
@@ -508,7 +521,7 @@
   },
   {
     "Title": {
-      "Ja": "ガチャなどで重複して獲得した武器は\n「保管庫」で確認できます。",
+      "Ja": "ガチャなどで重複して獲得した武器は\n「武器保管庫」で確認できます。",
       "En": "Duplicate weapons obtained from draws \ncan be viewed at the armory."
     },
     "Description": {
@@ -534,8 +547,8 @@
   },
   {
     "Title": {
-      "Ja": "保管庫内の武器はレアリティアップや\n限界突破に使用する武器固有パーツに変換できます。",
-      "En": "Weapons in the armory can be converted to\nWeapon-specific Parts used to upgrade rarity or to Overboost."
+      "Ja": "武器保管庫内の武器はレアリティアップや\n限界突破に使用する武器変換アイテムに変換できます。",
+      "En": "Weapons in the armory can be converted into\nitems used to level boost or upgrade the rarity of weapons."
     },
     "Description": {
       "Ja": "",
@@ -1357,8 +1370,8 @@
       "En": "Criterion Dungeon Battles"
     },
     "Description": {
-      "Ja": "シンボルに触れると、ボスとのバトルが開始します。\nアナザーダンジョンでは<command_color=common_03>バトル毎にダメージは回復せず、受けたダメージによって\nHPの最大値が減少</color>します。",
-      "En": "Touching a symbol will trigger a boss battle. \nNot only will <command_color=common_03>HP not be restored after each battle, but damage taken will also lower your max HP.</color>"
+      "Ja": "シンボルに触れると、ボスとのバトルが開始します。\nアナザーダンジョンでは<command_color=common_03>バトル毎にダメージは回復せず、受けたダメージによって\nHPの最大値が減少</color>します。\nまたUCアビリティの回数制限等もリセットされません。",
+      "En": "Touching a symbol will trigger a boss battle. \nNot only will <command_color=common_03>HP not be restored after each battle, but damage taken will also lower your max HP.</color>\nU. C. abilities used will not be reset."
     },
     "TutorialPopupGroupId": 2082001,
     "Seq": 1,
@@ -2185,6 +2198,253 @@
   },
   {
     "Title": {
+      "Ja": "ギルドについて",
+      "En": "Guilds"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ギルド」</color>が解放されました。\nギルドでは、<command_color=common_03>同じギルドのプレイヤー同士でチャット</color>ができ、\n<command_color=common_03>ギルドに所属することで受けられる恩恵</color>もあります。",
+      "En": "The <command_color=common_03>Guild</color> feature has been unlocked. Being part of a guild allows you to <command_color=common_03>chat with other guild members</color> and <command_color=common_03>receive certain perks</color>."
+    },
+    "TutorialPopupGroupId": 2240001,
+    "Seq": 1,
+    "ResourceId": 224000101
+  },
+  {
+    "Title": {
+      "Ja": "クリスタルを消費して、自分のギルドを設立できます。",
+      "En": "You can create your own guild by using crystals."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2241001,
+    "Seq": 1,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "すでに設立しているギルドに加入したい場合は、「ギルド検索」から\nギルドを探すことができます。",
+      "En": "To join a guild, use Guild Search to find a guild that suits your playstyle."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2241001,
+    "Seq": 2,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルドミッションには、達成するとギルド経験値、\nギルドボーナスポイントを獲得できるミッションがあります。",
+      "En": "There are guild missions that yield guild EXP and bonus points."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 1,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルド経験値、ギルドボーナスポイントはギルドメンバーが\n獲得した合算値となります。",
+      "En": "Guild EXP and bonus points are obtained by guild members."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 2,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "交換所では、ギルドの活動で獲得できるギルドメダルと\nアイテムを交換できます。",
+      "En": "Guild medals are obtained through guild activities. \nYou can trade these medals and items at the exchange."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 3,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "掲示板ではギルドメンバーへのメッセージが確認できます。\nギルドマスターとサブマスターは掲示板の編集が可能です。",
+      "En": "Guild messages are posted in Announcements and\ncan be edited by the guildmaster or submasters."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 4,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルドメニューからギルドメンバーやアチーブメントを確認できます。",
+      "En": "From the guild menu, you can view the guild roster and various achievements."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 5,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルドマスターとサブマスターはギルド名、マーク、背景の変更や\nギルドの検索される条件の設定を変更することができます。",
+      "En": "The guildmaster and submasters can change the guild's name,\nemblem, wallpaper, and search conditions."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 6,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルドボーナスはギルドに所属することで\n自動的に受けられる効果です。",
+      "En": "Guild bonuses are effects that are automatically granted to all members in the guild."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 7,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルドマスターとサブマスターはギルドボーナスポイントを\n消費して新たなボーナスの解放やレベルアップができます。",
+      "En": "The guildmaster and submasters can use guild bonus points to unlock and enhance bonuses."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 8,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルドに所属すると「チャット」ができ、メンバーとのやり取りの他に\nメンバーからのマルチバトルの招待を受け取れます。",
+      "En": "You can use the Chat feature to communicate with other guild members\nand receive co-op battle invitations."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 9,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "チャットパネルからはメッセージの送信やマルチ招待の受け取りは\nできませんが、ギルドメンバーのやり取りが常に確認できます。",
+      "En": "You can check the guild chat from the chat panel,\nbut cannot send messages or receive co-op invitations."
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "TutorialPopupGroupId": 2242001,
+    "Seq": 10,
+    "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ギルドバトルについて1",
+      "En": "Guild Battle 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ギルドバトル」</color>は<command_color=common_03>ギルドメンバーがイベント中に獲得したスコアの合計</color>で\nギルドのランキングが決まります。 \n<command_color=common_02>※ギルドバトルでは各プレイヤーが1日に挑戦できる回数が決まっています。</color>",
+      "En": "In <command_color=common_03>guild battles</color>, the guild ranking is determined by <command_color=common_03>the total score obtained by each guild</color> during the event.\n<command_color=common_02>*There is a limit to the guild battles each player can attempt in a single day.</color>"
+    },
+    "TutorialPopupGroupId": 2243001,
+    "Seq": 1,
+    "ResourceId": 224300101
+  },
+  {
+    "Title": {
+      "Ja": "ギルドバトルについて2",
+      "En": "Guild Battle 2"
+    },
+    "Description": {
+      "Ja": "ギルドバトルのボスはHPが多く、<command_color=common_03>与えたダメージは次のバトルにも引き継ぎ</color>ます。\n <command_color=common_03>他のギルドメンバーが与えたダメージも反映</color>されます。",
+      "En": "Guild battle bosses have a massive amount of HP, and any damage dealt <command_color=common_03>will be carried over into the next battle</color>. \n<command_color=common_03>Damage dealt by other guild members</color> will also be reflected in the bosses' HP."
+    },
+    "TutorialPopupGroupId": 2243001,
+    "Seq": 2,
+    "ResourceId": 224300102
+  },
+  {
+    "Title": {
+      "Ja": "ギルドバトルについて3",
+      "En": "Guild Battle 3"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>ボスのHPを一定値まで削るとスコアボーナスを追加で獲得</color>できます。 \nボスが複数体いる場合は、合計HPを一定値まで削ることでスコアボーナスを獲得</color>できます。\n各バトルのボスを撃破することで<command_color=common_03>ギルドメンバー全員が「撃破報酬」を獲得できます。\n<command_color=common_02>※バトル内のボスが複数いる場合、すべてのボスを倒すことで撃破となります。</color>",
+      "En": "Depleting the boss's HP a set amount <command_color=common_03>will yield an additional score bonus</color>. \nFor battles with multiple bosses, depleting the <command_color=common_03>bosses' total HP a set amount</color> will yield a score bonus. \nDefeating the bosses in each battle <command_color=common_03>will yield rewards for all guild members.</color>\n<command_color=common_02>*If a battle has multiple bosses, all bosses must be defeated in order to earn the reward.</color>"
+    },
+    "TutorialPopupGroupId": 2243001,
+    "Seq": 3,
+    "ResourceId": 224300103
+  },
+  {
+    "Title": {
+      "Ja": "ギルドバトルについて4",
+      "En": "Guild Battle 4"
+    },
+    "Description": {
+      "Ja": "撃破したボスは<command_color=common_03>特定のタイミングで復活</color>します。\nまた、<command_color=common_03>すべてのボスを撃破することでもすべてのボスが復活</color>します。\n<command_color=common_02>※撃破されていないボスのHPは復活タイミングでも回復しません。</color>",
+      "En": "Defeated bosses are <command_color=common_03>revived at a certain time.</color> Defeating all of the bosses <command_color=common_03>will revive all bosses immediately</color>.\n<command_color=common_02>*The HP of undefeated bosses will not be restored when revived.</color>"
+    },
+    "TutorialPopupGroupId": 2243001,
+    "Seq": 4,
+    "ResourceId": 224300104
+  },
+  {
+    "Title": {
+      "Ja": "追加武装について",
+      "En": "Additional Equipment"
+    },
+    "Description": {
+      "Ja": "ギルドバトルでは通常のパーティ編成に加え、<command_color=common_03>「追加武装」を編成</color>できます。\n追加武装では余っている武器やウェアを編成し、<command_color=common_03>アビリティ威力を上昇</color>させることができます。\n武器やウェアにはそれぞれにポイントがあり、<command_color=common_03>ポイントの合計に応じて効果が上昇</color>します。（アルティメット武器は対象外です）\n<command_color=common_02>※武器のポイントは武器の強化状況で変動します。\n※キャラクターがすでに装備している装備は追加武装に編成できません。</color>",
+      "En": "Guild battles allow for the use of <command_color=common_03>additional equipment</color>, in which spare weapons and gear can be set to <command_color=common_03>increase the potency of abilities</color>.\n These weapons and gear have points, and <command_color=common_03>the effect is increased based on the point total</color>.\n(Ultimate weapons are not subject.)\n<command_color=common_02>*Weapon points vary based on weapon enhancements.\n*Characters' current equipment cannot be set as additional equipment.</color>"
+    },
+    "TutorialPopupGroupId": 2243001,
+    "Seq": 5,
+    "ResourceId": 224300105
+  },
+  {
+    "Title": {
+      "Ja": "模擬戦について",
+      "En": "Mock Battles"
+    },
+    "Description": {
+      "Ja": "ギルドバトルには<command_color=common_03>「模擬戦」</color>があり、スコアや報酬などは獲得できませんが、\n<command_color=common_03>挑戦回数を消費せずにバトルに挑戦</color>できます。\n<command_color=common_02>※戦術検討期間は模擬戦のみ挑戦できます。\n※模擬戦ではボスのHPはギルドメンバーには共有されません。</color>",
+      "En": "<command_color=common_03>Mock battles</color> do not yield scores or rewards, but allow players to <command_color=common_03>take on guild battles without using any attempts</color>.\n<command_color=common_02>*Only mock battles are available during the strategy period.\n*The bosses' HP in mock battles are not shared among guild members.</color>"
+    },
+    "TutorialPopupGroupId": 2243001,
+    "Seq": 6,
+    "ResourceId": 224300106
+  },
+  {
+    "Title": {
       "Ja": "ハイウインドについて",
       "En": "The Highwind"
     },
@@ -2263,6 +2523,123 @@
   },
   {
     "Title": {
+      "Ja": "アルティメット武器について1",
+      "En": "Ultimate Weapons 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>アルティメット武器</color>は新たな専用の装備枠がある武器です。\n編成画面からアルティメット武器を装備しましょう。\n<command_color=common_02>※アルティメット武器には、重複して獲得した際の成長要素はありません。</color>",
+      "En": "<command_color=common_03>Ultimate weapons</color> can be equipped in their dedicated weapons slots.\n<command_color=common_02>*Duplicates of ultimate weapons offer no additional enhancements.</color>"
+    },
+    "TutorialPopupGroupId": 2260001,
+    "Seq": 1,
+    "ResourceId": 226000101
+  },
+  {
+    "Title": {
+      "Ja": "アルティメット武器について2",
+      "En": "Ultimate Weapons 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>アルティメット武器</color>を装備すると、\nバトル中に<command_color=common_03>UCアビリティ</color>が使用可能になります。\nUCアビリティは<command_color=common_03>ATBゲージを消費しない</color>強力なアビリティです。\nUCアビリティはバトル画面の専用アイコンをタップすることで発動します。",
+      "En": "Equipping <command_color=common_03>ultimate weapons</color> allows the use of <command_color=common_03>U. C. abilities</color> in battle. These powerful abilities <command_color=common_03>do not consume ATB</color>. U. C. abilities can be unleashed by tapping the corresponding icons."
+    },
+    "TutorialPopupGroupId": 2260001,
+    "Seq": 2,
+    "ResourceId": 226000102
+  },
+  {
+    "Title": {
+      "Ja": "アルティメット武器について3",
+      "En": "Ultimate Weapons 3"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>UCアビリティ</color>は<command_color=common_03>回数制限</color>が設けられているほか、\n使用するには<command_color=common_03>チャージタイム</color>が必要です。",
+      "En": "<command_color=common_03>U. C. abilities</color> have a <command_color=common_03>limit</color> to the number of times they can be used and require <command_color=common_03>time to charge</color> before use."
+    },
+    "TutorialPopupGroupId": 2260001,
+    "Seq": 3,
+    "ResourceId": 226000103
+  },
+  {
+    "Title": {
+      "Ja": "アルティメット武器 装備枠解放",
+      "En": "Ultimate Weapon Slots Unlocked"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>アルティメット武器装備枠</color>が解放されました。\n獲得したアルティメット武器は<command_color=common_03>編成画面</color>のアルティメット武器装備枠から装備できます。\n装備できるアルティメット武器の種類はキャラクター毎に異なります。",
+      "En": "<command_color=common_03>Ultimate weapon slots</color> have been unlocked. Ultimate weapons can be equipped from the <command_color=common_03>character</color> screen. \nThe type of Ultimate Weapon that can be equipped varies depending on the character."
+    },
+    "TutorialPopupGroupId": 2261001,
+    "Seq": 1,
+    "ResourceId": 226100101
+  },
+  {
+    "Title": {
+      "Ja": "アルティメット武器の強化",
+      "En": "Enhancing Ultimate Weapons"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>アルティメット武器</color>に<command_color=common_03>レアリティアップや限界突破はありません</color>。\nアルティメット武器強化では所持しているアルティメット武器の強化ができます。\n",
+      "En": "Ultimate weapons <command_color=common_03>cannot be overboosted or have their rarity upgraded</color>, but can be strengthened through weapon enhancement."
+    },
+    "TutorialPopupGroupId": 2262001,
+    "Seq": 1,
+    "ResourceId": 226200101
+  },
+  {
+    "Title": {
+      "Ja": "刻印解放",
+      "En": "Brands Unlocked"
+    },
+    "Description": {
+      "Ja": "刻印は<command_color=common_03>「刻印石」</color>を使用して通常の武器やアルティメット武器に\nさらなる効果を付加できます。\n刻印は<command_color=common_03>武器強化画面</color>から行うことができます。",
+      "En": "<command_color=common_03>Branding stones</color> can be used to brand and apply additional effects to standard and ultimate weapons. Weapons can be branded through <command_color=common_03>weapon enhancement</color>."
+    },
+    "TutorialPopupGroupId": 2270001,
+    "Seq": 1,
+    "ResourceId": 227000101
+  },
+  {
+    "Title": {
+      "Ja": "刻印について1",
+      "En": "Brands 1"
+    },
+    "Description": {
+      "Ja": "武器強化画面から<command_color=common_03>刻印</color>を行うことで\n<command_color=common_03>武器にランダムな効果を付加</color>し強化することができます。\n刻印には<command_color=common_03>刻印石</color>を使用します。\n刻印石の種類によって付加される効果や確率が異なります。",
+      "En": "In the weapon enhancement screen, you can use <command_color=common_03>branding stones</color> to <command_color=common_03>brand</color> weapons and <command_color=common_03>apply random effects</color>. Odds and effect types differ with each type of branding stone."
+    },
+    "TutorialPopupGroupId": 2271001,
+    "Seq": 1,
+    "ResourceId": 227100101
+  },
+  {
+    "Title": {
+      "Ja": "刻印について2",
+      "En": "Brands 2"
+    },
+    "Description": {
+      "Ja": "刻印で付加される効果は、様々な種類の中から<command_color=common_03>１～３つまでランダムに抽選</color>されます。\nさらに、刻印済みの武器を<command_color=common_03>再刻印</color>することで、\n新たな効果に上書きすることができます。",
+      "En": "<command_color=common_03>Up to three random effects</color> can be applied at a time. Weapons can also be <command_color=common_03>rebranded</color> to overwrite any current effects."
+    },
+    "TutorialPopupGroupId": 2271001,
+    "Seq": 2,
+    "ResourceId": 227100102
+  },
+  {
+    "Title": {
+      "Ja": "再刻印について",
+      "En": "Rebranding Weapons"
+    },
+    "Description": {
+      "Ja": "再刻印では、<command_color=common_03>現在の効果と新しい効果のどちらかを選択</color>できます。\n効果を選択したあと、「再刻印」ボタンまたは「刻印を維持」ボタンをタップしてください。\n<command_color=common_03>新しい効果</color>を選択した場合は、刻印の効果が<command_color=common_03>上書き</color>されます。",
+      "En": "When rebranding a weapon, you can choose to <command_color=common_03>retain current effects or apply new ones</color> by selecting Retain or Rebrand. If you select <command_color=common_03>Rebrand</color>, all current effects will be <command_color=common_03>overwritten</color>."
+    },
+    "TutorialPopupGroupId": 2271001,
+    "Seq": 3,
+    "ResourceId": 227100103
+  },
+  {
+    "Title": {
       "Ja": "AUTO機能が使用できるようになりました。\nMANUALから切り替えて選択できます。",
       "En": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },
@@ -2276,8 +2653,8 @@
   },
   {
     "Title": {
-      "Ja": "SEMI：ATBゲージが最大になるとCアビリティを自動で発動\nAUTO：リミットブレイクを除き全て自動",
-      "En": "SEMI: Unleashes C. Abilities when ATB gauge is full\nAUTO: Performs all actions except Limit Breaks"
+      "Ja": "SEMI：ATBゲージが最大になるとCアビリティを自動で発動\nAUTO：全て自動操作　※Lアビリティの自動発動はオプションで切り替えられます。",
+      "En": "SEMI: Unleashes C. Abilities when ATB gauge is full\nAUTO: Performs all actions　*Auto-ability settings for L. abilities can be changed."
     },
     "Description": {
       "Ja": "",
@@ -2601,6 +2978,19 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「ROCK ARMOR」",
+      "En": "Force Gauge: Rock Armor"
+    },
+    "Description": {
+      "Ja": "フォースゲージは時間経過、および敵がアビリティを使用することでたまっていきます。\nフォースゲージがたまった時、<command_color=common_03>敵自身に物防アップ、魔防アップ、\n風耐性アップを付与するアビリティ</color>を使用します。\n敵に<command_color=common_03>風属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。",
+      "En": "The enemy's force gauge fills over time and as they use their abilities. When the gauge is full, they grant themselves <command_color=common_03>PDEF Up, MDEF Up, and Wind Resistance Up</color>. Dealing damage with <command_color=common_03>wind-element abilities</color> will deplete the gauge."
+    },
+    "TutorialPopupGroupId": 310000008,
+    "Seq": 1,
+    "ResourceId": 3100000081
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「MAKO CHARGE」",
       "En": "Force Gauge: Mako Charge"
     },
@@ -2731,6 +3121,19 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「METAL SKIN」",
+      "En": "Force Gauge: Metal Skin"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>敵に攻撃をヒットさせる</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると、<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の物理ダメージ耐性・魔法ダメージ耐性を大きく下げる</color>ことができます。",
+      "En": "The force gauge can be depleted by <command_color=common_03>landing attacks</color>. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time, and their <command_color=common_03>physical and magic damage resistance will be greatly reduced</color>."
+    },
+    "TutorialPopupGroupId": 310000022,
+    "Seq": 1,
+    "ResourceId": 3100000221
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「STABILITY」",
       "En": "Force Gauge: Stability"
     },
@@ -2754,5 +3157,57 @@
     "TutorialPopupGroupId": 310000024,
     "Seq": 1,
     "ResourceId": 3100000241
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「MODE CHANGE」",
+      "En": "Force Gauge: Mode Change"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにすると、<command_color=common_03>特性変異を発動し物理か魔法に特化した状態になります</color>。\n<command_color=common_03>フォースゲージ展開中に与えた物理ダメージ/魔法ダメージ量に応じて</color>、\n<command_color=common_03>発動する特性変異の種類が変化します</color>。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete its force gauge. When the gauge is fully depleted, it will <command_color=common_03>metamorphose into a physically or magically enhanced state</color> depending on the amount of <command_color=common_03>physical or magic damage taken while the force gauge is active</color>."
+    },
+    "TutorialPopupGroupId": 310000025,
+    "Seq": 1,
+    "ResourceId": 3100000251
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「HANABI」",
+      "En": "Force Gauge: Fireworks"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>炎属性威力</color>」が上昇している状態です。\n敵に<command_color=common_03>冷属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。",
+      "En": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>fire-element potency</color>. The gauge can be depleted by <command_color=common_03>dealing damage with ice-element abilities</color>. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    "TutorialPopupGroupId": 310000026,
+    "Seq": 1,
+    "ResourceId": 3100000261
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「OUTRAGE」",
+      "En": "Force Gauge: Outrage"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の物防・魔防を大きく下げる</color>ことができます。\nフォースゲージは<command_color=common_03>時間経過</color>でたまっていきます。",
+      "En": "The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time, and <command_color=common_03>their PDEF and MDEF will be greatly reduced</color>."
+    },
+    "TutorialPopupGroupId": 310000027,
+    "Seq": 1,
+    "ResourceId": 3100000271
+  },
+  {
+    "Title": {
+      "Ja": "状態異常【恐怖】",
+      "En": "Status Ailment: Dread"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>恐怖が付与されているキャラクターの数</color>に応じて、\n<command_color=common_03>アタックシフトのコマンドゲージの上昇速度が低下</color>します。\nまた、恐怖中は<command_color=common_03>アタックシフトのダメージ上昇、サイン破壊数増加の効果が発揮されません</color>。\n<command_color=common_03>アタックシフトのコマンドゲージが最大になると、恐怖は解除</color>されます。",
+      "En": "Depending on the number of characters afflicted with <command_color=common_03>dread</color>, <command_color=common_03>the speed at which the command gauge increases in Attack Stance will slow</color>. While afflicted, <command_color=common_03>Attack Stance perks</color> that boost damage and the amount of sigils destroyed <command_color=common_03>will be inactive</color>. Dread is canceled <command_color=common_03>when the command gauge is maxed out</color> in Attack Stance."
+    },
+    "TutorialPopupGroupId": 320000001,
+    "Seq": 1,
+    "ResourceId": 3200000011
   }
 ]

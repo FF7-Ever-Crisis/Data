@@ -10,11 +10,11 @@
         },
         {
             "id": 504003,
-            "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Extended: +{5}s]"
+            "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Ext.: +{5}s]"
         },
         {
             "id": 504004,
-            "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Extended: +{5}s]"
+            "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Ext.: +{5}s]"
         },
         {
             "id": 504005,
@@ -46,7 +46,7 @@
         },
         {
             "id": 504012,
-            "value": "When {0}'s HP is {1}, "
+            "value": "When{0}'s HP is {1}, "
         },
         {
             "id": 504013,
@@ -174,7 +174,7 @@
         },
         {
             "id": 504055,
-            "value": "{0}{3} is removed{2}{1}."
+            "value": "{0}Removes {3}{2}{1}."
         },
         {
             "id": 504056,
@@ -274,23 +274,23 @@
         },
         {
             "id": 504100,
-            "value": " [Range: Single Ally]"
+            "value": " [Rng.: Single Ally]"
         },
         {
             "id": 504101,
-            "value": " [Range: All Allies]"
+            "value": " [Rng.: All Allies]"
         },
         {
             "id": 504102,
-            "value": " [Range: Single Enemy]"
+            "value": " [Rng.: Single Enemy]"
         },
         {
             "id": 504103,
-            "value": " [Range: All Enemies]"
+            "value": " [Rng.: All Enemies]"
         },
         {
             "id": 504104,
-            "value": " [Range: Self]"
+            "value": " [Rng.: Self]"
         },
         {
             "id": 504105,
@@ -474,11 +474,11 @@
         },
         {
             "id": 504160,
-            "value": "{3} {0}'s {1} by {2}%"
+            "value": "{3} {0}'s {1} by {2}%."
         },
         {
             "id": 504161,
-            "value": "{3} {0}'s {1} with {3}"
+            "value": "{3} {0}'s {1} with {3}."
         },
         {
             "id": 504162,
@@ -506,27 +506,27 @@
         },
         {
             "id": 504168,
-            "value": "The lower your HP, the higher your potency (max: x{0})."
+            "value": "The lower your HP, the higher the ability pot. (max: x{0})."
         },
         {
             "id": 504169,
-            "value": "The higher your HP, the higher your potency (max: x{0})."
+            "value": "The higher your HP, the higher the ability pot. (max: x{0})."
         },
         {
             "id": 504170,
-            "value": "{0}{3} Command Gauge [Potency: {2}%] {1}"
+            "value": "{0}{3} Command Gauge [Pot.: {2}%] {1}"
         },
         {
             "id": 504171,
-            "value": "[Range: Affected Targets]"
+            "value": "[Rng.: Affected Targets]"
         },
         {
             "id": 504172,
-            "value": "{0}{5} {3} [Potency: {4}%] {2} {1}"
+            "value": "{0}{5} {3} [Pot.: {4}%] {2} {1}."
         },
         {
             "id": 504173,
-            "value": "{0}{5} {3} [Potency: {4}] {2} {1}"
+            "value": "{0}{5} {3} [Pot.: {4}] {2} {1}."
         },
         {
             "id": 504174,
@@ -547,6 +547,154 @@
         {
             "id": 504178,
             "value": "Reprieve"
+        },
+        {
+            "id": 504179,
+            "value": "The higher your PDEF, the higher your potency (max: x{0})."
+        },
+        {
+            "id": 504180,
+            "value": "The higher your MDEF, the higher your potency (max: x{0})."
+        },
+        {
+            "id": 504181,
+            "value": "The higher your PDEF and MDEF, the higher your potency (max: x{0})."
+        },
+        {
+            "id": 504182,
+            "value": "The lower your PDEF, the higher your potency (max: x{0})."
+        },
+        {
+            "id": 504183,
+            "value": "The lower your MDEF, the higher your potency (max: x{0})."
+        },
+        {
+            "id": 504184,
+            "value": "The lower your PDEF and MDEF, the higher your potency (max: x{0})."
+        },
+        {
+            "id": 504185,
+            "value": "Buff"
+        },
+        {
+            "id": 504186,
+            "value": "Debuff"
+        },
+        {
+            "id": 504187,
+            "value": "Stats Buff"
+        },
+        {
+            "id": 504188,
+            "value": "Status Buff"
+        },
+        {
+            "id": 504189,
+            "value": "Stats Debuff"
+        },
+        {
+            "id": 504190,
+            "value": "Status Debuff"
+        },
+        {
+            "id": 504191,
+            "value": "{0}Restores {3}% of max HP\n[{4}] {2} {1}."
+        },
+        {
+            "id": 504192,
+            "value": "With {1} in {0}:"
+        },
+        {
+            "id": 504193,
+            "value": "No boosts to limit and summon gauges when using this ability."
+        },
+        {
+            "id": 504194,
+            "value": "[Rng.: Ally (Excluding Self)]"
+        },
+        {
+            "id": 504195,
+            "value": "{0}{3} ATB Gauge {2} {1}."
+        },
+        {
+            "id": 504196,
+            "value": "+{0}"
+        },
+        {
+            "id": 504197,
+            "value": "-{0}"
+        },
+        {
+            "id": 504198,
+            "value": "{0}"
+        },
+        {
+            "id": 504199,
+            "value": "Command gauge max"
+        },
+        {
+            "id": 504200,
+            "value": "[Condition: Enemy defeated]"
+        },
+        {
+            "id": 504201,
+            "value": "{3} {4} {5}\n{1} {2} {0} {6}"
+        },
+        {
+            "id": 504202,
+            "value": "Dur.:"
+        },
+        {
+            "id": 504203,
+            "value": "+{0}s"
+        },
+        {
+            "id": 504204,
+            "value": "Add. +{0}"
+        },
+        {
+            "id": 504205,
+            "value": "Add. -{0}"
+        },
+        {
+            "id": 504206,
+            "value": "[Dur.: +{0}s] [Max. Tier: {1}]"
+        },
+        {
+            "id": 504207,
+            "value": "[Max. Tier: {0}]"
+        },
+        {
+            "id": 504208,
+            "value": "[Condition: First use]"
+        },
+        {
+            "id": 504209,
+            "value": "{3} +{4}%\n{1} {2} [Dur.: {5}s] [Ext.: +{6}s] {0}"
+        },
+        {
+            "id": 504210,
+            "value": "Physical Resistance"
+        },
+        {
+            "id": 504211,
+            "value": "Magic Resistance"
+        },
+        {
+            "id": 504212,
+            "value": "Single Ally (Excl. Self)"
+        },
+        {
+            "id": 504213,
+            "value": "{0} deals {3} additional {4} {5} pot. damage{1}{2}."
+        },
+        {
+            "id": 504214,
+            "value": "{0}\\nCharge: {1}s (Initial: {2}s)/Uses: {3}"
+        },
+        {
+            "id": 504215,
+            "value": "{0}\\nCharge: {1}s/Uses: {2}"
         }
     ]
 }

@@ -57,7 +57,7 @@
     "BattleContinueInvincibleSecond": 6,
     "BattleMultiRestoreAtbCost": 3,
     "BattleMultiRestoreInvincibleSecond": 6,
-    "ForceUpdateMaster": 21,
+    "ForceUpdateMaster": 22,
     "BattleScoreSettingId": 0,
     "BattleMultiIdleLimitSecond": 20,
     "DefaultAccessoryLimit": 100,
@@ -94,7 +94,7 @@
     "ShopCraftExtendCount": 1,
     "DefaultBoostId": 1,
     "BoostCountMax": 30,
-    "FriendCountMax": 30,
+    "FriendCountMax": 99,
     "FriendRequestCountMax": 10,
     "FriendReceiveCountMax": 10,
     "FriendRequestExpireDayCount": 7,
@@ -150,9 +150,12 @@
     "DungeonSaveCrystalExchangeMaxPossessionCount": 99,
     "InAppReviewClearedStoryEpisodeId": 110002,
     "PartyNameUpperLimit": 12,
-    "UserDenyCountMax": 0,
+    "UserDenyCountMax": 30,
     "BattleMaxHpDamagePermil": 200,
     "BattleMaxHpLowerLimitPermil": 100,
-    "DefaultGuildExchangeShopGroupId": 0
+    "DefaultGuildExchangeShopGroupId": 225,
+    "WeaponMedalCountLegendary": 100,
+    "WeaponLegendaryParameterCoefficient": 1000,
+    "WeaponLegendaryPassiveSkillPointCoefficient": 1000
   }
 ]

@@ -1,13 +1,754 @@
 [
   {
-    "Id": 200001,
+    "Id": 100101,
     "Name": {
-      "Ja": "ギルドアイコン_★3",
-      "En": "(ギルド系テキスト)"
+      "Ja": "クラウドtype1",
+      "En": "Cloud Type 1"
     },
     "Description": {
-      "Ja": "ギルドマーク「ギルドアイコン_★3」が設定できるようになるアイテムです。",
-      "En": "(ギルド系テキスト)"
+      "Ja": "ギルドマーク「クラウドtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Cloud Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100101,
+    "OrderNo": 400,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100102,
+    "Name": {
+      "Ja": "クラウドtype2",
+      "En": "Cloud Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「クラウドtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Cloud Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100102,
+    "OrderNo": 200,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100103,
+    "Name": {
+      "Ja": "クラウドtype3",
+      "En": "Cloud Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「クラウドtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Cloud Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100103,
+    "OrderNo": 1,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100201,
+    "Name": {
+      "Ja": "バレットtype1",
+      "En": "Barret Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「バレットtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Barret Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100201,
+    "OrderNo": 401,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100202,
+    "Name": {
+      "Ja": "バレットtype2",
+      "En": "Barret Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「バレットtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Barret Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100202,
+    "OrderNo": 201,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100203,
+    "Name": {
+      "Ja": "バレットtype3",
+      "En": "Barret Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「バレットtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Barret Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100203,
+    "OrderNo": 2,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100301,
+    "Name": {
+      "Ja": "ティファtype1",
+      "En": "Tifa Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ティファtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Tifa Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100301,
+    "OrderNo": 402,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100302,
+    "Name": {
+      "Ja": "ティファtype2",
+      "En": "Tifa Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ティファtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Tifa Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100302,
+    "OrderNo": 202,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100303,
+    "Name": {
+      "Ja": "ティファtype3",
+      "En": "Tifa Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ティファtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Tifa Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100303,
+    "OrderNo": 3,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100401,
+    "Name": {
+      "Ja": "エアリスtype1",
+      "En": "Aerith Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「エアリスtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Aerith Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100401,
+    "OrderNo": 403,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100402,
+    "Name": {
+      "Ja": "エアリスtype2",
+      "En": "Aerith Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「エアリスtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Aerith Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100402,
+    "OrderNo": 203,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100403,
+    "Name": {
+      "Ja": "エアリスtype3",
+      "En": "Aerith Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「エアリスtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Aerith Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100403,
+    "OrderNo": 4,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100501,
+    "Name": {
+      "Ja": "レッドXIIItype1",
+      "En": "Red XIII Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「レッドXIIItype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Red XIII Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100501,
+    "OrderNo": 404,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100502,
+    "Name": {
+      "Ja": "レッドXIIItype2",
+      "En": "Red XIII Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「レッドXIIItype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Red XIII Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100502,
+    "OrderNo": 204,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100503,
+    "Name": {
+      "Ja": "レッドXIIItype3",
+      "En": "Red XIII Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「レッドXIIItype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Red XIII Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100503,
+    "OrderNo": 5,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100601,
+    "Name": {
+      "Ja": "ユフィtype1",
+      "En": "Yuffie Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ユフィtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Yuffie Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100601,
+    "OrderNo": 410,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100602,
+    "Name": {
+      "Ja": "ユフィtype2",
+      "En": "Yuffie Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ユフィtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Yuffie Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100602,
+    "OrderNo": 210,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100603,
+    "Name": {
+      "Ja": "ユフィtype3",
+      "En": "Yuffie Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ユフィtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Yuffie Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100603,
+    "OrderNo": 11,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100701,
+    "Name": {
+      "Ja": "ケット・シーtype1",
+      "En": "Cait Sith Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ケット・シーtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Cait Sith Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100701,
+    "OrderNo": 411,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100702,
+    "Name": {
+      "Ja": "ケット・シーtype2",
+      "En": "Cait Sith Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ケット・シーtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Cait Sith Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100702,
+    "OrderNo": 211,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100703,
+    "Name": {
+      "Ja": "ケット・シーtype3",
+      "En": "Cait Sith Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ケット・シーtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Cait Sith Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100703,
+    "OrderNo": 12,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100801,
+    "Name": {
+      "Ja": "ヴィンセントtype1",
+      "En": "Vincent Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ヴィンセントtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Vincent Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100801,
+    "OrderNo": 412,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100802,
+    "Name": {
+      "Ja": "ヴィンセントtype2",
+      "En": "Vincent Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ヴィンセントtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Vincent Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100802,
+    "OrderNo": 212,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 100803,
+    "Name": {
+      "Ja": "ヴィンセントtype3",
+      "En": "Vincent Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ヴィンセントtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Vincent Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 100803,
+    "OrderNo": 13,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 102001,
+    "Name": {
+      "Ja": "ザックスtype1",
+      "En": "Zack Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ザックスtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Zack Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 102001,
+    "OrderNo": 405,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 102002,
+    "Name": {
+      "Ja": "ザックスtype2",
+      "En": "Zack Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ザックスtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Zack Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 102002,
+    "OrderNo": 205,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 102003,
+    "Name": {
+      "Ja": "ザックスtype3",
+      "En": "Zack Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ザックスtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Zack Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 102003,
+    "OrderNo": 6,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 104901,
+    "Name": {
+      "Ja": "セフィロスtype1",
+      "En": "Sephiroth Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「セフィロスtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Sephiroth Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 104901,
+    "OrderNo": 409,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 104902,
+    "Name": {
+      "Ja": "セフィロスtype2",
+      "En": "Sephiroth Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「セフィロスtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Sephiroth Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 104902,
+    "OrderNo": 209,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 104903,
+    "Name": {
+      "Ja": "セフィロスtype3",
+      "En": "Sephiroth Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「セフィロスtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Sephiroth Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 104903,
+    "OrderNo": 10,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105001,
+    "Name": {
+      "Ja": "グレンtype1",
+      "En": "Glenn Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「グレンtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Glenn Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105001,
+    "OrderNo": 406,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105002,
+    "Name": {
+      "Ja": "グレンtype2",
+      "En": "Glenn Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「グレンtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Glenn Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105002,
+    "OrderNo": 206,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105003,
+    "Name": {
+      "Ja": "グレンtype3",
+      "En": "Glenn Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「グレンtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Glenn Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105003,
+    "OrderNo": 7,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105101,
+    "Name": {
+      "Ja": "マットtype1",
+      "En": "Matt Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「マットtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Matt Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105101,
+    "OrderNo": 407,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105102,
+    "Name": {
+      "Ja": "マットtype2",
+      "En": "Matt Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「マットtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Matt Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105102,
+    "OrderNo": 207,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105103,
+    "Name": {
+      "Ja": "マットtype3",
+      "En": "Matt Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「マットtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Matt Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105103,
+    "OrderNo": 8,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105201,
+    "Name": {
+      "Ja": "ルティアtype1",
+      "En": "Lucia Type 1"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ルティアtype1」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Lucia Type 1.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105201,
+    "OrderNo": 408,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105202,
+    "Name": {
+      "Ja": "ルティアtype2",
+      "En": "Lucia Type 2"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ルティアtype2」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Lucia Type 2.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105202,
+    "OrderNo": 208,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 105203,
+    "Name": {
+      "Ja": "ルティアtype3",
+      "En": "Lucia Type 3"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ルティアtype3」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Lucia Type 3.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 105203,
+    "OrderNo": 9,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200001,
+    "Name": {
+      "Ja": "ギルド",
+      "En": "Guild"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ギルド」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Guild.\""
     },
     "GuildItemType": 2,
     "ResourceId": 200001,
@@ -19,22 +760,820 @@
     "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
   },
   {
+    "Id": 200002,
+    "Name": {
+      "Ja": "VII",
+      "En": "VII"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「VII」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"VII.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200002,
+    "OrderNo": 300,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200003,
+    "Name": {
+      "Ja": "神羅カンパニー",
+      "En": "Shinra Electric Power Company"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「神羅カンパニー」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Shinra Electric Power Company.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200003,
+    "OrderNo": 301,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200004,
+    "Name": {
+      "Ja": "チョコボ",
+      "En": "Chocobo"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「チョコボ」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Chocobo.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200004,
+    "OrderNo": 302,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200005,
+    "Name": {
+      "Ja": "サボテンダー",
+      "En": "Cactuar"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「サボテンダー」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Cactuar.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200005,
+    "OrderNo": 303,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200006,
+    "Name": {
+      "Ja": "メテオ",
+      "En": "Meteor"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「メテオ」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Meteor.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200006,
+    "OrderNo": 304,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200007,
+    "Name": {
+      "Ja": "バスターソード",
+      "En": "Buster Sword"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「バスターソード」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Buster Sword.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200007,
+    "OrderNo": 100,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200008,
+    "Name": {
+      "Ja": "片翼の羽",
+      "En": "Feather from a Wing"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「片翼の羽」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Feather from a Wing.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200008,
+    "OrderNo": 101,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200009,
+    "Name": {
+      "Ja": "教会の花",
+      "En": "Church Flower"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「教会の花」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Church Flower.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200009,
+    "OrderNo": 102,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 200010,
+    "Name": {
+      "Ja": "ガイドのハット",
+      "En": "Guide's Hat"
+    },
+    "Description": {
+      "Ja": "ギルドマーク「ガイドのハット」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild emblem \"Guide's Hat.\""
+    },
+    "GuildItemType": 2,
+    "ResourceId": 200010,
+    "OrderNo": 103,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300101,
+    "Name": {
+      "Ja": "クラウド",
+      "En": "Cloud"
+    },
+    "Description": {
+      "Ja": "ギルド背景「クラウド」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Cloud.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300101,
+    "OrderNo": 101,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300201,
+    "Name": {
+      "Ja": "バレット",
+      "En": "Barret"
+    },
+    "Description": {
+      "Ja": "ギルド背景「バレット」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Barret.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300201,
+    "OrderNo": 102,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300301,
+    "Name": {
+      "Ja": "ティファ",
+      "En": "Tifa"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ティファ」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Tifa.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300301,
+    "OrderNo": 103,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300401,
+    "Name": {
+      "Ja": "エアリス",
+      "En": "Aerith"
+    },
+    "Description": {
+      "Ja": "ギルド背景「エアリス」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Aerith.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300401,
+    "OrderNo": 104,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300501,
+    "Name": {
+      "Ja": "レッドXIII",
+      "En": "Red XIII"
+    },
+    "Description": {
+      "Ja": "ギルド背景「レッドXIII」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Red XIII.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300501,
+    "OrderNo": 105,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300601,
+    "Name": {
+      "Ja": "ユフィ",
+      "En": "Yuffie"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ユフィ」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Yuffie.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300601,
+    "OrderNo": 111,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300701,
+    "Name": {
+      "Ja": "ケット・シー",
+      "En": "Cait Sith"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ケット・シー」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Cait Sith.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300701,
+    "OrderNo": 112,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 300801,
+    "Name": {
+      "Ja": "ヴィンセント",
+      "En": "Vincent"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ヴィンセント」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Vincent.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 300801,
+    "OrderNo": 113,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 302001,
+    "Name": {
+      "Ja": "ザックス",
+      "En": "Zack"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ザックス」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Zack.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 302001,
+    "OrderNo": 106,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 304901,
+    "Name": {
+      "Ja": "セフィロス",
+      "En": "Sephiroth"
+    },
+    "Description": {
+      "Ja": "ギルド背景「セフィロス」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Sephiroth.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 304901,
+    "OrderNo": 110,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 305001,
+    "Name": {
+      "Ja": "グレン",
+      "En": "Glenn"
+    },
+    "Description": {
+      "Ja": "ギルド背景「グレン」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Glenn.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 305001,
+    "OrderNo": 107,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 305101,
+    "Name": {
+      "Ja": "マット",
+      "En": "Matt"
+    },
+    "Description": {
+      "Ja": "ギルド背景「マット」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Matt.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 305101,
+    "OrderNo": 108,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 305201,
+    "Name": {
+      "Ja": "ルティア",
+      "En": "Lucia"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ルティア」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Lucia.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 305201,
+    "OrderNo": 109,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
     "Id": 400001,
     "Name": {
       "Ja": "ギルド",
-      "En": "(ギルド系テキスト)"
+      "En": "Guild"
     },
     "Description": {
       "Ja": "ギルド背景「ギルド」が設定できるようになるアイテムです。",
-      "En": "(ギルド系テキスト)"
+      "En": "Allows the use of guild wallpaper \"Guild.\""
     },
     "GuildItemType": 1,
     "ResourceId": 400001,
-    "OrderNo": 26,
+    "OrderNo": 301,
     "ItemRarityType": 3,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "IsAutoRewardGuild": true,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400002,
+    "Name": {
+      "Ja": "VRトレーニングルーム",
+      "En": "VR Training Room"
+    },
+    "Description": {
+      "Ja": "ギルド背景「VRトレーニングルーム」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"VR Training Room.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400002,
+    "OrderNo": 302,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400003,
+    "Name": {
+      "Ja": "スラムの教会",
+      "En": "Church in the Slums"
+    },
+    "Description": {
+      "Ja": "ギルド背景「スラムの教会」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Church in the Slums.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400003,
+    "OrderNo": 303,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400004,
+    "Name": {
+      "Ja": "チョコボファーム",
+      "En": "Chocobo Farm"
+    },
+    "Description": {
+      "Ja": "ギルド背景「チョコボファーム」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Chocobo Farm.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400004,
+    "OrderNo": 304,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400005,
+    "Name": {
+      "Ja": "列車",
+      "En": "Train"
+    },
+    "Description": {
+      "Ja": "ギルド背景「列車」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Train.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400005,
+    "OrderNo": 305,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400006,
+    "Name": {
+      "Ja": "ラディオル群島",
+      "En": "Rhadore"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ラディオル群島」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Rhadore.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400006,
+    "OrderNo": 306,
+    "ItemRarityType": 3,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400007,
+    "Name": {
+      "Ja": "デイリークエスト",
+      "En": "Daily Quest"
+    },
+    "Description": {
+      "Ja": "ギルド背景「デイリークエスト」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Daily Quest.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400007,
+    "OrderNo": 201,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400008,
+    "Name": {
+      "Ja": "強化クエスト",
+      "En": "Enhancement Quest"
+    },
+    "Description": {
+      "Ja": "ギルド背景「強化クエスト」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Enhancement Quest.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400008,
+    "OrderNo": 202,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400009,
+    "Name": {
+      "Ja": "召喚獣クエスト",
+      "En": "Summon Quest"
+    },
+    "Description": {
+      "Ja": "ギルド背景「召喚獣クエスト」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Summon Quest.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400009,
+    "OrderNo": 203,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400010,
+    "Name": {
+      "Ja": "バトルタワー",
+      "En": "Battle Tower"
+    },
+    "Description": {
+      "Ja": "ギルド背景「バトルタワー」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Battle Tower.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400010,
+    "OrderNo": 204,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400011,
+    "Name": {
+      "Ja": "ダンジョン",
+      "En": "Dungeons"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ダンジョン」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Dungeons.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400011,
+    "OrderNo": 205,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400012,
+    "Name": {
+      "Ja": "ストーリークエスト",
+      "En": "Story Quest"
+    },
+    "Description": {
+      "Ja": "ギルド背景「ストーリークエスト」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Story Quest.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400012,
+    "OrderNo": 206,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400013,
+    "Name": {
+      "Ja": "マルチバトル",
+      "En": "Co-op Battle"
+    },
+    "Description": {
+      "Ja": "ギルド背景「マルチバトル」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Co-op Battle.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400013,
+    "OrderNo": 207,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400014,
+    "Name": {
+      "Ja": "FFVII",
+      "En": "FFVII"
+    },
+    "Description": {
+      "Ja": "ギルド背景「FFVII」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"FFVII.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400014,
+    "OrderNo": 208,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400015,
+    "Name": {
+      "Ja": "CC FFVII",
+      "En": "CC FFVII"
+    },
+    "Description": {
+      "Ja": "ギルド背景「CC FFVII」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"CC FFVII.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400015,
+    "OrderNo": 209,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400016,
+    "Name": {
+      "Ja": "FFVII FS",
+      "En": "FFVII FS"
+    },
+    "Description": {
+      "Ja": "ギルド背景「FFVII FS」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"FFVII FS.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400016,
+    "OrderNo": 210,
+    "ItemRarityType": 4,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400017,
+    "Name": {
+      "Ja": "花畑の再会",
+      "En": "Reunion among the Flowers"
+    },
+    "Description": {
+      "Ja": "ギルド背景「花畑の再会」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Reunion among the Flowers.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400017,
+    "OrderNo": 1,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400018,
+    "Name": {
+      "Ja": "さらばミッドガル",
+      "En": "Goodbye, Midgar"
+    },
+    "Description": {
+      "Ja": "ギルド背景「さらばミッドガル」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Goodbye, Midgar.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400018,
+    "OrderNo": 2,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400019,
+    "Name": {
+      "Ja": "またひとつ貸しだ",
+      "En": "One More You Owe Me"
+    },
+    "Description": {
+      "Ja": "ギルド背景「またひとつ貸しだ」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"One More You Owe Me.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400019,
+    "OrderNo": 3,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400020,
+    "Name": {
+      "Ja": "海を行く",
+      "En": "Crossing the Ocean"
+    },
+    "Description": {
+      "Ja": "ギルド背景「海を行く」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Crossing the Ocean.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400020,
+    "OrderNo": 4,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
+    "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
+  },
+  {
+    "Id": 400021,
+    "Name": {
+      "Ja": "戦火に舞い降りた扶翼",
+      "En": "Help from Above"
+    },
+    "Description": {
+      "Ja": "ギルド背景「戦火に舞い降りた扶翼」が設定できるようになるアイテムです。",
+      "En": "Allows the use of guild wallpaper \"Help from Above.\""
+    },
+    "GuildItemType": 1,
+    "ResourceId": 400021,
+    "OrderNo": 5,
+    "ItemRarityType": 5,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "IsAutoRewardGuild": false,
     "RewardStartDatetime": "1970-01-01T00:00:00+00:00"
   }
 ]

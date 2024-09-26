@@ -201,6 +201,10 @@
             "value": "Weapon Details to Enhance Weapons"
         },
         {
+            "id": 911000000001608,
+            "value": "Enhancing Weapons 3"
+        },
+        {
             "id": 911000000001701,
             "value": "The Armory"
         },
@@ -275,6 +279,14 @@
         {
             "id": 911000000002014,
             "value": "Sub Weapons"
+        },
+        {
+            "id": 911000000002015,
+            "value": "U. C. Abilities (Ultimate Command Abilities)"
+        },
+        {
+            "id": 911000000002016,
+            "value": "Ultimate Weapons"
         },
         {
             "id": 911000000002101,
@@ -377,6 +389,86 @@
             "value": "Story Battle Party Modes"
         },
         {
+            "id": 911000000003801,
+            "value": "Guild Level"
+        },
+        {
+            "id": 911000000003802,
+            "value": "Guild Bonuses"
+        },
+        {
+            "id": 911000000003803,
+            "value": "Guild Menu"
+        },
+        {
+            "id": 911000000003804,
+            "value": "Guild Chat"
+        },
+        {
+            "id": 911000000003805,
+            "value": "Leaving a Guild"
+        },
+        {
+            "id": 911000000003901,
+            "value": "Guild Settings"
+        },
+        {
+            "id": 911000000003902,
+            "value": "Guild Members"
+        },
+        {
+            "id": 911000000003903,
+            "value": "Guild Records"
+        },
+        {
+            "id": 911000000003904,
+            "value": "Guild Search"
+        },
+        {
+            "id": 911000000004001,
+            "value": "Guild Mission Rewards"
+        },
+        {
+            "id": 911000000004101,
+            "value": "Stamps"
+        },
+        {
+            "id": 911000000004102,
+            "value": "Co-op Battle Invitations"
+        },
+        {
+            "id": 911000000004201,
+            "value": "Block List"
+        },
+        {
+            "id": 911000000004301,
+            "value": "Guild Battle 1"
+        },
+        {
+            "id": 911000000004302,
+            "value": "Guild Battle 2"
+        },
+        {
+            "id": 911000000004303,
+            "value": "Guild Battle 3"
+        },
+        {
+            "id": 911000000004304,
+            "value": "Guild Battle 4"
+        },
+        {
+            "id": 911000000004305,
+            "value": "Additional Equipment 1"
+        },
+        {
+            "id": 911000000004306,
+            "value": "Mock Battles"
+        },
+        {
+            "id": 911000000004308,
+            "value": "Additional Equipment 2"
+        },
+        {
             "id": 911000000004601,
             "value": "Linking Game Data"
         },
@@ -399,6 +491,18 @@
         {
             "id": 911000000005101,
             "value": "Highwind Collection"
+        },
+        {
+            "id": 911000000005201,
+            "value": "Enhancing Ultimate Weapons 1"
+        },
+        {
+            "id": 911000000005202,
+            "value": "Enhancing Ultimate Weapons 2"
+        },
+        {
+            "id": 911000000005203,
+            "value": "Enhancing Ultimate Weapons 3"
         },
         {
             "id": 911000000010001,
@@ -482,7 +586,7 @@
         },
         {
             "id": 912000000000602,
-            "value": "<command_color=common_03>Criterion Dungeons</color> contain Symbol enemies, and if you encounter them, <command_color=common_03>a battle will begin.</color>\nDamage taken during the battle <command_color=common_03>will affect your max HP.</color>"
+            "value": "<command_color=common_03>Criterion Dungeons</color> contain Symbol enemies, and if you encounter them, <command_color=common_03>a battle will begin.</color>\nDamage taken during the battle <command_color=common_03>will affect your max HP.</color>\nU. C. abilities used will not be reset."
         },
         {
             "id": 912000000000603,
@@ -570,7 +674,7 @@
         },
         {
             "id": 912000000001401,
-            "value": "<command_color=common_03>Enhance Weapons</color> allows you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
+            "value": "<command_color=common_03>Enhance Weapons</color> allows you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Ultimate Weapons</color> allows you to <command_color=common_03>strengthen your ultimate weapons.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
         },
         {
             "id": 912000000001501,
@@ -590,11 +694,11 @@
         },
         {
             "id": 912000000001603,
-            "value": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt."
+            "value": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of weapon slots, sub weapons, and materia are added to the characters' stats.\n*Sub weapon stats are calculated at 50%.</color>"
         },
         {
             "id": 912000000001604,
-            "value": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP recovered."
+            "value": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP recovered.\n<command_color=common_02>*The stats of weapon slots, sub weapons, and materia are added to the characters' stats.\n*Sub weapon stats are calculated at 50%.</color>"
         },
         {
             "id": 912000000001605,
@@ -609,8 +713,12 @@
             "value": "If you have a weapon you'd like to enhance, you can go to Enhance Weapons from the Weapon Details screen."
         },
         {
+            "id": 912000000001608,
+            "value": "<command_color=common_03>Branding stones</color> can be used to <command_color=common_03>brand</color> weapons and apply <command_color=common_03>up to three random effects</color>."
+        },
+        {
             "id": 912000000001701,
-            "value": "Duplicate weapons are stored in the Armory and can be <command_color=common_03>converted to weapon parts \nused to increase the rarity of or overboost weapons.</color>\n<command_color=common_02>*Turning on auto-convert will automatically convert any weapons sent to the armory.</color>"
+            "value": "<command_color=common_03>Duplicate weapons can be stored in the armory</color> and can also be <command_color=common_03>converted into weapon parts</color> used to increase the rarity of or overboost weapons.\n<command_color=common_02>*Turning on auto-convert will automatically convert any weapons sent to the armory.</color>"
         },
         {
             "id": 912000000001801,
@@ -630,15 +738,15 @@
         },
         {
             "id": 912000000002001,
-            "value": "Equipment affects a character's <command_color=common_03>Power, stats, C. Abilities (Command Abilities), \nL. Abilities (Limit Abilities), and R. Abilities (Reinforcement Abilities).</color>"
+            "value": "Equipment affects a character's <command_color=common_03>Power, stats, C. Abilities (Command Abilities), \nU. C. Abilities (Ultimate Command Abilities), L. Abilities (Limit Abilities), and R. Abilities (Reinforcement Abilities).</color>"
         },
         {
             "id": 912000000002002,
-            "value": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
+            "value": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of various weapon slots, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
         },
         {
             "id": 912000000002003,
-            "value": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP restored.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
+            "value": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP restored.\n<command_color=common_02>*The stats of various weapon slots, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
         },
         {
             "id": 912000000002004,
@@ -654,7 +762,7 @@
         },
         {
             "id": 912000000002007,
-            "value": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
+            "value": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, ultimate weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
         },
         {
             "id": 912000000002008,
@@ -662,7 +770,7 @@
         },
         {
             "id": 912000000002009,
-            "value": "Stats, C. abilities, R. abilities, and <command_color=common_03>support materia</color> of <command_color=common_03>main weapons</color> are reflected as well as the weapon's appearance.\n<command_color=common_02>*Only character-specific weapons can be equipped.</color>"
+            "value": "Stats, C. abilities, R. abilities, Brands, and <command_color=common_03>Support Materia</color> of main weapons are reflected as well as the weapon's appearance.\n<command_color=common_02>*Only character-specific weapons can be equipped.</color>"
         },
         {
             "id": 912000000002010,
@@ -674,7 +782,7 @@
         },
         {
             "id": 912000000002012,
-            "value": "The <command_color=common_03>stats, C. abilities, and R. abilities of ability weapons are reflected.</color>\n<command_color=common_02>*Only character-specific weapons can be equipped.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. ability points are reflected.</color>"
+            "value": "The <command_color=common_03>stats, C. abilities, R. abilities, and Brands of ability weapons are reflected.</color>\n<command_color=common_02>*Only character-specific weapons can be equipped.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. ability points are reflected.</color>"
         },
         {
             "id": 912000000002013,
@@ -682,7 +790,15 @@
         },
         {
             "id": 912000000002014,
-            "value": "The stats and R. Abilities of <command_color=common_03>sub weapons</color> are reflected.\n<command_color=common_02>*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. Ability pts are reflected.</color>"
+            "value": "The stats, Brands, and R. Abilities of <command_color=common_03>sub weapons</color> are reflected.\n<command_color=common_02>*Ultimate weapons cannot be equipped as sub weapons.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. Ability pts are reflected.</color>"
+        },
+        {
+            "id": 912000000002015,
+            "value": "These abilities can be used in battle by equipping ultimate weapons. \nThey can be used without consuming ATB, but there is <color=#95C7FF>a limit to the number of times</color> \nthey can be used in a single battle and may require time to <color=#95C7FF>recharge</color>."
+        },
+        {
+            "id": 912000000002016,
+            "value": "Stats, U. C. abilities, R. abilities, and brands of <command_color=common_03>ultimate weapons</color> are reflected.\n<command_color=common_02>*Ultimate weapons are specific to each character and are not reflected in their appearance.</color>"
         },
         {
             "id": 912000000002101,
@@ -785,6 +901,86 @@
             "value": "You can take on story battles in <command_color=common_03>Story Party</color> mode, which limits the formation to characters pertinent to the story, or <command_color=common_03>Free Party</color> mode, which allows you to form parties of your choice.\n \nStory Party mode yields <command_color=common_03>bonus rewards.</color>\n<command_color=common_02>*Free Party mode becomes available as you progress through the story.</color>"
         },
         {
+            "id": 912000000003801,
+            "value": "A guild levels up when its members obtain a certain amount of guild EXP. Guild EXP can be obtained from means such as <command_color=common_03>guild login bonuses and guild missions</color>."
+        },
+        {
+            "id": 912000000003802,
+            "value": "<command_color=common_03>Guild bonuses</color> are effects that are automatically granted to everyone in the guild. The guildmaster and submasters can use bonus points to <command_color=common_03>unlock or enhance</color> these bonuses.\n<command_color=common_02>*Guild bonus points can be obtained by guild members.</color>"
+        },
+        {
+            "id": 912000000003803,
+            "value": "<command_color=common_03>The guild roster and records</color> can be viewed from the menu. The guildmaster and submasters can also <command_color=common_03>change the guild's emblem, wallpaper, and search conditions</color>."
+        },
+        {
+            "id": 912000000003804,
+            "value": "You can use the <command_color=common_03>Chat</color> feature to communicate with guild members through text and stamps and even receive co-op battle invitations."
+        },
+        {
+            "id": 912000000003805,
+            "value": "Leaving guilds twice in a single day will trigger a <command_color=common_03>24-hour cooldown</color>. You cannot create a guild or send requests to other guilds during this time.\n<command_color=common_02>*You will automatically be removed from a guild if you fail to log in to the guild for 14 days.</color>"
+        },
+        {
+            "id": 912000000003901,
+            "value": "The guild's <command_color=common_03>emblem, wallpaper, and search conditions</color> can be changed through Settings in the guild menu.\n<command_color=common_02>*The Settings option will only display for the guildmaster and submasters.</color>"
+        },
+        {
+            "id": 912000000003902,
+            "value": "You can view the guild's roster from Members. Submasters <command_color=common_03>manage the roster and can accept players' requests to join the guild</color>. The guildmaster has <command_color=common_03>administrative privileges</color> such as assigning submasters."
+        },
+        {
+            "id": 912000000003903,
+            "value": "Guild event records, individual records, and the guild's emblem and wallpaper can be viewed from Guild Records.\n<command_color=common_02>*Guild emblems and wallpapers obtained will automatically be shared with the guild.</color>"
+        },
+        {
+            "id": 912000000003904,
+            "value": "With Guild Search, you can search for guilds by <command_color=common_03>guild ID or certain conditions</color>. You can also save guilds to your <command_color=common_03>watch list</color>."
+        },
+        {
+            "id": 912000000004001,
+            "value": "Guild missions reward <command_color=common_03>guild EXP and guild bonus points</color>, both which are shared with the guild."
+        },
+        {
+            "id": 912000000004101,
+            "value": "The <command_color=common_03>Chat</color> feature allows you to communicate with members in your guild. Stamps can also be used by selecting them from the list."
+        },
+        {
+            "id": 912000000004102,
+            "value": "Through co-op battle private matching, you can select <command_color=common_03>Invite Guild</color> to send a message to and invite members from your guild."
+        },
+        {
+            "id": 912000000004201,
+            "value": "Any messages posted in the Chat feature by a blocked player will not be displayed.\n<command_color=common_02>*You can block a player from their profile.\n*This does not affect co-op battle matching.</color>"
+        },
+        {
+            "id": 912000000004301,
+            "value": "In <command_color=common_03>guild battles</color>, the guild ranking is determined by <command_color=common_03>the total score obtained by each guild</color> during the event.\n<command_color=common_02>*There is a limit to the guild battles each player can attempt in a single day.</color>"
+        },
+        {
+            "id": 912000000004302,
+            "value": "Guild battle bosses have a massive amount of HP, and any damage dealt <command_color=common_03>will be carried over into the next battle</color>. \n<command_color=common_03>Damage dealt by other guild members</color> will also be reflected in the bosses' HP."
+        },
+        {
+            "id": 912000000004303,
+            "value": "Depleting the boss's HP a set amount <command_color=common_03>will yield an additional score bonus</color>. \nFor battles with multiple bosses, depleting the <command_color=common_03>bosses' total HP a set amount</color> will yield a score bonus. \nDefeating the bosses in each battle <command_color=common_03>will yield rewards for all guild members.</color>\n<command_color=common_02>*If a battle has multiple bosses, all bosses must be defeated in order to earn the reward.</color>"
+        },
+        {
+            "id": 912000000004304,
+            "value": "Defeated bosses are <command_color=common_03>revived at a certain time.</color> Defeating all of the bosses <command_color=common_03>will revive all bosses immediately</color>.\n<command_color=common_02>*The HP of undefeated bosses will not be restored when revived.</color>"
+        },
+        {
+            "id": 912000000004305,
+            "value": "Guild battles allow for the use of <command_color=common_03>additional equipment</color>, in which spare weapons and gear can be set to <command_color=common_03>increase the potency of abilities</color>. \nThese weapons and gear have points, and <command_color=common_03>the effect is increased based on the point total</color>.\n<command_color=common_02>*Weapon points vary based on weapon enhancements.\n*Characters' current equipment cannot be set as additional equipment.\n*Ultimate weapons cannot be set as additional equipment.</color>"
+        },
+        {
+            "id": 912000000004306,
+            "value": "<command_color=common_03>Mock battles</color> do not yield scores or rewards, but allow players to <command_color=common_03>take on guild battles without using any attempts</color>.\n<command_color=common_02>*Only mock battles are available during the strategy period.\n*The bosses' HP in mock battles are not shared among guild members.</color>"
+        },
+        {
+            "id": 912000000004308,
+            "value": "Weapons and gear have points, and <command_color=common_03>effects are increased based on the point total</color>.\n<command_color=common_02>*Weapon points vary based on weapon enhancements.</color>"
+        },
+        {
             "id": 912000000004601,
             "value": "<command_color=common_03>Link (back up) game data</color> with your Square Enix Members account.\n<command_color=common_02>*If this does not trigger a \"mission complete\" notification, please return to the data link screen or restart the game.</color>"
         },
@@ -807,6 +1003,18 @@
         {
             "id": 912000000005101,
             "value": "Collection items have effects that <command_color=common_03>strengthen your characters</color> by simply possessing them. <command_color=common_03>Fulfilling certain conditions will allow you to enhance these items</color> and boost their effects."
+        },
+        {
+            "id": 912000000005201,
+            "value": "Ultimate weapons can be strengthened through <command_color=common_03>weapon enhancement</color>.\n<command_color=common_02>*Unlike standard weapons, they cannot be overboosted or have their rarity upgraded.</color>"
+        },
+        {
+            "id": 912000000005202,
+            "value": "<command_color=common_03>Branding stones</color> can be used to <command_color=common_03>brand</color> weapons and apply <command_color=common_03>up to three random effects</color>."
+        },
+        {
+            "id": 912000000005203,
+            "value": "<command_color=common_03>U. C. abilities (Ultimate Command abilities)</color>: Abilities used in battle. They do not consume ATB."
         },
         {
             "id": 912000000010001,

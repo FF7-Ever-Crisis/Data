@@ -25,7 +25,8 @@
     "IsExcludedSettingMission": true,
     "OrderNo": 1,
     "WeaponMedalItemId": 1001,
-    "character_16": 2001
+    "DisplayGrowthBoardItemGroupId": 2001,
+    "CharacterRoleType": 1
   },
   {
     "Id": 2,
@@ -53,7 +54,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 2,
     "WeaponMedalItemId": 1002,
-    "character_16": 2002
+    "DisplayGrowthBoardItemGroupId": 2002,
+    "CharacterRoleType": 1
   },
   {
     "Id": 3,
@@ -81,7 +83,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 3,
     "WeaponMedalItemId": 1003,
-    "character_16": 2003
+    "DisplayGrowthBoardItemGroupId": 2003,
+    "CharacterRoleType": 2
   },
   {
     "Id": 4,
@@ -109,7 +112,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 4,
     "WeaponMedalItemId": 1004,
-    "character_16": 2004
+    "DisplayGrowthBoardItemGroupId": 2004,
+    "CharacterRoleType": 2
   },
   {
     "Id": 5,
@@ -137,7 +141,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 5,
     "WeaponMedalItemId": 1005,
-    "character_16": 2005
+    "DisplayGrowthBoardItemGroupId": 2005,
+    "CharacterRoleType": 2
   },
   {
     "Id": 6,
@@ -165,7 +170,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 15,
     "WeaponMedalItemId": 1006,
-    "character_16": 2006
+    "DisplayGrowthBoardItemGroupId": 2006,
+    "CharacterRoleType": 1
   },
   {
     "Id": 7,
@@ -193,7 +199,37 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 16,
     "WeaponMedalItemId": 1007,
-    "character_16": 2007
+    "DisplayGrowthBoardItemGroupId": 2007,
+    "CharacterRoleType": 1
+  },
+  {
+    "Id": 8,
+    "Name": {
+      "Ja": "ヴィンセント",
+      "En": "Vincent"
+    },
+    "FullName": {
+      "Ja": "ヴィンセント・ヴァレンタイン",
+      "En": "Vincent Valentine"
+    },
+    "PartyName": {
+      "Ja": "Vincent",
+      "En": "Vincent"
+    },
+    "StartDate": "2020-04-01T00:00:00+00:00",
+    "ResourceId": 8,
+    "SkillAttackTacticsId": 8,
+    "CharacterPieceItemId": 2008,
+    "DefaultWeaponId": 8017,
+    "DefaultCharacterCostumeId": 8001,
+    "DefaultLimitbreakId": 100801,
+    "CharacterNovelId": 8,
+    "OverExpLimit": 1000000,
+    "IsExcludedSettingMission": false,
+    "OrderNo": 17,
+    "WeaponMedalItemId": 1008,
+    "DisplayGrowthBoardItemGroupId": 2008,
+    "CharacterRoleType": 1
   },
   {
     "Id": 20,
@@ -221,7 +257,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 6,
     "WeaponMedalItemId": 1020,
-    "character_16": 2020
+    "DisplayGrowthBoardItemGroupId": 2020,
+    "CharacterRoleType": 1
   },
   {
     "Id": 49,
@@ -249,7 +286,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 14,
     "WeaponMedalItemId": 1049,
-    "character_16": 2049
+    "DisplayGrowthBoardItemGroupId": 2049,
+    "CharacterRoleType": 1
   },
   {
     "Id": 50,
@@ -277,7 +315,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 7,
     "WeaponMedalItemId": 1050,
-    "character_16": 2050
+    "DisplayGrowthBoardItemGroupId": 2050,
+    "CharacterRoleType": 1
   },
   {
     "Id": 51,
@@ -305,7 +344,8 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 8,
     "WeaponMedalItemId": 1051,
-    "character_16": 2051
+    "DisplayGrowthBoardItemGroupId": 2051,
+    "CharacterRoleType": 2
   },
   {
     "Id": 52,
@@ -333,6 +373,7 @@
     "IsExcludedSettingMission": false,
     "OrderNo": 9,
     "WeaponMedalItemId": 1052,
-    "character_16": 2052
+    "DisplayGrowthBoardItemGroupId": 2052,
+    "CharacterRoleType": 1
   }
 ]

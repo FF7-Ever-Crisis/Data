@@ -276,8 +276,8 @@
       "En": "Criterion Dungeons 2"
     },
     "Description": {
-      "Ja": "アナザーダンジョンには<command_color=common_03>「エネミーシンボル」</color>があり、 <command_color=common_03>接触するとバトルが開始</color>します。 \nまた、<command_color=common_03>バトルで受けたダメージにより、 HPの最大値が減少</color>します。",
-      "En": "<command_color=common_03>Criterion Dungeons</color> contain Symbol enemies, and if you encounter them, <command_color=common_03>a battle will begin.</color>\nDamage taken during the battle <command_color=common_03>will affect your max HP.</color>"
+      "Ja": "アナザーダンジョンには<command_color=common_03>「エネミーシンボル」</color>があり、 <command_color=common_03>接触するとバトルが開始</color>します。 \nまた、<command_color=common_03>バトルで受けたダメージにより、 HPの最大値が減少</color>します。\nUCアビリティの回数制限などもリセットされません。",
+      "En": "<command_color=common_03>Criterion Dungeons</color> contain Symbol enemies, and if you encounter them, <command_color=common_03>a battle will begin.</color>\nDamage taken during the battle <command_color=common_03>will affect your max HP.</color>\nU. C. abilities used will not be reset."
     },
     "HelpPopupGroupId": 6,
     "Seq": 2,
@@ -606,8 +606,8 @@
       "En": "Enhancements"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「武器強化」</color>では、<command_color=common_03>所持している武器の強化</color>ができます。\n<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>所持しているマテリアの強化と売却</color>ができます。\n<command_color=common_03>「マテリア合成」</color>では、<command_color=common_03>所持しているレシピからマテリアの合成</color>ができます。",
-      "En": "<command_color=common_03>Enhance Weapons</color> allows you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
+      "Ja": "<command_color=common_03>「武器強化」</color>では、<command_color=common_03>所持している武器の強化</color>ができます。\n<command_color=common_03>「アルティメット武器強化」</color>では、<command_color=common_03>所持しているアルティメット武器の強化</color>ができます。\n<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>所持しているマテリアの強化と売却</color>ができます。\n<command_color=common_03>「マテリア合成」</color>では、<command_color=common_03>所持しているレシピからマテリアの合成</color>ができます。",
+      "En": "<command_color=common_03>Enhance Weapons</color> allows you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Ultimate Weapons</color> allows you to <command_color=common_03>strengthen your ultimate weapons.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
     },
     "HelpPopupGroupId": 14,
     "Seq": 1,
@@ -681,11 +681,11 @@
       "En": "Weapon Stats 1"
     },
     "Description": {
-      "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。",
-      "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt."
+      "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。\n<command_color=common_02>※各種武器枠と「サブ武器」「マテリア」のステータスが、キャラクターのステータスに合算されます。\n※「サブ武器」のステータスは50%で計算されます。</color>",
+      "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of weapon slots, sub weapons, and materia are added to the characters' stats.\n*Sub weapon stats are calculated at 50%.</color>"
     },
     "HelpPopupGroupId": 16,
-    "Seq": 3,
+    "Seq": 4,
     "ResourceId": 1603,
     "ConditionSetId": 0
   },
@@ -696,11 +696,11 @@
       "En": "Weapon Stats 2"
     },
     "Description": {
-      "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。",
-      "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP recovered."
+      "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。\n<command_color=common_02>※各種武器枠と「サブ武器」「マテリア」のステータスが、キャラクターのステータスに合算されます。\n※「サブ武器」のステータスは50%で計算されます。</color>",
+      "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP recovered.\n<command_color=common_02>*The stats of weapon slots, sub weapons, and materia are added to the characters' stats.\n*Sub weapon stats are calculated at 50%.</color>"
     },
     "HelpPopupGroupId": 16,
-    "Seq": 4,
+    "Seq": 5,
     "ResourceId": 1604,
     "ConditionSetId": 0
   },
@@ -715,7 +715,7 @@
       "En": "<command_color=common_03>C. abilities (Command abilities):</color> Abilities used in battle that consume ATB.\n<command_color=common_03>R. abilities (Reinforcement abilities):</color> Passive abilities that are always in effect."
     },
     "HelpPopupGroupId": 16,
-    "Seq": 5,
+    "Seq": 6,
     "ResourceId": 1605,
     "ConditionSetId": 0
   },
@@ -730,7 +730,7 @@
       "En": "Each weapon has three <command_color=common_03>Support Materia</color> that become unlocked at certain levels.\nThe <command_color=common_03>S. abilities (Support abilities) of support materia affect the materia with which they're paired.</color>\nDepending on the pairing, these abilities may have no effect."
     },
     "HelpPopupGroupId": 16,
-    "Seq": 6,
+    "Seq": 7,
     "ResourceId": 1606,
     "ConditionSetId": 0
   },
@@ -745,19 +745,34 @@
       "En": "If you have a weapon you'd like to enhance, you can go to Enhance Weapons from the Weapon Details screen."
     },
     "HelpPopupGroupId": 16,
-    "Seq": 7,
+    "Seq": 8,
     "ResourceId": 1607,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1608,
+    "Title": {
+      "Ja": "武器強化について3",
+      "En": "Enhancing Weapons 3"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>刻印石</color>を使用して武器に<command_color=common_03>刻印</color>することができます。\n<command_color=common_03>刻印</color>を行うことで武器に<command_color=common_03>ランダムなパラメータを最大3つまで</color>付加することができます。",
+      "En": "<command_color=common_03>Branding stones</color> can be used to <command_color=common_03>brand</color> weapons and apply <command_color=common_03>up to three random effects</color>."
+    },
+    "HelpPopupGroupId": 16,
+    "Seq": 3,
+    "ResourceId": 1608,
     "ConditionSetId": 0
   },
   {
     "Id": 1701,
     "Title": {
-      "Ja": "保管庫について",
+      "Ja": "武器保管庫について",
       "En": "The Armory"
     },
     "Description": {
-      "Ja": "<command_color=common_03>重複して獲得した武器は「保管庫」に保管</color>され、\nレアリティアップや限界突破に使用する<command_color=common_03>各ウェポンパーツに変換</color>できます。\n<command_color=common_02>※「自動変換機能」をONにすると武器保管庫に送られてきた武器を自動的に変換します。</color>",
-      "En": "Duplicate weapons are stored in the Armory and can be <command_color=common_03>converted to weapon parts \nused to increase the rarity of or overboost weapons.</color>\n<command_color=common_02>*Turning on auto-convert will automatically convert any weapons sent to the armory.</color>"
+      "Ja": "<command_color=common_03>重複して獲得した武器は「武器保管庫」に保管</color>され、\nレアリティアップや限界突破、交換所での商品交換に使用する<command_color=common_03>武器変換アイテムに変換</color>できます。\n<command_color=common_02>※「自動変換機能」をONにすると武器保管庫に送られてきた武器を自動的に変換します。</color>",
+      "En": "<command_color=common_03>Duplicate weapons can be stored in the armory</color> and can also be <command_color=common_03>converted into weapon parts</color> used to increase the rarity of or overboost weapons.\n<command_color=common_02>*Turning on auto-convert will automatically convert any weapons sent to the armory.</color>"
     },
     "HelpPopupGroupId": 17,
     "Seq": 1,
@@ -831,8 +846,8 @@
       "En": "Solo Formation"
     },
     "Description": {
-      "Ja": "各装備を編成することで\n<command_color=common_03>「戦力」「ステータス」「C（コマンド）アビリティ」\n「L（リミット）アビリティ」「R（ライズ）アビリティ」</color>が決まります。",
-      "En": "Equipment affects a character's <command_color=common_03>Power, stats, C. Abilities (Command Abilities), \nL. Abilities (Limit Abilities), and R. Abilities (Reinforcement Abilities).</color>"
+      "Ja": "各装備を編成することで\n<command_color=common_03>「戦力」「ステータス」「C（コマンド）アビリティ」\n「UC（アルティメットコマンド）アビリティ」「L（リミット）アビリティ」「R（ライズ）アビリティ」</color>が決まります。",
+      "En": "Equipment affects a character's <command_color=common_03>Power, stats, C. Abilities (Command Abilities), \nU. C. Abilities (Ultimate Command Abilities), L. Abilities (Limit Abilities), and R. Abilities (Reinforcement Abilities).</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 1,
@@ -846,8 +861,8 @@
       "En": "Stats 1"
     },
     "Description": {
-      "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
-      "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
+      "Ja": "<command_color=common_03>HP</color>・・・キャラクターの体力です。0になると戦闘不能になります。\n<command_color=common_03>物攻</color>・・・物理攻撃をする時のダメージに影響する値です。\n<command_color=common_03>魔攻</color>・・・魔法攻撃をする時のダメージに影響する値です。\n<command_color=common_02>※各種武器枠と「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
+      "En": "<command_color=common_03>HP:</color> This value represents a character's health. When reduced to 0, the character is KO'd.\n<command_color=common_03>PATK:</color> This value affects physical damage dealt.\n<command_color=common_03>MATK:</color> This value affects magic damage dealt.\n<command_color=common_02>*The stats of various weapon slots, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 2,
@@ -861,8 +876,8 @@
       "En": "Stats 2"
     },
     "Description": {
-      "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
-      "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP restored.\n<command_color=common_02>*The stats of main weapons, ability weapons, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
+      "Ja": "<command_color=common_03>物防</color>・・・物理攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>魔防</color>・・・魔法攻撃を受けた時のダメージに影響する値です。\n<command_color=common_03>治癒</color>・・・回復する時の回復量に影響する値です。\n<command_color=common_02>※各種武器枠と「サブ武器」「マテリア」のステータスが反映されます。</color>\n<command_color=common_02>※「サブ武器」のステータスは50%が反映されます。</color>",
+      "En": "<command_color=common_03>PDEF:</color> This value affects physical damage taken.\n<command_color=common_03>MDEF:</color> This value affects magic damage taken.\n<command_color=common_03>HEAL:</color> This value affects amount of HP restored.\n<command_color=common_02>*The stats of various weapon slots, sub weapons and materia are reflected.</color>\n<command_color=common_02>*50% of a sub weapon's stats are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 3,
@@ -895,7 +910,7 @@
       "En": "These powerful abilities are used in battle and consume the limit gauge. \nEither a <command_color=common_03>Limit Break</color> or <command_color=common_03>Summon Ability</color> can be equipped."
     },
     "HelpPopupGroupId": 20,
-    "Seq": 5,
+    "Seq": 6,
     "ResourceId": 2005,
     "ConditionSetId": 0
   },
@@ -910,7 +925,7 @@
       "En": "<command_color=common_03>Limit Break:</color> An ability specific to each character.\n<command_color=common_03>Summon ability:</color> An ability that can be used once a summon is bound.\n<command_color=common_02>*Each summon ability can be equipped by only one character in a party.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 6,
+    "Seq": 7,
     "ResourceId": 2006,
     "ConditionSetId": 0
   },
@@ -921,11 +936,11 @@
       "En": "R. Abilities (Reinforcement Abilities)"
     },
     "Description": {
-      "Ja": "バトル時に常に効果を発揮するアビリティです。\npt（ポイント）の合計でレベルが上がり、効果が強くなります。\n<command_color=common_02>※「メイン武器」「ウェア」「アビリティ武器」「サブ武器」のRアビリティが反映されます。\n※「アビリティ武器」「サブ武器」のptは50%が反映されます。</color>",
-      "En": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
+      "Ja": "バトル時に常に効果を発揮するアビリティです。\npt（ポイント）の合計でレベルが上がり、効果が強くなります。\n<command_color=common_02>※「メイン武器」「ウェア」「アビリティ武器」「アルティメット武器」「サブ武器」のRアビリティが反映されます。\n※「アビリティ武器」「サブ武器」のptは50%が反映されます。</color>",
+      "En": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, ultimate weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 7,
+    "Seq": 8,
     "ResourceId": 2007,
     "ConditionSetId": 0
   },
@@ -940,7 +955,7 @@
       "En": "These abilities affect and strengthen the effects of the materia with which they're paired.\n<command_color=common_02>*Abilities may not have any effect depending on the pairing.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 8,
+    "Seq": 9,
     "ResourceId": 2008,
     "ConditionSetId": 0
   },
@@ -951,11 +966,11 @@
       "En": "Main Weapons"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「メイン武器」</color>にはステータス、Cアビリティ、Rアビリティが反映され、\nここに装備した武器がバトル中の見た目にも反映されます。\n\nまた、メイン武器の<command_color=common_03>「サポートマテリア」</color>が反映されます。\n<command_color=common_02>※メイン武器は自身の武器のみ装備できます。</color>",
-      "En": "Stats, C. abilities, R. abilities, and <command_color=common_03>support materia</color> of <command_color=common_03>main weapons</color> are reflected as well as the weapon's appearance.\n<command_color=common_02>*Only character-specific weapons can be equipped.</color>"
+      "Ja": "<command_color=common_03>「メイン武器」</color>にはステータス、Cアビリティ、Rアビリティ、刻印が反映され、\nここに装備した武器がバトル中の見た目にも反映されます。\n\nまた、メイン武器の<command_color=common_03>「サポートマテリア」</color>が反映されます。\n<command_color=common_02>※メイン武器は自身の武器のみ装備できます。</color>",
+      "En": "Stats, C. abilities, R. abilities, Brands, and <command_color=common_03>Support Materia</color> of main weapons are reflected as well as the weapon's appearance.\n<command_color=common_02>*Only character-specific weapons can be equipped.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 9,
+    "Seq": 10,
     "ResourceId": 2009,
     "ConditionSetId": 0
   },
@@ -970,7 +985,7 @@
       "En": "The <command_color=common_03>effects of support materia are triggered based on a weapon's max level.</color> The <command_color=common_03>S. abilities of support materia affect the materia with which they're paired.</color> Depending on the pairing, these abilities may have no effect."
     },
     "HelpPopupGroupId": 20,
-    "Seq": 10,
+    "Seq": 11,
     "ResourceId": 2010,
     "ConditionSetId": 0
   },
@@ -985,7 +1000,7 @@
       "En": "The appearance and R. abilities of <command_color=common_03>gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 11,
+    "Seq": 12,
     "ResourceId": 2011,
     "ConditionSetId": 0
   },
@@ -996,11 +1011,11 @@
       "En": "Ability Weapons"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「アビリティ武器」</color>はステータス、Cアビリティ、Rアビリティが反映されます。\n<command_color=common_02>※自身の武器のみ装備できます。\n※キャラクターの見た目には反映されません。\n※ステータスは50%が反映されます。\n※Rアビリティのptは50%が反映されます。</color>",
-      "En": "The <command_color=common_03>stats, C. abilities, and R. abilities of ability weapons are reflected.</color>\n<command_color=common_02>*Only character-specific weapons can be equipped.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. ability points are reflected.</color>"
+      "Ja": "<command_color=common_03>「アビリティ武器」</color>はステータス、Cアビリティ、Rアビリティ、刻印が反映されます。\n<command_color=common_02>※自身の武器のみ装備でき、キャラクターの見た目には反映されません。\n※ステータスは50%が反映されます。\n※Rアビリティのptは50%が反映されます。</color>",
+      "En": "The <command_color=common_03>stats, C. abilities, R. abilities, and Brands of ability weapons are reflected.</color>\n<command_color=common_02>*Only character-specific weapons can be equipped.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. ability points are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 12,
+    "Seq": 13,
     "ResourceId": 2012,
     "ConditionSetId": 0
   },
@@ -1015,7 +1030,7 @@
       "En": "The C. Abilities and sub stats of <command_color=common_03>materia</color> are reflected. Their effects are increased based on the support materia with which they're paired."
     },
     "HelpPopupGroupId": 20,
-    "Seq": 13,
+    "Seq": 15,
     "ResourceId": 2013,
     "ConditionSetId": 0
   },
@@ -1026,12 +1041,42 @@
       "En": "Sub Weapons"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「サブ武器」</color>はステータス、Rアビリティが反映されます。\n<command_color=common_02>※キャラクターの見た目には反映されません。\n※ステータスは50%が反映されます。\n※Rアビリティのptは50%が反映されます。</color>",
-      "En": "The stats and R. Abilities of <command_color=common_03>sub weapons</color> are reflected.\n<command_color=common_02>*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. Ability pts are reflected.</color>"
+      "Ja": "<command_color=common_03>「サブ武器」</color>はステータス、Rアビリティ、刻印が反映されます。\n<command_color=common_02>※アルティメット武器はサブ武器に装備できません。\n※キャラクターの見た目には反映されません。\n※ステータス、Rアビリティのptは50%が反映されます。</color>",
+      "En": "The stats, Brands, and R. Abilities of <command_color=common_03>sub weapons</color> are reflected.\n<command_color=common_02>*Ultimate weapons cannot be equipped as sub weapons.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. Ability pts are reflected.</color>"
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 16,
+    "ResourceId": 2014,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2015,
+    "Title": {
+      "Ja": "UCアビリティについて",
+      "En": "U. C. Abilities (Ultimate Command Abilities)"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>アルティメット武器</color>を装備することで使用できるアビリティです。\n<command_color=common_03>ATBゲージ</color>を消費せずに使用することができます。\n1バトル中に<command_color=common_03>使用できる回数に制限</color>があるほか、使用可能になるまでに<color=#95C7FF>チャージタイムが必要</color>です。",
+      "En": "These abilities can be used in battle by equipping ultimate weapons. \nThey can be used without consuming ATB, but there is <color=#95C7FF>a limit to the number of times</color> \nthey can be used in a single battle and may require time to <color=#95C7FF>recharge</color>."
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 5,
+    "ResourceId": 2015,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2016,
+    "Title": {
+      "Ja": "アルティメット武器について",
+      "En": "Ultimate Weapons"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「アルティメット武器」</color>はステータス、UCアビリティ、Rアビリティ、刻印が反映されます。\n<command_color=common_02>※自身のアルティメット武器のみ装備でき、キャラクターの見た目には反映されません。</color>",
+      "En": "Stats, U. C. abilities, R. abilities, and brands of <command_color=common_03>ultimate weapons</color> are reflected.\n<command_color=common_02>*Ultimate weapons are specific to each character and are not reflected in their appearance.</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 14,
-    "ResourceId": 2014,
+    "ResourceId": 2016,
     "ConditionSetId": 0
   },
   {
@@ -1440,6 +1485,306 @@
     "ConditionSetId": 0
   },
   {
+    "Id": 3801,
+    "Title": {
+      "Ja": "ギルドのレベルについて",
+      "En": "Guild Level"
+    },
+    "Description": {
+      "Ja": "ギルドのメンバーが獲得したギルド経験値の合計が一定値に達することで、\nギルドのレベルが上がります。\nギルド経験値は<command_color=common_03>ギルドのログインボーナスやギルドミッションなどで獲得</color>できます。",
+      "En": "A guild levels up when its members obtain a certain amount of guild EXP. Guild EXP can be obtained from means such as <command_color=common_03>guild login bonuses and guild missions</color>."
+    },
+    "HelpPopupGroupId": 38,
+    "Seq": 1,
+    "ResourceId": 3801,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3802,
+    "Title": {
+      "Ja": "ギルドボーナスについて",
+      "En": "Guild Bonuses"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ギルドボーナス」はギルドに所属することで自動的に受けられる効果</color>です。\nギルドマスター、サブマスターは<command_color=common_03>専用のポイントを消費して、\n新たなボーナスの解放やレベルアップ</color>ができます。\n<command_color=common_02>※ギルドボーナスポイントはギルドメンバーが獲得した合計値です。</color>",
+      "En": "<command_color=common_03>Guild bonuses</color> are effects that are automatically granted to everyone in the guild. The guildmaster and submasters can use bonus points to <command_color=common_03>unlock or enhance</color> these bonuses.\n<command_color=common_02>*Guild bonus points can be obtained by guild members.</color>"
+    },
+    "HelpPopupGroupId": 38,
+    "Seq": 2,
+    "ResourceId": 3802,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3803,
+    "Title": {
+      "Ja": "ギルドのメニューについて",
+      "En": "Guild Menu"
+    },
+    "Description": {
+      "Ja": "メニューからは<command_color=common_03>ギルドメンバーやギルドイベントの戦績などを確認</color>できます。\nギルドマスターとサブマスターは、<command_color=common_03>ギルドのマークや背景、検索条件も変更</color>できます。",
+      "En": "<command_color=common_03>The guild roster and records</color> can be viewed from the menu. The guildmaster and submasters can also <command_color=common_03>change the guild's emblem, wallpaper, and search conditions</color>."
+    },
+    "HelpPopupGroupId": 38,
+    "Seq": 3,
+    "ResourceId": 3803,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3804,
+    "Title": {
+      "Ja": "チャットについて",
+      "En": "Guild Chat"
+    },
+    "Description": {
+      "Ja": "ギルドのメンバーと<command_color=common_03>「チャット」</color>ができます。\n「チャット」ではテキストやスタンプを送信でき、ギルドのメンバーからマルチバトルへの\n招待を受け取ることができます。",
+      "En": "You can use the <command_color=common_03>Chat</color> feature to communicate with guild members through text and stamps and even receive co-op battle invitations."
+    },
+    "HelpPopupGroupId": 38,
+    "Seq": 4,
+    "ResourceId": 3804,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3805,
+    "Title": {
+      "Ja": "ギルドの脱退について",
+      "En": "Leaving a Guild"
+    },
+    "Description": {
+      "Ja": "所属しているギルドを<command_color=common_03>1日に2回以上脱退すると「脱退ペナルティ」が発生</color>します。\n「脱退ペナルティ」は24時間経過するまで、新たにギルドの設立、\nもしくはギルドへの加入申請ができなくなります。\n<command_color=common_02>※ギルドに14日ログインしない場合も自動的にギルドを脱退します。</color>",
+      "En": "Leaving guilds twice in a single day will trigger a <command_color=common_03>24-hour cooldown</color>. You cannot create a guild or send requests to other guilds during this time.\n<command_color=common_02>*You will automatically be removed from a guild if you fail to log in to the guild for 14 days.</color>"
+    },
+    "HelpPopupGroupId": 38,
+    "Seq": 5,
+    "ResourceId": 3805,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3901,
+    "Title": {
+      "Ja": "ギルド設定について",
+      "En": "Guild Settings"
+    },
+    "Description": {
+      "Ja": "「ギルド設定」では、<command_color=common_03>ギルドのマークや背景、検索条件などの変更</color>が可能です。\n<command_color=common_02>※「ギルド設定」はギルドマスターとサブマスターのみ表示され、変更できます。</color>",
+      "En": "The guild's <command_color=common_03>emblem, wallpaper, and search conditions</color> can be changed through Settings in the guild menu.\n<command_color=common_02>*The Settings option will only display for the guildmaster and submasters.</color>"
+    },
+    "HelpPopupGroupId": 39,
+    "Seq": 1,
+    "ResourceId": 3901,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3902,
+    "Title": {
+      "Ja": "ギルドメンバーについて",
+      "En": "Guild Members"
+    },
+    "Description": {
+      "Ja": "「ギルドメンバー」では、ギルドに所属しているプレイヤーを確認できます。\nまた、サブマスターは<command_color=common_03>メンバーの状態管理、ギルドへの加入申請への対応</color>もできます。\n更にギルドマスターのみサブマスターへの任命など、<command_color=common_03>マスター権限の設定</color>が可能です。",
+      "En": "You can view the guild's roster from Members. Submasters <command_color=common_03>manage the roster and can accept players' requests to join the guild</color>. The guildmaster has <command_color=common_03>administrative privileges</color> such as assigning submasters."
+    },
+    "HelpPopupGroupId": 39,
+    "Seq": 2,
+    "ResourceId": 3902,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3903,
+    "Title": {
+      "Ja": "ギルド実績について",
+      "En": "Guild Records"
+    },
+    "Description": {
+      "Ja": "「ギルド実績」ではギルドイベントでの戦績、個人戦績の確認やギルドのマーク、\n背景などの獲得条件の確認ができます。\n<command_color=common_02>※獲得したギルドマーク、背景は自動的にギルドに付与されます。</color>",
+      "En": "Guild event records, individual records, and the guild's emblem and wallpaper can be viewed from Guild Records.\n<command_color=common_02>*Guild emblems and wallpapers obtained will automatically be shared with the guild.</color>"
+    },
+    "HelpPopupGroupId": 39,
+    "Seq": 3,
+    "ResourceId": 3903,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3904,
+    "Title": {
+      "Ja": "ギルド検索について",
+      "En": "Guild Search"
+    },
+    "Description": {
+      "Ja": "「ギルド検索」では<command_color=common_03>ギルドIDや条件を指定してギルドの検索</color>ができます。\nまた、<command_color=common_03>「ウォッチリスト」</color>に登録すると、気になるギルドをリストに保持することができます。\n",
+      "En": "With Guild Search, you can search for guilds by <command_color=common_03>guild ID or certain conditions</color>. You can also save guilds to your <command_color=common_03>watch list</color>."
+    },
+    "HelpPopupGroupId": 39,
+    "Seq": 4,
+    "ResourceId": 3904,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4001,
+    "Title": {
+      "Ja": "ギルドミッションの報酬について",
+      "En": "Guild Mission Rewards"
+    },
+    "Description": {
+      "Ja": "「ギルドミッション」の報酬に<command_color=common_03>「ギルド経験値」「ギルドボーナスポイント」</color>があります。\nこれらの報酬はギルドに直接付与されます。",
+      "En": "Guild missions reward <command_color=common_03>guild EXP and guild bonus points</color>, both which are shared with the guild."
+    },
+    "HelpPopupGroupId": 40,
+    "Seq": 1,
+    "ResourceId": 4001,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4101,
+    "Title": {
+      "Ja": "スタンプについて",
+      "En": "Stamps"
+    },
+    "Description": {
+      "Ja": "同じギルドメンバー同士で<command_color=common_03>「チャット」</color>ができます。\nチャットではスタンプも使用でき、使いたいスタンプは一覧から選択します。",
+      "En": "The <command_color=common_03>Chat</color> feature allows you to communicate with members in your guild. Stamps can also be used by selecting them from the list."
+    },
+    "HelpPopupGroupId": 41,
+    "Seq": 1,
+    "ResourceId": 4101,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4102,
+    "Title": {
+      "Ja": "マルチバトルの招待について",
+      "En": "Co-op Battle Invitations"
+    },
+    "Description": {
+      "Ja": "マルチバトルのマッチング「プライベート」から<command_color=common_03>「ギルド招待」</color>ができます。\n「ギルド招待」は<command_color=common_03>チャットに通知が送られ、同じギルドのメンバーを招待</color>できます。",
+      "En": "Through co-op battle private matching, you can select <command_color=common_03>Invite Guild</color> to send a message to and invite members from your guild."
+    },
+    "HelpPopupGroupId": 41,
+    "Seq": 2,
+    "ResourceId": 4102,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4201,
+    "Title": {
+      "Ja": "拒否リストについて",
+      "En": "Block List"
+    },
+    "Description": {
+      "Ja": "拒否リストに登録しているプレイヤーの、「チャット」での発言が見えなくなります。\n<command_color=common_02>※相手プレイヤーのプロフィールから登録ができます。\n※マルチバトルでのマッチングには影響ありません。</color>",
+      "En": "Any messages posted in the Chat feature by a blocked player will not be displayed.\n<command_color=common_02>*You can block a player from their profile.\n*This does not affect co-op battle matching.</color>"
+    },
+    "HelpPopupGroupId": 42,
+    "Seq": 1,
+    "ResourceId": 4201,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4301,
+    "Title": {
+      "Ja": "ギルドバトルについて1",
+      "En": "Guild Battle 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ギルドバトル」</color>は<command_color=common_03>ギルドメンバーがイベント中に獲得したスコアの合計</color>で\nギルドのランキングが決まります。 \n<command_color=common_02>※ギルドバトルでは各プレイヤーが1日に挑戦できる回数が決まっています。</color>",
+      "En": "In <command_color=common_03>guild battles</color>, the guild ranking is determined by <command_color=common_03>the total score obtained by each guild</color> during the event.\n<command_color=common_02>*There is a limit to the guild battles each player can attempt in a single day.</color>"
+    },
+    "HelpPopupGroupId": 43,
+    "Seq": 1,
+    "ResourceId": 4301,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4302,
+    "Title": {
+      "Ja": "ギルドバトルについて2",
+      "En": "Guild Battle 2"
+    },
+    "Description": {
+      "Ja": "ギルドバトルのボスはHPが多く、<command_color=common_03>与えたダメージは次のバトルにも引き継ぎ</color>ます。\n <command_color=common_03>他のギルドメンバーが与えたダメージも反映</color>されます。",
+      "En": "Guild battle bosses have a massive amount of HP, and any damage dealt <command_color=common_03>will be carried over into the next battle</color>. \n<command_color=common_03>Damage dealt by other guild members</color> will also be reflected in the bosses' HP."
+    },
+    "HelpPopupGroupId": 43,
+    "Seq": 2,
+    "ResourceId": 4302,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4303,
+    "Title": {
+      "Ja": "ギルドバトルについて3",
+      "En": "Guild Battle 3"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>ボスのHPを一定値まで削るとスコアボーナスを追加で獲得</color>できます。 \nボスが複数体いる場合は、合計HPを一定値まで削ることでスコアボーナスを獲得</color>できます。\n各バトルのボスを撃破することで<command_color=common_03>ギルドメンバー全員が「撃破報酬」を獲得できます。\n<command_color=common_02>※バトル内のボスが複数いる場合、すべてのボスを倒すことで撃破となります。</color>",
+      "En": "Depleting the boss's HP a set amount <command_color=common_03>will yield an additional score bonus</color>. \nFor battles with multiple bosses, depleting the <command_color=common_03>bosses' total HP a set amount</color> will yield a score bonus. \nDefeating the bosses in each battle <command_color=common_03>will yield rewards for all guild members.</color>\n<command_color=common_02>*If a battle has multiple bosses, all bosses must be defeated in order to earn the reward.</color>"
+    },
+    "HelpPopupGroupId": 43,
+    "Seq": 3,
+    "ResourceId": 4303,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4304,
+    "Title": {
+      "Ja": "ギルドバトルについて4",
+      "En": "Guild Battle 4"
+    },
+    "Description": {
+      "Ja": "撃破したボスは<command_color=common_03>特定のタイミングで復活</color>します。\nまた、<command_color=common_03>すべてのボスを撃破することでもすべてのボスが復活</color>します。\n<command_color=common_02>※撃破されていないボスのHPは復活タイミングでも回復しません。</color>",
+      "En": "Defeated bosses are <command_color=common_03>revived at a certain time.</color> Defeating all of the bosses <command_color=common_03>will revive all bosses immediately</color>.\n<command_color=common_02>*The HP of undefeated bosses will not be restored when revived.</color>"
+    },
+    "HelpPopupGroupId": 43,
+    "Seq": 4,
+    "ResourceId": 4304,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4305,
+    "Title": {
+      "Ja": "追加武装について1",
+      "En": "Additional Equipment 1"
+    },
+    "Description": {
+      "Ja": "ギルドバトルでは通常のパーティ編成に加え、<command_color=common_03>「追加武装」を編成</color>できます。\n追加武装では余っている武器やウェアを編成し、<command_color=common_03>アビリティ威力を上昇</color>させることができます。\n<command_color=common_02>※キャラクターがすでに装備している装備は追加武装に編成できません\n※アルティメット武器は追加武装に編成できません。</color>",
+      "En": "Guild battles allow for the use of <command_color=common_03>additional equipment</color>, in which spare weapons and gear can be set to <command_color=common_03>increase the potency of abilities</color>. \nThese weapons and gear have points, and <command_color=common_03>the effect is increased based on the point total</color>.\n<command_color=common_02>*Weapon points vary based on weapon enhancements.\n*Characters' current equipment cannot be set as additional equipment.\n*Ultimate weapons cannot be set as additional equipment.</color>"
+    },
+    "HelpPopupGroupId": 43,
+    "Seq": 5,
+    "ResourceId": 4305,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4306,
+    "Title": {
+      "Ja": "模擬戦について",
+      "En": "Mock Battles"
+    },
+    "Description": {
+      "Ja": "ギルドバトルには<command_color=common_03>「模擬戦」</color>があり、スコアや報酬などは獲得できませんが、\n<command_color=common_03>挑戦回数を消費せずにバトルに挑戦</color>できます。\n<command_color=common_02>※戦術検討期間は模擬戦のみ挑戦できます。\n※模擬戦ではボスのHPはギルドメンバーには共有されません。</color>",
+      "En": "<command_color=common_03>Mock battles</color> do not yield scores or rewards, but allow players to <command_color=common_03>take on guild battles without using any attempts</color>.\n<command_color=common_02>*Only mock battles are available during the strategy period.\n*The bosses' HP in mock battles are not shared among guild members.</color>"
+    },
+    "HelpPopupGroupId": 43,
+    "Seq": 7,
+    "ResourceId": 4306,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 4308,
+    "Title": {
+      "Ja": "追加武装について2",
+      "En": "Additional Equipment 2"
+    },
+    "Description": {
+      "Ja": "武器やウェアにはそれぞれにポイントがあり、<command_color=common_03>ポイントの合計に応じて効果が上昇</color>します。\n<command_color=common_02>※武器のポイントは武器の強化状態によって上昇します。</color>",
+      "En": "Weapons and gear have points, and <command_color=common_03>effects are increased based on the point total</color>.\n<command_color=common_02>*Weapon points vary based on weapon enhancements.</color>"
+    },
+    "HelpPopupGroupId": 43,
+    "Seq": 6,
+    "ResourceId": 4308,
+    "ConditionSetId": 0
+  },
+  {
     "Id": 4601,
     "Title": {
       "Ja": "ゲームデータ連携について",
@@ -1527,6 +1872,51 @@
     "HelpPopupGroupId": 51,
     "Seq": 1,
     "ResourceId": 5101,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5201,
+    "Title": {
+      "Ja": "アルティメット武器強化について1",
+      "En": "Enhancing Ultimate Weapons 1"
+    },
+    "Description": {
+      "Ja": "アルティメット武器強化では所持している<command_color=common_03>アルティメット武器の強化</color>ができます。\n<command_color=common_02>※アルティメット武器にレアリティアップや限界突破はありません。</color>",
+      "En": "Ultimate weapons can be strengthened through <command_color=common_03>weapon enhancement</color>.\n<command_color=common_02>*Unlike standard weapons, they cannot be overboosted or have their rarity upgraded.</color>"
+    },
+    "HelpPopupGroupId": 52,
+    "Seq": 1,
+    "ResourceId": 5201,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5202,
+    "Title": {
+      "Ja": "アルティメット武器強化について2",
+      "En": "Enhancing Ultimate Weapons 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>刻印石</color>を使用してアルティメット武器に<command_color=common_03>刻印</color>することができます。\n<command_color=common_03>刻印</color>を行うことで武器に<command_color=common_03>ランダムなパラメータを最大3つまで</color>付加することができます。",
+      "En": "<command_color=common_03>Branding stones</color> can be used to <command_color=common_03>brand</color> weapons and apply <command_color=common_03>up to three random effects</color>."
+    },
+    "HelpPopupGroupId": 52,
+    "Seq": 2,
+    "ResourceId": 5202,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5203,
+    "Title": {
+      "Ja": "アルティメット武器強化について3",
+      "En": "Enhancing Ultimate Weapons 3"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>UC（アルティメットコマンド）アビリティ</color>・・・バトル時に使用するアビリティです。\nUCアビリティはATBゲージを消費しません。",
+      "En": "<command_color=common_03>U. C. abilities (Ultimate Command abilities)</color>: Abilities used in battle. They do not consume ATB."
+    },
+    "HelpPopupGroupId": 52,
+    "Seq": 3,
+    "ResourceId": 5203,
     "ConditionSetId": 0
   },
   {
