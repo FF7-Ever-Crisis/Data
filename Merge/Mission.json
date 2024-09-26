@@ -67235,7 +67235,7 @@
     "MissionSetIdx": 12,
     "AutoMissionCountType": 3,
     "MissionType": 73,
-    "TargetId1": 301213,
+    "TargetId1": 301518,
     "TargetId2": 0,
     "TargetId3": 0,
     "TargetValue": 0,
@@ -71735,6 +71735,346 @@
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 9002,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900301001,
+    "NameTemplate": {
+      "Ja": "模擬戦に{0}回挑戦する。",
+      "En": "Attempt a mock battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "模擬戦に{0}回挑戦する。",
+      "En": "Attempt a mock battle {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900301,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 165,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900300,
+    "OpenConditionSetId": 280120900300,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900301002,
+    "NameTemplate": {
+      "Ja": "模擬戦に{0}回挑戦する。",
+      "En": "Attempt a mock battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "模擬戦に{0}回挑戦する。",
+      "En": "Attempt a mock battle {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900301,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 165,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900300,
+    "OpenConditionSetId": 280120900300,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900301003,
+    "NameTemplate": {
+      "Ja": "模擬戦に{0}回挑戦する。",
+      "En": "Attempt a mock battle {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "模擬戦に{0}回挑戦する。",
+      "En": "Attempt a mock battle {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900301,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 165,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900300,
+    "OpenConditionSetId": 280120900300,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900301004,
+    "NameTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900301,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 164,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900301,
+    "OpenConditionSetId": 280120900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900301005,
+    "NameTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900301,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 164,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900301,
+    "OpenConditionSetId": 280120900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900301006,
+    "NameTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900301,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 164,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900301,
+    "OpenConditionSetId": 280120900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900301007,
+    "NameTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900301,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 164,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900301,
+    "OpenConditionSetId": 280120900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900302001,
+    "NameTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900302,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 164,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900302,
+    "OpenConditionSetId": 280120900302,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900302002,
+    "NameTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900302,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 164,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900302,
+    "OpenConditionSetId": 280120900302,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120900302003,
+    "NameTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "本戦に{0}回挑戦する。",
+      "En": "Attempt an official match {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120900302,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 164,
+    "TargetId1": 9003,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270120900302,
+    "OpenConditionSetId": 280120900302,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 9003,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false

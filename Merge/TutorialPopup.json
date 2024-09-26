@@ -3199,6 +3199,19 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「MEGAFLARE CHARGE」",
+      "En": "Force Gauge: Megaflare Charge"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>物防</color>」と「<command_color=common_03>魔防</color>」が上昇している状態です。\nフォースゲージ展開中は<command_color=common_03>無属性以外の属性に対して強力な耐性</color>を持っており、\n敵に<command_color=common_03>無属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージ終了時のゲージ残量が少ないほど、\nその後に発動する<command_color=common_03>敵の強力なアビリティの威力や効果量が上昇</color>します。",
+      "En": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PDEF</color> and <command_color=common_03>MDEF</color>. It also has a  <command_color=common_03>strong resistance to elemental attacks</color> while the force gauge is active. <command_color=common_03>Dealing non-elemental damage</color> will deplete the gauge, and the less the gauge is filled when it disappears, <command_color=common_03>the more potent their subsequent powerful ability and its effects</color>."
+    },
+    "TutorialPopupGroupId": 310000028,
+    "Seq": 1,
+    "ResourceId": 3100000281
+  },
+  {
+    "Title": {
       "Ja": "状態異常【恐怖】",
       "En": "Status Ailment: Dread"
     },

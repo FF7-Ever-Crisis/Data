@@ -4214,6 +4214,34 @@
     "SkillStatusChangeEffectId": 0
   },
   {
+    "Id": 535031,
+    "Description": {
+      "Ja": "魔法攻撃力 +{1}%",
+      "En": "Mag. Attack +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0
+  },
+  {
+    "Id": 535032,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0
+  },
+  {
     "Id": 536011,
     "Description": {
       "Ja": "インタラプト中アビリティ威力+{1}%",
@@ -4323,6 +4351,62 @@
     "PassiveSkillTriggerType": 5,
     "PassiveSkillFilterGroupId": 3,
     "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0
+  },
+  {
+    "Id": 538011,
+    "Description": {
+      "Ja": "インタラプト発生時、味方全体のATB+{0}",
+      "En": "All Allies' ATB +{0} when interrupting enemy"
+    },
+    "Level": 1,
+    "EffectValue": 500,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0
+  },
+  {
+    "Id": 538011,
+    "Description": {
+      "Ja": "インタラプト発生時、味方全体のATB+{0}",
+      "En": "All Allies' ATB +{0} when interrupting enemy"
+    },
+    "Level": 2,
+    "EffectValue": 1000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0
+  },
+  {
+    "Id": 538011,
+    "Description": {
+      "Ja": "インタラプト発生時、味方全体のATB+{0}",
+      "En": "All Allies' ATB +{0} when interrupting enemy"
+    },
+    "Level": 3,
+    "EffectValue": 1500,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0
+  },
+  {
+    "Id": 538011,
+    "Description": {
+      "Ja": "インタラプト発生時、味方全体のATB+{0}",
+      "En": "All Allies' ATB +{0} when interrupting enemy"
+    },
+    "Level": 4,
+    "EffectValue": 2000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 1,
     "SkillStatusChangeEffectId": 0
   }
 ]
