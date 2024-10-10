@@ -413,8 +413,20 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Weary Breath</color>."
         },
         {
+            "id": 130000002052005,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nFinal Attack: <command_color=emphasis>Frozen Candy Treat</color>\n\nUpon defeat, grants <command_color=common_03><sprite=\"tmp_icon\" index=336>Fire Resistance Up</color> and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=410>Ice Resistance Down</color> with the final attack.\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Disenchanting Breath</color>."
+        },
+        {
             "id": 130000002052101,
             "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Dispiriting Breath</color>."
+        },
+        {
+            "id": 130000002052105,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nFinal Attack: <command_color=emphasis>Burned Cookie Treat</color>\n\nUpon defeat, grants <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color> and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=409>Fire Resistance Down</color> with the final attack.\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Disenchanting Breath</color>."
+        },
+        {
+            "id": 130000002052201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Dispiriting Breath</color> and <command_color=emphasis>Disenchanting Breath</color>. Uses <command_color=common_03>Provoke</color> to protect its allies by making itself a target. "
         },
         {
             "id": 130000002053001,
@@ -545,6 +557,10 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <command_color=common_03>ice-element magic attacks</color>. <command_color=common_03>Fire resistance</color> changes based on Force Gauge: <command_color=emphasis>Ice Age</color>. The gauge can only be depleted with <command_color=common_03>fire-element abilities</color>.\n \n<command_color=common_03>Magic attacks</color> are effective against this enemy."
         },
         {
+            "id": 130000002512007,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses <command_color=common_03>powerful ice-element magic abilities</color>. At the start of battle, uses <command_color=emphasis>Guard Sync</color> to even out PDEF and MDEF with Ramuh. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=336>Fire Resistance Up</color> with <command_color=emphasis>Frosty Veil</color>. \n\n<command_color=common_03><sprite=\"tmp_icon\" index=409>Fire Resistance Down</color> is effective against this enemy."
+        },
+        {
             "id": 130000002513001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses many <command_color=common_03>physical attacks</color>. Unleashes a powerful linked attack with <command_color=common_03>Vajradhara Tai</color>, but afterward becomes <command_color=common_03>incapacitated</color> for a certain amount of time and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> on self."
         },
@@ -665,12 +681,20 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<command_color=common_03>Lightning potency</color> changes based on Force Gauge: <command_color=emphasis>Lightning</color>. The gauge can be depleted with damage. During <command_color=emphasis>Stormcharge</color>, the gauge fills quickly."
         },
         {
+            "id": 130000002530007,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses <command_color=common_03>powerful lightning-element magic abilities</color>. At the start of battle, uses <command_color=emphasis>Guard Sync</color> to even out PDEF and MDEF with Shiva.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=413>Water Resistance Down</color> is effective against this enemy."
+        },
+        {
             "id": 130000002531001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <command_color=common_03>magic attacks</color>. Calls allies to battle, but after a certain amount of time, absorbs them to grant self <sprite=\"tmp_icon\" index=326><command_color=common_03>MATK Up</color>. The number of allies determines the potency of <command_color=emphasis>Glacial Breath</color>.\n\n<command_color=common_03>Wind-element abilities</color> are effective against its allies."
         },
         {
             "id": 130000002531101,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <command_color=common_03>magic attacks</color>. Grants self greater <command_color=common_03>Physical Resistance and Magic Resistance</color> with <command_color=emphasis>Fortification</color>.  <command_color=emphasis>Fortification</color> can be removed by interrupting the enemy or <command_color=common_03>depleting the HP of its summoned allies</color>.\n\n<command_color=common_03>Wind-element abilities</color> are effective against its allies."
+        },
+        {
+            "id": 130000002531201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses <command_color=common_03>powerful fire- and ice-element magic abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=406>dread</color> and <command_color=common_03><sprite=\"tmp_icon\" index=394>sedate</color> with <command_color=emphasis>Fearful Celebration</color>. Unleashes <command_color=emphasis>Fearful Celebration</color> again when Force Gauge: <command_color=emphasis>Increasing Dread</color> is full. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=338>Lightning Resistance Up</color> with <command_color=emphasis>Lightning Guard Mantle</color>.\n\n<command_color=common_03>Lightning-element magic abilities</color> are effective against this enemy."
         },
         {
             "id": 130000002536002,

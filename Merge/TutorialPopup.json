@@ -3212,6 +3212,19 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「FEAR INCREASE」",
+      "En": "Force Gauge: Increasing Dread"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージが最大までたまると<command_color=common_03>敵のアビリティ「戦慄の宴」が発動</color>します。\nフォースゲージは<command_color=common_03>時間経過</color>でたまっていきます。",
+      "En": "The enemy's force gauge fills <command_color=common_03>over time</color>, and when the gauge is full, the ability <command_color=common_03>Fearful Celebration</color> is unleashed. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
+    },
+    "TutorialPopupGroupId": 310000029,
+    "Seq": 1,
+    "ResourceId": 3100000291
+  },
+  {
+    "Title": {
       "Ja": "状態異常【恐怖】",
       "En": "Status Ailment: Dread"
     },

@@ -413,8 +413,20 @@
             "value": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\n[<command_color=emphasis>脱力の息</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン・<sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n\n\n\n"
         },
         {
+            "id": 130000002052005,
+            "value": "無効：<sprite=\"tmp_icon\" index=392>スタン \nファイナルアタック： [<command_color=emphasis>フリーズキャンディ</color>]\n\n自身が倒された際、ファイナルアタックにより<command_color=common_03><sprite=\"tmp_icon\" index=336>炎属性耐性アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=410>冷属性耐性ダウン</color>が付与される。\n\n[<command_color=emphasis>大脱魔の息</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n\n"
+        },
+        {
             "id": 130000002052101,
             "value": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\n[<command_color=emphasis>脱魔の息</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。"
+        },
+        {
+            "id": 130000002052105,
+            "value": "無効：<sprite=\"tmp_icon\" index=392>スタン \nファイナルアタック： [<command_color=emphasis>バーンクッキー</color>]\n\n自身が倒された際、ファイナルアタックにより<command_color=common_03><sprite=\"tmp_icon\" index=337>冷属性耐性アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=409>炎属性耐性ダウン</color>が付与される。\n\n[<command_color=emphasis>大脱魔の息</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n\n"
+        },
+        {
+            "id": 130000002052201,
+            "value": "無効：<sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n[<command_color=emphasis>脱魔の息</color>] [<command_color=emphasis>大脱魔の息</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n自身にターゲットを固定する<command_color=common_03>挑発</color>の効果で味方を守る。\n\n\n\n"
         },
         {
             "id": 130000002053001,
@@ -545,6 +557,10 @@
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>冷属性の魔法攻撃</color>を多用する。\nフォースゲージ [<command_color=emphasis>ICE AGE</color>] に応じて<command_color=common_03>炎属性耐性</color>が変動する。\nフォースゲージは<command_color=common_03>炎属性アビリティ</color>でのみ減少する。\n\n<command_color=common_03>魔法</color>・<command_color=common_03>炎属性アビリティ</color>、<command_color=common_03>冷属性耐性</color>が有効。\n"
         },
         {
+            "id": 130000002512007,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>強力な冷属性の魔法アビリティ</color>を使用する。\nバトル開始直後 [<command_color=emphasis>ガードシンク</color>] で、自身とラムウの物理防御力と魔法防御力を均等にする。\n[<command_color=emphasis>フリージングヴェール</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>と<command_color=common_03><sprite=\"tmp_icon\" index=336>炎属性耐性アップ</color>を付与する。\n\n<command_color=common_03>炎属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<command_color=common_03><sprite=\"tmp_icon\" index=409>炎属性耐性ダウン</color>が有効。"
+        },
+        {
             "id": 130000002513001,
             "value": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>物理攻撃</color>を多用する。\n<command_color=common_03>金剛坊タイ</color>との強力な連携攻撃を行う。\nまた、強力な攻撃後一定時間<command_color=common_03>行動不能</color>となり、\n自身に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。"
         },
@@ -665,12 +681,20 @@
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\nフォースゲージ [<command_color=emphasis>LIGHTNING</color>] に応じて<command_color=common_03>雷属性威力</color>が変動する。\nフォースゲージはダメージを与えることにより僅かに減少する。\n[<command_color=emphasis>雷チャージ</color>] 中フォースゲージが大きく増加する。\n\n<command_color=common_03>雷属性耐性</color>、<command_color=common_03>素早いサイン破壊</color>が有効。\n"
         },
         {
+            "id": 130000002530007,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>強力な雷属性の魔法アビリティ</color>を使用する。\nバトル開始直後 [<command_color=emphasis>ガードシンク</color>] で、自身とシヴァの物理防御力と魔法防御力を均等にする。\n\n<command_color=common_03>水属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<command_color=common_03><sprite=\"tmp_icon\" index=413>水属性耐性ダウン</color>が有効。"
+        },
+        {
             "id": 130000002531001,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>魔法攻撃</color>を多用する。\n仲間を呼び寄せて戦うが、一定時間経過すると仲間を吸収し、\n自身に<sprite=\"tmp_icon\" index=326><command_color=common_03>魔攻アップ</color>を付与する。\n\n<command_color=common_03>風属性弱点の仲間を呼ぶ</color>ため、<command_color=common_03>風属性アビリティ</color>が有効。\nまた、<sprite=\"tmp_icon\" index=325><command_color=common_03>魔防アップ</color>が有効。"
         },
         {
             "id": 130000002531101,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>魔法攻撃</color>を多用する。\n[<command_color=emphasis>軍勢の防壁</color>] で自身に強力な<command_color=common_03>物理、魔法耐性</color>を付与する。\n[<command_color=emphasis>軍勢の防壁</color>] はインタラプトを行うか、\n<command_color=common_03>呼び寄せた全ての仲間のHPを0にする</color>ことで解除できる。\n\n<command_color=common_03>風属性弱点の仲間を呼ぶ</color>ため、<command_color=common_03>風属性アビリティ</color>が有効。\nまた、<sprite=\"tmp_icon\" index=325><command_color=common_03>魔防アップ</color>が有効。"
+        },
+        {
+            "id": 130000002531201,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>強力な炎・冷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>戦慄の宴</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=406>恐怖</color>・<command_color=common_03><sprite=\"tmp_icon\" index=394>悲しい</color>を付与する。\nフォースゲージ [<command_color=emphasis>FEAR INCREASE</color>] が最大になると [<command_color=emphasis>戦慄の宴</color>] を再度使用する。\n[<command_color=emphasis>避雷のマント</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=338>雷耐性アップ</color>を付与する。\n\n\n<command_color=common_03>雷属性の魔法アビリティ</color>が有効。\n魔法が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。"
         },
         {
             "id": 130000002536002,

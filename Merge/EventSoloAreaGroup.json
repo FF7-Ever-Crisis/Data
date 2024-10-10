@@ -253,6 +253,17 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 3016,
+    "Name": {
+      "Ja": "襲来！冥き軍団の将",
+      "En": "Attack of the Dark Army General"
+    },
+    "EventBaseId": 3016,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 5002,
     "Name": {
       "Ja": "鉄巨人討伐",
@@ -592,5 +603,27 @@
     "OrderNo": 2,
     "ResourceId": 1200402,
     "LockConditionSetId": 870001200402
+  },
+  {
+    "Id": 1200501,
+    "Name": {
+      "Ja": "トライアル",
+      "En": "Trial"
+    },
+    "EventBaseId": 12005,
+    "OrderNo": 1,
+    "ResourceId": 1200501,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 1200502,
+    "Name": {
+      "Ja": "フリーチャレンジ",
+      "En": "Free Challenge"
+    },
+    "EventBaseId": 12005,
+    "OrderNo": 2,
+    "ResourceId": 1200502,
+    "LockConditionSetId": 870001200502
   }
 ]
