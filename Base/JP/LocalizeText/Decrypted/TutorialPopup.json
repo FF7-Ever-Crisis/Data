@@ -625,6 +625,10 @@
             "value": "EXTRA SECTIONについて"
         },
         {
+            "id": 970000223100101,
+            "value": "BEYOND SECTIONについて"
+        },
+        {
             "id": 970000224000101,
             "value": "ギルドについて"
         },
@@ -941,6 +945,10 @@
             "value": "状態異常【恐怖】"
         },
         {
+            "id": 970003200000021,
+            "value": "状態異常【出血・大出血】"
+        },
+        {
             "id": 971000101400101,
             "value": "ストーリー選択では、FINAL FANTASY VIIの様々なコンピレーション作品の物語が選択できます。"
         },
@@ -1153,6 +1161,10 @@
             "value": "EXTRA SECTIONでは、同じCHAPTER内で登場したボスに挑戦できます。\n<command_color=common_03>より強力になったボス</color>とのバトルになります。\n難しい場合はパーティを強くして万全の状態にしてから挑戦しましょう。\n\n<command_color=common_02>※EXTRA SECTIONはストーリー進行には影響しません。</color>"
         },
         {
+            "id": 971000223100101,
+            "value": "BEYOND SECTIONでは、同じCHAPTER内のストーリーに関連したエピソードを見ることができます。\n\n<command_color=common_02>※BEYOND SECTIONはストーリー進行には影響しません。</color>"
+        },
+        {
             "id": 971000224000101,
             "value": "<command_color=common_03>「ギルド」</color>が解放されました。\nギルドでは、<command_color=common_03>同じギルドのプレイヤー同士でチャット</color>ができ、\n<command_color=common_03>ギルドに所属することで受けられる恩恵</color>もあります。"
         },
@@ -1234,7 +1246,7 @@
         },
         {
             "id": 971000227100103,
-            "value": "再刻印では、<command_color=common_03>現在の効果と新しい効果のどちらかを選択</color>できます。\n効果を選択したあと、「再刻印」ボタンまたは「刻印を維持」ボタンをタップしてください。\n<command_color=common_03>新しい効果</color>を選択した場合は、刻印の効果が<command_color=common_03>上書き</color>されます。"
+            "value": "再刻印では、<command_color=common_03>現在の効果と新しい効果の中からいずれかを選択</color>できます。\n効果を選択したあと、「再刻印」ボタンまたは「刻印を維持」ボタンをタップしてください。\n<command_color=common_03>新しい効果</color>を選択した場合は、刻印の効果が<command_color=common_03>上書き</color>されます。"
         },
         {
             "id": 971003000000011,
@@ -1403,6 +1415,10 @@
         {
             "id": 971003200000011,
             "value": "<command_color=common_03>恐怖が付与されているキャラクターの数</color>に応じて、\n<command_color=common_03>アタックシフトのコマンドゲージの上昇速度が低下</color>します。\nまた、恐怖中は<command_color=common_03>アタックシフトのダメージ上昇、サイン破壊数増加の効果が発揮されません</color>。\n<command_color=common_03>アタックシフトのコマンドゲージが最大になると、恐怖は解除</color>されます。"
+        },
+        {
+            "id": 971003200000021,
+            "value": "<command_color=common_03>Cアビリティを使用した際、ダメージを受ける状態</color>です。\nまた、<command_color=common_03>出血中に再度出血を受けることで大出血に変化します。</color>\n大出血は<command_color=common_03>Cアビリティ使用時に受けるダメージがさらに増加します。</color>\n出血・大出血は、<command_color=common_03>付与されているキャラクターのHPを最大まで回復すると解除</color>されます。"
         }
     ]
 }

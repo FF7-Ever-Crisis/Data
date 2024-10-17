@@ -3576,6 +3576,204 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nGreatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>."
+    },
+    "EnemyLevelConstantGroupId": 2059001,
+    "Level": 1,
+    "ResourceId": 2059001010,
+    "EnemySkillLevelId": 2059001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059002,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059003,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059003010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059004,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059005,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059011,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059012,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059003010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059013,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>風属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Wind-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059014,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nGreatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>."
+    },
+    "EnemyLevelConstantGroupId": 2059101,
+    "Level": 1,
+    "ResourceId": 2059001010,
+    "EnemySkillLevelId": 2059001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059102,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059103,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059003010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059104,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059105,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059111,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059112,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059003010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059113,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な冷・雷属性の魔法アビリティ</color>を使用する。\n[<command_color=emphasis>オーバーマジック</color>] は自身の魔法攻撃力を大幅に増加する。\nその後、魔法の反動によりしばらく行動不能となる。\n[<command_color=emphasis>ブライン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=386>暗闇</color>を付与する。\n[<command_color=emphasis>デマバリ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful ice- and lightning-element magic abilities</color>. Greatly increases own MATK with <command_color=emphasis>Magic Overflow</color>, but becomes temporarily incapacitated afterward. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> with <command_color=emphasis>Blind</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Mana Breach</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2059114,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<command_color=emphasis>たっくる</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Collide</color>."
     },
@@ -3627,6 +3825,72 @@
     "Level": 1,
     "ResourceId": 2063002010,
     "EnemySkillLevelId": 2063002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>粘液弾</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n[<command_color=emphasis>ベロアタック</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Mucous Discharge</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Tongue Jab</color>."
+    },
+    "EnemyLevelConstantGroupId": 2064001,
+    "Level": 1,
+    "ResourceId": 2064001010,
+    "EnemySkillLevelId": 2064001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>粘液弾</color>] [<command_color=emphasis>粘液ばらまき</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n[<command_color=emphasis>ベロアタック</color>] [<command_color=emphasis>ゲコゲコー</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n物攻が高い対象を狙うため、<command_color=common_03><sprite=\"tmp_icon\" index=334>挑発</color>で対象を守るのが有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Mucous Discharge</color> and <command_color=emphasis>Salientian Slime</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Tongue Jab</color> and <command_color=emphasis>Slobber</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy. <command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is also useful to protect allies as the enemy targets those with high PATK."
+    },
+    "EnemyLevelConstantGroupId": 2064002,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>粘液弾</color>] [<command_color=emphasis>粘液ばらまき</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n[<command_color=emphasis>ベロアタック</color>] [<command_color=emphasis>ゲコゲコー</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>水属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n物攻が高い対象を狙うため、<command_color=common_03><sprite=\"tmp_icon\" index=334>挑発</color>で対象を守るのが有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Mucous Discharge</color> and <command_color=emphasis>Salientian Slime</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Tongue Jab</color> and <command_color=emphasis>Slobber</color>.\n\n<command_color=common_03>Water-element physical abilities</color> are effective against this enemy. <command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is also useful to protect allies as the enemy targets those with high PATK."
+    },
+    "EnemyLevelConstantGroupId": 2064003,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>粘液弾</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n[<command_color=emphasis>ベロアタック</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Mucous Discharge</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Tongue Jab</color>."
+    },
+    "EnemyLevelConstantGroupId": 2064101,
+    "Level": 1,
+    "ResourceId": 2064001010,
+    "EnemySkillLevelId": 2064001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>粘液弾</color>] [<command_color=emphasis>粘液ばらまき</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n[<command_color=emphasis>ベロアタック</color>] [<command_color=emphasis>ゲコゲコー</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>土属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n物攻が高い対象を狙うため、<command_color=common_03><sprite=\"tmp_icon\" index=334>挑発</color>で対象を守るのが有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Mucous Discharge</color> and <command_color=emphasis>Salientian Slime</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Tongue Jab</color> and <command_color=emphasis>Slobber</color>.\n\n<command_color=common_03>Earth-element physical abilities</color> are effective against this enemy. <command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is also useful to protect allies as the enemy targets those with high PATK."
+    },
+    "EnemyLevelConstantGroupId": 2064102,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>粘液弾</color>] [<command_color=emphasis>粘液ばらまき</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n[<command_color=emphasis>ベロアタック</color>] [<command_color=emphasis>ゲコゲコー</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>土属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。\n物攻が高い対象を狙うため、<command_color=common_03><sprite=\"tmp_icon\" index=334>挑発</color>で対象を守るのが有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Mucous Discharge</color> and <command_color=emphasis>Salientian Slime</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Tongue Jab</color> and <command_color=emphasis>Slobber</color>.\n\n<command_color=common_03>Earth-element physical abilities</color> are effective against this enemy. <command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is also useful to protect allies as the enemy targets those with high PATK."
+    },
+    "EnemyLevelConstantGroupId": 2064103,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -7213,6 +7477,50 @@
     "Level": 1,
     "ResourceId": 2548102010,
     "EnemySkillLevelId": 2548101020,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>闇刃虚滅</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>を付与する。\n自身の物理攻撃力を上昇させる [<command_color=emphasis>刀霊光芒</color>] 使用後は、[<command_color=emphasis>闇刃虚滅</color>] で付与される<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>が<command_color=common_03><sprite=\"tmp_icon\" index=408>大出血</color>となる。\n[<command_color=emphasis>即身成刀</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=337>冷属性耐性アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=340>水属性耐性アップ</color>を付与する。\n\n<command_color=common_03>冷・水属性のアビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> with <command_color=emphasis>Devastating Darkness</color>. After using <command_color=emphasis>Illuminating Spirit</color> to raise own PATK, <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> inflicted by <command_color=emphasis>Devastating Darkness</color> becomes <command_color=common_03><sprite=\"tmp_icon\" index=408>hemorrhage</color>. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=340>Water Resistance Up</color> with <command_color=emphasis>Enlightening Blade</color>."
+    },
+    "EnemyLevelConstantGroupId": 2549001,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>闇刃虚滅</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>を付与する。\n自身の物理攻撃力を上昇させる [<command_color=emphasis>刀霊光芒</color>] 使用後は、[<command_color=emphasis>闇刃虚滅</color>] で付与される<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>が<command_color=common_03><sprite=\"tmp_icon\" index=408>大出血</color>となる。\n[<command_color=emphasis>即身成刀</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=337>冷属性耐性アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=340>水属性耐性アップ</color>を付与する。\n\n<command_color=common_03>冷・水属性のアビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> with <command_color=emphasis>Devastating Darkness</color>. After using <command_color=emphasis>Illuminating Spirit</color> to raise own PATK, <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> inflicted by <command_color=emphasis>Devastating Darkness</color> becomes <command_color=common_03><sprite=\"tmp_icon\" index=408>hemorrhage</color>. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=340>Water Resistance Up</color> with <command_color=emphasis>Enlightening Blade</color>."
+    },
+    "EnemyLevelConstantGroupId": 2549002,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>闇刃虚滅</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>を付与する。\n自身の物理攻撃力を上昇させる [<command_color=emphasis>刀霊光芒</color>] 使用後は、[<command_color=emphasis>闇刃虚滅</color>] で付与される<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>が<command_color=common_03><sprite=\"tmp_icon\" index=408>大出血</color>となる。\n[<command_color=emphasis>即身成刀</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=337>冷属性耐性アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=340>水属性耐性アップ</color>を付与する。\n\n<command_color=common_03>冷・水属性のアビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> with <command_color=emphasis>Devastating Darkness</color>. After using <command_color=emphasis>Illuminating Spirit</color> to raise own PATK, <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> inflicted by <command_color=emphasis>Devastating Darkness</color> becomes <command_color=common_03><sprite=\"tmp_icon\" index=408>hemorrhage</color>. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=340>Water Resistance Up</color> with <command_color=emphasis>Enlightening Blade</color>."
+    },
+    "EnemyLevelConstantGroupId": 2549003,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549003010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な物理アビリティ</color>を使用する。\n[<command_color=emphasis>闇刃虚滅</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>を付与する。\n自身の物理攻撃力を上昇させる [<command_color=emphasis>刀霊光芒</color>] 使用後は、[<command_color=emphasis>闇刃虚滅</color>] で付与される<command_color=common_03><sprite=\"tmp_icon\" index=407>出血</color>が<command_color=common_03><sprite=\"tmp_icon\" index=408>大出血</color>となる。\n[<command_color=emphasis>即身成刀</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=337>冷属性耐性アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=340>水属性耐性アップ</color>を付与する。\n\n<command_color=common_03>冷・水属性のアビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> with <command_color=emphasis>Devastating Darkness</color>. After using <command_color=emphasis>Illuminating Spirit</color> to raise own PATK, <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> inflicted by <command_color=emphasis>Devastating Darkness</color> becomes <command_color=common_03><sprite=\"tmp_icon\" index=408>hemorrhage</color>. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=340>Water Resistance Up</color> with <command_color=emphasis>Enlightening Blade</color>."
+    },
+    "EnemyLevelConstantGroupId": 2549004,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549004010,
     "FinalAttackSkillEnemyId": 0
   },
   {

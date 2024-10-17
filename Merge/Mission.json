@@ -1428,6 +1428,74 @@
     "IsRefresh": false
   },
   {
+    "Id": 100001046,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 100001,
+    "MissionSetIdx": 46,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 100001047,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 100001,
+    "MissionSetIdx": 47,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 23,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110001007,
     "NameTemplate": {
       "Ja": "村雨のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -6800,6 +6868,74 @@
     "IsRefresh": true
   },
   {
+    "Id": 190330017,
+    "NameTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3をクリアする。",
+      "En": "Clear FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3をクリアする。",
+      "En": "Clear FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 67,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 440400,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403400010001,
+    "OrderNo": 190330017,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190330017,
+    "OpenConditionSetId": 240190330017,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 440400,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190330018,
+    "NameTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3をクリアする。",
+      "En": "Clear FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3をクリアする。",
+      "En": "Clear FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 68,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 440400,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403400020001,
+    "OrderNo": 190330018,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190330017,
+    "OpenConditionSetId": 240190330017,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 440400,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190500001,
     "NameTemplate": {
       "Ja": "アナザーダンジョン「壱番魔晄炉AREA1」を1回クリアする。",
@@ -8024,6 +8160,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 190605601,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190005,
+    "MissionSetIdx": 56,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190605601,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190700101,
     "NameTemplate": {
       "Ja": "キャラクターストリームで破晄撃を取得する。",
@@ -8908,6 +9078,74 @@
     "IsRefresh": true
   },
   {
+    "Id": 190705601,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでセリトアルボレースを取得する。",
+      "En": "Acquire Serit Arbores from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでセリトアルボレースを取得する。",
+      "En": "Acquire Serit Arbores from a character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 27,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 105602,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407056010001,
+    "OrderNo": 190705601,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190705602,
+    "NameTemplate": {
+      "Ja": "キャラクターストリームでアドアストラを取得する。",
+      "En": "Acquire Ad Astra from a character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャラクターストリームでアドアストラを取得する。",
+      "En": "Acquire Ad Astra from a character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190006,
+    "MissionSetIdx": 28,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 105603,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 407056020001,
+    "OrderNo": 190705602,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190800101,
     "NameTemplate": {
       "Ja": "イフリートの召喚獣ストリームのマスを{0}個解放する。",
@@ -9783,6 +10021,40 @@
     "OrderNo": 191000051,
     "BonusPoint": 0,
     "DisplayConditionSetId": 540000020401,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 191000061,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Azure Tower in the Colosseum of the Chosen."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Azure Tower in the Colosseum of the Chosen."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190009,
+    "MissionSetIdx": 15,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 205,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 191000061,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 540000020501,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 1,
@@ -32708,6 +32980,516 @@
     "IsRefresh": false
   },
   {
+    "Id": 500063001,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500063002,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500063003,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500063004,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500063005,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500063006,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500063007,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063008,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063009,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063010,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063011,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063012,
+    "NameTemplate": {
+      "Ja": "アンジールを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Angeal in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Angeal in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063013,
+    "NameTemplate": {
+      "Ja": "アンジールのリミットブレイクを{0}回使用する。",
+      "En": "Use Angeal's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのリミットブレイクを{0}回使用する。",
+      "En": "Use Angeal's limit break {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063014,
+    "NameTemplate": {
+      "Ja": "「キャラメモリー アンジール1」を{0}回クリアする。",
+      "En": "Clear \"Character Memories Angeal 1\" {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「キャラメモリー アンジール1」を{0}回クリアする。",
+      "En": "Clear \"Character Memories Angeal 1\" {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 10310109,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 14,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500063015,
+    "NameTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 - MAIN SECTION 2 - EP1をクリアする。",
+      "En": "Clear FFVII FS2 CHAPTER 1 - MAIN SECTION 2 - EP1."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 - MAIN SECTION 2 - EP1をクリアする。",
+      "En": "Clear FFVII FS2 CHAPTER 1 - MAIN SECTION 2 - EP1."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500063,
+    "MissionSetIdx": 15,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 407010,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 15,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500063,
+    "OpenConditionSetId": 270000500063,
+    "LockConditionSetId": 0,
+    "TransitionType": 32,
+    "TransitionId": 4,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 600011001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -44812,6 +45594,346 @@
     "IsRefresh": false
   },
   {
+    "Id": 705601001,
+    "NameTemplate": {
+      "Ja": "アンジールを編成してスタミナを{0}消費する。",
+      "En": "Consume {0} stamina with Angeal in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールを編成してスタミナを{0}消費する。",
+      "En": "Consume {0} stamina with Angeal in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705601,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 61,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 705601002,
+    "NameTemplate": {
+      "Ja": "アンジールのリミットブレイクを{0}回使用する。",
+      "En": "Use Angeal's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのリミットブレイクを{0}回使用する。",
+      "En": "Use Angeal's limit break {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705601,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 705601003,
+    "NameTemplate": {
+      "Ja": "アンジールのメモリーを{0}個納品する。",
+      "En": "Deliver Angeal's Memory x{0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのメモリーを{0}個納品する。",
+      "En": "Deliver Angeal's Memory x{0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705601,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200020560010,
+    "IsRefresh": false
+  },
+  {
+    "Id": 705601004,
+    "NameTemplate": {
+      "Ja": "ギルを{0}納品する。",
+      "En": "Deliver {0} gil."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ギルを{0}納品する。",
+      "En": "Deliver {0} gil."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705601,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 100010000,
+    "IsRefresh": false
+  },
+  {
+    "Id": 705601005,
+    "NameTemplate": {
+      "Ja": "低純度エレクトラムを{0}個納品する。",
+      "En": "Deliver {0} unit(s) of Low-Grade Electrum."
+    },
+    "DescriptionTemplate": {
+      "Ja": "低純度エレクトラムを{0}個納品する。",
+      "En": "Deliver {0} unit(s) of Low-Grade Electrum."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705601,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 3,
+    "MissionType": 6,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 200100210030,
+    "IsRefresh": false
+  },
+  {
+    "Id": 705602001,
+    "NameTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セトラの封印塔「ミッドガルフォール」のB50Fをクリアする。",
+      "En": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705602,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 101,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 52,
+    "TransitionId": 101,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705602002,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705602,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705602003,
+    "NameTemplate": {
+      "Ja": "ヘビーラッシュをレベルを{0}にする。",
+      "En": "Raise Heavy Assault to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ヘビーラッシュをレベルを{0}にする。",
+      "En": "Raise Heavy Assault to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705602,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105601,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705602004,
+    "NameTemplate": {
+      "Ja": "セリトアルボレースをレベルを{0}にする。",
+      "En": "Raise Serit Arbores to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セリトアルボレースをレベルを{0}にする。",
+      "En": "Raise Serit Arbores to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705602,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 48,
+    "TargetId1": 105602,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 705602005,
+    "NameTemplate": {
+      "Ja": "アンジールのリミットブレイクを{0}回使用する。",
+      "En": "Use Angeal's limit break {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのリミットブレイクを{0}回使用する。",
+      "En": "Use Angeal's limit break {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 705602,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 89,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 800101001,
     "NameTemplate": {
       "Ja": "召喚獣の試練 VERY HARD 1 イフリートを{0}回クリアする。",
@@ -49334,6 +50456,346 @@
     "IsRefresh": true
   },
   {
+    "Id": 900301001,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 900301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301002,
+    "NameTemplate": {
+      "Ja": "アンジールを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) with Angeal in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) with Angeal in the party."
+    },
+    "ShortName": {
+      "Ja": "アンジールを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) with Angeal in the party."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301003,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "ShortName": {
+      "Ja": "アンジールのキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301004,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "アンジールのキャラクターレベルを{0}にする。",
+      "En": "Raise Angeal to Lv. {0}."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 900301005,
+    "NameTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 EXTRAに1回挑戦する。",
+      "En": "Attempt the FFVII FS2 CHAPTER 1 EXTRA."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII FS2 CHAPTER 1 EXTRAに1回挑戦する。",
+      "En": "Attempt the FFVII FS2 CHAPTER 1 EXTRA."
+    },
+    "ShortName": {
+      "Ja": "FFVII FS2 CHAPTER 1 EXTRAに1回挑戦する。",
+      "En": "Attempt the FFVII FS2 CHAPTER 1 EXTRA."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 162,
+    "TargetId1": 8,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 430361,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301006,
+    "NameTemplate": {
+      "Ja": "アンジールのLB「セリトアルボレース」を取得する。",
+      "En": "Acquire Angeal's LB Serit Arbores."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのLB「セリトアルボレース」を取得する。",
+      "En": "Acquire Angeal's LB Serit Arbores."
+    },
+    "ShortName": {
+      "Ja": "アンジールのLB「セリトアルボレース」を取得する。",
+      "En": "Acquire Angeal's LB Serit Arbores."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 3,
+    "MissionType": 46,
+    "TargetId1": 105602,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 201000410020,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 29,
+    "TransitionId": 56,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301007,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB1Fをクリアする。",
+      "En": "Clear B1 of The Azure Tower."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB1Fをクリアする。",
+      "En": "Clear B1 of The Azure Tower."
+    },
+    "ShortName": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB1Fをクリアする。",
+      "En": "Clear B1 of The Azure Tower."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 30205001,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301008,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB10Fをクリアする。",
+      "En": "Clear B10 of The Azure Tower."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB10Fをクリアする。",
+      "En": "Clear B10 of The Azure Tower."
+    },
+    "ShortName": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB10Fをクリアする。",
+      "En": "Clear B10 of The Azure Tower."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 30205010,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301009,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB30Fをクリアする。",
+      "En": "Clear B30 of The Azure Tower."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB30Fをクリアする。",
+      "En": "Clear B30 of The Azure Tower."
+    },
+    "ShortName": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB30Fをクリアする。",
+      "En": "Clear B30 of The Azure Tower."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 30205030,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 900301010,
+    "NameTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "DescriptionTemplate": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "ShortName": {
+      "Ja": "パネルミッションを全て達成する。",
+      "En": "Clear all the panel missions."
+    },
+    "MissionSetId": 900301,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 5,
+    "TargetId1": 900301,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000900301,
+    "OpenConditionSetId": 270000900301,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 1000001001,
     "NameTemplate": {
       "Ja": "ガチャを引く。",
@@ -52564,6 +54026,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 1100001004,
+    "NameTemplate": {
+      "Ja": "探索アイテムを{0}種類獲得する。",
+      "En": "Obtain {0} type(s) of exploration item(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "探索アイテムを{0}種類獲得する。",
+      "En": "Obtain {0} type(s) of exploration item(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 1100001,
+    "MissionSetIdx": 30,
+    "AutoMissionCountType": 1,
+    "MissionType": 103,
+    "TargetId1": 28,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1103,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241100001004,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 1100002001,
     "NameTemplate": {
       "Ja": "「花」の探索アイテムを{0}種類獲得する。",
@@ -52598,6 +54094,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 1100002003,
+    "NameTemplate": {
+      "Ja": "「花」の探索アイテムを{0}種類獲得する。",
+      "En": "Obtain {0} type(s) of flower exploration items."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「花」の探索アイテムを{0}種類獲得する。",
+      "En": "Obtain {0} type(s) of flower exploration items."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 1100001,
+    "MissionSetIdx": 31,
+    "AutoMissionCountType": 1,
+    "MissionType": 110,
+    "TargetId1": 11,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1203,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241100002003,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 1100003001,
     "NameTemplate": {
       "Ja": "「羽根」の探索アイテムを{0}種類獲得する。",
@@ -52623,6 +54153,40 @@
     "OrderNo": 1301,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1100003003,
+    "NameTemplate": {
+      "Ja": "「羽根」の探索アイテムを{0}種類獲得する。",
+      "En": "Obtain {0} type(s) of feather exploration items."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「羽根」の探索アイテムを{0}種類獲得する。",
+      "En": "Obtain {0} type(s) of feather exploration items."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 1100001,
+    "MissionSetIdx": 32,
+    "AutoMissionCountType": 1,
+    "MissionType": 110,
+    "TargetId1": 12,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1303,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241100003003,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 21,
@@ -53040,6 +54604,108 @@
     "IsRefresh": true
   },
   {
+    "Id": 1100010015,
+    "NameTemplate": {
+      "Ja": "ジュノン I エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon I."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ジュノン I エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon I."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 1100001,
+    "MissionSetIdx": 33,
+    "AutoMissionCountType": 2,
+    "MissionType": 102,
+    "TargetId1": 15,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2023,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241100010015,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1100010016,
+    "NameTemplate": {
+      "Ja": "ジュノン II エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon II."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ジュノン II エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon II."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 1100001,
+    "MissionSetIdx": 34,
+    "AutoMissionCountType": 2,
+    "MissionType": 102,
+    "TargetId1": 16,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2024,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241100010016,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1100010017,
+    "NameTemplate": {
+      "Ja": "ジュノン III エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon III."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ジュノン III エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon III."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 1100001,
+    "MissionSetIdx": 35,
+    "AutoMissionCountType": 2,
+    "MissionType": 102,
+    "TargetId1": 17,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2025,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241100010017,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 1100010039,
     "NameTemplate": {
       "Ja": "「竜使いの旅団」開拓地エリアの探索率を{0}％にする。",
@@ -53133,6 +54799,40 @@
     "OrderNo": 11,
     "BonusPoint": 0,
     "DisplayConditionSetId": 241100020002,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 1100020005,
+    "NameTemplate": {
+      "Ja": "ジュノン II エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon II."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ジュノン II エリアの探索率を{0}％にする。",
+      "En": "Explore {0}% of the area Junon II."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 1100001,
+    "MissionSetIdx": 36,
+    "AutoMissionCountType": 2,
+    "MissionType": 102,
+    "TargetId1": 16,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 241100020005,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 21,
@@ -56848,6 +58548,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 2400107014,
+    "NameTemplate": {
+      "Ja": "アンジールのウェアの獲得数",
+      "En": "Angeal's Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのウェアの獲得数",
+      "En": "Angeal's Gear Obtained"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 56,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 2400108001,
     "NameTemplate": {
       "Ja": "クラウドのキャラクターレベル",
@@ -57279,6 +59013,40 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400108014,
+    "NameTemplate": {
+      "Ja": "アンジールのキャラクターレベル",
+      "En": "Angeal's Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのキャラクターレベル",
+      "En": "Angeal's Character Lv."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 56,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -57936,6 +59704,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 2400201014,
+    "NameTemplate": {
+      "Ja": "アンジールの一撃最大ダメージ（イベントを除く）",
+      "En": "Angeal's One-Hit Max. Damage (Excludes Events)"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールの一撃最大ダメージ（イベントを除く）",
+      "En": "Angeal's One-Hit Max. Damage (Excludes Events)"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 56,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 2400202001,
     "NameTemplate": {
       "Ja": "クラウドのバトル中トータルダメージ（イベントを除く）",
@@ -58367,6 +60169,40 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202014,
+    "NameTemplate": {
+      "Ja": "アンジールのバトル中トータルダメージ（イベントを除く）",
+      "En": "Angeal's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのバトル中トータルダメージ（イベントを除く）",
+      "En": "Angeal's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 56,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -60130,6 +61966,142 @@
     "AutoMissionCountType": 1,
     "MissionType": 131,
     "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401056001,
+    "NameTemplate": {
+      "Ja": "アンジールのLv.50に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのLv.50に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 50"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401056,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401056002,
+    "NameTemplate": {
+      "Ja": "アンジールのLv.90に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのLv.90に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 90"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401056,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401056003,
+    "NameTemplate": {
+      "Ja": "アンジールのLv.120に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのLv.120に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 120"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401056,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 56,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401056004,
+    "NameTemplate": {
+      "Ja": "アンジールのLv.70に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "アンジールのLv.70に到達した武器数",
+      "En": "Angeal's Weapons Raised to Lv. 70"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401056,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 56,
     "TargetId2": 0,
     "TargetId3": 0,
     "TargetValue": 70,
@@ -69695,6 +71667,346 @@
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 3016,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301901001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301901,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301901002,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301901,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902001,
+    "NameTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030191,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902002,
+    "NameTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030191,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902003,
+    "NameTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030191,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902004,
+    "NameTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ゴールドボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030191,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902005,
+    "NameTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030192,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902006,
+    "NameTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030192,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902007,
+    "NameTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030192,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120301902008,
+    "NameTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ボムメダルを{0}個取得する。",
+      "En": "Obtain {0} Bomb Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120301902,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030192,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120301900000,
+    "OpenConditionSetId": 12120301900000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3019,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false

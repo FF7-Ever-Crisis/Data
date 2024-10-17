@@ -7694,5 +7694,486 @@
     "IsInitialDownload": false,
     "ResourceId": 0,
     "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 410215,
+    "Name": {
+      "Ja": "新たな班長",
+      "En": "The New Leader"
+    },
+    "SubName": {
+      "Ja": "1",
+      "En": "1"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 401,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 0,
+    "DungeonId": 1410215,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 0,
+    "FreePartyCombatValue": 0,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 0,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": false,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 410354,
+    "Name": {
+      "Ja": "ふたりのソルジャー",
+      "En": "Two SOLDIERs"
+    },
+    "SubName": {
+      "Ja": "2",
+      "En": "2"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 401,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 410215,
+    "DungeonId": 1410354,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 3500,
+    "FreePartyCombatValue": 3500,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 1200050,
+    "StoryPartyCharacterGroupId": 403,
+    "StoryPartyCharacterCount": 1,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": true,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 410355,
+    "Name": {
+      "Ja": "英雄の映像記録",
+      "En": "Footage of a Hero"
+    },
+    "SubName": {
+      "Ja": "3",
+      "En": "3"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 401,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 410354,
+    "DungeonId": 1410355,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 0,
+    "FreePartyCombatValue": 0,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 0,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": false,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 410359,
+    "Name": {
+      "Ja": "凶刃の主",
+      "En": "A Blademaster"
+    },
+    "SubName": {
+      "Ja": "1",
+      "En": "1"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 403,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 420357,
+    "DungeonId": 1410359,
+    "OrderNo": 9,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 8700,
+    "FreePartyCombatValue": 8700,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 1200050,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": true,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 410396,
+    "Name": {
+      "Ja": "第一の不明者",
+      "En": "The First of the Missing"
+    },
+    "SubName": {
+      "Ja": "4",
+      "En": "4"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 401,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 410355,
+    "DungeonId": 1410396,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 7400,
+    "FreePartyCombatValue": 7400,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 1200050,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": true,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 410397,
+    "Name": {
+      "Ja": "ソルジャーをおびやかす者",
+      "En": "The Threat"
+    },
+    "SubName": {
+      "Ja": "5",
+      "En": "5"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 401,
+    "StoryEpisodeType": 2,
+    "PremiseStoryEpisodeId": 410396,
+    "DungeonId": 1410397,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 7400,
+    "FreePartyCombatValue": 7400,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 1200050,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 560010101,
+    "IsEpisode": true,
+    "IsBattle": true,
+    "IsDungeon": true,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 420356,
+    "Name": {
+      "Ja": "ソルジャーの信念",
+      "En": "A SOLDIER's Creed"
+    },
+    "SubName": {
+      "Ja": "1",
+      "En": "1"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 402,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 410397,
+    "DungeonId": 1420356,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 7000,
+    "FreePartyCombatValue": 7000,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 1200050,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": true,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 420357,
+    "Name": {
+      "Ja": "忍び寄る気配",
+      "En": "An Unknown Presence"
+    },
+    "SubName": {
+      "Ja": "3",
+      "En": "3"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 402,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 420398,
+    "DungeonId": 1420357,
+    "OrderNo": 8,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 8300,
+    "FreePartyCombatValue": 8300,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 1200050,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": true,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 420398,
+    "Name": {
+      "Ja": "シノビの兵法",
+      "En": "The Shinobi"
+    },
+    "SubName": {
+      "Ja": "2",
+      "En": "2"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 402,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 420356,
+    "DungeonId": 1420398,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 7800,
+    "FreePartyCombatValue": 7800,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 1200050,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": true,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 430361,
+    "Name": {
+      "Ja": "武器職人マサムネ",
+      "En": "Swordsmith Masamune"
+    },
+    "SubName": {
+      "Ja": "1",
+      "En": "1"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 405,
+    "StoryEpisodeType": 3,
+    "PremiseStoryEpisodeId": 410359,
+    "DungeonId": 0,
+    "OrderNo": 13,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 210600,
+    "FreePartyCombatValue": 210600,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 170004303611,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 40801,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": false,
+    "IsBattle": true,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 440360,
+    "Name": {
+      "Ja": "バックマンの任務日誌：英雄",
+      "En": "Bachman's Journal: The Hero"
+    },
+    "SubName": {
+      "Ja": "1",
+      "En": "1"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 404,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 410359,
+    "DungeonId": 1440360,
+    "OrderNo": 10,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 0,
+    "FreePartyCombatValue": 0,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 0,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": false,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 440399,
+    "Name": {
+      "Ja": "慈愛あふれる母",
+      "En": "A Caring Mother"
+    },
+    "SubName": {
+      "Ja": "2",
+      "En": "2"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 404,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 410359,
+    "DungeonId": 1440399,
+    "OrderNo": 11,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 0,
+    "FreePartyCombatValue": 0,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 0,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": false,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
+  },
+  {
+    "Id": 440400,
+    "Name": {
+      "Ja": "豪勢な誕生パーティー",
+      "En": "A Grand Birthday Party"
+    },
+    "SubName": {
+      "Ja": "3",
+      "En": "3"
+    },
+    "TitleSynopsis": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "StorySectionId": 404,
+    "StoryEpisodeType": 1,
+    "PremiseStoryEpisodeId": 410359,
+    "DungeonId": 1440400,
+    "OrderNo": 12,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "DisplayEnemyGroupId": 1,
+    "StoryPartyCombatValue": 0,
+    "FreePartyCombatValue": 0,
+    "ScriptVersion": 0,
+    "StoryPartyFirstRewardSetId": 0,
+    "StoryPartyCharacterGroupId": 401,
+    "StoryPartyCharacterCount": 2,
+    "StoryBattleId": 0,
+    "ControlCharacterNovelSetId": 490010101,
+    "IsEpisode": true,
+    "IsBattle": false,
+    "IsDungeon": false,
+    "IsInitialDownload": false,
+    "ResourceId": 0,
+    "GuestCharacterGroupId": 0
   }
 ]

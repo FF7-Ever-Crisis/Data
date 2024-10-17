@@ -5168,6 +5168,139 @@
     "EpisodeLockConditionSetId": 0
   },
   {
+    "Id": 301901,
+    "Name": {
+      "Ja": "ゴールドボム1",
+      "En": "Golden Bomb 1"
+    },
+    "EventScenarioSectionId": 3019,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3019001,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301902,
+    "Name": {
+      "Ja": "ゴールドボム2",
+      "En": "Golden Bomb 2"
+    },
+    "EventScenarioSectionId": 3019,
+    "PremiseEventScenarioEpisodeId": 301901,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3019002,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301903,
+    "Name": {
+      "Ja": "ゴールドボム3",
+      "En": "Golden Bomb 3"
+    },
+    "EventScenarioSectionId": 3019,
+    "PremiseEventScenarioEpisodeId": 301902,
+    "DungeonId": 0,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3019003,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301904,
+    "Name": {
+      "Ja": "ゴールドボム4",
+      "En": "Golden Bomb 4"
+    },
+    "EventScenarioSectionId": 3019,
+    "PremiseEventScenarioEpisodeId": 301903,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3019004,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301905,
+    "Name": {
+      "Ja": "ゴールドボム5",
+      "En": "Golden Bomb 5"
+    },
+    "EventScenarioSectionId": 3019,
+    "PremiseEventScenarioEpisodeId": 301904,
+    "DungeonId": 0,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3019005,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301906,
+    "Name": {
+      "Ja": "ゴールドボム6",
+      "En": "Golden Bomb 6"
+    },
+    "EventScenarioSectionId": 3019,
+    "PremiseEventScenarioEpisodeId": 301905,
+    "DungeonId": 0,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3019006,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301907,
+    "Name": {
+      "Ja": "[1日1回]ゴールドボム",
+      "En": "[1/Day] Golden Bomb"
+    },
+    "EventScenarioSectionId": 3019,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3019007,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
     "Id": 800101,
     "Name": {
       "Ja": "プロローグ",

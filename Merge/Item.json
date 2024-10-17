@@ -1298,6 +1298,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1056,
+    "Name": {
+      "Ja": "アンジール専用ウェポンパーツ",
+      "En": "Angeal-Specific Weapon Part"
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「アンジール」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Angeal's weapons</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2001,
     "Name": {
       "Ja": "クラウドのメモリー",
@@ -1584,6 +1606,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 2056,
+    "Name": {
+      "Ja": "アンジールのメモリー",
+      "En": "Angeal's Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「アンジール」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Angeal's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2056,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2101,
     "Name": {
       "Ja": "クラウドのノーブルメモリー",
@@ -1861,6 +1905,28 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 2152,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2156,
+    "Name": {
+      "Ja": "アンジールのノーブルメモリー",
+      "En": "Angeal's Noble Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「アンジール」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Angeal's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2156,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -4378,6 +4444,204 @@
     "OrderNo": 0
   },
   {
+    "Id": 16042,
+    "Name": {
+      "Ja": "イルカストラップ",
+      "En": "Dolphin Strap"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16042,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16043,
+    "Name": {
+      "Ja": "浜辺の砂",
+      "En": "Beach Sand"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16043,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16044,
+    "Name": {
+      "Ja": "ホイッスル",
+      "En": "Whistle"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16044,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16045,
+    "Name": {
+      "Ja": "1/35神羅兵",
+      "En": "1:35 Scale Shinra Trooper"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16045,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16046,
+    "Name": {
+      "Ja": "式典の垂れ幕",
+      "En": "Ceremonial Banner"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16046,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16047,
+    "Name": {
+      "Ja": "コンドル像",
+      "En": "Condor Statue"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16047,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16048,
+    "Name": {
+      "Ja": "サンゴの欠片",
+      "En": "Coral Fragment"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16048,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16049,
+    "Name": {
+      "Ja": "貝殻",
+      "En": "Seashell"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16049,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16050,
+    "Name": {
+      "Ja": "船荷のタル",
+      "En": "Cargo Barrel"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16050,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 16501,
     "Name": {
       "Ja": "ミッドガルの花（黄）",
@@ -4642,6 +4906,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 16519,
+    "Name": {
+      "Ja": "ジュノンの花（黄）",
+      "En": "Yellow Junon Flower"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16519,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16520,
+    "Name": {
+      "Ja": "ジュノンの花（白）",
+      "En": "White Junon Flower"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16520,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16521,
+    "Name": {
+      "Ja": "ジュノンの花（赤）",
+      "En": "Red Junon Flower"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16521,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 16601,
     "Name": {
       "Ja": "チョコボの羽根",
@@ -4897,6 +5227,72 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 16613,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16614,
+    "Name": {
+      "Ja": "チョコボの羽根（薄紫）",
+      "En": "Mauve Chocobo Feather"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16614,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16615,
+    "Name": {
+      "Ja": "チョコボの羽根（薄橙）",
+      "En": "Peach Chocobo Feather"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16615,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16616,
+    "Name": {
+      "Ja": "チョコボの羽根（薄茶）",
+      "En": "Beige Chocobo Feather"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16616,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -6452,8 +6848,8 @@
       "En": "FS Wpn. Guaranteed Draw Ticket"
     },
     "Description": {
-      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS武器確定チケットガチャ」</color>で使用できます。\n\n※本チケットで引けるガチャからはセフィロス専用武器は出現いたしません。",
-      "En": "Used for <command_color=common_03>FS - Guaranteed Weapon Ticket Draw</color>.\n\n*No Sephiroth-Exclusive weapons will appear in the draw with this ticket."
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS武器確定チケットガチャ」</color>で使用できます。\n\n※本チケットで引けるガチャからはグレン・マット・ルティアの専用武器が出現いたします。",
+      "En": "Used for <command_color=common_03>FS - Guaranteed Weapon Ticket Draw</color>.\n\n*The weapons for Glenn, Matt and Lucia will appear in the draw with this ticket."
     },
     "ItemType": 20,
     "ItemRarityType": 4,
@@ -6606,8 +7002,8 @@
       "En": "FS 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
     },
     "Description": {
-      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。\n\n※本チケットで引けるガチャからはセフィロス専用武器は出現いたしません。",
-      "En": "Used for <command_color=common_03>FS 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>.\n\n*No Sephiroth-Exclusive weapons will appear in the draw with this ticket."
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「FS<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。\n\n※本チケットで引けるガチャからはグレン・マット・ルティアの専用武器が出現いたします。",
+      "En": "Used for <command_color=common_03>FS 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw</color>.\n\n*The weapons for Glenn, Matt and Lucia will appear in the draw with this ticket."
     },
     "ItemType": 20,
     "ItemRarityType": 5,
@@ -7031,6 +7427,50 @@
     "ItemRarityType": 5,
     "MaxCapacity": 999,
     "ResourceId": 100040,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100041,
+    "Name": {
+      "Ja": "アンジール武器確定ガチャチケット",
+      "En": "Angeal Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「アンジール武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Angeal - Guaranteed Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 999,
+    "ResourceId": 100041,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100042,
+    "Name": {
+      "Ja": "アンジール<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Angeal 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「アンジール<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Angeal - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100042,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -11508,11 +11948,11 @@
   {
     "Id": 1049007,
     "Name": {
-      "Ja": "ＣＣ合金刀・パーツ",
+      "Ja": "CC合金刀・パーツ",
       "En": "CC Alloy Sword Parts"
     },
     "Description": {
-      "Ja": "武器強化に必要。\n<command_color=common_03>「ＣＣ合金刀」の「レアリティアップ」</color>で使用できます。",
+      "Ja": "武器強化に必要。\n<command_color=common_03>「CC合金刀」の「レアリティアップ」</color>で使用できます。",
       "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>CC Alloy Sword</color>."
     },
     "ItemType": 18,
@@ -13244,6 +13684,270 @@
     "OrderNo": 0
   },
   {
+    "Id": 1056001,
+    "Name": {
+      "Ja": "90式ロングソード・パーツ",
+      "En": "Type-90 Longsword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「90式ロングソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Type-90 Longsword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056002,
+    "Name": {
+      "Ja": "グレートソードAn・パーツ",
+      "En": "Greatsword (A) Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「グレートソードAn」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Greatsword (A)</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056003,
+    "Name": {
+      "Ja": "91式ツーハンデッド・パーツ",
+      "En": "Type-91 Two-Hander Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「91式ツーハンデッド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Type-91 Two-Hander</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056004,
+    "Name": {
+      "Ja": "神羅大剣壱号・パーツ",
+      "En": "Shinra Greatsword: Model I Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「神羅大剣壱号」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Shinra Greatsword: Model I</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056005,
+    "Name": {
+      "Ja": "CC合金大剣・パーツ",
+      "En": "CC Alloy Greatsword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「CC合金大剣」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>CC Alloy Greatsword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056006,
+    "Name": {
+      "Ja": "ホーネストスターディ・パーツ",
+      "En": "Stalwart Integrity Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ホーネストスターディ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Stalwart Integrity</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056007,
+    "Name": {
+      "Ja": "イノセントバトラー・パーツ",
+      "En": "Innocent Warrior Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「イノセントバトラー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Innocent Warrior</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056007,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056008,
+    "Name": {
+      "Ja": "イメンスモノリス・パーツ",
+      "En": "Gargantuan Monolith Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「イメンスモノリス」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Gargantuan Monolith</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056009,
+    "Name": {
+      "Ja": "セコイアデンドロン・パーツ",
+      "En": "Sequoiadendron Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「セコイアデンドロン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Sequoiadendron</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056009,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056010,
+    "Name": {
+      "Ja": "森閑・パーツ",
+      "En": "Tranquility Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「森閑」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Tranquility</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056010,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056011,
+    "Name": {
+      "Ja": "オーチャードシャベル・パーツ",
+      "En": "Orchard Shovel Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「オーチャードシャベル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Orchard Shovel</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056012,
+    "Name": {
+      "Ja": "（仮）究極90式ロングソード・パーツ",
+      "En": "en_（仮）究極90式ロングソード・パーツ"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「（仮）究極90式ロングソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>en_（仮）究極90式ロングソード・パーツ</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2020051,
     "Name": {
       "Ja": "討伐ガチャチケット",
@@ -14231,6 +14935,50 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-10-03T02:00:00+00:00",
     "EndDatetime": "2024-11-03T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030191,
+    "Name": {
+      "Ja": "ゴールドボムメダル",
+      "En": "Golden Bomb Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030101,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "2024-11-13T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030192,
+    "Name": {
+      "Ja": "ボムメダル",
+      "En": "Bomb Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030102,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-17T02:00:00+00:00",
+    "EndDatetime": "2024-11-13T01:59:59+00:00",
     "OrderNo": 0
   },
   {

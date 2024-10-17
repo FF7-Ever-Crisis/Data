@@ -2198,6 +2198,19 @@
   },
   {
     "Title": {
+      "Ja": "BEYOND SECTIONについて",
+      "En": "The Story Beyond"
+    },
+    "Description": {
+      "Ja": "BEYOND SECTIONでは、同じCHAPTER内のストーリーに関連したエピソードを見ることができます。\n\n<command_color=common_02>※BEYOND SECTIONはストーリー進行には影響しません。</color>",
+      "En": "In The Story Beyond, you can view episodes related to the story in any chapter.\n\n<command_color=common_02>*The Story Beyond has no effect on story progression.</color>"
+    },
+    "TutorialPopupGroupId": 2231001,
+    "Seq": 1,
+    "ResourceId": 223100101
+  },
+  {
+    "Title": {
       "Ja": "ギルドについて",
       "En": "Guilds"
     },
@@ -2631,7 +2644,7 @@
       "En": "Rebranding Weapons"
     },
     "Description": {
-      "Ja": "再刻印では、<command_color=common_03>現在の効果と新しい効果のどちらかを選択</color>できます。\n効果を選択したあと、「再刻印」ボタンまたは「刻印を維持」ボタンをタップしてください。\n<command_color=common_03>新しい効果</color>を選択した場合は、刻印の効果が<command_color=common_03>上書き</color>されます。",
+      "Ja": "再刻印では、<command_color=common_03>現在の効果と新しい効果の中からいずれかを選択</color>できます。\n効果を選択したあと、「再刻印」ボタンまたは「刻印を維持」ボタンをタップしてください。\n<command_color=common_03>新しい効果</color>を選択した場合は、刻印の効果が<command_color=common_03>上書き</color>されます。",
       "En": "When rebranding a weapon, you can choose to <command_color=common_03>retain current effects or apply new ones</color> by selecting Retain or Rebrand. If you select <command_color=common_03>Rebrand</color>, all current effects will be <command_color=common_03>overwritten</color>."
     },
     "TutorialPopupGroupId": 2271001,
@@ -3235,5 +3248,18 @@
     "TutorialPopupGroupId": 320000001,
     "Seq": 1,
     "ResourceId": 3200000011
+  },
+  {
+    "Title": {
+      "Ja": "状態異常【出血・大出血】",
+      "En": "Status Ailment: Bleed, Hemorrhage"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>Cアビリティを使用した際、ダメージを受ける状態</color>です。\nまた、<command_color=common_03>出血中に再度出血を受けることで大出血に変化します。</color>\n大出血は<command_color=common_03>Cアビリティ使用時に受けるダメージがさらに増加します。</color>\n出血・大出血は、<command_color=common_03>付与されているキャラクターのHPを最大まで回復すると解除</color>されます。",
+      "En": "While afflicted with Bleed, <command_color=common_03>you will take damage when using C. abilities</color>. If inflicted with Bleed while already afflicted with the status, <command_color=common_03>Bleed will be replaced with Hemorrhage</color>. While afflicted with Hemorrhage, <command_color=common_03>you will take even more damage</color> when using C. abilities. Either status can be canceled <command_color=common_03>by healing the impaired character to full</color>. "
+    },
+    "TutorialPopupGroupId": 320000002,
+    "Seq": 1,
+    "ResourceId": 3200000021
   }
 ]
