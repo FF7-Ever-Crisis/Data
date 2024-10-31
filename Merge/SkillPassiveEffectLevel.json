@@ -4338,7 +4338,7 @@
     "Id": 531011,
     "Description": {
       "Ja": "バトル開始時、自身にラストリーヴを付与。(効果時間999秒。効果延長時+0秒) \nラストリーヴ発動時、自身の最大HPの5%分回復し、自身に無敵を付与。(効果時間1秒。効果延長時+0秒)",
-      "En": "Applied Reprieve to self when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s)\nWhen triggered: restores 5% of max HP and grants Invincible\n(Effect Dur.: 1s / Effect Dur. Ext.: +0s)"
+      "En": "Applies Reprieve to self when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s)\nWhen triggered: restores 5% of max HP and grants Invincible\n(Effect Dur.: 1s / Effect Dur. Ext.: +0s)"
     },
     "Level": 1,
     "EffectValue": 1,
@@ -4353,7 +4353,7 @@
     "Id": 531011,
     "Description": {
       "Ja": "バトル開始時、自身にラストリーヴを付与。(効果時間999秒。効果延長時+0秒)\nラストリーヴ発動時、自身の最大HPの15%分回復し、自身に無敵を付与。(効果時間5秒。効果延長時+0秒)",
-      "En": "Applied Reprieve to self when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s)\nWhen triggered: restores 15% of max HP and grants Invincible\n(Effect Dur.: 5s / Effect Dur. Ext.: +0s)"
+      "En": "Applies Reprieve to self when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s)\nWhen triggered: restores 15% of max HP and grants Invincible\n(Effect Dur.: 5s / Effect Dur. Ext.: +0s)"
     },
     "Level": 2,
     "EffectValue": 5,
@@ -4368,7 +4368,7 @@
     "Id": 531011,
     "Description": {
       "Ja": "バトル開始時、自身にラストリーヴを付与。(効果時間999秒。効果延長時+0秒)\nラストリーヴ発動時、自身の最大HPの25%分回復し、自身に無敵を付与。(効果時間10秒。効果延長時+0秒)",
-      "En": "Applied Reprieve to self when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s)\nWhen triggered: restores 25% of max HP and grants Invincible\n(Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
+      "En": "Applies Reprieve to self when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s)\nWhen triggered: restores 25% of max HP and grants Invincible\n(Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
     },
     "Level": 3,
     "EffectValue": 10,
@@ -4429,6 +4429,36 @@
     "Description": {
       "Ja": "魔法防御力+{1}%",
       "En": "Mag. Defense +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 533031,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defence +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 533032,
+    "Description": {
+      "Ja": "",
+      "En": ""
     },
     "Level": 1,
     "EffectValue": 0,
@@ -4813,5 +4843,65 @@
     "PassiveSkillTargetType": 1,
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 539011,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にリジェネを付与。(効果時間15秒。効果延長時+0秒)",
+      "En": "Applies Regen to all allies when battle begins\n(Effect Dur.: 15s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53901101
+  },
+  {
+    "Id": 539011,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にリジェネを付与。(効果時間30秒。効果延長時+0秒)",
+      "En": "Applies Regen to all allies when battle begins\n(Effect Dur.: 30s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53901102
+  },
+  {
+    "Id": 539011,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にリジェネを付与。(効果時間45秒。効果延長時+0秒)",
+      "En": "Applies Regen to all allies when battle begins\n(Effect Dur.: 45s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53901103
+  },
+  {
+    "Id": 539011,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にリジェネを付与。(効果時間60秒。効果延長時+0秒)",
+      "En": "Applies Regen to all allies when battle begins\n(Effect Dur.: 60s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53901104
   }
 ]

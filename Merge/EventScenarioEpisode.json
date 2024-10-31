@@ -5168,6 +5168,215 @@
     "EpisodeLockConditionSetId": 0
   },
   {
+    "Id": 301701,
+    "Name": {
+      "Ja": "炭鉱都市ナルシェ",
+      "En": "The Mining Town of Narshe"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 9901600,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301702,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301701,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3017301,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301703,
+    "Name": {
+      "Ja": "残虐な道化師",
+      "En": "Mage of Malice"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301702,
+    "DungeonId": 9901601,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301704,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301703,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3017302,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301705,
+    "Name": {
+      "Ja": "頼れる援軍",
+      "En": "Reinforcements"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301704,
+    "DungeonId": 9901602,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301706,
+    "Name": {
+      "Ja": "氷づけの幻獣",
+      "En": "The Frozen Esper"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301705,
+    "DungeonId": 9901603,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700003017000,
+    "EpisodeLockConditionSetId": 700003017000
+  },
+  {
+    "Id": 301707,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301706,
+    "DungeonId": 0,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3017303,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301708,
+    "Name": {
+      "Ja": "交わる記憶",
+      "En": "Intersecting Memories"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301707,
+    "DungeonId": 9901604,
+    "OrderNo": 8,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301709,
+    "Name": {
+      "Ja": "幻獣防衛戦",
+      "En": "The Esper's Defenders"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301708,
+    "DungeonId": 9901605,
+    "OrderNo": 9,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700003017010,
+    "EpisodeLockConditionSetId": 700003017010
+  },
+  {
+    "Id": 301710,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301709,
+    "DungeonId": 0,
+    "OrderNo": 10,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3017304,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 301711,
+    "Name": {
+      "Ja": "反帝国組織リターナー",
+      "En": "The Returners"
+    },
+    "EventScenarioSectionId": 3017011,
+    "PremiseEventScenarioEpisodeId": 301710,
+    "DungeonId": 9901606,
+    "OrderNo": 11,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
     "Id": 301901,
     "Name": {
       "Ja": "ゴールドボム1",
