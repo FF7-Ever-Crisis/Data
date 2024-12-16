@@ -286,7 +286,7 @@
       "En": "Special Exchange"
     },
     "ShopGroupCategory": 2,
-    "OrderNo": 5,
+    "OrderNo": 10000,
     "ResourceId": 227,
     "ShopGroupNotiType": 0,
     "DisplayConditionSetId": 650000000227,
@@ -398,7 +398,7 @@
       "En": "Mako Gem Exchange"
     },
     "ShopGroupCategory": 2,
-    "OrderNo": 2,
+    "OrderNo": 9997,
     "ResourceId": 235,
     "ShopGroupNotiType": 0,
     "DisplayConditionSetId": 0,
@@ -454,7 +454,7 @@
       "En": "Pumpkin Fest Gear Voucher Vol. 1"
     },
     "ShopGroupCategory": 2,
-    "OrderNo": 1,
+    "OrderNo": 9995,
     "ResourceId": 239,
     "ShopGroupNotiType": 0,
     "DisplayConditionSetId": 650000000239,
@@ -468,7 +468,7 @@
       "En": "Pumpkin Fest Gear Voucher Vol. 2"
     },
     "ShopGroupCategory": 2,
-    "OrderNo": 1,
+    "OrderNo": 9996,
     "ResourceId": 240,
     "ShopGroupNotiType": 0,
     "DisplayConditionSetId": 650000000240,
@@ -504,13 +504,69 @@
     "ShopGroupClusterId": 3
   },
   {
+    "Id": 245,
+    "Name": {
+      "Ja": "選べるウェポンパーツ交換所",
+      "En": "Weapon Parts Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9994,
+    "ResourceId": 245,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000245,
+    "LockConditionSetId": 650000000245,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 246,
+    "Name": {
+      "Ja": "ウインターウェア交換所 vol.1",
+      "En": "Winter Gear Exchange Vol. 1"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9993,
+    "ResourceId": 246,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000246,
+    "LockConditionSetId": 650000000246,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 247,
+    "Name": {
+      "Ja": "ウインターウェア交換所 vol.2",
+      "En": "Winter Gear Exchange Vol. 2"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9992,
+    "ResourceId": 247,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000247,
+    "LockConditionSetId": 650000000247,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 250,
+    "Name": {
+      "Ja": "聖火が照らすプレゼント交換所",
+      "En": "The Holy Flame's Bounty"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9995,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "ShopGroupClusterId": 3
+  },
+  {
     "Id": 301,
     "Name": {
       "Ja": "ウェア交換所",
       "En": "Gear Exchange"
     },
     "ShopGroupCategory": 3,
-    "OrderNo": 2,
+    "OrderNo": 9998,
     "ResourceId": 301,
     "ShopGroupNotiType": 0,
     "DisplayConditionSetId": 0,
@@ -524,7 +580,7 @@
       "En": "Weapon Exchange"
     },
     "ShopGroupCategory": 3,
-    "OrderNo": 4,
+    "OrderNo": 9999,
     "ResourceId": 302,
     "ShopGroupNotiType": 0,
     "DisplayConditionSetId": 0,

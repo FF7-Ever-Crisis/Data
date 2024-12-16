@@ -817,6 +817,10 @@
             "value": "Charged"
         },
         {
+            "id": 970003000000121,
+            "value": "Granite Shell"
+        },
+        {
             "id": 970003000000131,
             "value": "Shroud"
         },
@@ -877,8 +881,16 @@
             "value": "Force Gauge: Maelstrom"
         },
         {
+            "id": 970003100000111,
+            "value": "Force Gauge: Eclipse"
+        },
+        {
             "id": 970003100000121,
             "value": "Force Gauge: Present"
+        },
+        {
+            "id": 970003100000131,
+            "value": "Force Gauge: Earthen Power"
         },
         {
             "id": 970003100000151,
@@ -941,8 +953,16 @@
             "value": "Force Gauge: Increasing Dread"
         },
         {
+            "id": 970003100000301,
+            "value": "Force Gauge: Thunder Zone"
+        },
+        {
             "id": 970003100000311,
             "value": "Force Gauge: Magitek Power"
+        },
+        {
+            "id": 970003100000321,
+            "value": "Force Gauge: Wrath"
         },
         {
             "id": 970003200000011,
@@ -950,7 +970,11 @@
         },
         {
             "id": 970003200000021,
-            "value": "Status Ailment: Bleed, Hemorrhage"
+            "value": "Status Ailment: Pain, Agony"
+        },
+        {
+            "id": 970003200000031,
+            "value": "Status Ailment: Enfeeble"
         },
         {
             "id": 971000101400101,
@@ -1293,6 +1317,10 @@
             "value": "<command_color=common_03>Dealing damage with physical or magic abilities</color> (excluding Attack) to the enemy in this state will cause them to <command_color=common_03>counter with lightning-element attacks</color>. It will last <command_color=common_03>until the stream phase is over</color>."
         },
         {
+            "id": 971003000000121,
+            "value": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
+        },
+        {
             "id": 971003000000131,
             "value": "This ability <command_color=common_03>hides the sigils</color> that appear during streamphase. Shroud can be canceled by <command_color=common_03>destroying any hidden sigil</color>."
         },
@@ -1353,8 +1381,16 @@
             "value": "Once the force gauge is displayed, the enemy will unleash <command_color=common_03>Tidal Wave</color> after a certain amount of time. The potency of the attack is greater <command_color=common_03>the more the force gauge is filled</color>. <command_color=common_03>Dealing lightning-element damage</color> will deplete the gauge."
         },
         {
+            "id": 971003100000111,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+        },
+        {
             "id": 971003100000121,
             "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy will use an ability to <command_color=common_03>grant PATK Up to itself and its targets</color>."
+        },
+        {
+            "id": 971003100000131,
+            "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>Earth Potency</color>. <command_color=common_03>Dealing wind damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
         },
         {
             "id": 971003100000151,
@@ -1417,8 +1453,16 @@
             "value": "The enemy's force gauge fills <command_color=common_03>over time</color>, and when the gauge is full, the ability <command_color=common_03>Fearful Celebration</color> is unleashed. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
         },
         {
+            "id": 971003100000301,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+        },
+        {
             "id": 971003100000311,
             "value": "While the force gauge is active, <command_color=common_03>the enemy's elemental weaknesses change</color>. Dealing damage <command_color=common_03>to exploit their weaknesses</color> will deplete the force gauge. When the gauge is empty, the enemy will be  <command_color=common_03>temporarily incapacitated</color>, and their elemental weaknesses <command_color=common_03>will no longer change</color>."
+        },
+        {
+            "id": 971003100000321,
+            "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>MATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
         },
         {
             "id": 971003200000011,
@@ -1426,7 +1470,11 @@
         },
         {
             "id": 971003200000021,
-            "value": "While afflicted with Bleed, <command_color=common_03>you will take damage when using C. abilities</color>. If inflicted with Bleed while already afflicted with the status, <command_color=common_03>Bleed will be replaced with Hemorrhage</color>. While afflicted with Hemorrhage, <command_color=common_03>you will take even more damage</color> when using C. abilities. Either status can be canceled <command_color=common_03>by healing the impaired character to full</color>. "
+            "value": "While afflicted with Pain, <command_color=common_03>you will take damage when using C. abilities</color>. If inflicted with Pain while already afflicted with the status, <command_color=common_03>Pain will be replaced with Agony</color>. While afflicted with Agony, <command_color=common_03>you will take even more damage</color> when using C. abilities. Either status can be canceled <command_color=common_03>by healing the impaired character to full</color>. "
+        },
+        {
+            "id": 971003200000031,
+            "value": "While afflicted with Enfeeble, <command_color=common_03>the modifiers for stat debuff tiers are increased</color>, thus greatly boosting their potency."
         }
     ]
 }

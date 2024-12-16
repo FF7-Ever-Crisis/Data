@@ -29,6 +29,10 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <command_color=common_03>physical attacks</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Tread Softly</color> and <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Up in Smoke</color>.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy."
         },
         {
+            "id": 130000001057001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <command_color=common_03>powerful physical and magic abilities</color>. Uses <command_color=emphasis>Black Flurry</color> to inflict <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color>, <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=394>sedate</color>, and deplete the target's limit gauge, but the ability can be interrupted by fully depleting Force Gauge: <command_color=emphasis>Eclipse</color>. The force gauge can be depleted with damage. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=395>poison</color> with <command_color=emphasis>Black Feather</color>.\n \n<command_color=common_03>Non-elemental abilities</color> are effective against this enemy."
+        },
+        {
             "id": 130000002001001,
             "value": "Immunities: None\n \nHas high physical attack and attacks often."
         },
@@ -47,6 +51,10 @@
         {
             "id": 130000002001401,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nHas high physical attack and attacks often. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=395>poison</color> with <command_color=emphasis>Virulent Bite</color> and <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Breaking Whip</color>."
+        },
+        {
+            "id": 130000002001501,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nHas high physical attack and attacks often. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=395>poison</color> with <command_color=emphasis>Virulent Bite</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Breaking Whip</color>."
         },
         {
             "id": 130000002002001,
@@ -397,6 +405,22 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nHas <command_color=common_03>high resistance to physical and magic damage</color>. The force gauge can be depleted by landing attacks. After a certain amount of time, uses <command_color=emphasis>Self-Destruct</color> and reduces own HP to 0. If successful, <command_color=common_03>no rewards will be obtained from them</color>."
         },
         {
+            "id": 130000002046001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Pressure</color>, and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=393>silence</color> on the target with the highest MATK."
+        },
+        {
+            "id": 130000002046002,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses many <command_color=common_03>powerful physical attacks</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Pressure</color>, and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=393>silence</color> on the target with the highest MATK. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Wall</color>."
+        },
+        {
+            "id": 130000002046101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Pressure</color>, and uses <command_color=emphasis>Blind</color> to inflict <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> on the target with the highest PATK."
+        },
+        {
+            "id": 130000002046102,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses many <command_color=common_03>powerful physical attacks</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Pressure</color>, and uses <command_color=emphasis>Blind</color> to inflict <command_color=common_03><sprite=\"tmp_icon\" index=386>darkness</color> on the target with the highest PATK. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Wall</color>."
+        },
+        {
             "id": 130000002047001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down \n \nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Death Claw</color>, and subsequently uses the <command_color=common_03>lightning-element physical attack</color> <command_color=emphasis>Laser</color>.\n \n<command_color=common_03>Magic attacks</color> are effective against this enemy."
         },
@@ -453,6 +477,10 @@
             "value": "Immunities: None\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=393>silence</color>."
         },
         {
+            "id": 130000002056101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=393>silence</color>."
+        },
+        {
             "id": 130000002058001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nAt the start of battle, uses <command_color=emphasis>Doom</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=395>poison</color> with <command_color=emphasis>Poison Spear</color> and <command_color=emphasis>Hell Spear</color>. When allies are defeated, uses <command_color=emphasis>Vengeful Spirit</color> to greatly increase own PATK.\n\n<command_color=common_03>Fire-element physical attacks</color> are effective against this enemy."
         },
@@ -475,6 +503,10 @@
         {
             "id": 130000002061001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Collide</color>."
+        },
+        {
+            "id": 130000002061002,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\n<command_color=common_03>Wind-element magic attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002062001,
@@ -677,6 +709,10 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nDuring <command_color=emphasis>Battery Assist</color>, grants self <sprite=\"tmp_icon\" index=326><command_color=common_03>MATK Up</color>, and subsequently uses the lightning-element magic attack <command_color=emphasis>Prismatic Ray</color>.\n \n<command_color=common_03>Magic attacks</color> are effective against this enemy."
         },
         {
+            "id": 130000002523201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nAt the start of battle, greatly increases own PDEF and MDEF with <command_color=emphasis>Mode: Annihilation</color>. Force Gauge: <command_color=emphasis>Electric Absorption</color> can be depleted with lightning-element damage. When the gauge is fully depleted, greatly increases own MATK with <command_color=emphasis>Power Conversion</color>. Uses the lighting-element magic attack <command_color=emphasis>Prismatic Ray</color>, and follows it up with <command_color=emphasis>Emergency Cooldown</color>, an ability that greatly decreases own PDEF and MDEF.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is useful to protect allies as the enemy uses powerful single-target attacks."
+        },
+        {
             "id": 130000002524001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nIncapacitates a target during <command_color=emphasis>Watermelon Bash!!!</color> Destroying more sigils during <command_color=emphasis>Watermelon Challenge</color> increases the potency of <command_color=emphasis>Watermelon's Grudge</color>.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy."
         },
@@ -749,12 +785,24 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses <command_color=common_03>powerful fire- and ice-element magic abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=406>dread</color> and <command_color=common_03><sprite=\"tmp_icon\" index=394>sedate</color> with <command_color=emphasis>Fearful Celebration</color>. Unleashes <command_color=emphasis>Fearful Celebration</color> again when Force Gauge: <command_color=emphasis>Increasing Dread</color> is full. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=338>Lightning Resistance Up</color> with <command_color=emphasis>Lightning Guard Mantle</color>.\n\n<command_color=common_03>Lightning-element magic abilities</color> are effective against this enemy."
         },
         {
+            "id": 130000002532001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses <command_color=common_03>powerful physical and magic abilities</color>. Grants self either <command_color=common_03><sprite=\"tmp_icon\" index=336>Fire Resistance Up</color> or <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color>, as well as <command_color=common_03><sprite=\"tmp_icon\" index=335>veil</color> with <command_color=emphasis>Defense of Lust</color>. MATK changes based on the amount Force Gauge: <command_color=emphasis>Wrath</color> is filled. The force gauge can be depleted with damage. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=415>enfeeble</color> with <command_color=emphasis>Unleashed Wrath</color>."
+        },
+        {
             "id": 130000002536002,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses <command_color=common_03>powerful lightning-element abilities</color>. Incapacitates two targets with Force Gauge: <command_color=emphasis>Fatal Call</color>. The gauge can be depleted with damage. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=398>Block Rec.</color> and <command_color=common_03><sprite=\"tmp_icon\" index=327>Haste</color> on all targets with <command_color=emphasis>Quicken Time</color>.\n\n<command_color=common_03>Ice- and water-element physical attacks</color> are effective against this enemy.\n"
         },
         {
+            "id": 130000002536101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses <command_color=common_03>powerful lightning-element physical and magic abilities</color>. Uses many <command_color=common_03>lightning-element physical abilities</color> during Force Gauge: <command_color=emphasis>Thunder Zone</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Trample</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=401>Ice Potency Down</color> with <command_color=emphasis>Lightning Rend</color>, and increases own PATK with every use.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is useful to protect allies as the enemy has many powerful single-target attacks."
+        },
+        {
             "id": 130000002537001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses many <command_color=common_03>physical attacks</color>. Grants self and all targets <command_color=common_03><sprite=\"tmp_icon\" index=324>PATK Up</color> when Force Gauge: <command_color=emphasis>Present</color> is reduced to 0. The gauge can be depleted with damage.\n\n<command_color=common_03>Physical attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002537003,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses many <command_color=common_03>physical attacks</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> on all targets and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> on self with <command_color=emphasis>Thunk</color>. Increases the potency of buffs and debuffs of all targets with <command_color=emphasis>Special Present Delivery</color>.\n\n<command_color=common_03>Wind-element magic abilities</color> are effective against this enemy."
         },
         {
             "id": 130000002538001,
@@ -802,7 +850,11 @@
         },
         {
             "id": 130000002549001,
-            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> with <command_color=emphasis>Devastating Darkness</color>. After using <command_color=emphasis>Illuminating Spirit</color> to raise own PATK, <command_color=common_03><sprite=\"tmp_icon\" index=407>bleed</color> inflicted by <command_color=emphasis>Devastating Darkness</color> becomes <command_color=common_03><sprite=\"tmp_icon\" index=408>hemorrhage</color>. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=340>Water Resistance Up</color> with <command_color=emphasis>Enlightening Blade</color>."
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>Pain</color> with <command_color=emphasis>Devastating Darkness</color>. After using <command_color=emphasis>Illuminating Spirit</color> to raise own PATK, <command_color=common_03><sprite=\"tmp_icon\" index=407>Pain</color> inflicted by <command_color=emphasis>Devastating Darkness</color> becomes <command_color=common_03><sprite=\"tmp_icon\" index=408>Agony</color>. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=337>Ice Resistance Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=340>Water Resistance Up</color> with <command_color=emphasis>Enlightening Blade</color>."
+        },
+        {
+            "id": 130000002552001,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses many <command_color=common_03>powerful earth-element physical abilities</color>. <command_color=common_03>Earth Potency</color> changes based on the amount Force Gauge: <command_color=emphasis>Earthen Power</color> is filled. The gauge can be depleted with wind damage. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=335>veil</color> with <command_color=emphasis>Earthen Aegis</color>. Incapacitates a target during <command_color=emphasis>Granite Shell</color>.\n \n<command_color=common_03>Wind-element magic abilities</color> are effective against this enemy."
         },
         {
             "id": 130000002554001,

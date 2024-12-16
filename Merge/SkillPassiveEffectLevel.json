@@ -3855,6 +3855,66 @@
     "SkillEffectDetailId": 0
   },
   {
+    "Id": 518031,
+    "Description": {
+      "Ja": "バトル開始時、ATB+{0}",
+      "En": "ATB +{0} when battle begins"
+    },
+    "Level": 1,
+    "EffectValue": 1000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 518031,
+    "Description": {
+      "Ja": "バトル開始時、ATB+{0}",
+      "En": "ATB +{0} when battle begins"
+    },
+    "Level": 2,
+    "EffectValue": 2000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 518031,
+    "Description": {
+      "Ja": "バトル開始時、ATB+{0}",
+      "En": "ATB +{0} when battle begins"
+    },
+    "Level": 3,
+    "EffectValue": 3000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 518031,
+    "Description": {
+      "Ja": "バトル開始時、ATB+{0}",
+      "En": "ATB +{0} when battle begins"
+    },
+    "Level": 4,
+    "EffectValue": 4000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
     "Id": 519011,
     "Description": {
       "Ja": "バフ・デバフ(上昇・下降系)の効果時間＋{1}%",
@@ -4429,6 +4489,36 @@
     "Description": {
       "Ja": "魔法防御力+{1}%",
       "En": "Mag. Defense +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 533021,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 533022,
+    "Description": {
+      "Ja": "物理防御力+{1}%",
+      "En": "Phys. Defense +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,

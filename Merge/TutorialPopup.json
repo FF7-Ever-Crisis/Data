@@ -2835,6 +2835,19 @@
   },
   {
     "Title": {
+      "Ja": "グラナイトジェイル",
+      "En": "Granite Shell"
+    },
+    "Description": {
+      "Ja": "キャラクター1人を拘束し、「<command_color=common_03>行動不能</color>」にします。\n行動不能中は<command_color=common_03>アビリティの使用が行えず、ATBゲージもたまりません</color>。\n行動不能はキャラクターが使用するアビリティでは解除することができず、\n<command_color=common_03>ストリームフェイズが終了するか、特定の攻撃を受けると同時に解除</color>されます。",
+      "En": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
+    },
+    "TutorialPopupGroupId": 300000012,
+    "Seq": 1,
+    "ResourceId": 3000000121
+  },
+  {
+    "Title": {
       "Ja": "隠術",
       "En": "Shroud"
     },
@@ -3030,6 +3043,19 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「ECLIPSE」",
+      "En": "Force Gauge: Eclipse"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000011,
+    "Seq": 1,
+    "ResourceId": 3100000111
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「PRESENT」",
       "En": "Force Gauge: Present"
     },
@@ -3040,6 +3066,19 @@
     "TutorialPopupGroupId": 310000012,
     "Seq": 1,
     "ResourceId": 3100000121
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「EARTH POWER」",
+      "En": "Force Gauge: Earthen Power"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>土属性威力</color>」が上昇している状態です。\n敵に<command_color=common_03>風属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。",
+      "En": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>Earth Potency</color>. <command_color=common_03>Dealing wind damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    "TutorialPopupGroupId": 310000013,
+    "Seq": 1,
+    "ResourceId": 3100000131
   },
   {
     "Title": {
@@ -3238,6 +3277,19 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「THUNDER AREA」",
+      "En": "Force Gauge: Thunder Zone"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000030,
+    "Seq": 1,
+    "ResourceId": 3100000301
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「MAGITEK POWER」",
       "En": "Force Gauge: Magitek Power"
     },
@@ -3248,6 +3300,19 @@
     "TutorialPopupGroupId": 310000031,
     "Seq": 1,
     "ResourceId": 3100000311
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「WRATH」",
+      "En": "Force Gauge: Wrath"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>魔攻</color>」が上昇している状態です。\n敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。",
+      "En": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>MATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    "TutorialPopupGroupId": 310000032,
+    "Seq": 1,
+    "ResourceId": 3100000321
   },
   {
     "Title": {
@@ -3264,15 +3329,28 @@
   },
   {
     "Title": {
-      "Ja": "状態異常【出血・大出血】",
-      "En": "Status Ailment: Bleed, Hemorrhage"
+      "Ja": "状態異常【激痛・大激痛】",
+      "En": "Status Ailment: Pain, Agony"
     },
     "Description": {
-      "Ja": "<command_color=common_03>Cアビリティを使用した際、ダメージを受ける状態</color>です。\nまた、<command_color=common_03>出血中に再度出血を受けることで大出血に変化します。</color>\n大出血は<command_color=common_03>Cアビリティ使用時に受けるダメージがさらに増加します。</color>\n出血・大出血は、<command_color=common_03>付与されているキャラクターのHPを最大まで回復すると解除</color>されます。",
-      "En": "While afflicted with Bleed, <command_color=common_03>you will take damage when using C. abilities</color>. If inflicted with Bleed while already afflicted with the status, <command_color=common_03>Bleed will be replaced with Hemorrhage</color>. While afflicted with Hemorrhage, <command_color=common_03>you will take even more damage</color> when using C. abilities. Either status can be canceled <command_color=common_03>by healing the impaired character to full</color>. "
+      "Ja": "<command_color=common_03>Cアビリティを使用した際、ダメージを受ける状態</color>です。\nまた、<command_color=common_03>激痛中に再度激痛を受けることで大激痛に変化します。</color>\n大激痛は<command_color=common_03>Cアビリティ使用時に受けるダメージがさらに増加します。</color>\n激痛・大激痛は、<command_color=common_03>付与されているキャラクターのHPを最大まで回復すると解除</color>されます。",
+      "En": "While afflicted with Pain, <command_color=common_03>you will take damage when using C. abilities</color>. If inflicted with Pain while already afflicted with the status, <command_color=common_03>Pain will be replaced with Agony</color>. While afflicted with Agony, <command_color=common_03>you will take even more damage</color> when using C. abilities. Either status can be canceled <command_color=common_03>by healing the impaired character to full</color>. "
     },
     "TutorialPopupGroupId": 320000002,
     "Seq": 1,
     "ResourceId": 3200000021
+  },
+  {
+    "Title": {
+      "Ja": "状態異常【衰弱】",
+      "En": "Status Ailment: Enfeeble"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>衰弱の対象に付与されている下降系デバフの効果が増加している</color>状態です。\nデバフの効果段階ごとのパラメータ低下が大きくなっているため、\nデバフ中は衰弱が付与されていない時と比べて与ダメージが著しく低下し、被ダメージが大きく増加します。",
+      "En": "While afflicted with Enfeeble, <command_color=common_03>the modifiers for stat debuff tiers are increased</color>, thus greatly boosting their potency."
+    },
+    "TutorialPopupGroupId": 320000003,
+    "Seq": 1,
+    "ResourceId": 3200000031
   }
 ]

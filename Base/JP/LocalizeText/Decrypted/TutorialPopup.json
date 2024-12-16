@@ -817,6 +817,10 @@
             "value": "エレクトリファイ"
         },
         {
+            "id": 970003000000121,
+            "value": "グラナイトジェイル"
+        },
+        {
             "id": 970003000000131,
             "value": "隠術"
         },
@@ -877,8 +881,16 @@
             "value": "フォースゲージ「MAELSTROM」"
         },
         {
+            "id": 970003100000111,
+            "value": "フォースゲージ「ECLIPSE」"
+        },
+        {
             "id": 970003100000121,
             "value": "フォースゲージ「PRESENT」"
+        },
+        {
+            "id": 970003100000131,
+            "value": "フォースゲージ「EARTH POWER」"
         },
         {
             "id": 970003100000151,
@@ -941,8 +953,16 @@
             "value": "フォースゲージ「FEAR INCREASE」"
         },
         {
+            "id": 970003100000301,
+            "value": "フォースゲージ「THUNDER AREA」"
+        },
+        {
             "id": 970003100000311,
             "value": "フォースゲージ「MAGITEK POWER」"
+        },
+        {
+            "id": 970003100000321,
+            "value": "フォースゲージ「WRATH」"
         },
         {
             "id": 970003200000011,
@@ -950,7 +970,11 @@
         },
         {
             "id": 970003200000021,
-            "value": "状態異常【出血・大出血】"
+            "value": "状態異常【激痛・大激痛】"
+        },
+        {
+            "id": 970003200000031,
+            "value": "状態異常【衰弱】"
         },
         {
             "id": 971000101400101,
@@ -1293,6 +1317,10 @@
             "value": "アビリティによる攻撃でダメージを与えると「<command_color=common_03>雷属性の反撃ダメージ</color>」を受ける状態です。\nたたかうを除く、<command_color=common_03>物理・魔法の攻撃アビリティでのダメージ発生時</color>に反撃されます。\n<command_color=common_03>ストリームフェイズが終了すると同時に解除</color>されます。"
         },
         {
+            "id": 971003000000121,
+            "value": "キャラクター1人を拘束し、「<command_color=common_03>行動不能</color>」にします。\n行動不能中は<command_color=common_03>アビリティの使用が行えず、ATBゲージもたまりません</color>。\n行動不能はキャラクターが使用するアビリティでは解除することができず、\n<command_color=common_03>ストリームフェイズが終了するか、特定の攻撃を受けると同時に解除</color>されます。"
+        },
+        {
             "id": 971003000000131,
             "value": "ストリームフェイズ中、<command_color=common_03>有効なサインを非表示</color>にします。\n<command_color=common_03>非表示にされたサインと一致したアビリティでサイン破壊</color>を行うと、\n<command_color=common_03>サインが表示される</color>ようになります。"
         },
@@ -1353,8 +1381,16 @@
             "value": "敵に<command_color=common_03>雷属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージが表示されてから一定時間経過後、<command_color=common_03>敵のアビリティ「大海衝」が発動</color>します。\nその際、<command_color=common_03>フォースゲージの量が多いほど「大海衝」の威力が上昇</color>します。"
         },
         {
+            "id": 971003100000111,
+            "value": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。"
+        },
+        {
             "id": 971003100000121,
             "value": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると、敵が<command_color=common_03>対象と敵自身に物攻アップを付与するアビリティ</color>を使用します。"
+        },
+        {
+            "id": 971003100000131,
+            "value": "フォースゲージの量が多いほど敵の「<command_color=common_03>土属性威力</color>」が上昇している状態です。\n敵に<command_color=common_03>風属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。"
         },
         {
             "id": 971003100000151,
@@ -1417,8 +1453,16 @@
             "value": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージが最大までたまると<command_color=common_03>敵のアビリティ「戦慄の宴」が発動</color>します。\nフォースゲージは<command_color=common_03>時間経過</color>でたまっていきます。"
         },
         {
+            "id": 971003100000301,
+            "value": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。"
+        },
+        {
             "id": 971003100000311,
             "value": "フォースゲージがある間、<command_color=common_03>敵の弱点属性が変化</color>している状態です。\n敵に<command_color=common_03>弱点属性でダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の弱点属性の変化を解除する</color>ことができます。"
+        },
+        {
+            "id": 971003100000321,
+            "value": "フォースゲージの量が多いほど敵の「<command_color=common_03>魔攻</color>」が上昇している状態です。\n敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。"
         },
         {
             "id": 971003200000011,
@@ -1426,7 +1470,11 @@
         },
         {
             "id": 971003200000021,
-            "value": "<command_color=common_03>Cアビリティを使用した際、ダメージを受ける状態</color>です。\nまた、<command_color=common_03>出血中に再度出血を受けることで大出血に変化します。</color>\n大出血は<command_color=common_03>Cアビリティ使用時に受けるダメージがさらに増加します。</color>\n出血・大出血は、<command_color=common_03>付与されているキャラクターのHPを最大まで回復すると解除</color>されます。"
+            "value": "<command_color=common_03>Cアビリティを使用した際、ダメージを受ける状態</color>です。\nまた、<command_color=common_03>激痛中に再度激痛を受けることで大激痛に変化します。</color>\n大激痛は<command_color=common_03>Cアビリティ使用時に受けるダメージがさらに増加します。</color>\n激痛・大激痛は、<command_color=common_03>付与されているキャラクターのHPを最大まで回復すると解除</color>されます。"
+        },
+        {
+            "id": 971003200000031,
+            "value": "<command_color=common_03>衰弱の対象に付与されている下降系デバフの効果が増加している</color>状態です。\nデバフの効果段階ごとのパラメータ低下が大きくなっているため、\nデバフ中は衰弱が付与されていない時と比べて与ダメージが著しく低下し、被ダメージが大きく増加します。"
         }
     ]
 }

@@ -343,5 +343,350 @@
     "OrderNo": 606,
     "ResourceId": 606,
     "ItemRarityType": 2
+  },
+  {
+    "Id": 1101,
+    "Name": {
+      "Ja": "ポーション",
+      "En": "Potion"
+    },
+    "Description": {
+      "Ja": "現在HPを <color=#95C7FF>40%</color> 回復する",
+      "En": "Restores <color=#95C7FF>40%</color> of current HP."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1101,
+    "ResourceId": 101,
+    "ItemRarityType": 1
+  },
+  {
+    "Id": 1102,
+    "Name": {
+      "Ja": "ハイポーション",
+      "En": "Hi-Potion"
+    },
+    "Description": {
+      "Ja": "現在HPを <color=#95C7FF>60%</color> 回復する",
+      "En": "Restores <color=#95C7FF>60%</color> of current HP."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1102,
+    "ResourceId": 102,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1103,
+    "Name": {
+      "Ja": "栄養剤",
+      "En": "Supplement"
+    },
+    "Description": {
+      "Ja": "最大HPを <color=#95C7FF>20%</color> 回復する",
+      "En": "Restores <color=#95C7FF>20%</color> of max HP."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1103,
+    "ResourceId": 103,
+    "ItemRarityType": 1
+  },
+  {
+    "Id": 1104,
+    "Name": {
+      "Ja": "スペシャル栄養剤",
+      "En": "Special Supplement"
+    },
+    "Description": {
+      "Ja": "最大HPを <color=#95C7FF>40%</color> 回復する",
+      "En": "Restores <color=#95C7FF>40%</color> of max HP."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1104,
+    "ResourceId": 104,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1105,
+    "Name": {
+      "Ja": "テント",
+      "En": "Tent"
+    },
+    "Description": {
+      "Ja": "味方全体の最大HPを <color=#95C7FF>25%</color> 、現在HPを <color=#95C7FF>100%</color> 回復する",
+      "En": "Restores <color=#95C7FF>25%</color> of allies' max HP and <color=#95C7FF>100%</color> of allies' current HP."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1105,
+    "ResourceId": 105,
+    "ItemRarityType": 3
+  },
+  {
+    "Id": 1106,
+    "Name": {
+      "Ja": "コテージ",
+      "En": "Cottage"
+    },
+    "Description": {
+      "Ja": "味方全体の最大HPを <color=#95C7FF>50%</color> 、現在HPを <color=#95C7FF>100%</color> 回復する",
+      "En": "Restores <color=#95C7FF>50%</color> of allies' max HP and <color=#95C7FF>100%</color> of allies' current HP."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1106,
+    "ResourceId": 106,
+    "ItemRarityType": 4
+  },
+  {
+    "Id": 1107,
+    "Name": {
+      "Ja": "エリクサー",
+      "En": "Elixir"
+    },
+    "Description": {
+      "Ja": "全HP、全ゲージを <color=#95C7FF>100%</color> 回復する",
+      "En": "Restores <color=#95C7FF>100%</color> of current HP and fills all Gauges to <color=#95C7FF>max</color>."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1107,
+    "ResourceId": 107,
+    "ItemRarityType": 3
+  },
+  {
+    "Id": 1108,
+    "Name": {
+      "Ja": "ラストエリクサー",
+      "En": "Megalixir"
+    },
+    "Description": {
+      "Ja": "味方全体の全HP、全ゲージを <color=#95C7FF>100%</color> 回復する",
+      "En": "Restores <color=#95C7FF>100%</color> of allies' current HP and fills all allies' Gauges to <color=#95C7FF>max</color>."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1108,
+    "ResourceId": 108,
+    "ItemRarityType": 4
+  },
+  {
+    "Id": 1201,
+    "Name": {
+      "Ja": "エーテル",
+      "En": "Ether"
+    },
+    "Description": {
+      "Ja": "ATBを <color=#95C7FF>3</color> 回復する",
+      "En": "Raises ATB by <color=#95C7FF>3</color>."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1201,
+    "ResourceId": 201,
+    "ItemRarityType": 1
+  },
+  {
+    "Id": 1202,
+    "Name": {
+      "Ja": "エーテルターボ",
+      "En": "Turbo Ether"
+    },
+    "Description": {
+      "Ja": "ATBを <color=#95C7FF>7</color> 回復する",
+      "En": "Raises ATB by <color=#95C7FF>7</color>."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1202,
+    "ResourceId": 202,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1301,
+    "Name": {
+      "Ja": "興奮剤",
+      "En": "Stimulant"
+    },
+    "Description": {
+      "Ja": "LBゲージを <color=#95C7FF>50％</color> 回復する",
+      "En": "Fills Limit Gauge by <color=#95C7FF>50%</color>."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1301,
+    "ResourceId": 301,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1401,
+    "Name": {
+      "Ja": "サモンチャージ",
+      "En": "Summoncharge"
+    },
+    "Description": {
+      "Ja": "SUMMONゲージを <color=#95C7FF>50％</color> 回復する",
+      "En": "Fills Summon Gauge by <color=#95C7FF>50%</color>."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1401,
+    "ResourceId": 401,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1501,
+    "Name": {
+      "Ja": "パワー剤・改",
+      "En": "Power Jelly+"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで物攻が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises PATK by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1501,
+    "ResourceId": 501,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1502,
+    "Name": {
+      "Ja": "ガード剤・改",
+      "En": "Guard Jelly+"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで物防が  <color=#95C7FF>100％</color> 上昇する",
+      "En": "Raises PDEF by <color=#95C7FF>100%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1502,
+    "ResourceId": 502,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1503,
+    "Name": {
+      "Ja": "マジック剤・改",
+      "En": "Magic Jelly+"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで魔攻が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises MATK by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1503,
+    "ResourceId": 503,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1504,
+    "Name": {
+      "Ja": "マインド剤・改",
+      "En": "Wisdom Jelly+"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで魔防が  <color=#95C7FF>100％</color> 上昇する",
+      "En": "Raises MDEF by <color=#95C7FF>100%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1504,
+    "ResourceId": 504,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1601,
+    "Name": {
+      "Ja": "ファイラカクテル",
+      "En": "Fira Cocktail"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで炎属性威力が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises Fire pot. by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1601,
+    "ResourceId": 601,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1602,
+    "Name": {
+      "Ja": "ブリザラカクテル",
+      "En": "Blizzara Cocktail"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで冷属性威力が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises Ice pot. by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1602,
+    "ResourceId": 602,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1603,
+    "Name": {
+      "Ja": "サンダラカクテル",
+      "En": "Thundara Cocktail"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで雷属性威力が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises Lightning pot. by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1603,
+    "ResourceId": 603,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1604,
+    "Name": {
+      "Ja": "クエイラカクテル",
+      "En": "Quakera Cocktail"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで土属性威力が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises Earth pot. by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1604,
+    "ResourceId": 604,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1605,
+    "Name": {
+      "Ja": "ウォタラカクテル",
+      "En": "Watera Cocktail"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで水属性威力が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises Water pot. by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1605,
+    "ResourceId": 605,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1606,
+    "Name": {
+      "Ja": "エアロラカクテル",
+      "En": "Aerora Cocktail"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで風属性威力が  <color=#95C7FF>50％</color> 上昇する",
+      "En": "Raises Wind pot. by <color=#95C7FF>50%</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1606,
+    "ResourceId": 606,
+    "ItemRarityType": 2
+  },
+  {
+    "Id": 1701,
+    "Name": {
+      "Ja": "挑発香",
+      "En": "Provoking Scent"
+    },
+    "Description": {
+      "Ja": "次のシンボルエネミーとのバトルで <color=#95C7FF>状態変化【挑発】</color> を付与する",
+      "En": "Inflicts the <color=#95C7FF>status effect Provoke</color> during next symbol enemy battle."
+    },
+    "InstantItemType": 1,
+    "OrderNo": 1701,
+    "ResourceId": 701,
+    "ItemRarityType": 2
   }
 ]
