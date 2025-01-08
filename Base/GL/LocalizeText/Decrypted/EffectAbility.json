@@ -50,7 +50,7 @@
         },
         {
             "id": 504013,
-            "value": "When {1} is granted to {0}, "
+            "value": "When {1} is granted to{0}, "
         },
         {
             "id": 504014,
@@ -695,6 +695,26 @@
         {
             "id": 504215,
             "value": "{0}\\nCharge: {1}s/Uses: {2}"
+        },
+        {
+            "id": 504216,
+            "value": "Applies {3}\n{2} [Dur.: {4}s] [Dur. Ext.: +{5}s] [When triggered: restores {6}% of target's max HP] {0} {1}"
+        },
+        {
+            "id": 504217,
+            "value": "Applies {3}\n{2} [Pot.: {4}%] [Dur.: {5}s] [Dur. Ext.: +{6}s] {0} {1}"
+        },
+        {
+            "id": 504218,
+            "value": "Applies {3}\n[Target: {2}] [Next {4} C./UC. Ability: Damage +{5}%] [Effect Duration: {6}s] [Effect Duration Extension: +{7}s] {0} {1}"
+        },
+        {
+            "id": 504219,
+            "value": "Applies Amp. Critical Rate\n[Target: {2}] [Next C./UC. Ability: Critical Rate x{3}] [Effect Duration: {4}s] [Effect Duration Extension: +{5}s] {0} {1}"
+        },
+        {
+            "id": 504220,
+            "value": "Applies Amp. Healing Abilities\n[Target: {2}] [Next C./UC. Ability: Healing +{3}%] [Effect Duration: {4}s] [Effect Duration Extension: +{5}s] {0} {1}"
         }
     ]
 }

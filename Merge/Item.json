@@ -2063,7 +2063,7 @@
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
-    "StartDatetime": "2024-12-25T02:00:00+00:00",
+    "StartDatetime": "2024-12-23T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -2217,7 +2217,7 @@
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
-    "StartDatetime": "2024-12-25T02:00:00+00:00",
+    "StartDatetime": "2024-12-23T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -5896,6 +5896,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21017,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -6318,6 +6340,50 @@
     "Name": {
       "Ja": "FINAL FANTASY VIコラボ記念抽選ボックス",
       "En": "Lottery Box - FINAL FANTASY VI Crossover"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22515,
+    "Name": {
+      "Ja": "2024年末抽選ボックス",
+      "En": "Lottery Box - Year-End 2024"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22516,
+    "Name": {
+      "Ja": "New Year 2025メダル抽選ボックス",
+      "En": "Lottery Box - New Year 2025 Medals"
     },
     "Description": {
       "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
@@ -7656,6 +7722,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 100046,
+    "Name": {
+      "Ja": "新年リミットブレイクスペシャルガチャチケット",
+      "En": "New Year Limit Break Special Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「新年リミットブレイクスペシャルガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>New Year Limit Break Special Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100046,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100047,
+    "Name": {
+      "Ja": "New Year 2025ガチャチケット",
+      "En": "New Year 2025 Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「New Year 2025スペシャルガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>New Year 2025 Special Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100047,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100048,
+    "Name": {
+      "Ja": "New Year 2025武器交換券",
+      "En": "New Year 2025 Weapon Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「特別交換所」</color>で使用できます。\n\n※交換できるラインナップは特別交換所でご確認ください。",
+      "En": "Traded for weapons at the <command_color=common_03>Special Exchange</color>.\n\n*Please check the exchangeable lineup at the Special Exchange."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100048,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300001,
     "Name": {
       "Ja": "2023ウインターメダル",
@@ -7850,6 +7982,94 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-10-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300010,
+    "Name": {
+      "Ja": "ウインターウェア交換券 vol.3",
+      "En": "Winter Gear Voucher Vol. 3"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「ウインターウェア交換所 vol.3」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Winter Gear Exchange Vol. 3</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300010,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300011,
+    "Name": {
+      "Ja": "ウインターウェア交換券 vol.4",
+      "En": "Winter Gear Voucher Vol. 4"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「ウインターウェア交換所 vol.4」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Winter Gear Exchange Vol. 4</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300012,
+    "Name": {
+      "Ja": "New Year 2025メダル",
+      "En": "New Year 2025 Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「New Year 2025メダル交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>New Year 2025 Medals Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300014,
+    "Name": {
+      "Ja": "New Year 2025ウェア交換券",
+      "En": "New Year 2025 Gear Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「New Year2025ウェア交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>New Year 2025 Gear Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -8417,6 +8637,50 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1001038,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001039,
+    "Name": {
+      "Ja": "ホリデーブレード・パーツ",
+      "En": "Holiday Blade Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ホリデーブレード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Holiday Blade</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001039,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-23T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001040,
+    "Name": {
+      "Ja": "チョコボの羽子板・パーツ",
+      "En": "Chocobo Paddle Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「チョコボの羽子板」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Chocobo Paddle</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001040,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -9438,6 +9702,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1003039,
+    "Name": {
+      "Ja": "蒼水仙の手甲・パーツ",
+      "En": "Blue Daffodil Gloves Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「蒼水仙の手甲」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Blue Daffodil Gloves</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003039,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003040,
+    "Name": {
+      "Ja": "魔晄の貴石（プレミアムハート）",
+      "En": "Mako Gem (Premium Heart)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003040,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1004001,
     "Name": {
       "Ja": "ガードロッド・パーツ",
@@ -10005,7 +10313,29 @@
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
-    "StartDatetime": "2024-12-25T02:00:00+00:00",
+    "StartDatetime": "2024-12-23T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004033,
+    "Name": {
+      "Ja": "紅華の大杖・パーツ",
+      "En": "Crimson Staff Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「紅華の大杖」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Crimson Staff</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004033,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -11000,6 +11330,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1006031,
+    "Name": {
+      "Ja": "打出の小槌・パーツ",
+      "En": "Mallet of Luck Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「打出の小槌」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Mallet of Luck</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1006032,
     "Name": {
       "Ja": "魔晄の貴石（不倶戴天）",
@@ -11656,6 +12008,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-07-18T06:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008013,
+    "Name": {
+      "Ja": "フライクーゲル・パーツ",
+      "En": "Kugelblitz Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「フライクーゲル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Kugelblitz</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-09T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -12958,6 +13332,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1049031,
+    "Name": {
+      "Ja": "ウィザリングブレイズ・パーツ",
+      "En": "Withering Blaze Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ウィザリングブレイズ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Withering Blaze</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-19T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1050001,
     "Name": {
       "Ja": "マイスティーロ・パーツ",
@@ -13860,6 +14256,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1051026,
+    "Name": {
+      "Ja": "ルミナリィソード・パーツ",
+      "En": "Luminary Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ルミナリィソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Luminary Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1051026,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-19T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1052001,
     "Name": {
       "Ja": "V39・パーツ",
@@ -14669,7 +15087,7 @@
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
-    "StartDatetime": "2024-12-25T02:00:00+00:00",
+    "StartDatetime": "2024-12-23T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -15242,7 +15660,7 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-12-12T02:00:00+00:00",
-    "EndDatetime": "2024-12-28T01:59:59+00:00",
+    "EndDatetime": "2024-12-31T01:59:59+00:00",
     "OrderNo": 0
   },
   {
@@ -15264,7 +15682,73 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-12-12T02:00:00+00:00",
-    "EndDatetime": "2024-12-28T01:59:59+00:00",
+    "EndDatetime": "2024-12-31T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020143,
+    "Name": {
+      "Ja": "討伐ガチャチケット・金",
+      "En": "Gold Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「復刻 強敵襲来 タークス前線班出撃」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Gold Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020063,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-19T02:00:00+00:00",
+    "EndDatetime": "2024-12-31T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020151,
+    "Name": {
+      "Ja": "討伐ガチャチケット",
+      "En": "Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「復刻 強敵襲来 セフィロス降臨」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020051,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
+    "EndDatetime": "2025-01-11T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020153,
+    "Name": {
+      "Ja": "討伐ガチャチケット・金",
+      "En": "Gold Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「復刻 強敵襲来 セフィロス降臨」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Gold Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020053,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-07-22T02:00:00+00:00",
+    "EndDatetime": "2025-01-11T01:59:59+00:00",
     "OrderNo": 0
   },
   {
@@ -16123,6 +16607,160 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-10-17T02:00:00+00:00",
     "EndDatetime": "2024-11-13T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030201,
+    "Name": {
+      "Ja": "祝賀の飾扇子",
+      "En": "Festive Fan"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030201,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
+    "EndDatetime": "2025-01-25T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030202,
+    "Name": {
+      "Ja": "金の鈴",
+      "En": "Gold Bell"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030202,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
+    "EndDatetime": "2025-01-25T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030203,
+    "Name": {
+      "Ja": "銀の鈴",
+      "En": "Silver Bell"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030203,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-09T02:00:00+00:00",
+    "EndDatetime": "2025-01-25T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030204,
+    "Name": {
+      "Ja": "レアエネミーメダル",
+      "En": "Rare Enemy Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030204,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
+    "EndDatetime": "2025-01-25T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030221,
+    "Name": {
+      "Ja": "リベンジメダル",
+      "En": "Vengeance Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 48,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-25T02:00:00+00:00",
+    "EndDatetime": "2025-01-03T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030231,
+    "Name": {
+      "Ja": "応援ゴールドメダル",
+      "En": "Golden Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030231,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-19T02:00:00+00:00",
+    "EndDatetime": "2025-01-03T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030232,
+    "Name": {
+      "Ja": "応援シルバーメダル",
+      "En": "Silver Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030232,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-19T02:00:00+00:00",
+    "EndDatetime": "2025-01-03T01:59:59+00:00",
     "OrderNo": 0
   },
   {

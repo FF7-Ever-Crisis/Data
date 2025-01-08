@@ -145,7 +145,7 @@
       "En": "Progress through the <command_color=common_03>Battle Tower</color> to <command_color=common_03>unlock new features</color>. \nThe tower's <command_color=common_03>Battle Effect</color> will <command_color=common_03>influence your party's performance</color>. \nTherefore, it's crucial to strategize considering this effect."
     },
     "HelpPopupGroupId": 3,
-    "Seq": 5,
+    "Seq": 7,
     "ResourceId": 305,
     "ConditionSetId": 0
   },
@@ -160,7 +160,7 @@
       "En": "Through <command_color=common_03>Story quests</color>, you can learn more about characters' backgrounds."
     },
     "HelpPopupGroupId": 3,
-    "Seq": 6,
+    "Seq": 5,
     "ResourceId": 306,
     "ConditionSetId": 160000000018
   },
@@ -175,9 +175,24 @@
       "En": "You can revisit and explore the <command_color=common_03>dungeons</color> from the story. As you make progress, more will be unlocked."
     },
     "HelpPopupGroupId": 3,
-    "Seq": 7,
+    "Seq": 6,
     "ResourceId": 307,
     "ConditionSetId": 0
+  },
+  {
+    "Id": 308,
+    "Title": {
+      "Ja": "ダメージチャレンジについて",
+      "En": "Max. Damage Challenge"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ダメージチャレンジ」</color>は、ターゲットに対して\n時間内にどれだけダメージが出せるかを試すコンテンツです。\nステージごとにハイスコアが記録されます。",
+      "En": "In this challenge, the goal is to deal as much damage as possible within the allotted time. High scores will be recorded for each stage."
+    },
+    "HelpPopupGroupId": 3,
+    "Seq": 8,
+    "ResourceId": 308,
+    "ConditionSetId": 160000000052
   },
   {
     "Id": 401,
@@ -1917,6 +1932,36 @@
     "HelpPopupGroupId": 52,
     "Seq": 3,
     "ResourceId": 5203,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5301,
+    "Title": {
+      "Ja": "ダメージチャレンジについて1",
+      "En": "Max. Damage Challenge 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ダメージチャレンジ」</color>は、ターゲットに対して\n時間内にどれだけダメージが出せるかを試すコンテンツです。\nステージごとにハイスコアが記録されます。\nダメージチャレンジでは、一部のゲージが増加した状態でバトルが開始されます。",
+      "En": "In this challenge, the goal is to deal as much damage as possible within the allotted time. Some gauges will be partly filled at the start of battle, and high scores will be recorded for each stage."
+    },
+    "HelpPopupGroupId": 53,
+    "Seq": 1,
+    "ResourceId": 5301,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5302,
+    "Title": {
+      "Ja": "ダメージチャレンジについて2",
+      "En": "Max. Damage Challenge 2"
+    },
+    "Description": {
+      "Ja": "ステージごとにランキングが存在します。\nランキングはリセットされず、全期間での集計結果が表示されます。",
+      "En": "Each stage has its own ranking. The rankings do not reset and reflect the results over the entire period."
+    },
+    "HelpPopupGroupId": 53,
+    "Seq": 2,
+    "ResourceId": 5302,
     "ConditionSetId": 0
   },
   {

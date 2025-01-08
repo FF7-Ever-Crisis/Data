@@ -28,7 +28,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_01"
   },
   {
     "Id": 1006002,
@@ -59,7 +59,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_01"
   },
   {
     "Id": 1006003,
@@ -90,7 +90,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_01"
   },
   {
     "Id": 1006004,
@@ -121,7 +121,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_01"
   },
   {
     "Id": 1006005,
@@ -152,7 +152,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_01"
   },
   {
     "Id": 1006006,
@@ -183,7 +183,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_01"
   },
   {
     "Id": 1006101,
@@ -214,7 +214,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_03"
   },
   {
     "Id": 1006102,
@@ -245,7 +245,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_03"
   },
   {
     "Id": 1006103,
@@ -276,7 +276,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_03"
   },
   {
     "Id": 1006104,
@@ -307,7 +307,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch006_boss_enter_03"
   },
   {
     "Id": 1010001,
@@ -369,7 +369,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch010_boss_enter_01"
   },
   {
     "Id": 1010003,
@@ -400,7 +400,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch055_boss_enter_01"
   },
   {
     "Id": 1010004,
@@ -431,7 +431,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch055_boss_enter_01"
   },
   {
     "Id": 1010005,
@@ -462,7 +462,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch010_boss_enter_01"
   },
   {
     "Id": 1010010,
@@ -493,7 +493,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch055_boss_enter_01"
   },
   {
     "Id": 1010011,
@@ -524,7 +524,38 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch055_boss_enter_01"
+  },
+  {
+    "Id": 1010012,
+    "Name": {
+      "Ja": "セフィロス",
+      "En": "Sephiroth"
+    },
+    "ResourceId": 1055001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_083",
+    "HpCoefficient": 100000,
+    "LbHpCoefficient": 4000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 11010010,
+    "EnemyLevelConstantGroupId": 1010012,
+    "ResistBuffDebuffId": 1010002,
+    "ResistDamageId": 0,
+    "ResistElementId": 1010002,
+    "ResistStatusConditionId": 1010002,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "ch055_boss_enter_01"
   },
   {
     "Id": 1012005,
@@ -555,7 +586,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_01"
   },
   {
     "Id": 1012006,
@@ -586,7 +617,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_01"
   },
   {
     "Id": 1012007,
@@ -617,7 +648,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_01"
   },
   {
     "Id": 1012008,
@@ -648,7 +679,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_01"
   },
   {
     "Id": 1012009,
@@ -679,7 +710,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_01"
   },
   {
     "Id": 1012010,
@@ -710,7 +741,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_01"
   },
   {
     "Id": 1012011,
@@ -741,7 +772,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_03"
   },
   {
     "Id": 1012012,
@@ -772,7 +803,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_03"
   },
   {
     "Id": 1012013,
@@ -803,7 +834,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_03"
   },
   {
     "Id": 1012014,
@@ -834,7 +865,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_03"
   },
   {
     "Id": 1012015,
@@ -865,7 +896,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_04"
   },
   {
     "Id": 1012016,
@@ -896,7 +927,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_04"
   },
   {
     "Id": 1012017,
@@ -927,7 +958,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_04"
   },
   {
     "Id": 1012018,
@@ -958,7 +989,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch012_boss_enter_04"
   },
   {
     "Id": 1012031,
@@ -1175,7 +1206,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_01"
   },
   {
     "Id": 1013002,
@@ -1206,7 +1237,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_01"
   },
   {
     "Id": 1013003,
@@ -1237,7 +1268,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_01"
   },
   {
     "Id": 1013004,
@@ -1268,7 +1299,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_01"
   },
   {
     "Id": 1013005,
@@ -1299,7 +1330,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_02"
   },
   {
     "Id": 1013006,
@@ -1330,7 +1361,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_02"
   },
   {
     "Id": 1013007,
@@ -1361,7 +1392,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_02"
   },
   {
     "Id": 1013008,
@@ -1392,7 +1423,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch013_boss_enter_02"
   },
   {
     "Id": 1013009,
@@ -1702,7 +1733,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_01"
   },
   {
     "Id": 1014002,
@@ -1733,7 +1764,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_01"
   },
   {
     "Id": 1014003,
@@ -1764,7 +1795,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_01"
   },
   {
     "Id": 1014004,
@@ -1795,7 +1826,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_01"
   },
   {
     "Id": 1014005,
@@ -2074,7 +2105,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_03"
   },
   {
     "Id": 1014014,
@@ -2105,7 +2136,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_03"
   },
   {
     "Id": 1014015,
@@ -2136,7 +2167,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_03"
   },
   {
     "Id": 1014016,
@@ -2167,7 +2198,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_03_aura"
   },
   {
     "Id": 1014017,
@@ -2198,7 +2229,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch014_boss_enter_03_aura"
   },
   {
     "Id": 1015031,
@@ -2229,7 +2260,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch015_boss_enter_01"
   },
   {
     "Id": 1015032,
@@ -2260,7 +2291,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch015_boss_enter_01"
   },
   {
     "Id": 1015033,
@@ -2291,7 +2322,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch015_boss_enter_01"
   },
   {
     "Id": 1015034,
@@ -2322,7 +2353,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch015_boss_enter_01"
   },
   {
     "Id": 1015035,
@@ -2353,7 +2384,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch015_boss_enter_01"
   },
   {
     "Id": 1015036,
@@ -2384,7 +2415,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch015_boss_enter_01"
   },
   {
     "Id": 1015037,
@@ -2415,7 +2446,7 @@
     "DummyHpCoefficient": 26000,
     "DummyLbHpCoefficient": 2000,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "ch015_boss_enter_01"
   },
   {
     "Id": 1057001,
@@ -5301,6 +5332,99 @@
     "enemy_25": ""
   },
   {
+    "Id": 2015013,
+    "Name": {
+      "Ja": "ズー",
+      "En": "Zu"
+    },
+    "ResourceId": 2015001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015013,
+    "ResistBuffDebuffId": 2015001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015001,
+    "ResistStatusConditionId": 2015001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2015014,
+    "Name": {
+      "Ja": "ズー",
+      "En": "Zu"
+    },
+    "ResourceId": 2015001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015014,
+    "ResistBuffDebuffId": 2015001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015001,
+    "ResistStatusConditionId": 2015001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2015015,
+    "Name": {
+      "Ja": "ズー",
+      "En": "Zu"
+    },
+    "ResourceId": 2015001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015015,
+    "ResistBuffDebuffId": 2015001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015001,
+    "ResistStatusConditionId": 2015001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
     "Id": 2015031,
     "Name": {
       "Ja": "ズー",
@@ -5518,6 +5642,99 @@
     "enemy_25": ""
   },
   {
+    "Id": 2015113,
+    "Name": {
+      "Ja": "ヒートコンドル",
+      "En": "Fiery Condor"
+    },
+    "ResourceId": 2015002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015113,
+    "ResistBuffDebuffId": 2015101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015101,
+    "ResistStatusConditionId": 2015101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2015114,
+    "Name": {
+      "Ja": "ヒートコンドル",
+      "En": "Fiery Condor"
+    },
+    "ResourceId": 2015002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015114,
+    "ResistBuffDebuffId": 2015101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015101,
+    "ResistStatusConditionId": 2015101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2015115,
+    "Name": {
+      "Ja": "ヒートコンドル",
+      "En": "Fiery Condor"
+    },
+    "ResourceId": 2015002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015115,
+    "ResistBuffDebuffId": 2015101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015101,
+    "ResistStatusConditionId": 2015101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
     "Id": 2015131,
     "Name": {
       "Ja": "ヒートコンドル",
@@ -5724,6 +5941,99 @@
     "BaseCriticalPermil": 0,
     "EnemyLevelParameterBaseGroupId": 1,
     "EnemyLevelConstantGroupId": 2015212,
+    "ResistBuffDebuffId": 2015201,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015201,
+    "ResistStatusConditionId": 2015201,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2015213,
+    "Name": {
+      "Ja": "コールドレーヴァン",
+      "En": "Icy Raven"
+    },
+    "ResourceId": 2015003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015213,
+    "ResistBuffDebuffId": 2015201,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015201,
+    "ResistStatusConditionId": 2015201,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2015214,
+    "Name": {
+      "Ja": "コールドレーヴァン",
+      "En": "Icy Raven"
+    },
+    "ResourceId": 2015003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015214,
+    "ResistBuffDebuffId": 2015201,
+    "ResistDamageId": 0,
+    "ResistElementId": 2015201,
+    "ResistStatusConditionId": 2015201,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2015215,
+    "Name": {
+      "Ja": "コールドレーヴァン",
+      "En": "Icy Raven"
+    },
+    "ResourceId": 2015003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 120000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 750,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2015215,
     "ResistBuffDebuffId": 2015201,
     "ResistDamageId": 0,
     "ResistElementId": 2015201,
@@ -6448,6 +6758,99 @@
     "enemy_25": ""
   },
   {
+    "Id": 2022016,
+    "Name": {
+      "Ja": "スイーパー",
+      "En": "Sweeper"
+    },
+    "ResourceId": 2022001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022016,
+    "ResistBuffDebuffId": 2022001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022001,
+    "ResistStatusConditionId": 2022001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2022017,
+    "Name": {
+      "Ja": "スイーパー",
+      "En": "Sweeper"
+    },
+    "ResourceId": 2022001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022017,
+    "ResistBuffDebuffId": 2022001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022001,
+    "ResistStatusConditionId": 2022001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2022018,
+    "Name": {
+      "Ja": "スイーパー",
+      "En": "Sweeper"
+    },
+    "ResourceId": 2022001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022018,
+    "ResistBuffDebuffId": 2022001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022001,
+    "ResistStatusConditionId": 2022001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
     "Id": 2022031,
     "Name": {
       "Ja": "スイーパー",
@@ -6820,6 +7223,99 @@
     "enemy_25": ""
   },
   {
+    "Id": 2022116,
+    "Name": {
+      "Ja": "スイーパーカスタム",
+      "En": "Custom Sweeper"
+    },
+    "ResourceId": 2022002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022116,
+    "ResistBuffDebuffId": 2022101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022101,
+    "ResistStatusConditionId": 2022101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2022117,
+    "Name": {
+      "Ja": "スイーパーカスタム",
+      "En": "Custom Sweeper"
+    },
+    "ResourceId": 2022002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022117,
+    "ResistBuffDebuffId": 2022101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022101,
+    "ResistStatusConditionId": 2022101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2022118,
+    "Name": {
+      "Ja": "スイーパーカスタム",
+      "En": "Custom Sweeper"
+    },
+    "ResourceId": 2022002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022118,
+    "ResistBuffDebuffId": 2022101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022101,
+    "ResistStatusConditionId": 2022101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
     "Id": 2022131,
     "Name": {
       "Ja": "スイーパーカスタム",
@@ -7181,6 +7677,99 @@
     "BaseCriticalPermil": 0,
     "EnemyLevelParameterBaseGroupId": 1,
     "EnemyLevelConstantGroupId": 2022215,
+    "ResistBuffDebuffId": 2022201,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022201,
+    "ResistStatusConditionId": 2022201,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2022216,
+    "Name": {
+      "Ja": "デスマシン",
+      "En": "Death Machine"
+    },
+    "ResourceId": 2022003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022216,
+    "ResistBuffDebuffId": 2022201,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022201,
+    "ResistStatusConditionId": 2022201,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2022217,
+    "Name": {
+      "Ja": "デスマシン",
+      "En": "Death Machine"
+    },
+    "ResourceId": 2022003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022217,
+    "ResistBuffDebuffId": 2022201,
+    "ResistDamageId": 0,
+    "ResistElementId": 2022201,
+    "ResistStatusConditionId": 2022201,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2022218,
+    "Name": {
+      "Ja": "デスマシン",
+      "En": "Death Machine"
+    },
+    "ResourceId": 2022003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 75000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 3000,
+    "MagicalDefenseCoefficient": 750,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2022218,
     "ResistBuffDebuffId": 2022201,
     "ResistDamageId": 0,
     "ResistElementId": 2022201,
@@ -16337,6 +16926,316 @@
     "enemy_25": ""
   },
   {
+    "Id": 2065001,
+    "Name": {
+      "Ja": "ワイズスィルバン",
+      "En": "Whymsylvan"
+    },
+    "ResourceId": 2065002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "",
+    "HpCoefficient": 15000,
+    "LbHpCoefficient": 0,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065001,
+    "ResistBuffDebuffId": 2065001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065001,
+    "ResistStatusConditionId": 2065001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065002,
+    "Name": {
+      "Ja": "ワイズスィルバン",
+      "En": "Whymsylvan"
+    },
+    "ResourceId": 2065002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 40000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 750,
+    "MagicalAttackCoefficient": 750,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065002,
+    "ResistBuffDebuffId": 2065001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065001,
+    "ResistStatusConditionId": 2065001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065003,
+    "Name": {
+      "Ja": "ワイズスィルバン",
+      "En": "Whymsylvan"
+    },
+    "ResourceId": 2065002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 65000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065003,
+    "ResistBuffDebuffId": 2065001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065001,
+    "ResistStatusConditionId": 2065001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065004,
+    "Name": {
+      "Ja": "ワイズスィルバン",
+      "En": "Whymsylvan"
+    },
+    "ResourceId": 2065002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 65000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065004,
+    "ResistBuffDebuffId": 2065001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065001,
+    "ResistStatusConditionId": 2065001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065005,
+    "Name": {
+      "Ja": "ワイズスィルバン",
+      "En": "Whymsylvan"
+    },
+    "ResourceId": 2065002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 65000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065005,
+    "ResistBuffDebuffId": 2065001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065001,
+    "ResistStatusConditionId": 2065001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065101,
+    "Name": {
+      "Ja": "フラップセージ",
+      "En": "Wingsage"
+    },
+    "ResourceId": 2065003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "",
+    "HpCoefficient": 15000,
+    "LbHpCoefficient": 0,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065101,
+    "ResistBuffDebuffId": 2065101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065101,
+    "ResistStatusConditionId": 2065101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065102,
+    "Name": {
+      "Ja": "フラップセージ",
+      "En": "Wingsage"
+    },
+    "ResourceId": 2065003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 40000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 750,
+    "MagicalAttackCoefficient": 750,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065102,
+    "ResistBuffDebuffId": 2065101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065101,
+    "ResistStatusConditionId": 2065101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065103,
+    "Name": {
+      "Ja": "フラップセージ",
+      "En": "Wingsage"
+    },
+    "ResourceId": 2065003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 65000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065103,
+    "ResistBuffDebuffId": 2065101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065101,
+    "ResistStatusConditionId": 2065101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065104,
+    "Name": {
+      "Ja": "フラップセージ",
+      "En": "Wingsage"
+    },
+    "ResourceId": 2065003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 65000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065104,
+    "ResistBuffDebuffId": 2065101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065101,
+    "ResistStatusConditionId": 2065101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2065105,
+    "Name": {
+      "Ja": "フラップセージ",
+      "En": "Wingsage"
+    },
+    "ResourceId": 2065003,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_006",
+    "HpCoefficient": 65000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2065105,
+    "ResistBuffDebuffId": 2065101,
+    "ResistDamageId": 0,
+    "ResistElementId": 2065101,
+    "ResistStatusConditionId": 2065101,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
     "Id": 2067001,
     "Name": {
       "Ja": "粒子",
@@ -16520,7 +17419,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_01"
   },
   {
     "Id": 2501031,
@@ -16551,7 +17450,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501035,
@@ -16582,7 +17481,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501036,
@@ -16613,7 +17512,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501037,
@@ -16644,7 +17543,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501038,
@@ -16675,7 +17574,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501039,
@@ -16706,7 +17605,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501040,
@@ -16737,7 +17636,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501041,
@@ -16768,7 +17667,7 @@
     "DummyHpCoefficient": 48000,
     "DummyLbHpCoefficient": 1000,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_boss_enter_02"
   },
   {
     "Id": 2501131,
@@ -16799,7 +17698,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_002_boss_enter_01"
   },
   {
     "Id": 2501133,
@@ -16830,7 +17729,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_002_boss_enter_02"
   },
   {
     "Id": 2501134,
@@ -16861,7 +17760,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_002_boss_enter_02"
   },
   {
     "Id": 2501135,
@@ -16892,7 +17791,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_002_boss_enter_02"
   },
   {
     "Id": 2501231,
@@ -16923,7 +17822,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_01"
   },
   {
     "Id": 2501233,
@@ -16954,7 +17853,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_02"
   },
   {
     "Id": 2501234,
@@ -16985,7 +17884,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_02"
   },
   {
     "Id": 2501235,
@@ -17016,7 +17915,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_02"
   },
   {
     "Id": 2501236,
@@ -17047,7 +17946,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_02"
   },
   {
     "Id": 2501237,
@@ -17078,7 +17977,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_02"
   },
   {
     "Id": 2501238,
@@ -17109,7 +18008,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_02"
   },
   {
     "Id": 2501239,
@@ -17140,7 +18039,131 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo501_003_boss_enter_02"
+  },
+  {
+    "Id": 2501301,
+    "Name": {
+      "Ja": "モチモチスコーピオン",
+      "En": "Mochi Scorpion"
+    },
+    "ResourceId": 2501004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 60000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1500,
+    "MagicalAttackCoefficient": 1500,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 2000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2501301,
+    "ResistBuffDebuffId": 2501301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2501301,
+    "ResistStatusConditionId": 2501301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo501_004_boss_enter_01"
+  },
+  {
+    "Id": 2501302,
+    "Name": {
+      "Ja": "モチモチスコーピオン",
+      "En": "Mochi Scorpion"
+    },
+    "ResourceId": 2501004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 70000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 2000,
+    "MagicalAttackCoefficient": 2000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 2000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1100,
+    "EnemyLevelConstantGroupId": 2501302,
+    "ResistBuffDebuffId": 2501301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2501301,
+    "ResistStatusConditionId": 2501301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo501_004_boss_enter_01"
+  },
+  {
+    "Id": 2501303,
+    "Name": {
+      "Ja": "モチモチスコーピオン",
+      "En": "Mochi Scorpion"
+    },
+    "ResourceId": 2501004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 70000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 2000,
+    "MagicalAttackCoefficient": 2000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 2500,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1101,
+    "EnemyLevelConstantGroupId": 2501303,
+    "ResistBuffDebuffId": 2501301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2501301,
+    "ResistStatusConditionId": 2501301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo501_004_boss_enter_01"
+  },
+  {
+    "Id": 2501304,
+    "Name": {
+      "Ja": "モチモチスコーピオン",
+      "En": "Mochi Scorpion"
+    },
+    "ResourceId": 2501004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ff7_020",
+    "HpCoefficient": 80000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1500,
+    "MagicalAttackCoefficient": 1500,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 2500,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1102,
+    "EnemyLevelConstantGroupId": 2501304,
+    "ResistBuffDebuffId": 2501301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2501301,
+    "ResistStatusConditionId": 2501301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo501_004_boss_enter_01"
   },
   {
     "Id": 2502001,
@@ -17171,7 +18194,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2502003,
@@ -17202,7 +18225,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2502004,
@@ -17233,7 +18256,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2502005,
@@ -17264,7 +18287,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2502006,
@@ -17295,7 +18318,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2502007,
@@ -17326,7 +18349,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2502008,
@@ -17357,7 +18380,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2502101,
@@ -17388,7 +18411,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502102,
@@ -17419,7 +18442,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502103,
@@ -17450,7 +18473,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502104,
@@ -17481,7 +18504,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502105,
@@ -17512,7 +18535,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502106,
@@ -17543,7 +18566,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502107,
@@ -17574,7 +18597,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502108,
@@ -17605,7 +18628,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502109,
@@ -17636,7 +18659,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_02"
   },
   {
     "Id": 2502201,
@@ -17667,7 +18690,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo502_boss_enter_01"
   },
   {
     "Id": 2505001,
@@ -17698,7 +18721,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo505_boss_enter_01"
   },
   {
     "Id": 2505003,
@@ -17729,7 +18752,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo505_boss_enter_01"
   },
   {
     "Id": 2505004,
@@ -17760,7 +18783,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo505_boss_enter_01"
   },
   {
     "Id": 2505005,
@@ -17791,7 +18814,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo505_boss_enter_01"
   },
   {
     "Id": 2505101,
@@ -17822,7 +18845,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo505_boss_enter_02"
   },
   {
     "Id": 2506001,
@@ -17853,7 +18876,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_01"
   },
   {
     "Id": 2506003,
@@ -17884,7 +18907,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_01"
   },
   {
     "Id": 2506004,
@@ -17915,7 +18938,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_01"
   },
   {
     "Id": 2506005,
@@ -17946,7 +18969,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_01"
   },
   {
     "Id": 2506101,
@@ -17977,7 +19000,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_02"
   },
   {
     "Id": 2506102,
@@ -18008,7 +19031,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_02"
   },
   {
     "Id": 2506103,
@@ -18039,7 +19062,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_02"
   },
   {
     "Id": 2506104,
@@ -18070,7 +19093,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_02"
   },
   {
     "Id": 2506105,
@@ -18101,7 +19124,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo506_boss_enter_02"
   },
   {
     "Id": 2507031,
@@ -18132,7 +19155,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_01"
   },
   {
     "Id": 2507032,
@@ -18163,7 +19186,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_01"
   },
   {
     "Id": 2507033,
@@ -18194,7 +19217,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_01"
   },
   {
     "Id": 2507034,
@@ -18225,7 +19248,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_01"
   },
   {
     "Id": 2507035,
@@ -18256,7 +19279,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_01"
   },
   {
     "Id": 2507131,
@@ -18287,7 +19310,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507132,
@@ -18318,7 +19341,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507133,
@@ -18349,7 +19372,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507134,
@@ -18380,7 +19403,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507135,
@@ -18411,7 +19434,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507136,
@@ -18442,7 +19465,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507137,
@@ -18473,7 +19496,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507138,
@@ -18504,7 +19527,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_02"
   },
   {
     "Id": 2507201,
@@ -18535,7 +19558,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507202,
@@ -18566,7 +19589,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507203,
@@ -18597,7 +19620,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507204,
@@ -18628,7 +19651,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507205,
@@ -18659,7 +19682,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507206,
@@ -18690,7 +19713,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507207,
@@ -18721,7 +19744,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507208,
@@ -18752,7 +19775,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507209,
@@ -18783,7 +19806,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507210,
@@ -18814,7 +19837,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_03"
   },
   {
     "Id": 2507301,
@@ -18845,7 +19868,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_04"
   },
   {
     "Id": 2507302,
@@ -18876,7 +19899,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_04"
   },
   {
     "Id": 2507303,
@@ -18907,7 +19930,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_04"
   },
   {
     "Id": 2507304,
@@ -18938,7 +19961,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_04"
   },
   {
     "Id": 2507305,
@@ -18969,7 +19992,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo507_boss_enter_04"
   },
   {
     "Id": 2508001,
@@ -19000,7 +20023,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo508_boss_enter_01"
   },
   {
     "Id": 2508002,
@@ -19031,7 +20054,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo508_boss_enter_01"
   },
   {
     "Id": 2508003,
@@ -19062,7 +20085,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo508_boss_enter_01"
   },
   {
     "Id": 2508004,
@@ -19093,7 +20116,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo508_boss_enter_01"
   },
   {
     "Id": 2509001,
@@ -19124,7 +20147,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509002,
@@ -19155,7 +20178,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509003,
@@ -19186,7 +20209,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509004,
@@ -19217,7 +20240,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509005,
@@ -19248,7 +20271,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509006,
@@ -19279,7 +20302,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509007,
@@ -19310,7 +20333,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509010,
@@ -19341,7 +20364,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_01"
   },
   {
     "Id": 2509101,
@@ -19372,7 +20395,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_02"
   },
   {
     "Id": 2509102,
@@ -19403,7 +20426,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_02"
   },
   {
     "Id": 2509103,
@@ -19434,7 +20457,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_02"
   },
   {
     "Id": 2509104,
@@ -19465,7 +20488,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_02"
   },
   {
     "Id": 2509105,
@@ -19496,7 +20519,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_02"
   },
   {
     "Id": 2509201,
@@ -19527,7 +20550,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_03"
   },
   {
     "Id": 2509202,
@@ -19558,7 +20581,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_03"
   },
   {
     "Id": 2509203,
@@ -19589,7 +20612,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_03"
   },
   {
     "Id": 2509204,
@@ -19620,7 +20643,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_03"
   },
   {
     "Id": 2509205,
@@ -19651,7 +20674,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo509_boss_enter_03"
   },
   {
     "Id": 2510001,
@@ -19682,7 +20705,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_boss_enter_01"
   },
   {
     "Id": 2510002,
@@ -19713,7 +20736,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_boss_enter_01"
   },
   {
     "Id": 2510005,
@@ -19744,7 +20767,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_boss_enter_01"
   },
   {
     "Id": 2510006,
@@ -19775,7 +20798,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2510007,
@@ -19806,7 +20829,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2510008,
@@ -19837,7 +20860,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2510009,
@@ -19868,7 +20891,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2510010,
@@ -19899,7 +20922,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2510011,
@@ -19930,7 +20953,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2511001,
@@ -19961,7 +20984,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo511_boss_enter_01"
   },
   {
     "Id": 2511002,
@@ -19992,7 +21015,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo511_boss_enter_01"
   },
   {
     "Id": 2511003,
@@ -20023,7 +21046,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo511_boss_enter_01"
   },
   {
     "Id": 2512001,
@@ -20054,7 +21077,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_boss_enter_01"
   },
   {
     "Id": 2512002,
@@ -20085,7 +21108,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_boss_enter_01"
   },
   {
     "Id": 2512003,
@@ -20116,7 +21139,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_boss_enter_01"
   },
   {
     "Id": 2512004,
@@ -20147,7 +21170,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_boss_enter_01"
   },
   {
     "Id": 2512005,
@@ -20178,7 +21201,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_boss_enter_01"
   },
   {
     "Id": 2512006,
@@ -20209,7 +21232,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_boss_enter_01"
   },
   {
     "Id": 2512007,
@@ -20240,7 +21263,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_mo530_boss_enter_01"
   },
   {
     "Id": 2512008,
@@ -20271,7 +21294,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_mo530_boss_enter_01"
   },
   {
     "Id": 2512009,
@@ -20302,7 +21325,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_mo530_boss_enter_01"
   },
   {
     "Id": 2513001,
@@ -20333,7 +21356,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2513003,
@@ -20364,7 +21387,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2513004,
@@ -20395,7 +21418,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2513005,
@@ -20426,7 +21449,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2513006,
@@ -20457,7 +21480,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_02"
   },
   {
     "Id": 2513008,
@@ -20488,7 +21511,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_02"
   },
   {
     "Id": 2513009,
@@ -20519,7 +21542,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_02"
   },
   {
     "Id": 2513010,
@@ -20550,7 +21573,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_02"
   },
   {
     "Id": 2513011,
@@ -20581,7 +21604,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2513012,
@@ -20612,7 +21635,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2513013,
@@ -20643,7 +21666,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2513101,
@@ -20674,7 +21697,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2513103,
@@ -20705,7 +21728,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2513104,
@@ -20736,7 +21759,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2513105,
@@ -20767,7 +21790,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2513106,
@@ -20798,7 +21821,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2513107,
@@ -20829,7 +21852,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2513201,
@@ -20860,7 +21883,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2513202,
@@ -20891,7 +21914,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2513203,
@@ -20922,7 +21945,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2513204,
@@ -20953,7 +21976,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2513205,
@@ -20984,7 +22007,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2514001,
@@ -21015,7 +22038,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2514003,
@@ -21046,7 +22069,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2514004,
@@ -21077,7 +22100,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2514005,
@@ -21108,7 +22131,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2514006,
@@ -21139,7 +22162,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo514_boss_enter_01"
   },
   {
     "Id": 2514008,
@@ -21170,7 +22193,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo514_boss_enter_01"
   },
   {
     "Id": 2514009,
@@ -21201,7 +22224,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo514_boss_enter_01"
   },
   {
     "Id": 2514010,
@@ -21232,7 +22255,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo514_boss_enter_01"
   },
   {
     "Id": 2514011,
@@ -21263,7 +22286,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2514012,
@@ -21294,7 +22317,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2514013,
@@ -21325,7 +22348,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_01"
   },
   {
     "Id": 2514101,
@@ -21356,7 +22379,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2514103,
@@ -21387,7 +22410,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2514104,
@@ -21418,7 +22441,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2514105,
@@ -21449,7 +22472,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2514106,
@@ -21480,7 +22503,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2514107,
@@ -21511,7 +22534,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_03"
   },
   {
     "Id": 2514201,
@@ -21542,7 +22565,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2514202,
@@ -21573,7 +22596,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2514203,
@@ -21604,7 +22627,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2514204,
@@ -21635,7 +22658,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2514205,
@@ -21666,7 +22689,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo513_boss_enter_04"
   },
   {
     "Id": 2516031,
@@ -21697,7 +22720,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516033,
@@ -21728,7 +22751,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516034,
@@ -21759,7 +22782,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516035,
@@ -21790,7 +22813,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516036,
@@ -21821,7 +22844,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516037,
@@ -21852,7 +22875,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516038,
@@ -21883,7 +22906,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516039,
@@ -21914,7 +22937,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_01"
   },
   {
     "Id": 2516101,
@@ -21945,7 +22968,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_02"
   },
   {
     "Id": 2516102,
@@ -21976,7 +22999,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_02"
   },
   {
     "Id": 2516103,
@@ -22007,7 +23030,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_02"
   },
   {
     "Id": 2516104,
@@ -22038,7 +23061,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_02"
   },
   {
     "Id": 2516105,
@@ -22069,7 +23092,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo516_boss_enter_02"
   },
   {
     "Id": 2517001,
@@ -22100,7 +23123,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo517_boss_enter_01"
   },
   {
     "Id": 2517003,
@@ -22131,7 +23154,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo517_boss_enter_01"
   },
   {
     "Id": 2517004,
@@ -22162,7 +23185,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo517_boss_enter_01"
   },
   {
     "Id": 2517005,
@@ -22193,7 +23216,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo517_boss_enter_01"
   },
   {
     "Id": 2517006,
@@ -22224,7 +23247,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo517_boss_enter_01"
   },
   {
     "Id": 2517007,
@@ -22255,7 +23278,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo517_boss_enter_01"
   },
   {
     "Id": 2518001,
@@ -22286,7 +23309,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo518_boss_enter_01"
   },
   {
     "Id": 2518003,
@@ -22317,7 +23340,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo518_boss_enter_01"
   },
   {
     "Id": 2518011,
@@ -22348,7 +23371,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo518_boss_enter_01"
   },
   {
     "Id": 2518101,
@@ -22379,7 +23402,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo518_boss_enter_02"
   },
   {
     "Id": 2518103,
@@ -22410,7 +23433,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo518_boss_enter_02"
   },
   {
     "Id": 2518104,
@@ -22441,7 +23464,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo518_boss_enter_02"
   },
   {
     "Id": 2518105,
@@ -22472,7 +23495,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo518_boss_enter_02"
   },
   {
     "Id": 2520001,
@@ -22503,7 +23526,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520002,
@@ -22534,7 +23557,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520003,
@@ -22565,7 +23588,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520004,
@@ -22596,7 +23619,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520005,
@@ -22627,7 +23650,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520006,
@@ -22658,7 +23681,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520007,
@@ -22689,7 +23712,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2520008,
@@ -22720,7 +23743,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2520009,
@@ -22751,7 +23774,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2520010,
@@ -22782,7 +23805,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo510_mo520_boss_enter_01"
   },
   {
     "Id": 2520011,
@@ -22813,7 +23836,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520031,
@@ -22844,7 +23867,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520032,
@@ -22875,7 +23898,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520033,
@@ -22906,7 +23929,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520034,
@@ -22937,7 +23960,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2520035,
@@ -22968,7 +23991,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo520_boss_enter_01"
   },
   {
     "Id": 2521001,
@@ -22999,7 +24022,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521002,
@@ -23030,7 +24053,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521003,
@@ -23061,7 +24084,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521004,
@@ -23092,7 +24115,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521005,
@@ -23123,7 +24146,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521006,
@@ -23154,7 +24177,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521007,
@@ -23185,7 +24208,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521008,
@@ -23216,7 +24239,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_01"
   },
   {
     "Id": 2521101,
@@ -23247,7 +24270,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_02"
   },
   {
     "Id": 2521102,
@@ -23278,7 +24301,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_02"
   },
   {
     "Id": 2521103,
@@ -23309,7 +24332,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_02"
   },
   {
     "Id": 2521104,
@@ -23340,7 +24363,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_02"
   },
   {
     "Id": 2521111,
@@ -23371,7 +24394,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_02"
   },
   {
     "Id": 2521112,
@@ -23402,7 +24425,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_02"
   },
   {
     "Id": 2521113,
@@ -23433,7 +24456,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_02"
   },
   {
     "Id": 2521201,
@@ -23464,7 +24487,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521202,
@@ -23495,7 +24518,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521203,
@@ -23526,7 +24549,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521204,
@@ -23557,7 +24580,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521205,
@@ -23588,7 +24611,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521206,
@@ -23619,7 +24642,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521207,
@@ -23650,7 +24673,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521208,
@@ -23681,7 +24704,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
   },
   {
     "Id": 2521209,
@@ -23712,7 +24735,162 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo521_boss_enter_03"
+  },
+  {
+    "Id": 2521301,
+    "Name": {
+      "Ja": "キングベヒーモス",
+      "En": "Behemoth King"
+    },
+    "ResourceId": 2521004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_cc_015",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 0,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2521301,
+    "EnemyLevelConstantGroupId": 2521301,
+    "ResistBuffDebuffId": 2521301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2521301,
+    "ResistStatusConditionId": 2521301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 10,
+    "enemy_25": "mo521_boss_enter_04"
+  },
+  {
+    "Id": 2521302,
+    "Name": {
+      "Ja": "キングベヒーモス",
+      "En": "Behemoth King"
+    },
+    "ResourceId": 2521004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_cc_015",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 0,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2521301,
+    "EnemyLevelConstantGroupId": 2521301,
+    "ResistBuffDebuffId": 2521301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2521301,
+    "ResistStatusConditionId": 2521301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 10,
+    "enemy_25": "mo521_boss_enter_04"
+  },
+  {
+    "Id": 2521303,
+    "Name": {
+      "Ja": "キングベヒーモス",
+      "En": "Behemoth King"
+    },
+    "ResourceId": 2521004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_cc_015",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 0,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2521301,
+    "EnemyLevelConstantGroupId": 2521301,
+    "ResistBuffDebuffId": 2521301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2521301,
+    "ResistStatusConditionId": 2521301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 10,
+    "enemy_25": "mo521_boss_enter_04"
+  },
+  {
+    "Id": 2521304,
+    "Name": {
+      "Ja": "キングベヒーモス",
+      "En": "Behemoth King"
+    },
+    "ResourceId": 2521004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_cc_015",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 0,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2521301,
+    "EnemyLevelConstantGroupId": 2521301,
+    "ResistBuffDebuffId": 2521301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2521301,
+    "ResistStatusConditionId": 2521301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 10,
+    "enemy_25": "mo521_boss_enter_04"
+  },
+  {
+    "Id": 2521305,
+    "Name": {
+      "Ja": "キングベヒーモス",
+      "En": "Behemoth King"
+    },
+    "ResourceId": 2521004,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_cc_015",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 0,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2521301,
+    "EnemyLevelConstantGroupId": 2521301,
+    "ResistBuffDebuffId": 2521301,
+    "ResistDamageId": 0,
+    "ResistElementId": 2521301,
+    "ResistStatusConditionId": 2521301,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 10,
+    "enemy_25": "mo521_boss_enter_04"
   },
   {
     "Id": 2522001,
@@ -23743,7 +24921,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo522_boss_enter_01"
   },
   {
     "Id": 2522002,
@@ -23774,7 +24952,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo522_boss_enter_01"
   },
   {
     "Id": 2522003,
@@ -23805,7 +24983,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo522_boss_enter_01"
   },
   {
     "Id": 2522004,
@@ -23836,7 +25014,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo522_boss_enter_01"
   },
   {
     "Id": 2522005,
@@ -23867,7 +25045,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo522_boss_enter_01"
   },
   {
     "Id": 2523001,
@@ -23898,7 +25076,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_01"
   },
   {
     "Id": 2523003,
@@ -23929,7 +25107,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_01"
   },
   {
     "Id": 2523101,
@@ -23960,7 +25138,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523103,
@@ -23991,7 +25169,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523104,
@@ -24022,7 +25200,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523105,
@@ -24053,7 +25231,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523106,
@@ -24084,7 +25262,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523107,
@@ -24115,7 +25293,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523108,
@@ -24146,7 +25324,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523109,
@@ -24177,7 +25355,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_02"
   },
   {
     "Id": 2523201,
@@ -24208,7 +25386,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_03"
   },
   {
     "Id": 2523202,
@@ -24239,7 +25417,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_03"
   },
   {
     "Id": 2523203,
@@ -24270,7 +25448,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_03"
   },
   {
     "Id": 2523204,
@@ -24301,7 +25479,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_03"
   },
   {
     "Id": 2523205,
@@ -24332,7 +25510,7 @@
     "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 10,
-    "enemy_25": ""
+    "enemy_25": "mo523_boss_enter_03"
   },
   {
     "Id": 2524001,
@@ -24363,7 +25541,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo524_boss_enter_01"
   },
   {
     "Id": 2524101,
@@ -24394,7 +25572,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo524_boss_enter_02"
   },
   {
     "Id": 2524102,
@@ -24425,7 +25603,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo524_boss_enter_02"
   },
   {
     "Id": 2524103,
@@ -24456,7 +25634,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo524_boss_enter_02"
   },
   {
     "Id": 2525001,
@@ -24487,7 +25665,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo525_boss_enter_01"
   },
   {
     "Id": 2525002,
@@ -24518,7 +25696,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo525_boss_enter_01"
   },
   {
     "Id": 2525003,
@@ -24549,7 +25727,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo525_boss_enter_01"
   },
   {
     "Id": 2525004,
@@ -24580,7 +25758,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo525_boss_enter_01"
   },
   {
     "Id": 2525010,
@@ -24611,7 +25789,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo525_boss_enter_01"
   },
   {
     "Id": 2525011,
@@ -24642,7 +25820,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo525_boss_enter_01"
   },
   {
     "Id": 2526001,
@@ -24673,7 +25851,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo526_boss_enter_01"
   },
   {
     "Id": 2526002,
@@ -24704,7 +25882,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo526_boss_enter_01"
   },
   {
     "Id": 2526003,
@@ -24735,7 +25913,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo526_boss_enter_01"
   },
   {
     "Id": 2527001,
@@ -24766,7 +25944,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_01"
   },
   {
     "Id": 2527002,
@@ -24797,7 +25975,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_01"
   },
   {
     "Id": 2527003,
@@ -24828,7 +26006,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_01"
   },
   {
     "Id": 2527004,
@@ -24859,7 +26037,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_01"
   },
   {
     "Id": 2527101,
@@ -25138,7 +26316,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_02"
   },
   {
     "Id": 2527302,
@@ -25169,7 +26347,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_02"
   },
   {
     "Id": 2527303,
@@ -25200,7 +26378,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_02"
   },
   {
     "Id": 2527304,
@@ -25231,7 +26409,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_02_aura"
   },
   {
     "Id": 2527305,
@@ -25262,7 +26440,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo527_boss_enter_02_aura"
   },
   {
     "Id": 2527401,
@@ -25603,7 +26781,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo528_boss_enter_01"
   },
   {
     "Id": 2528002,
@@ -25634,7 +26812,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo528_boss_enter_01"
   },
   {
     "Id": 2528003,
@@ -25665,7 +26843,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo528_boss_enter_01"
   },
   {
     "Id": 2528004,
@@ -25696,7 +26874,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo528_boss_enter_01"
   },
   {
     "Id": 2528005,
@@ -25727,7 +26905,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo528_boss_enter_01"
   },
   {
     "Id": 2529001,
@@ -25758,7 +26936,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_01"
   },
   {
     "Id": 2529002,
@@ -25789,7 +26967,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_01"
   },
   {
     "Id": 2529003,
@@ -25820,7 +26998,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_01"
   },
   {
     "Id": 2529004,
@@ -25851,7 +27029,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_01"
   },
   {
     "Id": 2529101,
@@ -25882,7 +27060,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_03"
   },
   {
     "Id": 2529102,
@@ -25913,7 +27091,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_03"
   },
   {
     "Id": 2529103,
@@ -25944,7 +27122,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_03"
   },
   {
     "Id": 2529104,
@@ -25975,7 +27153,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_03"
   },
   {
     "Id": 2529105,
@@ -26006,7 +27184,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo529_boss_enter_03_aura"
   },
   {
     "Id": 2530001,
@@ -26037,7 +27215,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo530_boss_enter_01"
   },
   {
     "Id": 2530002,
@@ -26068,7 +27246,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo530_boss_enter_01"
   },
   {
     "Id": 2530003,
@@ -26099,7 +27277,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo530_boss_enter_01"
   },
   {
     "Id": 2530004,
@@ -26130,7 +27308,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo530_boss_enter_01"
   },
   {
     "Id": 2530005,
@@ -26161,7 +27339,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo530_boss_enter_01"
   },
   {
     "Id": 2530006,
@@ -26192,7 +27370,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo530_boss_enter_01"
   },
   {
     "Id": 2530007,
@@ -26223,7 +27401,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_mo530_boss_enter_01"
   },
   {
     "Id": 2530008,
@@ -26254,7 +27432,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_mo530_boss_enter_01"
   },
   {
     "Id": 2530009,
@@ -26285,7 +27463,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo512_mo530_boss_enter_01"
   },
   {
     "Id": 2531001,
@@ -26316,7 +27494,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_01"
   },
   {
     "Id": 2531002,
@@ -26347,7 +27525,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_01"
   },
   {
     "Id": 2531003,
@@ -26378,7 +27556,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_01"
   },
   {
     "Id": 2531011,
@@ -26409,7 +27587,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_01"
   },
   {
     "Id": 2531101,
@@ -26440,7 +27618,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_02"
   },
   {
     "Id": 2531102,
@@ -26471,7 +27649,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_02"
   },
   {
     "Id": 2531103,
@@ -26502,7 +27680,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_02"
   },
   {
     "Id": 2531201,
@@ -26533,7 +27711,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_03"
   },
   {
     "Id": 2531202,
@@ -26564,7 +27742,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_03"
   },
   {
     "Id": 2531203,
@@ -26595,7 +27773,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_03"
   },
   {
     "Id": 2531204,
@@ -26626,7 +27804,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo531_boss_enter_03"
   },
   {
     "Id": 2532001,
@@ -26781,7 +27959,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_02"
   },
   {
     "Id": 2536002,
@@ -26812,7 +27990,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_02"
   },
   {
     "Id": 2536003,
@@ -26843,7 +28021,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_02"
   },
   {
     "Id": 2536004,
@@ -26874,7 +28052,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_02"
   },
   {
     "Id": 2536005,
@@ -26905,7 +28083,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_02"
   },
   {
     "Id": 2536006,
@@ -26936,7 +28114,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_02"
   },
   {
     "Id": 2536101,
@@ -26967,7 +28145,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_01"
   },
   {
     "Id": 2536102,
@@ -26998,7 +28176,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_01"
   },
   {
     "Id": 2536103,
@@ -27029,7 +28207,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_01"
   },
   {
     "Id": 2536104,
@@ -27060,7 +28238,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_01_aura"
   },
   {
     "Id": 2536105,
@@ -27091,7 +28269,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo536_boss_enter_01_aura"
   },
   {
     "Id": 2537001,
@@ -27122,7 +28300,7 @@
     "DummyHpCoefficient": 60000,
     "DummyLbHpCoefficient": 1000,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo537_boss_enter_02"
   },
   {
     "Id": 2537002,
@@ -27153,7 +28331,7 @@
     "DummyHpCoefficient": 60000,
     "DummyLbHpCoefficient": 1000,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo537_boss_enter_02"
   },
   {
     "Id": 2537101,
@@ -27184,7 +28362,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo537_boss_enter_03"
   },
   {
     "Id": 2537102,
@@ -27215,7 +28393,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo537_boss_enter_03"
   },
   {
     "Id": 2537103,
@@ -27246,7 +28424,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo537_boss_enter_03"
   },
   {
     "Id": 2537104,
@@ -27277,7 +28455,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo537_boss_enter_03"
   },
   {
     "Id": 2538001,
@@ -27308,7 +28486,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2538002,
@@ -27339,7 +28517,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2538003,
@@ -27370,7 +28548,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2538004,
@@ -27401,7 +28579,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2538005,
@@ -27432,7 +28610,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2538006,
@@ -27463,7 +28641,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2538007,
@@ -27494,7 +28672,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2539001,
@@ -27525,7 +28703,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2539002,
@@ -27556,7 +28734,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2539003,
@@ -27587,7 +28765,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2539004,
@@ -27618,7 +28796,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2539005,
@@ -27649,7 +28827,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2539006,
@@ -27680,7 +28858,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2539007,
@@ -27711,7 +28889,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2540001,
@@ -27742,7 +28920,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2540002,
@@ -27773,7 +28951,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2540003,
@@ -27804,7 +28982,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2540004,
@@ -27835,7 +29013,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2540005,
@@ -27866,7 +29044,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2540006,
@@ -27897,7 +29075,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2540007,
@@ -27928,7 +29106,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo538_boss_enter_01"
   },
   {
     "Id": 2541001,
@@ -27959,7 +29137,7 @@
     "DummyHpCoefficient": 40000,
     "DummyLbHpCoefficient": 1000,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo541_boss_enter_01"
   },
   {
     "Id": 2541002,
@@ -27990,7 +29168,7 @@
     "DummyHpCoefficient": 40000,
     "DummyLbHpCoefficient": 1000,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo541_boss_enter_01"
   },
   {
     "Id": 2542001,
@@ -28021,7 +29199,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo542_boss_enter_01"
   },
   {
     "Id": 2542002,
@@ -28052,7 +29230,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo542_boss_enter_01"
   },
   {
     "Id": 2542003,
@@ -28083,7 +29261,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo542_boss_enter_01"
   },
   {
     "Id": 2542004,
@@ -28114,7 +29292,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo542_boss_enter_01"
   },
   {
     "Id": 2543001,
@@ -28145,7 +29323,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo543_boss_enter_01"
   },
   {
     "Id": 2543002,
@@ -28176,7 +29354,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo543_boss_enter_01"
   },
   {
     "Id": 2543003,
@@ -28207,7 +29385,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo543_boss_enter_01"
   },
   {
     "Id": 2543004,
@@ -28238,7 +29416,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo543_boss_enter_01"
   },
   {
     "Id": 2543005,
@@ -28269,7 +29447,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo543_boss_enter_01"
   },
   {
     "Id": 2543006,
@@ -28300,7 +29478,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo543_boss_enter_01"
   },
   {
     "Id": 2543007,
@@ -28331,7 +29509,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo543_boss_enter_01"
   },
   {
     "Id": 2545001,
@@ -28362,7 +29540,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo545_boss_enter_02"
   },
   {
     "Id": 2546001,
@@ -28393,7 +29571,7 @@
     "DummyHpCoefficient": 45000,
     "DummyLbHpCoefficient": 1000,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo546_boss_enter_01"
   },
   {
     "Id": 2547001,
@@ -28405,7 +29583,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_021",
     "HpCoefficient": 25000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28424,7 +29602,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547002,
@@ -28436,7 +29614,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_021",
     "HpCoefficient": 20000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28455,7 +29633,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547003,
@@ -28467,7 +29645,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_021",
     "HpCoefficient": 25000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28486,7 +29664,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547004,
@@ -28498,7 +29676,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_021",
     "HpCoefficient": 30000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28517,7 +29695,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547005,
@@ -28529,7 +29707,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_021",
     "HpCoefficient": 17000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28548,7 +29726,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547006,
@@ -28560,7 +29738,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_021",
     "HpCoefficient": 22000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28579,7 +29757,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547007,
@@ -28591,7 +29769,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_021",
     "HpCoefficient": 22000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28610,7 +29788,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547008,
@@ -28641,7 +29819,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547009,
@@ -28672,7 +29850,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547101,
@@ -28684,7 +29862,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_020",
     "HpCoefficient": 40000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28703,7 +29881,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547102,
@@ -28715,7 +29893,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_020",
     "HpCoefficient": 35000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28734,7 +29912,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547103,
@@ -28746,7 +29924,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_020",
     "HpCoefficient": 40000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28765,7 +29943,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547104,
@@ -28777,7 +29955,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_020",
     "HpCoefficient": 50000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28796,7 +29974,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547105,
@@ -28808,7 +29986,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_020",
     "HpCoefficient": 35000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28827,7 +30005,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547106,
@@ -28839,7 +30017,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_020",
     "HpCoefficient": 40000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28858,7 +30036,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547107,
@@ -28870,7 +30048,7 @@
     "BaseCharacterExp": 0,
     "BaseUserExp": 0,
     "BaseGil": 0,
-    "BgmCueName": "",
+    "BgmCueName": "bgm_ev_020",
     "HpCoefficient": 40000,
     "LbHpCoefficient": 1000,
     "PhysicalAttackCoefficient": 1000,
@@ -28889,7 +30067,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547108,
@@ -28920,7 +30098,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2547109,
@@ -28951,7 +30129,38 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo547_boss_enter_01"
+  },
+  {
+    "Id": 2547110,
+    "Name": {
+      "Ja": "マテリアキーパー",
+      "En": "Materia Guardian"
+    },
+    "ResourceId": 2547002,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_020",
+    "HpCoefficient": 130000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 500,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2547110,
+    "ResistBuffDebuffId": 2547001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2547001,
+    "ResistStatusConditionId": 2547001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo547_boss_enter_01"
   },
   {
     "Id": 2548001,
@@ -28982,7 +30191,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_01"
   },
   {
     "Id": 2548002,
@@ -29013,7 +30222,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_01"
   },
   {
     "Id": 2548003,
@@ -29044,7 +30253,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_01"
   },
   {
     "Id": 2548004,
@@ -29075,7 +30284,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_01"
   },
   {
     "Id": 2548005,
@@ -29106,7 +30315,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_01"
   },
   {
     "Id": 2548101,
@@ -29137,7 +30346,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_02"
   },
   {
     "Id": 2548102,
@@ -29168,7 +30377,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_02"
   },
   {
     "Id": 2548103,
@@ -29199,7 +30408,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_02"
   },
   {
     "Id": 2548104,
@@ -29230,7 +30439,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_02"
   },
   {
     "Id": 2548105,
@@ -29261,7 +30470,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo548_boss_enter_02"
   },
   {
     "Id": 2549001,
@@ -29292,7 +30501,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo549_boss_enter_01"
   },
   {
     "Id": 2549002,
@@ -29323,7 +30532,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo549_boss_enter_01"
   },
   {
     "Id": 2549003,
@@ -29354,7 +30563,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo549_boss_enter_01"
   },
   {
     "Id": 2549004,
@@ -29385,7 +30594,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo549_boss_enter_01"
   },
   {
     "Id": 2549005,
@@ -29416,7 +30625,131 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo549_boss_enter_01"
+  },
+  {
+    "Id": 2550001,
+    "Name": {
+      "Ja": "呪鬼マサムネ",
+      "En": "Demon Masamune"
+    },
+    "ResourceId": 2550001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_009",
+    "HpCoefficient": 41000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 500,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2550001,
+    "ResistBuffDebuffId": 2550001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2550001,
+    "ResistStatusConditionId": 2550001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo550_boss_enter_01"
+  },
+  {
+    "Id": 2550002,
+    "Name": {
+      "Ja": "呪鬼マサムネ",
+      "En": "Demon Masamune"
+    },
+    "ResourceId": 2550001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_009",
+    "HpCoefficient": 90000,
+    "LbHpCoefficient": 2000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2550002,
+    "ResistBuffDebuffId": 2550001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2550001,
+    "ResistStatusConditionId": 2550001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo550_boss_enter_01"
+  },
+  {
+    "Id": 2550003,
+    "Name": {
+      "Ja": "呪鬼マサムネ",
+      "En": "Demon Masamune"
+    },
+    "ResourceId": 2550001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_009",
+    "HpCoefficient": 90000,
+    "LbHpCoefficient": 2000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2550003,
+    "ResistBuffDebuffId": 2550001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2550001,
+    "ResistStatusConditionId": 2550001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo550_boss_enter_01"
+  },
+  {
+    "Id": 2550004,
+    "Name": {
+      "Ja": "呪鬼マサムネ",
+      "En": "Demon Masamune"
+    },
+    "ResourceId": 2550001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_fs2_009",
+    "HpCoefficient": 90000,
+    "LbHpCoefficient": 2000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 250,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 1,
+    "EnemyLevelConstantGroupId": 2550004,
+    "ResistBuffDebuffId": 2550001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2550001,
+    "ResistStatusConditionId": 2550001,
+    "IsInfiniteHp": false,
+    "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo550_boss_enter_01"
   },
   {
     "Id": 2552001,
@@ -29540,7 +30873,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo554_boss_enter_01"
   },
   {
     "Id": 2554002,
@@ -29571,7 +30904,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo554_boss_enter_01"
   },
   {
     "Id": 2554003,
@@ -29602,7 +30935,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo554_boss_enter_01"
   },
   {
     "Id": 2554004,
@@ -29633,7 +30966,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo554_boss_enter_01"
   },
   {
     "Id": 2554005,
@@ -29664,7 +30997,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo554_boss_enter_01"
   },
   {
     "Id": 2555001,
@@ -29695,7 +31028,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo555_boss_enter_01"
   },
   {
     "Id": 2555002,
@@ -29726,7 +31059,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo555_boss_enter_01"
   },
   {
     "Id": 2555003,
@@ -29757,7 +31090,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo555_boss_enter_01"
   },
   {
     "Id": 2555004,
@@ -29788,7 +31121,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo555_boss_enter_01"
   },
   {
     "Id": 2556101,
@@ -29819,7 +31152,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo556_boss_enter_02"
   },
   {
     "Id": 2556102,
@@ -29850,7 +31183,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo556_boss_enter_02"
   },
   {
     "Id": 2556103,
@@ -29881,7 +31214,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo556_boss_enter_02"
   },
   {
     "Id": 2556104,
@@ -29912,7 +31245,7 @@
     "DummyHpCoefficient": 0,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
-    "enemy_25": ""
+    "enemy_25": "mo556_boss_enter_02"
   },
   {
     "Id": 2556105,
@@ -29941,6 +31274,223 @@
     "ResistStatusConditionId": 2556101,
     "IsInfiniteHp": false,
     "DummyHpCoefficient": 0,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": "mo556_boss_enter_02"
+  },
+  {
+    "Id": 2561001,
+    "Name": {
+      "Ja": "モクジンダー",
+      "En": "Wooden Targetuar"
+    },
+    "ResourceId": 2561001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_048",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2561001,
+    "EnemyLevelConstantGroupId": 2561001,
+    "ResistBuffDebuffId": 2561001,
+    "ResistDamageId": 0,
+    "ResistElementId": 2561001,
+    "ResistStatusConditionId": 2561001,
+    "IsInfiniteHp": true,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2561002,
+    "Name": {
+      "Ja": "モクジンダー",
+      "En": "Wooden Targetuar"
+    },
+    "ResourceId": 2561001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_048",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2561001,
+    "EnemyLevelConstantGroupId": 2561001,
+    "ResistBuffDebuffId": 2561002,
+    "ResistDamageId": 0,
+    "ResistElementId": 2561002,
+    "ResistStatusConditionId": 2561001,
+    "IsInfiniteHp": true,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2561003,
+    "Name": {
+      "Ja": "モクジンダー",
+      "En": "Wooden Targetuar"
+    },
+    "ResourceId": 2561001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_048",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2561001,
+    "EnemyLevelConstantGroupId": 2561001,
+    "ResistBuffDebuffId": 2561003,
+    "ResistDamageId": 0,
+    "ResistElementId": 2561003,
+    "ResistStatusConditionId": 2561001,
+    "IsInfiniteHp": true,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2561004,
+    "Name": {
+      "Ja": "モクジンダー",
+      "En": "Wooden Targetuar"
+    },
+    "ResourceId": 2561001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_048",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2561001,
+    "EnemyLevelConstantGroupId": 2561001,
+    "ResistBuffDebuffId": 2561004,
+    "ResistDamageId": 0,
+    "ResistElementId": 2561004,
+    "ResistStatusConditionId": 2561001,
+    "IsInfiniteHp": true,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2561005,
+    "Name": {
+      "Ja": "モクジンダー",
+      "En": "Wooden Targetuar"
+    },
+    "ResourceId": 2561001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_048",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2561001,
+    "EnemyLevelConstantGroupId": 2561001,
+    "ResistBuffDebuffId": 2561005,
+    "ResistDamageId": 0,
+    "ResistElementId": 2561005,
+    "ResistStatusConditionId": 2561001,
+    "IsInfiniteHp": true,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2561006,
+    "Name": {
+      "Ja": "モクジンダー",
+      "En": "Wooden Targetuar"
+    },
+    "ResourceId": 2561001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_048",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2561001,
+    "EnemyLevelConstantGroupId": 2561001,
+    "ResistBuffDebuffId": 2561006,
+    "ResistDamageId": 0,
+    "ResistElementId": 2561006,
+    "ResistStatusConditionId": 2561001,
+    "IsInfiniteHp": true,
+    "DummyHpCoefficient": 1000,
+    "DummyLbHpCoefficient": 0,
+    "HpGaugeSplitCount": 0,
+    "enemy_25": ""
+  },
+  {
+    "Id": 2561007,
+    "Name": {
+      "Ja": "モクジンダー",
+      "En": "Wooden Targetuar"
+    },
+    "ResourceId": 2561001,
+    "BaseCharacterExp": 0,
+    "BaseUserExp": 0,
+    "BaseGil": 0,
+    "BgmCueName": "bgm_ev_048",
+    "HpCoefficient": 1000,
+    "LbHpCoefficient": 1000,
+    "PhysicalAttackCoefficient": 1000,
+    "MagicalAttackCoefficient": 1000,
+    "PhysicalDefenseCoefficient": 1000,
+    "MagicalDefenseCoefficient": 1000,
+    "HealingPowerCoefficient": 0,
+    "BaseCriticalPermil": 0,
+    "EnemyLevelParameterBaseGroupId": 2561001,
+    "EnemyLevelConstantGroupId": 2561007,
+    "ResistBuffDebuffId": 2561007,
+    "ResistDamageId": 2561007,
+    "ResistElementId": 0,
+    "ResistStatusConditionId": 2561001,
+    "IsInfiniteHp": true,
+    "DummyHpCoefficient": 1000,
     "DummyLbHpCoefficient": 0,
     "HpGaugeSplitCount": 0,
     "enemy_25": ""

@@ -1053,6 +1053,32 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 100000092,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 24124043,
+    "DisplayConditionSetId": 671003000125,
+    "ResourceId": 100000092,
+    "Priority": 24124007,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000093,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 24124041,
+    "DisplayConditionSetId": 671003000126,
+    "ResourceId": 100000093,
+    "Priority": 24124006,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 100000094,
     "Banner": {
       "Ja": "",
@@ -1064,6 +1090,58 @@
     "ResourceId": 100000094,
     "Priority": 24123003,
     "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000095,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 24124031,
+    "DisplayConditionSetId": 671003000128,
+    "ResourceId": 100000095,
+    "Priority": 24124005,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000096,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 24125032,
+    "DisplayConditionSetId": 60100000096,
+    "ResourceId": 100000096,
+    "Priority": 24125004,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000097,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 24124032,
+    "DisplayConditionSetId": 671003000129,
+    "ResourceId": 100000097,
+    "Priority": 24124004,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000098,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 65,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 671003000130,
+    "ResourceId": 100000098,
+    "Priority": 24124008,
+    "LockConditionSetId": 160000000052
   },
   {
     "Id": 200010003,
@@ -1817,6 +1895,84 @@
     "DisplayConditionSetId": 170000010061,
     "ResourceId": 200010061,
     "Priority": 24123004,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010062,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 10062,
+    "DisplayConditionSetId": 170000010062,
+    "ResourceId": 200010062,
+    "Priority": 24124011,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010063,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 10063,
+    "DisplayConditionSetId": 170000010063,
+    "ResourceId": 200010063,
+    "Priority": 24124010,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010064,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 10064,
+    "DisplayConditionSetId": 170000010064,
+    "ResourceId": 200010064,
+    "Priority": 24124009,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010065,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 10065,
+    "DisplayConditionSetId": 170000010065,
+    "ResourceId": 200010065,
+    "Priority": 24125008,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010066,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 10066,
+    "DisplayConditionSetId": 170000010066,
+    "ResourceId": 200010066,
+    "Priority": 24125007,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200020232,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 14,
+    "TransitionId": 24125012,
+    "DisplayConditionSetId": 60100000096,
+    "ResourceId": 200020232,
+    "Priority": 24125005,
     "LockConditionSetId": 0
   },
   {
@@ -2756,6 +2912,19 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 200030410,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 12,
+    "TransitionId": 30410,
+    "DisplayConditionSetId": 170000030410,
+    "ResourceId": 200030410,
+    "Priority": 24125006,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 300002002,
     "Banner": {
       "Ja": "",
@@ -2909,6 +3078,19 @@
     "DisplayConditionSetId": 613000002014,
     "ResourceId": 300002014,
     "Priority": 24123002,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300002015,
+    "Banner": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 12120201501001,
+    "ResourceId": 300002015,
+    "Priority": 24125001,
     "LockConditionSetId": 0
   },
   {
@@ -3146,6 +3328,45 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 300003020,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 613000003020,
+    "ResourceId": 300003020,
+    "Priority": 24125003,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300003022,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 613000003022,
+    "ResourceId": 300003022,
+    "Priority": 24124002,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300003023,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 613000003023,
+    "ResourceId": 300003023,
+    "Priority": 24124001,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 300007001,
     "Banner": {
       "Ja": "入れ替える用文言",
@@ -3367,6 +3588,19 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 300009006,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 60,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 613000009006,
+    "ResourceId": 300009006,
+    "Priority": 24124003,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 300011001,
     "Banner": {
       "Ja": "",
@@ -3468,6 +3702,19 @@
     "DisplayConditionSetId": 613000012006,
     "ResourceId": 300012006,
     "Priority": 24123001,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300012007,
+    "Banner": {
+      "Ja": "",
+      "En": ""
+    },
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 613000012007,
+    "ResourceId": 300012007,
+    "Priority": 24125002,
     "LockConditionSetId": 0
   },
   {

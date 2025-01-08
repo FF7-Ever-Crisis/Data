@@ -57,7 +57,7 @@
     "BattleContinueInvincibleSecond": 6,
     "BattleMultiRestoreAtbCost": 3,
     "BattleMultiRestoreInvincibleSecond": 6,
-    "ForceUpdateMaster": 23,
+    "ForceUpdateMaster": 24,
     "BattleScoreSettingId": 0,
     "BattleMultiIdleLimitSecond": 20,
     "DefaultAccessoryLimit": 100,
@@ -130,7 +130,7 @@
     "SkillDescriptionHealLevelThresholdLow": 100,
     "SkillDescriptionHealLevelThresholdMiddle": 300,
     "SkillDescriptionHealLevelThresholdHigh": 1000,
-    "BattleServerContinueVoteLimitSec": 60,
+    "BattleServerContinueVoteLimitSec": 30,
     "StoryStandbyCharacterExpCoefficient": 1000,
     "RewardHintDisplayMaxCount": 2,
     "CbtCloseDatetime": "2023-07-14T06:00:00+00:00",
@@ -159,10 +159,10 @@
     "WeaponLegendaryPassiveSkillPointCoefficient": 1000,
     "DefaultGuildExchangeShopId": 0,
     "AssetDeleteThresholdDay": 30,
-    "config_129": 0,
-    "config_130": 0,
-    "config_131": 0,
-    "config_132": 0,
-    "config_133": 0
+    "config_129": 20,
+    "config_130": 10000,
+    "config_131": 5,
+    "config_132": 500,
+    "config_133": 500
   }
 ]

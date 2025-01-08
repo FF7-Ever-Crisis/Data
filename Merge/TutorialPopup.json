@@ -2653,6 +2653,32 @@
   },
   {
     "Title": {
+      "Ja": "ダメージチャレンジについて1",
+      "En": "Max. Damage Challenge 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「ダメージチャレンジ」</color>は、ターゲットに対して\n時間内にどれだけダメージが出せるかを試すコンテンツです。\nステージごとにハイスコアが記録されます。\nダメージチャレンジでは、一部のゲージが増加した状態でバトルが開始されます。",
+      "En": "In this challenge, the goal is to deal as much damage as possible within the allotted time. Some gauges will be partly filled at the start of battle, and high scores will be recorded for each stage."
+    },
+    "TutorialPopupGroupId": 2280001,
+    "Seq": 1,
+    "ResourceId": 228000101
+  },
+  {
+    "Title": {
+      "Ja": "ダメージチャレンジについて2",
+      "En": "Max. Damage Challenge 2"
+    },
+    "Description": {
+      "Ja": "ステージごとにランキングが存在します。\nランキングはリセットされず、全期間での集計結果が表示されます。",
+      "En": "Each stage has its own ranking. The rankings do not reset and reflect the results over the entire period."
+    },
+    "TutorialPopupGroupId": 2280001,
+    "Seq": 2,
+    "ResourceId": 228000102
+  },
+  {
+    "Title": {
       "Ja": "AUTO機能が使用できるようになりました。\nMANUALから切り替えて選択できます。",
       "En": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },
@@ -3313,6 +3339,19 @@
     "TutorialPopupGroupId": 310000032,
     "Seq": 1,
     "ResourceId": 3100000321
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「MASAMUNE」",
+      "En": "Force Gauge: Masamune"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>物攻</color>」が上昇している状態です。\n敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。",
+      "En": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    "TutorialPopupGroupId": 310000034,
+    "Seq": 1,
+    "ResourceId": 3100000341
   },
   {
     "Title": {
