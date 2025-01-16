@@ -133,6 +133,25 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 101008,
+    "Name": {
+      "Ja": "FINAL FANTASY VII\nクリアパック 8TH",
+      "En": "FINAL FANTASY VII\n8th Completion Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 10,
+    "Seq": 8,
+    "ReleaseConditionSetId": 620000101008,
+    "OrderNo": 8,
+    "ResourceId": 101008,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001008,
+    "ReleaseDurationMinute": 2880,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 101,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 102000,
     "Name": {
       "Ja": "CRISIS CORE\nストーリー攻略パック",
@@ -1155,6 +1174,25 @@
     "ReleaseDurationMinute": 2880,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 206,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 207004,
+    "Name": {
+      "Ja": "萌葱の塔\nB40F 踏破完了パック",
+      "En": "The Peridot Tower\nB40 Full Exploration Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 3,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000207004,
+    "OrderNo": 4,
+    "ResourceId": 207004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001244,
+    "ReleaseDurationMinute": 2880,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 207,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   },
@@ -2352,6 +2390,139 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 408,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 409001,
+    "Name": {
+      "Ja": "キャラクターストリーム\nシド成長パックI",
+      "En": "Character Stream\nCid's Training Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000409001,
+    "OrderNo": 1,
+    "ResourceId": 409001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001631,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 409,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 409002,
+    "Name": {
+      "Ja": "キャラクターストリーム\nシド成長パックII",
+      "En": "Character Stream\nCid's Training Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000409002,
+    "OrderNo": 2,
+    "ResourceId": 409002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001632,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 409,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 409003,
+    "Name": {
+      "Ja": "キャラクターストリーム\nシド成長パックIII",
+      "En": "Character Stream\nCid's Training Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000409003,
+    "OrderNo": 3,
+    "ResourceId": 409003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001633,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 409,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 409004,
+    "Name": {
+      "Ja": "キャラクターストリーム\nシド成長パックIV",
+      "En": "Character Stream\nCid's Training Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000409004,
+    "OrderNo": 4,
+    "ResourceId": 409004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001634,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 409,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 409005,
+    "Name": {
+      "Ja": "キャラクターストリーム\nシド成長パックV",
+      "En": "Character Stream\nCid's Training Pack V"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620000409005,
+    "OrderNo": 5,
+    "ResourceId": 409005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001635,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 409,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 409006,
+    "Name": {
+      "Ja": "キャラクターストリーム\nシド成長パックVI",
+      "En": "Character Stream\nCid's Training Pack VI"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 6,
+    "ReleaseConditionSetId": 620000409006,
+    "OrderNo": 6,
+    "ResourceId": 409006,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001636,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 409,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 409007,
+    "Name": {
+      "Ja": "キャラクターストリーム\nシド成長パックVII",
+      "En": "Character Stream\nCid's Training Pack VII"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 7,
+    "ReleaseConditionSetId": 620000409007,
+    "OrderNo": 7,
+    "ResourceId": 409007,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001637,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 409,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   },
@@ -5525,6 +5696,82 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 541,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 542001,
+    "Name": {
+      "Ja": "スティルヴ討伐\nクリアパックI",
+      "En": "Stilva Hunt\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000542001,
+    "OrderNo": 1,
+    "ResourceId": 542001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001933,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 542,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 542002,
+    "Name": {
+      "Ja": "スティルヴ討伐\nクリアパックII",
+      "En": "Stilva Hunt\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000542002,
+    "OrderNo": 2,
+    "ResourceId": 542002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001934,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 542,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 542003,
+    "Name": {
+      "Ja": "スティルヴ討伐\nクリアパックIII",
+      "En": "Stilva Hunt\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000542003,
+    "OrderNo": 3,
+    "ResourceId": 542003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001935,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 542,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 542004,
+    "Name": {
+      "Ja": "スティルヴ討伐\nクリアパックIV",
+      "En": "Stilva Hunt\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000542004,
+    "OrderNo": 4,
+    "ResourceId": 542004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001936,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 542,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   },
@@ -12346,6 +12593,101 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 1091,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1092001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001092001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005360,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1092,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1092002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ロケットランスパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Rocket Lance Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001092002,
+    "OrderNo": 2,
+    "ResourceId": 1092002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005361,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1092,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1092003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001092003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005362,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1092,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1092004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ロケットランスパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Rocket Lance Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001092004,
+    "OrderNo": 4,
+    "ResourceId": 1092004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005363,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1092,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1092005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001092005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005364,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1092,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   }

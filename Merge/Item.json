@@ -1188,6 +1188,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1009,
+    "Name": {
+      "Ja": "シド専用ウェポンパーツ",
+      "En": "Cid-Specific Weapon Part"
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「シド」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Cid's weapons</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1020,
     "Name": {
       "Ja": "ザックス専用ウェポンパーツ",
@@ -1496,6 +1518,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 2009,
+    "Name": {
+      "Ja": "シドのメモリー",
+      "En": "Cid's Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「シド」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Cid's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2009,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2020,
     "Name": {
       "Ja": "ザックスのメモリー",
@@ -1795,6 +1839,28 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 2108,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2109,
+    "Name": {
+      "Ja": "シドのノーブルメモリー",
+      "En": "Cid's Noble Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「シド」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Cid's character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2109,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -6402,6 +6468,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 22517,
+    "Name": {
+      "Ja": "500日記念抽選ボックス",
+      "En": "Lottery Box - 500 Days Since Release"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 30001,
     "Name": {
       "Ja": "スコアバトルキー",
@@ -7713,6 +7801,50 @@
     "ItemRarityType": 5,
     "MaxCapacity": 999,
     "ResourceId": 100029,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100044,
+    "Name": {
+      "Ja": "シド武器確定ガチャチケット",
+      "En": "Cid Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「シド武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Cid - Guaranteed Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 999,
+    "ResourceId": 100044,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100045,
+    "Name": {
+      "Ja": "シド<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Cid 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「シド<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Cid - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100045,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -11792,6 +11924,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1007031,
+    "Name": {
+      "Ja": "スティルヴメガホン・パーツ",
+      "En": "Stilva Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「スティルヴメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Stilva Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1007032,
     "Name": {
       "Ja": "魔晄の貴石（マーベラスチアー）",
@@ -12228,6 +12382,270 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-12-12T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009001,
+    "Name": {
+      "Ja": "スピア・パーツ",
+      "En": "Spear Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「スピア」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Spear</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009002,
+    "Name": {
+      "Ja": "スラッシュパイク・パーツ",
+      "En": "Slash Lance Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「スラッシュパイク」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Slash Lance</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009003,
+    "Name": {
+      "Ja": "トライデント・パーツ",
+      "En": "Trident Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「トライデント」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Trident</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009004,
+    "Name": {
+      "Ja": "ポールアックス・パーツ",
+      "En": "Pole Axe Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ポールアックス」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Pole Axe</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009005,
+    "Name": {
+      "Ja": "パルチザン・パーツ",
+      "En": "Partisan Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「パルチザン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Partisan</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009006,
+    "Name": {
+      "Ja": "蛇矛・パーツ",
+      "En": "Viper Halberd Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「蛇矛」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Viper Halberd</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009008,
+    "Name": {
+      "Ja": "グローランス・パーツ",
+      "En": "Radiant Lance Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「グローランス」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Radiant Lance</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009011,
+    "Name": {
+      "Ja": "青龍偃月刀・パーツ",
+      "En": "Scimitar Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「青龍偃月刀」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Scimitar</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009012,
+    "Name": {
+      "Ja": "方天画戟・パーツ",
+      "En": "Flayer Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「方天画戟」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Flayer</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009015,
+    "Name": {
+      "Ja": "ロケットランス・パーツ",
+      "En": "Rocket Lance Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ロケットランス」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Rocket Lance</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009015,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009016,
+    "Name": {
+      "Ja": "モップ・パーツ",
+      "En": "Mop Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「モップ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Mop</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009016,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009018,
+    "Name": {
+      "Ja": "究極スピア・パーツ",
+      "En": "N/A"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「究極スピア」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>N/A</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009018,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -13785,6 +14203,28 @@
     "ItemRarityType": 5,
     "MaxCapacity": 99999999,
     "ResourceId": 1001001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1050026,
+    "Name": {
+      "Ja": "スティルヴグレイブ・パーツ",
+      "En": "Stilva Glaive Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「スティルヴグレイブ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Stilva Glaive</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1050026,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -15749,6 +16189,72 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-07-22T02:00:00+00:00",
     "EndDatetime": "2025-01-11T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020161,
+    "Name": {
+      "Ja": "討伐ガチャチケット",
+      "En": "Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「スティルヴ討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020161,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "2025-02-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020162,
+    "Name": {
+      "Ja": "討伐ガチャチケット・銀",
+      "En": "Silver Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「スティルヴ討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Silver Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020162,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "2025-02-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020163,
+    "Name": {
+      "Ja": "討伐ガチャチケット・金",
+      "En": "Gold Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「スティルヴ討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Gold Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020163,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-23T02:00:00+00:00",
+    "EndDatetime": "2025-02-05T01:59:59+00:00",
     "OrderNo": 0
   },
   {
