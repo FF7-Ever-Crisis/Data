@@ -981,6 +981,14 @@
             "value": "Force Gauge: Masamune"
         },
         {
+            "id": 970003100000351,
+            "value": "Force Gauge: Laser Energy"
+        },
+        {
+            "id": 970003100000361,
+            "value": "Force Gauge: Dragon Power"
+        },
+        {
             "id": 970003200000011,
             "value": "Status Ailment: Dread"
         },
@@ -991,6 +999,10 @@
         {
             "id": 970003200000031,
             "value": "Status Ailment: Enfeeble"
+        },
+        {
+            "id": 970003200000041,
+            "value": "Status Ailment: Stop"
         },
         {
             "id": 971000101400101,
@@ -1497,6 +1509,14 @@
             "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
         },
         {
+            "id": 971003100000351,
+            "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>MATK</color>. <command_color=common_03>Dealing fire damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+        },
+        {
+            "id": 971003100000361,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>their PDEF and MDEF will be greatly reduced</color>."
+        },
+        {
             "id": 971003200000011,
             "value": "Depending on the number of characters afflicted with <command_color=common_03>dread</color>, <command_color=common_03>the speed at which the command gauge increases in Attack Stance will slow</color>. While afflicted, <command_color=common_03>Attack Stance perks</color> that boost damage and the amount of sigils destroyed <command_color=common_03>will be inactive</color>. Dread is canceled <command_color=common_03>when the command gauge is maxed out</color> in Attack Stance."
         },
@@ -1507,6 +1527,10 @@
         {
             "id": 971003200000031,
             "value": "While afflicted with Enfeeble, <command_color=common_03>the modifiers for stat debuff tiers are increased</color>, thus greatly boosting their potency."
+        },
+        {
+            "id": 971003200000041,
+            "value": "When a target is afflicted with Stop, they become <command_color=common_03>incapacitated</color>.\nWhen an enemy is afflicted, time also stops during actions such as stream phase. The duration of the effect is reduced <command_color=common_03>every time it is cast on the same target</color>.\nWhen a character is afflicted, they are also prevented from using their abilities and filling their ATB gauge."
         }
     ]
 }

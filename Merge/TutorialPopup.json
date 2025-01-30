@@ -3368,6 +3368,32 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「LASER ENERGY」",
+      "En": "Force Gauge: Laser Energy"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>魔攻</color>」が上昇している状態です。\n敵に<command_color=common_03>炎属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。",
+      "En": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>MATK</color>. <command_color=common_03>Dealing fire damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    "TutorialPopupGroupId": 310000035,
+    "Seq": 1,
+    "ResourceId": 3100000351
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「DRAGON POWER」",
+      "En": "Force Gauge: Dragon Power"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>物防・魔防を大きく下げる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>their PDEF and MDEF will be greatly reduced</color>."
+    },
+    "TutorialPopupGroupId": 310000036,
+    "Seq": 1,
+    "ResourceId": 3100000361
+  },
+  {
+    "Title": {
       "Ja": "状態異常【恐怖】",
       "En": "Status Ailment: Dread"
     },
@@ -3404,5 +3430,18 @@
     "TutorialPopupGroupId": 320000003,
     "Seq": 1,
     "ResourceId": 3200000031
+  },
+  {
+    "Title": {
+      "Ja": "状態異常【ストップ】",
+      "En": "Status Ailment: Stop"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>付与された対象が行動不能となる</color>状態です。\nキャラクターが敵に付与した場合、ストリームフェイズなど一部の時間経過も停止します。\n<command_color=common_03>同じ敵に付与するたびに効果時間が減少</color>していきます。\nまた、キャラクターに付与された際は、各種アビリティが使用できず、ATBゲージも増加しなくなります。",
+      "En": "When a target is afflicted with Stop, they become <command_color=common_03>incapacitated</color>.\nWhen an enemy is afflicted, time also stops during actions such as stream phase. The duration of the effect is reduced <command_color=common_03>every time it is cast on the same target</color>.\nWhen a character is afflicted, they are also prevented from using their abilities and filling their ATB gauge."
+    },
+    "TutorialPopupGroupId": 320000004,
+    "Seq": 1,
+    "ResourceId": 3200000041
   }
 ]

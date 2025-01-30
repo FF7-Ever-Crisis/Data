@@ -4578,7 +4578,7 @@
     "Id": 530013,
     "Description": {
       "Ja": "物理・魔法防御力+{1}%",
-      "En": "Phys. & Mag. Defence +{1}%"
+      "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,
@@ -4743,7 +4743,7 @@
     "Id": 533031,
     "Description": {
       "Ja": "物理・魔法防御力+{1}%",
-      "En": "Phys. & Mag. Defence +{1}%"
+      "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,
@@ -4803,7 +4803,7 @@
     "Id": 534013,
     "Description": {
       "Ja": "物理・魔法防御力+{1}%",
-      "En": "Phys. & Mag. Defence +{1}%"
+      "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,
@@ -4863,7 +4863,7 @@
     "Id": 535021,
     "Description": {
       "Ja": "物理・魔法防御力+{1}%",
-      "En": "Phys. & Mag. Defence +{1}%"
+      "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,
@@ -5538,7 +5538,7 @@
     "Id": 544013,
     "Description": {
       "Ja": "物理・魔法防御力+{1}%",
-      "En": "Phys. & Mag. Defence +{1}%"
+      "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,
@@ -5583,7 +5583,7 @@
     "Id": 545012,
     "Description": {
       "Ja": "物理・魔法防御力+{1}%",
-      "En": "Phys. & Mag. Defence +{1}%"
+      "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
     "EffectValue": 0,
@@ -5608,5 +5608,110 @@
     "PassiveSkillTargetType": 0,
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 546011,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 546012,
+    "Description": {
+      "Ja": "バフ・デバフ(上昇・下降系)の効果時間＋{1}%",
+      "En": "Buff/Debuff (Stats/Pot./Res.) Effect Duration +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 400,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 546013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 400,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 547011,
+    "Description": {
+      "Ja": "インタラプト発生時、自身に効果付与対象の各最大HPの10%分のベールを付与。(効果時間60秒。効果延長時+60秒)",
+      "En": "Applies Veil to self when interrupting enemy\n(Pot: 10% of max. HP of the affected / Dur.: 60s / Ext.: +60s)"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 54701101
+  },
+  {
+    "Id": 547011,
+    "Description": {
+      "Ja": "インタラプト発生時、自身に効果付与対象の各最大HPの15%分のベールを付与。(効果時間60秒。効果延長時+60秒)",
+      "En": "Applies Veil to self when interrupting enemy\n(Pot: 15% of max. HP of the affected / Dur.: 60s / Ext.: +60s)"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 54701102
+  },
+  {
+    "Id": 547011,
+    "Description": {
+      "Ja": "インタラプト発生時、自身に効果付与対象の各最大HPの20%分のベールを付与。(効果時間60秒。効果延長時+60秒)",
+      "En": "Applies Veil to self when interrupting enemy\n(Pot: 20% of max. HP of the affected / Dur.: 60s / Ext.: +60s)"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 54701103
+  },
+  {
+    "Id": 547011,
+    "Description": {
+      "Ja": "インタラプト発生時、自身に効果付与対象の各最大HPの25%分のベールを付与。(効果時間60秒。効果延長時+60秒)",
+      "En": "Applies Veil to self when interrupting enemy\n(Pot: 25% of max. HP of the affected / Dur.: 60s / Ext.: +60s)"
+    },
+    "Level": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 5,
+    "PassiveSkillFilterGroupId": 3,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 54701104
   }
 ]

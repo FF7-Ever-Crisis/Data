@@ -8151,6 +8151,82 @@
     "EpisodeLockConditionSetId": 700011002002
   },
   {
+    "Id": 1100301,
+    "Name": {
+      "Ja": "「LOVELESS」開演！(バトル)",
+      "En": "The Curtain Rises! (battle)"
+    },
+    "EventScenarioSectionId": 11003,
+    "PremiseEventScenarioEpisodeId": 1100307,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11003301,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100302,
+    "Name": {
+      "Ja": "悪竜王ヴァルヴァドス(バトル)",
+      "En": "Dragon King Varvados (battle)"
+    },
+    "EventScenarioSectionId": 11003,
+    "PremiseEventScenarioEpisodeId": 1100308,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 11003302,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100307,
+    "Name": {
+      "Ja": "「LOVELESS」開演！",
+      "En": "The Curtain Rises!"
+    },
+    "EventScenarioSectionId": 11003,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 9901800,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1100308,
+    "Name": {
+      "Ja": "悪竜王ヴァルヴァドス",
+      "En": "Dragon King Varvados"
+    },
+    "EventScenarioSectionId": 11003,
+    "PremiseEventScenarioEpisodeId": 1100301,
+    "DungeonId": 9901801,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
     "Id": 13001001,
     "Name": {
       "Ja": "入れ替える用文言",

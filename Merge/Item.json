@@ -5984,6 +5984,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21018,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -6472,6 +6494,28 @@
     "Name": {
       "Ja": "500日記念抽選ボックス",
       "En": "Lottery Box - 500 Days Since Release"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22518,
+    "Name": {
+      "Ja": "FFVII REBIRTHコラボ記念抽選ボックス",
+      "En": "Lottery Box - FFVII REBIRTH Crossover"
     },
     "Description": {
       "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
@@ -8206,6 +8250,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 300015,
+    "Name": {
+      "Ja": "FFVII REBIRTHコラボウェア交換券vol.1",
+      "En": "FFVII REBIRTH Crossover Gear Voucher Vol. 1"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「REBIRTHコラボウェア交換所vol.1」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>REBIRTH Crossover Gear Vol. 1 Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300015,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300017,
     "Name": {
       "Ja": "FFVII REBIRTHコラボカウントダウン記念メダル",
@@ -8225,6 +8291,50 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-01-23T02:00:00+00:00",
     "EndDatetime": "2025-02-27T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300018,
+    "Name": {
+      "Ja": "コラボ記念 レッドXIII<sprite=\"tmp_icon\" index=196>5武器交換券",
+      "En": "Crossover Celeb. Red XIII 5<sprite=\"tmp_icon\" index=196> Wpn. Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>コラボ記念レッドXIII<sprite=\"tmp_icon\" index=196>5武器交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Crossover Celebration Red XIII 5<sprite=\"tmp_icon\" index=196> Wpn. Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300018,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300019,
+    "Name": {
+      "Ja": "コラボ記念 バレット<sprite=\"tmp_icon\" index=196>5武器交換券",
+      "En": "Crossover Celeb. Barret 5<sprite=\"tmp_icon\" index=196> Wpn. Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>コラボ記念バレット<sprite=\"tmp_icon\" index=196>5武器交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Crossover Celebration Barret 5<sprite=\"tmp_icon\" index=196> Wpn. Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300019,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
   {
@@ -8844,6 +8954,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1001042,
+    "Name": {
+      "Ja": "シルキーセイバー・パーツ",
+      "En": "Sleek Saber Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「シルキーセイバー」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Sleek Saber</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001042,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-30T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1002001,
     "Name": {
       "Ja": "ガトリングガン・パーツ",
@@ -9302,6 +9434,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-10-24T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1002036,
+    "Name": {
+      "Ja": "魔晄の貴石（ミッシングスコア）",
+      "En": "Mako Gem (Missing Score)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1002036,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -10485,6 +10639,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 1004033,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004034,
+    "Name": {
+      "Ja": "ガンバンテイン・パーツ",
+      "En": "Gambanteinn Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ガンバンテイン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Gambanteinn</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004034,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -17729,6 +17905,94 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-05-31T02:00:00+00:00",
     "EndDatetime": "2024-07-03T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110031,
+    "Name": {
+      "Ja": "ゴールドポイント",
+      "En": "Gold Point"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-30T02:00:00+00:00",
+    "EndDatetime": "2025-03-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110032,
+    "Name": {
+      "Ja": "銀の歯車",
+      "En": "Silver Cog"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110032,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-30T02:00:00+00:00",
+    "EndDatetime": "2025-03-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110034,
+    "Name": {
+      "Ja": "地獄の番犬メダル",
+      "En": "Hellhound Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110034,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-30T02:00:00+00:00",
+    "EndDatetime": "2025-03-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110035,
+    "Name": {
+      "Ja": "悪竜王メダル",
+      "En": "Dragon King Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110035,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-01-30T02:00:00+00:00",
+    "EndDatetime": "2025-03-01T01:59:59+00:00",
     "OrderNo": 0
   },
   {
