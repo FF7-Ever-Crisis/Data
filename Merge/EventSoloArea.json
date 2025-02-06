@@ -546,6 +546,19 @@
     "EventAreaCategoryId": 0
   },
   {
+    "Id": 5016,
+    "Name": {
+      "Ja": "スティルヴ討伐",
+      "En": "Stilva Hunt"
+    },
+    "EventSoloAreaGroupId": 5016,
+    "OrderNo": 1,
+    "ResourceId": 100000,
+    "DisplayConditionSetId": 611000005016,
+    "LockConditionSetId": 612000005016,
+    "EventAreaCategoryId": 0
+  },
+  {
     "Id": 13001,
     "Name": {
       "Ja": "",
@@ -553,7 +566,7 @@
     },
     "EventSoloAreaGroupId": 13001,
     "OrderNo": 1,
-    "ResourceId": 13001,
+    "ResourceId": 13003,
     "DisplayConditionSetId": 611000013001,
     "LockConditionSetId": 0,
     "EventAreaCategoryId": 0
@@ -566,7 +579,7 @@
     },
     "EventSoloAreaGroupId": 13002,
     "OrderNo": 2,
-    "ResourceId": 13002,
+    "ResourceId": 13004,
     "DisplayConditionSetId": 611000013002,
     "LockConditionSetId": 0,
     "EventAreaCategoryId": 0
@@ -1319,6 +1332,19 @@
       "En": ""
     },
     "EventSoloAreaGroupId": 700801,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 0
+  },
+  {
+    "Id": 70090101,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventSoloAreaGroupId": 700901,
     "OrderNo": 1,
     "ResourceId": 0,
     "DisplayConditionSetId": 0,

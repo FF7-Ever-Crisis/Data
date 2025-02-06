@@ -1850,6 +1850,81 @@
     "ForceGaugeType": 1
   },
   {
+    "Id": 3251662021,
+    "Name": {
+      "Ja": "CHARGE",
+      "En": "Charge"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 3251662021,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3251662021,
+    "TutorialStepType": 143,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325163202,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 1
+  },
+  {
+    "Id": 3251662031,
+    "Name": {
+      "Ja": "CHARGE",
+      "En": "Charge"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 3251662031,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3251662031,
+    "TutorialStepType": 143,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325163202,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 1
+  },
+  {
+    "Id": 3251662041,
+    "Name": {
+      "Ja": "CHARGE",
+      "En": "Charge"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 3251662041,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3251662041,
+    "TutorialStepType": 143,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325163202,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 1
+  },
+  {
     "Id": 3252080061,
     "Name": {
       "Ja": "MEGAFLARE",
@@ -2570,6 +2645,56 @@
     "TutorialStepType": 147,
     "SkillForceGaugeTriggerType": 0,
     "SkillEnemyId": 0,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 1
+  },
+  {
+    "Id": 3252461051,
+    "Name": {
+      "Ja": "CONCENTRATION",
+      "En": "Concentration"
+    },
+    "Description": {
+      "Ja": "モンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
+      "En": "Enモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 3252461051,
+    "SkillForceGaugeParameterEffectGroupId": 3252461051,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3252461051,
+    "TutorialStepType": 147,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325243106,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 1
+  },
+  {
+    "Id": 3252461071,
+    "Name": {
+      "Ja": "CONCENTRATION",
+      "En": "Concentration"
+    },
+    "Description": {
+      "Ja": "モンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。",
+      "En": "Enモンスターに与えたダメージ量に応じて\nゲージを下げることができる。\nゲージをゼロにすることができると、\n対象を一定時間行動不能にすることができる。"
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 3252461071,
+    "SkillForceGaugeParameterEffectGroupId": 3252461071,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3252461071,
+    "TutorialStepType": 147,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325243106,
     "RewardSetId": 0,
     "MaxRewardCount": 0,
     "ForceGaugeType": 1

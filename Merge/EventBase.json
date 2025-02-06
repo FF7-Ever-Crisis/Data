@@ -2200,6 +2200,56 @@
     "EventIconType": 0
   },
   {
+    "Id": 5016,
+    "Name": {
+      "Ja": "スティルヴ討伐",
+      "En": "Stilva Hunt"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "BossName": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventTopCategory": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventTopTitle": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventBattleGroupOver": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventType": 5,
+    "OrderNo": 1000000,
+    "ShopGroupId": 0,
+    "EventScenarioSectionId": 0,
+    "DisplayConditionSetId": 611000005016,
+    "LockConditionSetId": 612000005016,
+    "OpenConditionSetId": 613000005016,
+    "ResetMaxBattleWinCount": 0,
+    "BattleWinResetId": 0,
+    "IconResourceId": 5005,
+    "EventClashId": 2016,
+    "EventDisplayItemGroupId": 0,
+    "EventStoryLevelGroupId": 0,
+    "BoxGachaGroupId": 0,
+    "StoryChapterId": 0,
+    "AnnouncementId": 0,
+    "EventDetailId": 5016,
+    "EventBonusEffectGroupId": 0,
+    "MissionPanelId": 0,
+    "EventIdlingCollectId": 0,
+    "EventChallengeItemGroupId": 0,
+    "ResourceId": 0,
+    "EventIconType": 0
+  },
+  {
     "Id": 7001,
     "Name": {
       "Ja": "壱番魔晄炉",
@@ -2592,6 +2642,56 @@
     "StoryChapterId": 0,
     "AnnouncementId": 0,
     "EventDetailId": 7008,
+    "EventBonusEffectGroupId": 0,
+    "MissionPanelId": 0,
+    "EventIdlingCollectId": 0,
+    "EventChallengeItemGroupId": 0,
+    "ResourceId": 0,
+    "EventIconType": 0
+  },
+  {
+    "Id": 7009,
+    "Name": {
+      "Ja": "伍番街",
+      "En": "Sector 5"
+    },
+    "Description": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "BossName": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventTopCategory": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventTopTitle": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventBattleGroupOver": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventType": 7,
+    "OrderNo": 749779,
+    "ShopGroupId": 0,
+    "EventScenarioSectionId": 0,
+    "DisplayConditionSetId": 612000007009,
+    "LockConditionSetId": 614000007009,
+    "OpenConditionSetId": 615000007009,
+    "ResetMaxBattleWinCount": 0,
+    "BattleWinResetId": 0,
+    "IconResourceId": 7009,
+    "EventClashId": 0,
+    "EventDisplayItemGroupId": 0,
+    "EventStoryLevelGroupId": 0,
+    "BoxGachaGroupId": 0,
+    "StoryChapterId": 0,
+    "AnnouncementId": 0,
+    "EventDetailId": 7009,
     "EventBonusEffectGroupId": 0,
     "MissionPanelId": 0,
     "EventIdlingCollectId": 0,
@@ -3652,8 +3752,8 @@
   {
     "Id": 13001,
     "Name": {
-      "Ja": "異形の蹂躙",
-      "En": "Chaos of the Corrupted"
+      "Ja": "復刻 異形の蹂躙",
+      "En": "Reawakened: Chaos of the Corrupted"
     },
     "Description": {
       "Ja": "入れ替える用文言",
@@ -3668,15 +3768,15 @@
       "En": "Battle Tower: Singularity"
     },
     "EventTopTitle": {
-      "Ja": "吹き荒れる渦塔\\n異形の蹂躙",
-      "En": "The Maelstrom Tower\\nChaos of the Corrupted"
+      "Ja": "復刻 吹き荒れる渦塔\\n異形の蹂躙",
+      "En": "Reawakened: Chaos\\nof the Corrupted"
     },
     "EventBattleGroupOver": {
       "Ja": "",
       "En": ""
     },
     "EventType": 3,
-    "OrderNo": 759082,
+    "OrderNo": 749780,
     "ShopGroupId": 233,
     "EventScenarioSectionId": 13001,
     "DisplayConditionSetId": 611000013001,
@@ -3684,26 +3784,26 @@
     "OpenConditionSetId": 613000013001,
     "ResetMaxBattleWinCount": 0,
     "BattleWinResetId": 0,
-    "IconResourceId": 13001,
+    "IconResourceId": 13003,
     "EventClashId": 0,
     "EventDisplayItemGroupId": 0,
     "EventStoryLevelGroupId": 0,
     "BoxGachaGroupId": 0,
     "StoryChapterId": 0,
     "AnnouncementId": 0,
-    "EventDetailId": 13001,
+    "EventDetailId": 13003,
     "EventBonusEffectGroupId": 0,
     "MissionPanelId": 0,
     "EventIdlingCollectId": 0,
     "EventChallengeItemGroupId": 0,
     "ResourceId": 0,
-    "EventIconType": 0
+    "EventIconType": 2
   },
   {
     "Id": 13002,
     "Name": {
-      "Ja": "異形の蹂躙・猛",
-      "En": "Chaos of the Corrupted (Brutal)"
+      "Ja": "復刻 異形の蹂躙・猛",
+      "En": "Reawakened: Chaos of the Corrupted (Brutal)"
     },
     "Description": {
       "Ja": "入れ替える用文言",
@@ -3718,15 +3818,15 @@
       "En": "Battle Tower: Singularity"
     },
     "EventTopTitle": {
-      "Ja": "吹き荒れる渦塔\\n異形の蹂躙・猛",
-      "En": "The Maelstrom Tower\\nChaos of the Corrupted (Brutal)"
+      "Ja": "復刻 吹き荒れる渦塔\\n異形の蹂躙・猛",
+      "En": "Reawakened: Chaos\\nof the Corrupted (Brutal)"
     },
     "EventBattleGroupOver": {
       "Ja": "",
       "En": ""
     },
     "EventType": 3,
-    "OrderNo": 759083,
+    "OrderNo": 749780,
     "ShopGroupId": 0,
     "EventScenarioSectionId": 13002,
     "DisplayConditionSetId": 611000013002,
@@ -3734,19 +3834,19 @@
     "OpenConditionSetId": 613000013002,
     "ResetMaxBattleWinCount": 0,
     "BattleWinResetId": 0,
-    "IconResourceId": 13002,
+    "IconResourceId": 13004,
     "EventClashId": 0,
     "EventDisplayItemGroupId": 0,
     "EventStoryLevelGroupId": 0,
     "BoxGachaGroupId": 0,
     "StoryChapterId": 0,
     "AnnouncementId": 0,
-    "EventDetailId": 13002,
+    "EventDetailId": 13004,
     "EventBonusEffectGroupId": 0,
     "MissionPanelId": 0,
     "EventIdlingCollectId": 0,
     "EventChallengeItemGroupId": 0,
     "ResourceId": 0,
-    "EventIconType": 0
+    "EventIconType": 2
   }
 ]
