@@ -136,6 +136,17 @@
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n解析不能・・・",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nUnable to read..."
     },
+    "EnemyLevelConstantGroupId": 1010006,
+    "Level": 1,
+    "ResourceId": 1010002010,
+    "EnemySkillLevelId": 1010002010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n解析不能・・・",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n \nUnable to read..."
+    },
     "EnemyLevelConstantGroupId": 1010010,
     "Level": 1,
     "ResourceId": 1055010010,
@@ -870,6 +881,28 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>ターンアタック</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Twister Strike</color>."
+    },
+    "EnemyLevelConstantGroupId": 1057101,
+    "Level": 1,
+    "ResourceId": 1057101010,
+    "EnemySkillLevelId": 1057101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>ターンアタック</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n\n\n\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Twister Strike</color>."
+    },
+    "EnemyLevelConstantGroupId": 1057102,
+    "Level": 1,
+    "ResourceId": 1057101010,
+    "EnemySkillLevelId": 1057101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\nフォースゲージ [<command_color=emphasis>DRAGON POWER</color>] 中は、自身にターゲットを固定する<command_color=common_03>挑発</color>の効果で味方を守る。\nフォースゲージはダメージを与えることで減少する。\n[<command_color=emphasis>バイオ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=395>毒</color>を付与する。\n[<command_color=emphasis>エナジャイゼイション</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>・<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n物理防御が非常に高いため、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nWhile Force Gauge: <command_color=emphasis>Dragon Power</color> is active, uses <command_color=common_03>Provoke</color> to protect its allies by making itself a target. The gauge can be depleted with damage. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=395>poison</color> with <command_color=emphasis>Bio</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Energization</color>.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> are effective against this enemy."
     },
@@ -1086,6 +1119,28 @@
     "Level": 1,
     "ResourceId": 2002201010,
     "EnemySkillLevelId": 2002201010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<command_color=emphasis>ソフティングマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n[<command_color=emphasis>サプレスマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Debilitating Chainguns</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Suppressing Chainguns</color>.\n\n<command_color=common_03>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2002301,
+    "Level": 1,
+    "ResourceId": 2002301010,
+    "EnemySkillLevelId": 2002301010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<command_color=emphasis>ソフティングマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n[<command_color=emphasis>サプレスマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>魔法攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Debilitating Chainguns</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Suppressing Chainguns</color>.\n\n<command_color=common_03>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2002302,
+    "Level": 1,
+    "ResourceId": 2002301010,
+    "EnemySkillLevelId": 2002301010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -6359,6 +6414,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n　　　<sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な土属性の物理アビリティ</color>を使用する。\nストリームフェイズをインタラプトすると、\n直後に強力な物理アビリティ [<command_color=emphasis>突進</color>] [<command_color=emphasis>超突進</color>] で反撃する。\nフォースゲージ [<command_color=emphasis>RUSH CHARGE</color>] の残量に応じて<command_color=common_03>物攻</color>が変動する。\nフォースゲージは風属性でダメージを与えることで減少する。\n\n<command_color=common_03>風属性の物理攻撃</color>が有効。\nまた、攻撃が強力なため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>や<command_color=common_03>土属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses <command_color=common_03>powerful earth-element physical abilities</color>. Counters with powerful physical abilities <command_color=emphasis>Rush</color> and <command_color=emphasis>Greater Rush</color> when stream phase is interrupted. <command_color=common_03>PATK</color> changes based on the amount Force Gauge: <command_color=emphasis>Rush Charge</color> is filled. The gauge can be depleted with wind damage.\n\n<command_color=common_03>Wind-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2516106,
+    "Level": 1,
+    "ResourceId": 2516101030,
+    "EnemySkillLevelId": 2516101010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：なし\n\n<command_color=common_03>強力な全体攻撃</color> [<command_color=emphasis>放水</color>]など、<command_color=common_03>水属性の魔法攻撃</color>を使用する。\n仲間を呼び寄せて戦うが、仲間が倒されると攻撃の激しさが増す。\n\n<command_color=common_03>魔法攻撃</color>が有効。\nまた、仲間を呼び寄せるので<command_color=common_03>全体攻撃</color>が有効。",
       "En": "Immunities: None\n \nUses <command_color=common_03>water-element magic attacks</color> including the <command_color=common_03>powerful multi-target attack</color> <command_color=emphasis>Water Surge</color>. Calls additional allies to battle, and becomes aggressive when allies are defeated.\n \n<command_color=common_03>Magic attacks</color> and <command_color=common_03>multi-target attacks</color> are effective against this enemy."
     },
@@ -6575,6 +6641,17 @@
     "Level": 1,
     "ResourceId": 2520002010,
     "EnemySkillLevelId": 2520001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>物理・魔法共に強力なアビリティ</color>を多用する。\nフォースゲージ [<command_color=emphasis>MEGAFLARE</color>] 中はカウントダウンが進行し、\nカウントダウン終了時、強力な魔法攻撃 [<command_color=emphasis>メガフレア</color>] を使用する。\nフォースゲージはダメージを与えることで減少する。\n\n<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>、<sprite=\"tmp_icon\" index=325><command_color=common_03>魔防アップ</color>、<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <command_color=common_03>powerful physical and magic abilities</color>. A countdown triggers during Force Gauge: <command_color=emphasis>Megaflare</color>, and when the countdown ends, it unleashes the powerful magic attack <command_color=emphasis>Megaflare</color>. The gauge can be depleted with damage."
+    },
+    "EnemyLevelConstantGroupId": 2520012,
+    "Level": 1,
+    "ResourceId": 2520012010,
+    "EnemySkillLevelId": 2520012010,
     "FinalAttackSkillEnemyId": 0
   },
   {

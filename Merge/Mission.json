@@ -7140,6 +7140,74 @@
     "IsRefresh": true
   },
   {
+    "Id": 190320011,
+    "NameTemplate": {
+      "Ja": "CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7をクリアする。",
+      "En": "Clear CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7."
+    },
+    "DescriptionTemplate": {
+      "Ja": "CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7をクリアする。",
+      "En": "Clear CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 90,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 210462,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403200110001,
+    "OrderNo": 190320011,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190320011,
+    "OpenConditionSetId": 240190320011,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 210462,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190320012,
+    "NameTemplate": {
+      "Ja": "CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7をクリアする。",
+      "En": "Clear CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7."
+    },
+    "DescriptionTemplate": {
+      "Ja": "CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7をクリアする。",
+      "En": "Clear CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190003,
+    "MissionSetIdx": 91,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 210462,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 403200120001,
+    "OrderNo": 190320012,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190320011,
+    "OpenConditionSetId": 240190320011,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 210462,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190330000,
     "NameTemplate": {
       "Ja": "FFVII FS CHAPTER 1 - MAIN SECTION 2 - EP1をクリアする。",
@@ -10804,6 +10872,40 @@
     "BonusPoint": 0,
     "DisplayConditionSetId": 290000800601,
     "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 190900602,
+    "NameTemplate": {
+      "Ja": "メガフレアのレベルを{0}にする。",
+      "En": "Raise Megaflare to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "メガフレアのレベルを{0}にする。",
+      "En": "Raise Megaflare to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190010,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 12,
+    "TargetId1": 200601,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 900602,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 240190900602,
+    "OpenConditionSetId": 240190900602,
     "LockConditionSetId": 0,
     "TransitionType": 30,
     "TransitionId": 6,
@@ -38386,6 +38488,176 @@
     "IsRefresh": false
   },
   {
+    "Id": 500075001,
+    "NameTemplate": {
+      "Ja": "CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7をクリアする。",
+      "En": "Clear CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7."
+    },
+    "DescriptionTemplate": {
+      "Ja": "CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7をクリアする。",
+      "En": "Clear CC FFVII CHAPTER 6 - MAIN SECTION 4 - EP7."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500075,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 3,
+    "MissionType": 2,
+    "TargetId1": 210462,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 200010200100,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500075,
+    "OpenConditionSetId": 270000500075,
+    "LockConditionSetId": 0,
+    "TransitionType": 25,
+    "TransitionId": 210462,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 500075002,
+    "NameTemplate": {
+      "Ja": "ザックスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Zack in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ザックスを編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Zack in the party."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500075,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500075,
+    "OpenConditionSetId": 270000500075,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500075003,
+    "NameTemplate": {
+      "Ja": "「バハムートの試練 VERY HARD 2」に{0}回挑戦する。",
+      "En": "Attempt \"Trial of Bahamut - Very Hard 2\" {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「バハムートの試練 VERY HARD 2」に{0}回挑戦する。",
+      "En": "Attempt \"Trial of Bahamut - Very Hard 2\" {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500075,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 162,
+    "TargetId1": 14,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500075,
+    "OpenConditionSetId": 270000500075,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500075004,
+    "NameTemplate": {
+      "Ja": "任意の難易度で「バハムートの試練」に{0}回挑戦する。",
+      "En": "Attempt \"Trial of Bahamut \" on any difficulty {0} times."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の難易度で「バハムートの試練」に{0}回挑戦する。",
+      "En": "Attempt \"Trial of Bahamut \" on any difficulty {0} times."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500075,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 162,
+    "TargetId1": 12,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500075,
+    "OpenConditionSetId": 270000500075,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 14,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500075005,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500075,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 500075,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500075,
+    "OpenConditionSetId": 270000500075,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 600011001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -55116,12 +55388,12 @@
   {
     "Id": 800601001,
     "NameTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD バハムートを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Bahamut - Very Hard {0} times."
+      "Ja": "召喚獣の試練 VERY HARD 1 バハムートを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Bahamut - Very Hard 1 {0} times."
     },
     "DescriptionTemplate": {
-      "Ja": "召喚獣の試練 VERY HARD バハムートを{0}回クリアする。",
-      "En": "Clear the Trial of the Summons - Bahamut - Very Hard {0} times."
+      "Ja": "召喚獣の試練 VERY HARD 1 バハムートを{0}回クリアする。",
+      "En": "Clear the Trial of the Summons - Bahamut - Very Hard 1 {0} times."
     },
     "ShortName": {
       "Ja": "",
@@ -80677,6 +80949,448 @@
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 2016,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120201701001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201701,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120201701002,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201701,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120201701003,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201701,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 52,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120201701004,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201701,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701002,
+    "OpenConditionSetId": 12120201701002,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120201701005,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201701,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 84,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701002,
+    "OpenConditionSetId": 12120201701002,
+    "LockConditionSetId": 0,
+    "TransitionType": 39,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120201701006,
+    "NameTemplate": {
+      "Ja": "フムスサーベルをLv.{0}に武器強化する。",
+      "En": "Raise the Humus Saber to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "フムスサーベルをLv.{0}に武器強化する。",
+      "En": "Raise the Humus Saber to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201701,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 49022,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120201702001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201702,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120201702002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201702,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120201702003,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201702,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120201702004,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201702,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701001,
+    "OpenConditionSetId": 12120201701001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120201702005,
+    "NameTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201702,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 108,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701002,
+    "OpenConditionSetId": 12120201701002,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120201702006,
+    "NameTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのシングルバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201702,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 108,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701002,
+    "OpenConditionSetId": 12120201701002,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120201702007,
+    "NameTemplate": {
+      "Ja": "イベントのマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イベントのマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Event Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120201702,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 109,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120201701002,
+    "OpenConditionSetId": 12120201701002,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 2017,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": true
