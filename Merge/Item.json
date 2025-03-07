@@ -143,7 +143,7 @@
     },
     "ItemType": 13,
     "ItemRarityType": 0,
-    "MaxCapacity": 400,
+    "MaxCapacity": 1400,
     "ResourceId": 7,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
@@ -3784,6 +3784,182 @@
     "OrderNo": 0
   },
   {
+    "Id": 12201,
+    "Name": {
+      "Ja": "アタッカーメモリー",
+      "En": "Attacker's Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「アタッカー」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Attacker's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12201,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12202,
+    "Name": {
+      "Ja": "タンクメモリー",
+      "En": "Tank's Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「タンク」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Tank's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12202,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12203,
+    "Name": {
+      "Ja": "サポーターメモリー",
+      "En": "Supporter's Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「サポーター」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Supporter's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12203,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12204,
+    "Name": {
+      "Ja": "ヒーラーメモリー",
+      "En": "Healer's Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「ヒーラー」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Healer's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12204,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12301,
+    "Name": {
+      "Ja": "アタッカーノーブルメモリー",
+      "En": "Attacker's Noble Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「アタッカー」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Attacker's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12301,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12302,
+    "Name": {
+      "Ja": "タンクノーブルメモリー",
+      "En": "Tank's Noble Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「タンク」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Tank's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12302,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12303,
+    "Name": {
+      "Ja": "サポーターノーブルメモリー",
+      "En": "Supporter's Noble Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「サポーター」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Supporter's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12303,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12304,
+    "Name": {
+      "Ja": "ヒーラーノーブルメモリー",
+      "En": "Healer's Noble Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「ヒーラー」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Healer's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12304,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 15006,
     "Name": {
       "Ja": "チョコブースター",
@@ -6028,6 +6204,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21019,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -6538,6 +6736,50 @@
     "Name": {
       "Ja": "FFVII REBIRTHコラボ記念抽選ボックス",
       "En": "Lottery Box - FFVII REBIRTH Crossover"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22519,
+    "Name": {
+      "Ja": "1.5 Year Anniversary カウントダウン抽選ボックス",
+      "En": "Lottery Box - 1.5 Year Anniversary Countdown"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22520,
+    "Name": {
+      "Ja": "1.5 Year Anniversary記念抽選ボックス",
+      "En": "Lottery Box - 1.5 Year Anniversary"
     },
     "Description": {
       "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
@@ -7986,6 +8228,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 100049,
+    "Name": {
+      "Ja": "1.5 Year Anniversaryガチャチケット",
+      "En": "1.5 Year Anniversary Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「1.5 Year Anniversaryチケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>1.5 Year Anniversary Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 100049,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100050,
+    "Name": {
+      "Ja": "復刻リミットブレイクメダルの欠片",
+      "En": "Reawakened: Limit Break Medal Fragment"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「復刻リミットブレイクメダル交換所」</color>で使用できます。\n\n※本アイテムは1個で使用することができません。欠片を10個集めることで「復刻リミットブレイクメダル×1」と交換できます。\n※「復刻リミットブレイクメダル」は、スタンプシート付きのリミットブレイクガチャや新武器PUガチャなどに使用することはできません。",
+      "En": "Traded for rare items at the <command_color=common_03>Reawakened: Limit Break Medal Exchange</color>.\n\n*This item cannot be used in a quantity of x1. By collecting x10, you can exchange them for Reawakened: Limit Break Medal x1.\n*Reawakened: Limit Break Medal cannot be used for a Limit Break Draw or a New Weapon Featured Draw with a Stamp Card."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 100050,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-12-31T15:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100051,
+    "Name": {
+      "Ja": "復刻リミットブレイクメダル",
+      "En": "Reawakened: Limit Break Medal"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「復刻リミットブレイクメダルガチャ」</color>で使用できます。\n\n※「復刻リミットブレイクメダルガチャ」専用のアイテムです。\n※スタンプシート付きのリミットブレイクガチャや新武器PUガチャなどに使用することはできません。",
+      "En": "Used for <command_color=common_03>Reawakened: Limit Break Medal Draw</color>.\n\n*This item is for Reawakened: Limit Break Medal Draw only.\n*Cannot be used for a Limit Break Draw or a New Weapon Featured Draw with a Stamp Card."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 100051,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300001,
     "Name": {
       "Ja": "2023ウインターメダル",
@@ -8250,6 +8558,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 300013,
+    "Name": {
+      "Ja": "エクシードメダル",
+      "En": "Escalation Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「エクシードメダル交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Escalation Medal Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999,
+    "ResourceId": 300013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300014,
     "Name": {
       "Ja": "New Year 2025ウェア交換券",
@@ -8417,6 +8747,50 @@
     "ItemRarityType": 5,
     "MaxCapacity": 99999,
     "ResourceId": 300021,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300022,
+    "Name": {
+      "Ja": "復刻リミットブレイクウェア交換券 vol.2",
+      "En": "Returning Limit Break Gear Voucher Vol. 2"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「復刻リミットブレイクウェア交換所vol.2」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Returning Limit Break Gear Vol. 2 Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300022,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300023,
+    "Name": {
+      "Ja": "1.5 Year Anniversary記念ウェア交換券",
+      "En": "1.5 Year Anniversary Gear Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「1.5 Year Anniversary記念ウェア交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>1.5 Year Anniversary Gear Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300023,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -9082,6 +9456,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-01-30T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001046,
+    "Name": {
+      "Ja": "フォースイーター・パーツ",
+      "En": "Umbral Blade Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「フォースイーター」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Umbral Blade</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001046,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -11902,6 +12298,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1006034,
+    "Name": {
+      "Ja": "リサナウト・パーツ",
+      "En": "Risanautr Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「リサナウト」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Risanautr</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006034,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1007001,
     "Name": {
       "Ja": "イエローメガホン・パーツ",
@@ -12778,6 +13196,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-12-12T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008025,
+    "Name": {
+      "Ja": "魔晄の貴石（デスペナルティ）",
+      "En": "Mako Gem (Death Penalty)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008025,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -14168,6 +14608,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1049030,
+    "Name": {
+      "Ja": "強き者の剣・パーツ",
+      "En": "Blade of the Worthy Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「強き者の剣」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Blade of the Worthy</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049030,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1049031,
     "Name": {
       "Ja": "ウィザリングブレイズ・パーツ",
@@ -15176,6 +15638,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-12-19T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1051027,
+    "Name": {
+      "Ja": "フロッティ・パーツ",
+      "En": "Hrotti Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「フロッティ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Hrotti</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1051027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -17798,6 +18282,116 @@
     "OrderNo": 0
   },
   {
+    "Id": 2030241,
+    "Name": {
+      "Ja": "応援ゴールドメダル",
+      "En": "Golden Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030241,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-02-27T02:00:00+00:00",
+    "EndDatetime": "2025-03-19T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030242,
+    "Name": {
+      "Ja": "応援シルバーメダル",
+      "En": "Silver Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030242,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-02-27T02:00:00+00:00",
+    "EndDatetime": "2025-03-19T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030251,
+    "Name": {
+      "Ja": "角飾り",
+      "En": "Horns"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030251,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-07T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030252,
+    "Name": {
+      "Ja": "銀の蹄鉄",
+      "En": "Silver Horseshoe"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030252,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-07T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030253,
+    "Name": {
+      "Ja": "金の蹄鉄",
+      "En": "Gold Horseshoe"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030253,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-27T02:00:00+00:00",
+    "EndDatetime": "2025-05-07T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2080021,
     "Name": {
       "Ja": "ハートクッキー",
@@ -18455,6 +19049,182 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-09-07T02:00:00+00:00",
     "EndDatetime": "2025-03-08T19:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130051,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（<sprite=\"tmp_icon\" index=5>）",
+      "En": "Rampage of Ruin Weapon Voucher (<sprite=\"tmp_icon\" index=5>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130052,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（<sprite=\"tmp_icon\" index=135>）",
+      "En": "Rampage of Ruin Weapon Voucher (<sprite=\"tmp_icon\" index=135>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130053,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（<sprite=\"tmp_icon\" index=133>）",
+      "En": "Rampage of Ruin Weapon Voucher (<sprite=\"tmp_icon\" index=133>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130013,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130054,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（<sprite=\"tmp_icon\" index=131>）",
+      "En": "Rampage of Ruin Weapon Voucher (<sprite=\"tmp_icon\" index=131>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130055,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（<sprite=\"tmp_icon\" index=130>）",
+      "En": "Rampage of Ruin Weapon Voucher (<sprite=\"tmp_icon\" index=130>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130015,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130056,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（<sprite=\"tmp_icon\" index=129>）",
+      "En": "Rampage of Ruin Weapon Voucher (<sprite=\"tmp_icon\" index=129>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130016,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130057,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（<sprite=\"tmp_icon\" index=136>）",
+      "En": "Rampage of Ruin Weapon Voucher (<sprite=\"tmp_icon\" index=136>)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130017,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130058,
+    "Name": {
+      "Ja": "破滅の騒乱武器交換券（LB）",
+      "En": "Rampage of Ruin Weapon Voucher (LB)"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「破滅の騒乱交換所」</color>で使用できます。\n\n※本アイテムには使用期限があります。",
+      "En": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130058,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-07T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
     "OrderNo": 0
   }
 ]

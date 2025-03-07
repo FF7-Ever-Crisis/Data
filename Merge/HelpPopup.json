@@ -516,8 +516,8 @@
       "En": "Character Growth"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイクの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。",
-      "En": "In <command_color=common_03>Characters</color>, you can <command_color=common_03>boost characters' stats or acquire and enhance Limit Breaks.</color>\nIn <command_color=common_03>Summons</color>, you can <command_color=common_03>bind Summons and acquire and enhance their abilities.</color>"
+      "Ja": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイク、オーバーアクセルの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。",
+      "En": "In <command_color=common_03>Characters</color>, you can <command_color=common_03>boost characters' stats or acquire and enhance Limit Breaks and Overspeed.</color>\nIn <command_color=common_03>Summons</color>, you can <command_color=common_03>bind Summons and acquire and enhance their abilities.</color>"
     },
     "HelpPopupGroupId": 11,
     "Seq": 1,
@@ -925,7 +925,7 @@
       "En": "These powerful abilities are used in battle and consume the limit gauge. \nEither a <command_color=common_03>Limit Break</color> or <command_color=common_03>Summon Ability</color> can be equipped."
     },
     "HelpPopupGroupId": 20,
-    "Seq": 6,
+    "Seq": 7,
     "ResourceId": 2005,
     "ConditionSetId": 0
   },
@@ -940,7 +940,7 @@
       "En": "<command_color=common_03>Limit Break:</color> An ability specific to each character.\n<command_color=common_03>Summon ability:</color> An ability that can be used once a summon is bound.\n<command_color=common_02>*Each summon ability can be equipped by only one character in a party.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 7,
+    "Seq": 8,
     "ResourceId": 2006,
     "ConditionSetId": 0
   },
@@ -955,7 +955,7 @@
       "En": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, ultimate weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 8,
+    "Seq": 9,
     "ResourceId": 2007,
     "ConditionSetId": 0
   },
@@ -970,7 +970,7 @@
       "En": "These abilities affect and strengthen the effects of the materia with which they're paired.\n<command_color=common_02>*Abilities may not have any effect depending on the pairing.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 9,
+    "Seq": 10,
     "ResourceId": 2008,
     "ConditionSetId": 0
   },
@@ -985,7 +985,7 @@
       "En": "Stats, C. abilities, R. abilities, Brands, and <command_color=common_03>Support Materia</color> of main weapons are reflected as well as the weapon's appearance.\n<command_color=common_02>*Only character-specific weapons can be equipped.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 10,
+    "Seq": 11,
     "ResourceId": 2009,
     "ConditionSetId": 0
   },
@@ -1000,7 +1000,7 @@
       "En": "The <command_color=common_03>effects of support materia are triggered based on a weapon's max level.</color> The <command_color=common_03>S. abilities of support materia affect the materia with which they're paired.</color> Depending on the pairing, these abilities may have no effect."
     },
     "HelpPopupGroupId": 20,
-    "Seq": 11,
+    "Seq": 12,
     "ResourceId": 2010,
     "ConditionSetId": 0
   },
@@ -1015,7 +1015,7 @@
       "En": "The appearance and R. abilities of <command_color=common_03>gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 12,
+    "Seq": 13,
     "ResourceId": 2011,
     "ConditionSetId": 0
   },
@@ -1030,7 +1030,7 @@
       "En": "The <command_color=common_03>stats, C. abilities, R. abilities, and Brands of ability weapons are reflected.</color>\n<command_color=common_02>*Only character-specific weapons can be equipped.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. ability points are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 13,
+    "Seq": 14,
     "ResourceId": 2012,
     "ConditionSetId": 0
   },
@@ -1045,7 +1045,7 @@
       "En": "The C. Abilities and sub stats of <command_color=common_03>materia</color> are reflected. Their effects are increased based on the support materia with which they're paired."
     },
     "HelpPopupGroupId": 20,
-    "Seq": 15,
+    "Seq": 16,
     "ResourceId": 2013,
     "ConditionSetId": 0
   },
@@ -1060,7 +1060,7 @@
       "En": "The stats, Brands, and R. Abilities of <command_color=common_03>sub weapons</color> are reflected.\n<command_color=common_02>*Ultimate weapons cannot be equipped as sub weapons.\n*These weapons are not reflected in the character's appearance.\n*50% of stats are reflected.\n*50% of R. Ability pts are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 16,
+    "Seq": 17,
     "ResourceId": 2014,
     "ConditionSetId": 0
   },
@@ -1090,8 +1090,23 @@
       "En": "Stats, U. C. abilities, R. abilities, and brands of <command_color=common_03>ultimate weapons</color> are reflected.\n<command_color=common_02>*Ultimate weapons are specific to each character and are not reflected in their appearance.</color>"
     },
     "HelpPopupGroupId": 20,
-    "Seq": 14,
+    "Seq": 15,
     "ResourceId": 2016,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2017,
+    "Title": {
+      "Ja": "OA（オーバーアクセル）アビリティについて",
+      "En": "O. Abilities (Overspeed Abilities)"
+    },
+    "Description": {
+      "Ja": "発動することで、<command_color=common_03>一定の時間キャラクターの能力を向上させるアビリティ</color>です。\n時間経過でチャージすることで使用可能になり、\n<command_color=common_03>チャージした時間に応じて発動時間が変化</color>します。",
+      "En": "O. abilities provide characters with <command_color=common_03>temporary enhancements</color> when used. These abilities charge over time, and the duration of enhancements changes <command_color=common_03>based on the time charged</color>."
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 6,
+    "ResourceId": 2017,
     "ConditionSetId": 0
   },
   {
@@ -1962,6 +1977,51 @@
     "HelpPopupGroupId": 53,
     "Seq": 2,
     "ResourceId": 5302,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5501,
+    "Title": {
+      "Ja": "ロールストリームについて1",
+      "En": "Role Stream 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>新たなオーバーアクセルが獲得</color>できるようになります。\nまた<command_color=common_03>マスを解放</color>することで、 記載されたステータスが上昇します。\n<command_color=common_02>※マスの解放には専用素材が必要です。</color>",
+      "En": "In role streams, you can acquire new <command_color=common_03>overspeeds</color>. You can also <command_color=common_03>unlock nodes</color> to improve various stats.\n <command_color=common_02>*Specific items are required to unlock nodes.</color>"
+    },
+    "HelpPopupGroupId": 55,
+    "Seq": 1,
+    "ResourceId": 5501,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5502,
+    "Title": {
+      "Ja": "ロールストリームについて2",
+      "En": "Role Stream 2"
+    },
+    "Description": {
+      "Ja": "新たなオーバーアクセルは<command_color=common_03>「獲得ミッション」をすべてクリア</color>することで獲得できます。 \n獲得ミッションは、 <command_color=common_03>キャラクターごとに同時に一つだけ挑戦</color>できます。 ",
+      "En": "New overspeeds can be acquired by clearing all <command_color=common_03>Unlock Missions</color>. Only <command_color=common_03>one mission</color> can be attempted <command_color=common_03>per character at a time</color>."
+    },
+    "HelpPopupGroupId": 55,
+    "Seq": 2,
+    "ResourceId": 5502,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5503,
+    "Title": {
+      "Ja": "ミッションの確認方法について",
+      "En": "Viewing Missions"
+    },
+    "Description": {
+      "Ja": "ミッションはキャラクターストリーム以外の場所でも、\nメニューにある<command_color=common_03>「ストリームミッション」</color>から確認できます。",
+      "En": "Missions can also be viewed from <command_color=common_03>Stream Missions</color> in the menu screen."
+    },
+    "HelpPopupGroupId": 55,
+    "Seq": 3,
+    "ResourceId": 5503,
     "ConditionSetId": 0
   },
   {

@@ -2679,6 +2679,32 @@
   },
   {
     "Title": {
+      "Ja": "エクシードチャレンジについて1",
+      "En": "Escalation Challenge 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>エクシードチャレンジ</color>は<command_color=common_03>限界に挑戦するクエスト</color>です。\n<command_color=common_03>エクシードレベル</color>が上がるほど、エネミーの<command_color=common_03>ステータスが上昇</color>します。\nどこまでクリアできるか腕試しをしてみましょう。",
+      "En": "The <command_color=common_03>Escalation Challenge</color> is a series of quests that <command_color=common_03>tests your limit</color>. The higher the <command_color=common_03>escalation level</color>, the higher the <command_color=common_03>enemies' stats</color>. Take on the challenge and see how far you can go."
+    },
+    "TutorialPopupGroupId": 2300001,
+    "Seq": 1,
+    "ResourceId": 230000101
+  },
+  {
+    "Title": {
+      "Ja": "エクシードチャレンジについて2",
+      "En": "Escalation Challenge 2"
+    },
+    "Description": {
+      "Ja": "解放されているエクシードレベルの中から<command_color=common_03>任意に選択して挑戦</color>することができます。\n選択したエクシードレベルをクリアすると、それ以下のすべてのレベルが自動的にクリア済みになります。\n<command_color=common_03>特定のエクシードレベルをクリア</color>すると、<command_color=common_03>より高いエクシードレベル</color>が解放されます。",
+      "En": "Select any of the <command_color=common_03>escalation levels that are unlocked</color> to begin your challenge. Clearing a level will unlock all preceding levels. <command_color=common_03>Clearing certain levels</color> will unlock <command_color=common_03>even higher levels</color>."
+    },
+    "TutorialPopupGroupId": 2300001,
+    "Seq": 2,
+    "ResourceId": 230000102
+  },
+  {
+    "Title": {
       "Ja": "AUTO機能が使用できるようになりました。\nMANUALから切り替えて選択できます。",
       "En": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },
@@ -2728,6 +2754,58 @@
     "TutorialPopupGroupId": 3010101,
     "Seq": 1,
     "ResourceId": 0
+  },
+  {
+    "Title": {
+      "Ja": "ロールストリームについて1",
+      "En": "Role Stream 1"
+    },
+    "Description": {
+      "Ja": "ロールストリームが追加されました。\n\nキャラクターストリームの左下にあるボタンから、ストリームの切り替えが可能になります。",
+      "En": "A new role stream has been added.\n\nTap the button in the bottom left of the character stream to switch streams."
+    },
+    "TutorialPopupGroupId": 3300001,
+    "Seq": 1,
+    "ResourceId": 330000101
+  },
+  {
+    "Title": {
+      "Ja": "ロールストリームについて2",
+      "En": "Role Stream 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>新たなオーバーアクセルの獲得</color>ができるようになります。\nまた<command_color=common_03>マスを解放</color>することで、 記載されたステータスが上昇します。\n<command_color=common_02>※マスの解放には専用素材が必要です。</color>",
+      "En": "In role streams, you can acquire new <command_color=common_03>overspeeds</color>. You can also <command_color=common_03>unlock nodes</color> to improve various stats.\n <command_color=common_02>*Specific items are required to unlock nodes.</color>"
+    },
+    "TutorialPopupGroupId": 3300001,
+    "Seq": 2,
+    "ResourceId": 330000102
+  },
+  {
+    "Title": {
+      "Ja": "ロールストリームについて3",
+      "En": "Role Stream 3"
+    },
+    "Description": {
+      "Ja": "新たなオーバーアクセルは<command_color=common_03>「獲得ミッション」をすべてクリア</color>することで獲得できます。 \n獲得ミッションは、 <command_color=common_03>キャラクターごとに同時に一つだけ挑戦</color>できます。 ",
+      "En": "New overspeeds can be acquired by clearing all <command_color=common_03>Unlock Missions</color>. Only <command_color=common_03>one mission</color> can be attempted <command_color=common_03>per character at a time</color>."
+    },
+    "TutorialPopupGroupId": 3300001,
+    "Seq": 3,
+    "ResourceId": 330000103
+  },
+  {
+    "Title": {
+      "Ja": "オーバーアクセル",
+      "En": "Overspeed"
+    },
+    "Description": {
+      "Ja": "オーバーアクセルはバトル中一時的にキャラクターを強化することができるアビリティです。\nロールごとにそれぞれの特徴を活かした能力が上昇します。\n時間経過によってチャージされると使用可能になります。\n100%チャージされる前から使用することができます。",
+      "En": "Overspeeds are abilities that provide characters with temporary enhancements during battle. The enhancements differ with each role. These abilities charge over time and do not require a full charge to use."
+    },
+    "TutorialPopupGroupId": 3310001,
+    "Seq": 1,
+    "ResourceId": 331000101
   },
   {
     "Title": {
@@ -3391,6 +3469,19 @@
     "TutorialPopupGroupId": 310000036,
     "Seq": 1,
     "ResourceId": 3100000361
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「ZANTETSU」",
+      "En": "Force Gauge: Zantetsu"
+    },
+    "Description": {
+      "Ja": "フォースゲージは時間経過でたまっていき、\n<command_color=common_03>土属性のアビリティでダメージ</color>を与えると減らすことができます。\nフォースゲージが表示されてから一定時間経過後、<command_color=common_03>敵の強力なアビリティが発動</color>しますが、\nフォースゲージをゼロにできると、<command_color=common_03>敵の強力なアビリティの使用を中断させる</color>ことができます。",
+      "En": "The enemy's force gauge fills over time, but can be depleted by dealing <command_color=common_03>earth-element damage</color>. Once the gauge has been displayed for a certain amount of time, <command_color=common_03>the enemy will unleash a powerful ability</color>. <command_color=common_03>Stop them</color> from unleashing the ability by fully depleting the gauge."
+    },
+    "TutorialPopupGroupId": 310000037,
+    "Seq": 1,
+    "ResourceId": 3100000371
   },
   {
     "Title": {

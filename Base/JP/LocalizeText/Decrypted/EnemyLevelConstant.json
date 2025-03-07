@@ -82,7 +82,7 @@
         },
         {
             "id": 130000002002301,
-            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<command_color=emphasis>ソフティングマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n[<command_color=emphasis>サプレスマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>魔法攻撃</color>が有効。"
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n[<command_color=emphasis>ソフティングマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n[<command_color=emphasis>サプレスマシンガン</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n\n<command_color=common_03>魔法攻撃</color>が有効。\n\n"
         },
         {
             "id": 130000002006001,
@@ -446,7 +446,7 @@
         },
         {
             "id": 130000002051001,
-            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>ラムウ</color>のフォースゲージ [<command_color=emphasis>LIGHTNING</color>] を増加させる。"
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n　　　<sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>ラムウ</color>のフォースゲージ [<command_color=emphasis>LIGHTNING</color>] を増加させる。"
         },
         {
             "id": 130000002052001,
@@ -911,6 +911,10 @@
         {
             "id": 130000002552001,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>強力な土属性の物理アビリティ</color>を多用する。\nフォースゲージ [<command_color=emphasis>EARTH POWER</color>] の残量に応じて<command_color=common_03>土属性威力</color>が変動する。\nフォースゲージは風属性でダメージを与えることで減少する。\n[<command_color=emphasis>大地の守り</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=335>ベール</color>を付与する。\n[<command_color=emphasis>グラナイトジェイル</color>] 中は対象1人を拘束し行動不能にする。\n\n<command_color=common_03>風属性の魔法アビリティ</color>が有効。\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>や<command_color=common_03>土属性耐性</color>が有効。"
+        },
+        {
+            "id": 130000002553001,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な風属性の物理アビリティ</color>を多用する。\nフォースゲージ [<command_color=emphasis>ZANTETSU</color>] 中はカウントダウンが進行し、カウントダウン終了時、強力なアビリティを使用する。\nフォースゲージは土属性のダメージを与えることで減少する。\n[<command_color=emphasis>戦馬のいななき</color>] は自身の物理攻撃力を上昇し、より強力な攻撃を行う。\n[<command_color=emphasis>煉獄の陣</color>] は対象の<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップを解除</color>し、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=394>悲しい</color>を付与する。\n\n<command_color=common_03>土属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>や<command_color=common_03>風属性耐性</color>が有効。"
         },
         {
             "id": 130000002554001,

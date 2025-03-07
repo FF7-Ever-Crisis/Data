@@ -141,6 +141,10 @@
             "value": "U. C. Abilities (Ultimate Command Abilities)"
         },
         {
+            "id": 907000000011501,
+            "value": "O. Abilities (Overspeed Abilities)"
+        },
+        {
             "id": 907000000020101,
             "value": "Character Enhancement"
         },
@@ -159,6 +163,18 @@
         {
             "id": 907000000020105,
             "value": "Limit Break Missions"
+        },
+        {
+            "id": 907000000020106,
+            "value": "Role Stream"
+        },
+        {
+            "id": 907000000020107,
+            "value": "Role Memories"
+        },
+        {
+            "id": 907000000020108,
+            "value": "Overspeed Missions"
         },
         {
             "id": 907000000020201,
@@ -1017,6 +1033,10 @@
             "value": "These abilities can be used in battle by equipping ultimate weapons. \nThey can be used without consuming ATB, but there is <color=#95C7FF>a limit to the number of times</color> \nthey can be used in a single battle and may require time to <color=#95C7FF>recharge</color>."
         },
         {
+            "id": 908000000011501,
+            "value": "O. abilities provide characters with temporary enhancements when used.\nThese abilities charge over time, and the duration of enhancements changes based on the time charged."
+        },
+        {
             "id": 908000000020101,
             "value": "There are two ways to enhance a character.\n\n- By <color=#95C7FF>raising a character's level</color>, all stats are increased.\n\n- By <color=#95C7FF>unlocking nodes on the Character Stream</color>, each stat can be\nenhanced individually, and the character's Limit Break can be enhanced."
         },
@@ -1035,6 +1055,18 @@
         {
             "id": 908000000020105,
             "value": "A mission to obtain a Limit Break.\n\nBy completing all of the requirements, you will obtain a Limit Break.\n<color=#95C7FF>Only one Limit Break mission can be in progress at a time per character.</color>\nYou cannot attempt multiple Limit Break Missions at the same time.\n\nWhen you change the Limit Break Mission, a <color=#95C7FF>cooldown period</color> will occur\nfor each character. During the cooldown period, you will not be able to switch\nbetween Limit Break Missions."
+        },
+        {
+            "id": 908000000020106,
+            "value": "You can enhance your characters' <color=#95C7FF>stats</color>, <color=#95C7FF>C./U. C./L. abilities</color>, and <color=#95C7FF>overspeeds</color> by unlocking nodes with certain items. You can also attempt to acquire new overspeeds."
+        },
+        {
+            "id": 908000000020107,
+            "value": "Role memories are items required to unlock role stream nodes. Memories can only be used in respective role streams."
+        },
+        {
+            "id": 908000000020108,
+            "value": "In these missions, overspeeds can be acquired by completing all mission conditions. Only <color=#95C7FF>one overspeed mission</color> can be attempted <color=#95C7FF>per character at a time</color>."
         },
         {
             "id": 908000000020201,
@@ -1294,7 +1326,7 @@
         },
         {
             "id": 908000000051306,
-            "value": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)\n<sprite=\"tmp_icon\" index=334>Provoke: Attacks are focused on the target using Provoke.\n<sprite=\"tmp_icon\" index=335>Veil: Veil blocks up to a certain amount of damage based on \n　the max HP of the affected, and is destroyed when damage exceeding that amount is taken. \n　If an enemy attack is nullified by Veil, any effect associated with that attack has no effect.\n　*Some abilities have effects that are immune to Veil.\n<sprite=\"tmp_icon\" index=346>Exploit Weakness: Increases damage dealt when exploiting an enemy's weakness.\n<sprite=\"tmp_icon\" index=343>Phys. Resist. Up: Reduces physical damage taken.\n<sprite=\"tmp_icon\" index=344>Mag. Resist. Up: Reduces magic damage taken."
+            "value": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)\n<sprite=\"tmp_icon\" index=334>Provoke: Attacks are focused on the target using Provoke.\n<sprite=\"tmp_icon\" index=335>Veil: Veil blocks up to a certain amount of damage based on \n　the max HP of the affected, and is destroyed when damage exceeding that amount is taken. \n　If an enemy attack is nullified by Veil, any effect associated with that attack has no effect.\n　*Some abilities have effects that are immune to Veil.\n<sprite=\"tmp_icon\" index=346>Exploit Weakness: Increases damage dealt when exploiting an enemy's weakness.\n<sprite=\"tmp_icon\" index=343>Phys. Resist. Up: Reduces physical damage taken.\n<sprite=\"tmp_icon\" index=344>Mag. Resist. Up: Reduces magic damage taken.\n<sprite=\"tmp_icon\" index=347>Amp.: While in an amplified state, relevant C./U. C. abilities will deal more damage once.\n　After a relevant ability is used, the state will be canceled immediately."
         },
         {
             "id": 908000000051307,
@@ -1374,7 +1406,7 @@
         },
         {
             "id": 908000000070501,
-            "value": "In Co-op Battles, you can use <color=#95C7FF>Raise</color> to revive characters that have become incapacitated.\n\nIf a character on your team becomes incapacitated, the <color=#95C7FF>Raise</color> button will be displayed. \nEach player can use <color=#95C7FF>Raise</color> once on another player's character, \nbut a character can only be revived once with a <color=#95C7FF>Raise</color>.\n\nUsing <color=#95C7FF>Raise</color> will consume ATB, just like a C. Ability."
+            "value": "In Co-op Battles, you can use <color=#95C7FF>Raise</color> to revive characters that have become incapacitated.\n\nIf a character on your team becomes incapacitated, the <color=#95C7FF>Raise</color> button will be displayed. \nEach player can use <color=#95C7FF>Raise</color> once on another player's character, \nbut a character can only be revived once with a <color=#95C7FF>Raise</color>.\n\nUsing <color=#95C7FF>Raise</color> will consume ATB, just like a C. Ability.\n*Raise is not affected by effects that increase or decrease ATB consumption."
         },
         {
             "id": 908000000070601,
@@ -1542,7 +1574,7 @@
         },
         {
             "id": 908000000140101,
-            "value": "By fulfilling the conditions set as missions, you can earn various rewards.\n\nYou can check the missions from the <color=#95C7FF>'Missions'</color> button on the home screen, \nand various missions can be checked from the <color=#95C7FF>menu within the home screen</color>."
+            "value": "By fulfilling the conditions set as missions, you can earn various rewards.\n\nYou can check the missions from the <color=#95C7FF>'Missions'</color> button on the home screen, \nand various missions can be checked from the <color=#95C7FF>menu within the home screen</color>.\n\nRewards can be obtained by receiving them after completing the Missions."
         },
         {
             "id": 908000000140201,
@@ -1710,7 +1742,7 @@
         },
         {
             "id": 908000000200701,
-            "value": "Guild bonuses are effects that are automatically granted to all guild members. The guildmaster and submasters can <color=#95C7FF>use the guild's bonus points to unlock or enhance these bonuses</color>.\nBonus points can be obtained by members of the guild."
+            "value": "Guild bonuses are effects that are automatically granted to all guild members. The guildmaster and submasters can <color=#95C7FF>use the guild's bonus points to unlock or enhance these bonuses</color>.\n*Jumping to the home or guild screen will update guild bonus effects.\n\nBonus points can be obtained by members of the guild."
         },
         {
             "id": 908000000200801,

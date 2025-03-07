@@ -490,6 +490,20 @@
     "ResourceId": 0
   },
   {
+    "Id": 11501,
+    "Title": {
+      "Ja": "OA（オーバーアクセル）アビリティ",
+      "En": "O. Abilities (Overspeed Abilities)"
+    },
+    "Description": {
+      "Ja": "発動することで、一定の時間キャラクターの能力を向上させるアビリティです。\n時間経過でチャージすることで使用可能になり、\nチャージした時間に応じて発動時間が変化します。",
+      "En": "O. abilities provide characters with temporary enhancements when used.\nThese abilities charge over time, and the duration of enhancements changes based on the time charged."
+    },
+    "HelpId": 115,
+    "OrderNo": 1,
+    "ResourceId": 0
+  },
+  {
     "Id": 20101,
     "Title": {
       "Ja": "キャラクター強化について",
@@ -557,6 +571,48 @@
     },
     "HelpId": 201,
     "OrderNo": 5,
+    "ResourceId": 0
+  },
+  {
+    "Id": 20106,
+    "Title": {
+      "Ja": "ロールストリーム",
+      "En": "Role Stream"
+    },
+    "Description": {
+      "Ja": "専用アイテムを消費してマスを解放することで\nキャラクターの<color=#95C7FF>ステータス</color>と<color=#95C7FF>C/UC/Lアビリティ</color>の強化、<color=#95C7FF>取得済みオーバーアクセルの強化</color>が行えます。\nまた新たなオーバーアクセルの取得挑戦も可能になります。",
+      "En": "You can enhance your characters' <color=#95C7FF>stats</color>, <color=#95C7FF>C./U. C./L. abilities</color>, and <color=#95C7FF>overspeeds</color> by unlocking nodes with certain items. You can also attempt to acquire new overspeeds."
+    },
+    "HelpId": 201,
+    "OrderNo": 6,
+    "ResourceId": 0
+  },
+  {
+    "Id": 20107,
+    "Title": {
+      "Ja": "ロールメモリー",
+      "En": "Role Memories"
+    },
+    "Description": {
+      "Ja": "各ロールストリームのマスを解放するためのアイテムです。\nロール専用のメモリーは、該当するロールストリームにのみ\n使用することができます。",
+      "En": "Role memories are items required to unlock role stream nodes. Memories can only be used in respective role streams."
+    },
+    "HelpId": 201,
+    "OrderNo": 7,
+    "ResourceId": 0
+  },
+  {
+    "Id": 20108,
+    "Title": {
+      "Ja": "オーバーアクセルミッション",
+      "En": "Overspeed Missions"
+    },
+    "Description": {
+      "Ja": "オーバーアクセルを取得するためのミッションです。\n\n条件をすべて達成することで、オーバーアクセルを取得できます。\nオーバーアクセルミッションは<color=#95C7FF>キャラクターごとに一つのみ進行が可能</color>で、\n同時に複数挑戦することはできません。",
+      "En": "In these missions, overspeeds can be acquired by completing all mission conditions. Only <color=#95C7FF>one overspeed mission</color> can be attempted <color=#95C7FF>per character at a time</color>."
+    },
+    "HelpId": 201,
+    "OrderNo": 8,
     "ResourceId": 0
   },
   {
@@ -1462,8 +1518,8 @@
       "En": "Effects of Buffs"
     },
     "Description": {
-      "Ja": "・上昇系(ステータスアップ)\n<sprite=\"tmp_icon\" index=324>物理攻撃力アップ　物理攻撃力が増加します。\n<sprite=\"tmp_icon\" index=323>物理防御力アップ　物理防御力が増加します。\n<sprite=\"tmp_icon\" index=326>魔法攻撃力アップ　魔法攻撃力が増加します。\n<sprite=\"tmp_icon\" index=325>魔法防御力アップ　魔法防御力が増加します。\n\n・上昇系(属性威力アップ)\n<sprite=\"tmp_icon\" index=578>炎属性威力アップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=576>冷属性威力アップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=612>雷属性威力アップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=579>土属性威力アップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=611>水属性威力アップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=610>風属性威力アップ　風属性アビリティのダメージが増加します。\n\n・上昇系(属性ダメージアップ)\n<sprite=\"tmp_icon\" index=328>炎属性ダメージアップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=329>冷属性ダメージアップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=330>雷属性ダメージアップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=331>土属性ダメージアップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=332>水属性ダメージアップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=333>風属性ダメージアップ　風属性アビリティのダメージが増加します。\n\n・上昇系(耐性アップ)\n<sprite=\"tmp_icon\" index=594>物理耐性アップ　　物理タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=595>魔法耐性アップ　　魔法タイプのダメージを軽減します。\n\n・上昇系(属性耐性アップ)\n<sprite=\"tmp_icon\" index=602>炎属性耐性アップ　炎属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=600>冷属性耐性アップ　冷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=599>雷属性耐性アップ　雷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=603>土属性耐性アップ　土属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=598>水属性耐性アップ　水属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=597>風属性耐性アップ　風属性アビリティのダメージを軽減します。\n\n・状態系\n<sprite=\"tmp_icon\" index=321>リジェネ　HPが徐々に回復します。\n<sprite=\"tmp_icon\" index=322>無敵　　　ダメージを無効化します。\n<sprite=\"tmp_icon\" index=327>ヘイスト　ATBゲージの増加速度が上昇します。スロウが付与されると解除されます。\n<sprite=\"tmp_icon\" index=342>ラストリーヴ　致死ダメージを受けた際、一度だけHPが1残り、\n　　　　　   その後無敵効果のバフが付与され、HPが少量回復します。\n<sprite=\"tmp_icon\" index=334>挑発　　　挑発状態の対象に攻撃が集中するようになります。\n<sprite=\"tmp_icon\" index=335>ベール　　効果付与対象の各最大HPに応じて一定量までのダメージを防ぎます。\n　　　　　   防ぐことができる量を超えてダメージを受けると破壊されます。\n　　　　　   ベールによりダメージを0に抑えた場合、\n　　　　　   受けたアビリティが持つ攻撃対象への効果を無効化します。\n　　　　　   ※一部アビリティはベールを貫通する効果を持つ場合があります。\n<sprite=\"tmp_icon\" index=346>弱点特効　弱点をついた際のダメージが増加します。\n<sprite=\"tmp_icon\" index=343>物理耐性アップ　　物理タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=344>魔法耐性アップ　　魔法タイプのダメージを軽減します。",
-      "En": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)\n<sprite=\"tmp_icon\" index=334>Provoke: Attacks are focused on the target using Provoke.\n<sprite=\"tmp_icon\" index=335>Veil: Veil blocks up to a certain amount of damage based on \n　the max HP of the affected, and is destroyed when damage exceeding that amount is taken. \n　If an enemy attack is nullified by Veil, any effect associated with that attack has no effect.\n　*Some abilities have effects that are immune to Veil.\n<sprite=\"tmp_icon\" index=346>Exploit Weakness: Increases damage dealt when exploiting an enemy's weakness.\n<sprite=\"tmp_icon\" index=343>Phys. Resist. Up: Reduces physical damage taken.\n<sprite=\"tmp_icon\" index=344>Mag. Resist. Up: Reduces magic damage taken."
+      "Ja": "・上昇系(ステータスアップ)\n<sprite=\"tmp_icon\" index=324>物理攻撃力アップ　物理攻撃力が増加します。\n<sprite=\"tmp_icon\" index=323>物理防御力アップ　物理防御力が増加します。\n<sprite=\"tmp_icon\" index=326>魔法攻撃力アップ　魔法攻撃力が増加します。\n<sprite=\"tmp_icon\" index=325>魔法防御力アップ　魔法防御力が増加します。\n\n・上昇系(属性威力アップ)\n<sprite=\"tmp_icon\" index=578>炎属性威力アップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=576>冷属性威力アップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=612>雷属性威力アップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=579>土属性威力アップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=611>水属性威力アップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=610>風属性威力アップ　風属性アビリティのダメージが増加します。\n\n・上昇系(属性ダメージアップ)\n<sprite=\"tmp_icon\" index=328>炎属性ダメージアップ　炎属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=329>冷属性ダメージアップ　冷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=330>雷属性ダメージアップ　雷属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=331>土属性ダメージアップ　土属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=332>水属性ダメージアップ　水属性アビリティのダメージが増加します。\n<sprite=\"tmp_icon\" index=333>風属性ダメージアップ　風属性アビリティのダメージが増加します。\n\n・上昇系(耐性アップ)\n<sprite=\"tmp_icon\" index=594>物理耐性アップ　　物理タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=595>魔法耐性アップ　　魔法タイプのダメージを軽減します。\n\n・上昇系(属性耐性アップ)\n<sprite=\"tmp_icon\" index=602>炎属性耐性アップ　炎属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=600>冷属性耐性アップ　冷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=599>雷属性耐性アップ　雷属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=603>土属性耐性アップ　土属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=598>水属性耐性アップ　水属性アビリティのダメージを軽減します。\n<sprite=\"tmp_icon\" index=597>風属性耐性アップ　風属性アビリティのダメージを軽減します。\n\n・状態系\n<sprite=\"tmp_icon\" index=321>リジェネ　HPが徐々に回復します。\n<sprite=\"tmp_icon\" index=322>無敵　　　ダメージを無効化します。\n<sprite=\"tmp_icon\" index=327>ヘイスト　ATBゲージの増加速度が上昇します。スロウが付与されると解除されます。\n<sprite=\"tmp_icon\" index=342>ラストリーヴ　致死ダメージを受けた際、一度だけHPが1残り、\n　　　　　   その後無敵効果のバフが付与され、HPが少量回復します。\n<sprite=\"tmp_icon\" index=334>挑発　　　挑発状態の対象に攻撃が集中するようになります。\n<sprite=\"tmp_icon\" index=335>ベール　　効果付与対象の各最大HPに応じて一定量までのダメージを防ぎます。\n　　　　　   防ぐことができる量を超えてダメージを受けると破壊されます。\n　　　　　   ベールによりダメージを0に抑えた場合、\n　　　　　   受けたアビリティが持つ攻撃対象への効果を無効化します。\n　　　　　   ※一部アビリティはベールを貫通する効果を持つ場合があります。\n<sprite=\"tmp_icon\" index=346>弱点特効　弱点をついた際のダメージが増加します。\n<sprite=\"tmp_icon\" index=343>物理耐性アップ　　物理タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=344>魔法耐性アップ　　魔法タイプのダメージを軽減します。\n<sprite=\"tmp_icon\" index=347>アンプ　アンプ状態中、効果対象となるC/UCアビリティを使用すると、一度だけそのC/UCアビリティのダメージが増加します。その後、アンプ状態は解除されます。",
+      "En": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)\n<sprite=\"tmp_icon\" index=334>Provoke: Attacks are focused on the target using Provoke.\n<sprite=\"tmp_icon\" index=335>Veil: Veil blocks up to a certain amount of damage based on \n　the max HP of the affected, and is destroyed when damage exceeding that amount is taken. \n　If an enemy attack is nullified by Veil, any effect associated with that attack has no effect.\n　*Some abilities have effects that are immune to Veil.\n<sprite=\"tmp_icon\" index=346>Exploit Weakness: Increases damage dealt when exploiting an enemy's weakness.\n<sprite=\"tmp_icon\" index=343>Phys. Resist. Up: Reduces physical damage taken.\n<sprite=\"tmp_icon\" index=344>Mag. Resist. Up: Reduces magic damage taken.\n<sprite=\"tmp_icon\" index=347>Amp.: While in an amplified state, relevant C./U. C. abilities will deal more damage once.\n　After a relevant ability is used, the state will be canceled immediately."
     },
     "HelpId": 513,
     "OrderNo": 6,
@@ -1742,8 +1798,8 @@
       "En": "Raise"
     },
     "Description": {
-      "Ja": "マルチバトルでは、戦闘不能になったキャラクターを復活させる\n<color=#95C7FF>「レイズ」</color>を使用できます。\n\n戦闘不能のキャラクターがいる場合、レイズのボタンが表示されます。\nレイズは、各プレイヤーが<color=#95C7FF>他のプレイヤーキャラクターに対して\n1回ずつ使用</color>できますが、\nレイズを受けて<color=#95C7FF>復活できるのは1人1回</color>のみです。\n\nレイズの使用には、通常のCアビリティと同様にATBを消費する必要があります。",
-      "En": "In Co-op Battles, you can use <color=#95C7FF>Raise</color> to revive characters that have become incapacitated.\n\nIf a character on your team becomes incapacitated, the <color=#95C7FF>Raise</color> button will be displayed. \nEach player can use <color=#95C7FF>Raise</color> once on another player's character, \nbut a character can only be revived once with a <color=#95C7FF>Raise</color>.\n\nUsing <color=#95C7FF>Raise</color> will consume ATB, just like a C. Ability."
+      "Ja": "マルチバトルでは、戦闘不能になったキャラクターを復活させる\n<color=#95C7FF>「レイズ」</color>を使用できます。\n\n戦闘不能のキャラクターがいる場合、レイズのボタンが表示されます。\nレイズは、各プレイヤーが<color=#95C7FF>他のプレイヤーキャラクターに対して\n1回ずつ使用</color>できますが、\nレイズを受けて<color=#95C7FF>復活できるのは1人1回</color>のみです。\n\nレイズの使用には、通常のCアビリティと同様にATBを消費する必要があります。\n※レイズはATB消費が増減する効果の影響を受けません。",
+      "En": "In Co-op Battles, you can use <color=#95C7FF>Raise</color> to revive characters that have become incapacitated.\n\nIf a character on your team becomes incapacitated, the <color=#95C7FF>Raise</color> button will be displayed. \nEach player can use <color=#95C7FF>Raise</color> once on another player's character, \nbut a character can only be revived once with a <color=#95C7FF>Raise</color>.\n\nUsing <color=#95C7FF>Raise</color> will consume ATB, just like a C. Ability.\n*Raise is not affected by effects that increase or decrease ATB consumption."
     },
     "HelpId": 705,
     "OrderNo": 1,
@@ -2330,8 +2386,8 @@
       "En": "Missions"
     },
     "Description": {
-      "Ja": "ミッションとして設定された条件を達成することで、様々な報酬を獲得できます。\n\nホーム画面にある<color=#95C7FF>「ミッション」ボタンから確認</color>できるミッションと、\nホーム画面<color=#95C7FF>メニュー内から確認</color>できる各種ミッションがあります。",
-      "En": "By fulfilling the conditions set as missions, you can earn various rewards.\n\nYou can check the missions from the <color=#95C7FF>'Missions'</color> button on the home screen, \nand various missions can be checked from the <color=#95C7FF>menu within the home screen</color>."
+      "Ja": "ミッションとして設定された条件を達成することで、様々な報酬を獲得できます。\n\nホーム画面にある<color=#95C7FF>「ミッション」ボタンから確認</color>できるミッションと、\nホーム画面<color=#95C7FF>メニュー内から確認</color>できる各種ミッションがあります。\n\nミッションは達成後、受取をすることで報酬が獲得できます。",
+      "En": "By fulfilling the conditions set as missions, you can earn various rewards.\n\nYou can check the missions from the <color=#95C7FF>'Missions'</color> button on the home screen, \nand various missions can be checked from the <color=#95C7FF>menu within the home screen</color>.\n\nRewards can be obtained by receiving them after completing the Missions."
     },
     "HelpId": 1401,
     "OrderNo": 1,
@@ -2918,8 +2974,8 @@
       "En": "Guild Bonuses"
     },
     "Description": {
-      "Ja": "ギルドボーナスを解放・強化することで、ギルドに所属していると自動的に受けられる効果です。\nギルドマスターとサブマスターは<color=#95C7FF>専用のポイントを消費して、新たなボーナスの解放や強化</color>ができます。\n\n解放や強化に使用できる専用のポイントは、ギルドメンバーの獲得した合計ポイントです。",
-      "En": "Guild bonuses are effects that are automatically granted to all guild members. The guildmaster and submasters can <color=#95C7FF>use the guild's bonus points to unlock or enhance these bonuses</color>.\nBonus points can be obtained by members of the guild."
+      "Ja": "ギルドボーナスを解放・強化することで、ギルドに所属していると自動的に受けられる効果です。\nギルドマスターとサブマスターは<color=#95C7FF>専用のポイントを消費して、新たなボーナスの解放や強化</color>ができます。\n\n※ギルドボーナスは、ホーム画面またはギルド画面に遷移することで最新の効果に更新されます。\n\n解放や強化に使用できる専用のポイントは、ギルドメンバーの獲得した合計ポイントです。",
+      "En": "Guild bonuses are effects that are automatically granted to all guild members. The guildmaster and submasters can <color=#95C7FF>use the guild's bonus points to unlock or enhance these bonuses</color>.\n*Jumping to the home or guild screen will update guild bonus effects.\n\nBonus points can be obtained by members of the guild."
     },
     "HelpId": 2007,
     "OrderNo": 1,
