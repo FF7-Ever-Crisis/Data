@@ -438,7 +438,7 @@
         },
         {
             "id": 241012,
-            "value": "Obtaining all jackpot prizes at the current level will unlock the next level. If no jackpot prizes are set, obtaining all limited prizes will unlock the next level. Even when all jackpot prizes and limited prizes have been obtained, you can continue to obtain prizes at the current level. The level will loop from level {0}, and the lineup will reset when all jackpot prizes or limited prizes have been obtained."
+            "value": "Obtaining all jackpot prizes at the current level will unlock the next level. If no jackpot prizes are set, obtaining all limited prizes will unlock the next level. Even when all jackpot prizes and limited prizes have been obtained, you can continue to obtain prizes at the current level. The level will loop from level {0}, and the lineup will reset when all available jackpot prizes and limited prizes have been obtained."
         },
         {
             "id": 241013,
@@ -1430,7 +1430,15 @@
         },
         {
             "id": 242247,
-            "value": "Escalation Challenge: {0} Lv. {1}"
+            "value": "Lv. {1}"
+        },
+        {
+            "id": 242248,
+            "value": "Event Over"
+        },
+        {
+            "id": 242249,
+            "value": "This event has ended.\nReturning to home screen."
         }
     ]
 }

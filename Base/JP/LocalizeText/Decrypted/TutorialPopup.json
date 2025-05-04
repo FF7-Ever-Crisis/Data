@@ -326,7 +326,7 @@
         },
         {
             "id": 970000206000101,
-            "value": "ガチャの種類について"
+            "value": "ガチャについて"
         },
         {
             "id": 970000206000102,
@@ -769,6 +769,22 @@
             "value": "ダメージチャレンジについて2"
         },
         {
+            "id": 970000229000101,
+            "value": "フリーチャレンジについて1"
+        },
+        {
+            "id": 970000229000102,
+            "value": "フリーチャレンジについて2"
+        },
+        {
+            "id": 970000229000103,
+            "value": "フリーチャレンジについて3"
+        },
+        {
+            "id": 970000229100101,
+            "value": "スコアアタックについて"
+        },
+        {
             "id": 970000230000101,
             "value": "エクシードチャレンジについて1"
         },
@@ -1017,6 +1033,30 @@
             "value": "フォースゲージ「ZANTETSU」"
         },
         {
+            "id": 970003100000381,
+            "value": "フォースゲージ「D-LINK」"
+        },
+        {
+            "id": 970003100000391,
+            "value": "フォースゲージ「RELOAD」"
+        },
+        {
+            "id": 970003100000401,
+            "value": "フォースゲージ「ZANTETSU CHARGE」"
+        },
+        {
+            "id": 970003100000411,
+            "value": "フォースゲージ「SWORD FORGE」"
+        },
+        {
+            "id": 970003100000421,
+            "value": "フォースゲージ「MENTORSHIP」"
+        },
+        {
+            "id": 970003100000431,
+            "value": "フォースゲージ「LEADERSHIP」"
+        },
+        {
             "id": 970003200000011,
             "value": "状態異常【恐怖】"
         },
@@ -1098,11 +1138,11 @@
         },
         {
             "id": 971000206000101,
-            "value": "<command_color=common_03>「ガチャ」</color>には以下の3種類があります。\n・スペシャル・・・様々な種類のガチャ\n・新武器PU・・・「10回引く」とスタンプが押されるガチャ\n・チケット・・・チケットを使って引くガチャ"
+            "value": "<command_color=common_03>ガチャ画面</color>では様々な<command_color=common_03>ガチャ</color>を引くことができます。\n<command_color=common_03>ブルークリスタル</color>や<command_color=common_03>レッドクリスタル</color>、\n<command_color=common_03>チケット</color>で引くことができるガチャや、\n一部<command_color=common_03>無料</color>で引くことができるガチャも存在します。"
         },
         {
             "id": 971000206000102,
-            "value": "<command_color=common_03>「新武器PUガチャ」で「10回引く」</color>と、<command_color=common_03>「スタンプシート」</color>にスタンプが押されます。\nスタンプが押されると、そのマスの報酬が獲得できます。\n<command_color=common_02>※スタンプシートは詳細から確認できます。</color>"
+            "value": "一部ガチャでは<command_color=common_03>「10回引く」</color>と、<command_color=common_03>「スタンプシート」</color>にスタンプが押されます。\n スタンプが押されると、そのマスの報酬が獲得できます。\n<command_color=common_02>※スタンプシートは詳細から確認できます。</color>"
         },
         {
             "id": 971000206000105,
@@ -1341,6 +1381,22 @@
             "value": "ステージごとにランキングが存在します。\nランキングはリセットされず、全期間での集計結果が表示されます。"
         },
         {
+            "id": 971000229000101,
+            "value": "<command_color=common_03>フリーチャレンジ</color>では、<command_color=common_03>バトル効果</color>を自由に設定することができます。\nバトル効果を設定すると<command_color=common_03>ステージレベル</color>が上昇し、\n<command_color=common_03>バトルスコアや獲得ポイントにボーナス</color>が付きます。"
+        },
+        {
+            "id": 971000229000102,
+            "value": "<command_color=common_03>バトル効果</color>はクエスト挑戦前に設定することができます。\n"
+        },
+        {
+            "id": 971000229000103,
+            "value": "クエストごとにバトル効果の種類や効果量が異なるため\n<command_color=common_03>自分が攻略しやすい組み合わせ</color>を見つけましょう。"
+        },
+        {
+            "id": 971000229100101,
+            "value": "<command_color=common_03>スコアアタック</color>では、<command_color=common_03>スタミナを消費することなく</color>ランキングに挑戦できます。\nフリーチャレンジと同じようにバトル効果を設定することができます。"
+        },
+        {
             "id": 971000230000101,
             "value": "<command_color=common_03>エクシードチャレンジ</color>は<command_color=common_03>限界に挑戦するクエスト</color>です。\n<command_color=common_03>エクシードレベル</color>が上がるほど、エネミーの<command_color=common_03>ステータスが上昇</color>します。\nどこまでクリアできるか腕試しをしてみましょう。"
         },
@@ -1571,6 +1627,30 @@
         {
             "id": 971003100000371,
             "value": "フォースゲージは時間経過でたまっていき、\n<command_color=common_03>土属性のアビリティでダメージ</color>を与えると減らすことができます。\nフォースゲージが表示されてから一定時間経過後、<command_color=common_03>敵の強力なアビリティが発動</color>しますが、\nフォースゲージをゼロにできると、<command_color=common_03>敵の強力なアビリティの使用を中断させる</color>ことができます。"
+        },
+        {
+            "id": 971003100000381,
+            "value": "フォースゲージがある間、「<command_color=common_03>挑発</color>」が付与されている状態です。\n敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると敵の「<command_color=common_03>挑発</color>」を解除することができます。"
+        },
+        {
+            "id": 971003100000391,
+            "value": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。"
+        },
+        {
+            "id": 971003100000401,
+            "value": "フォースゲージは敵が特定のアビリティを使用することでたまっていき、\n<command_color=common_03>土属性のアビリティでダメージ</color>を与えると減らすことができます。\nフォースゲージが最大になることで、<command_color=common_03>敵の強力なアビリティが発動</color>します。"
+        },
+        {
+            "id": 971003100000411,
+            "value": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。"
+        },
+        {
+            "id": 971003100000421,
+            "value": "敵に<command_color=common_03>風属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の物理耐性・魔法耐性を解除する</color>ことができます。"
+        },
+        {
+            "id": 971003100000431,
+            "value": "敵に<command_color=common_03>風属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。"
         },
         {
             "id": 971003200000011,

@@ -294,6 +294,48 @@
     "DisplayConditionSetId": 611000003017
   },
   {
+    "Id": 212200102,
+    "Title": {
+      "Ja": "ブリザド(<sprite=\"tmp_icon\" index=71>サークル)合成の書",
+      "En": "Blizzard (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    "Description": {
+      "Ja": "ブリザド(<sprite=\"tmp_icon\" index=71>サークル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Blizzard (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    "MateriaId": 2122001,
+    "ItemRarityType": 3,
+    "NotesSetId": 1,
+    "MateriaIngredientGroupId": 2122001,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101100,
+    "ItemCraftOptionGroupId": 4,
+    "OrderNo": 2132,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 212200302,
+    "Title": {
+      "Ja": "ブリザドブロウ(<sprite=\"tmp_icon\" index=71>サークル)合成の書",
+      "En": "Blizzard Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    "Description": {
+      "Ja": "ブリザドブロウ(<sprite=\"tmp_icon\" index=71>サークル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    "MateriaId": 2122003,
+    "ItemRarityType": 3,
+    "NotesSetId": 1,
+    "MateriaIngredientGroupId": 2122003,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101200,
+    "ItemCraftOptionGroupId": 4,
+    "OrderNo": 2142,
+    "DisplayConditionSetId": 0
+  },
+  {
     "Id": 213100101,
     "Title": {
       "Ja": "サンダー合成の書",
@@ -522,6 +564,48 @@
     "MateriaCraftOptionGroupId": 20100,
     "ItemCraftOptionGroupId": 2,
     "OrderNo": 2520,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 216200103,
+    "Title": {
+      "Ja": "エアロ(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Aero (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "エアロ(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2162001,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2162001,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101300,
+    "ItemCraftOptionGroupId": 2,
+    "OrderNo": 2532,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 216200203,
+    "Title": {
+      "Ja": "エアロブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Aero Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "エアロブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2162002,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2162002,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101400,
+    "ItemCraftOptionGroupId": 2,
+    "OrderNo": 2542,
     "DisplayConditionSetId": 0
   },
   {

@@ -11,7 +11,7 @@
     },
     "ItemType": 1,
     "ItemRarityType": 0,
-    "MaxCapacity": 99999999,
+    "MaxCapacity": 999999999,
     "ResourceId": 1,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
@@ -2134,6 +2134,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 3012,
+    "Name": {
+      "Ja": "オーディンのメモリー",
+      "En": "Odin's Memory"
+    },
+    "Description": {
+      "Ja": "召喚獣ストリームのマス解放に必要。\n<command_color=common_03>「オーディン」の召喚獣ストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Odin's summon stream</color> nodes."
+    },
+    "ItemType": 3,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 3012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 3051,
     "Name": {
       "Ja": "イフリート＆バハムートのメモリー",
@@ -2306,6 +2328,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-12-23T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 3112,
+    "Name": {
+      "Ja": "オーディンのノーブルメモリー",
+      "En": "Odin's Noble Memory"
+    },
+    "Description": {
+      "Ja": "召喚獣ストリームのマス解放に必要。\n<command_color=common_03>「オーディン」の召喚獣ストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Odin's summon stream</color> nodes."
+    },
+    "ItemType": 3,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 3112,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -4972,6 +5016,204 @@
     "OrderNo": 0
   },
   {
+    "Id": 16051,
+    "Name": {
+      "Ja": "コレルの石炭",
+      "En": "Corel Coal"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16051,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16052,
+    "Name": {
+      "Ja": "コレルの砂金",
+      "En": "Corel Gold Dust"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16052,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16053,
+    "Name": {
+      "Ja": "かぎなわ",
+      "En": "Grappling Hook"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16053,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16054,
+    "Name": {
+      "Ja": "ゴールドバルーン",
+      "En": "Gold Balloon"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16054,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16055,
+    "Name": {
+      "Ja": "陽気な扇子",
+      "En": "Parade Fan"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16055,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16056,
+    "Name": {
+      "Ja": "占い用紙",
+      "En": "Fortune Paper"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16056,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16057,
+    "Name": {
+      "Ja": "闘技場の参加賞",
+      "En": "Colosseum Participation Prize"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16057,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16058,
+    "Name": {
+      "Ja": "プレイアーツ：スイーパー",
+      "En": "PLAY ARTS Sweeper"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16058,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16059,
+    "Name": {
+      "Ja": "ディオのサイン",
+      "En": "Dio's Autograph"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16059,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 16501,
     "Name": {
       "Ja": "ミッドガルの花（黄）",
@@ -5293,6 +5535,72 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 16521,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16522,
+    "Name": {
+      "Ja": "コレルの花（赤）",
+      "En": "Red Corel Flower"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16522,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16526,
+    "Name": {
+      "Ja": "ゴールドソーサーの花（赤紫）",
+      "En": "Burgundy Gold Saucer Flower"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16526,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16527,
+    "Name": {
+      "Ja": "ゴールドソーサーの花（薄桜）",
+      "En": "Pale Pink Gold Saucer Flower"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16527,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -5676,6 +5984,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 16619,
+    "Name": {
+      "Ja": "チョコボの大羽根",
+      "En": "Long Chocobo Feather"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16619,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16623,
+    "Name": {
+      "Ja": "チョコボの大羽根（紫）",
+      "En": "Long Purple Chocobo Feather"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16623,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 16624,
+    "Name": {
+      "Ja": "チョコボの大羽根（橙）",
+      "En": "Long Orange Chocobo Feather"
+    },
+    "Description": {
+      "Ja": "チョコボ遠征での探索の証。",
+      "En": "Proof of exploration on a chocobo expedition."
+    },
+    "ItemType": 28,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 16624,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 17002,
     "Name": {
       "Ja": "スタミナ剤",
@@ -5761,7 +6135,7 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
-    "OrderNo": 0
+    "OrderNo": 3
   },
   {
     "Id": 20002,
@@ -5770,8 +6144,8 @@
       "En": "SOLDIER Pass"
     },
     "Description": {
-      "Ja": "特典1：マルチバトルの報酬追加\n特典2：マテリア合成時間30％短縮\n特典3：チョコボ遠征レアドロップ率30％UP\n特典4：チョコボ遠征時間30％短縮\n\n※「特典1：マルチバトルの報酬追加」は、同マッチングルーム内の他プレイヤーにも効果が適用されます。",
-      "En": "Bonus 1: Added Co-op Battle Rewards\nBonus 2: Synthesis Time Reduction -30%\nBonus 3: Chocobo Expedition Rare Drop Rate +30%\nBonus 4: Chocobo Expedition Time Reduction -30%\n\n<color=#9DB2CC>*The effects of \"Bonus 1: Added Co-op Battle Rewards\" are shared with other players in the same lobby.</color>"
+      "Ja": "特典1：マルチメダルの獲得量増加\n特典2：マテリア合成時間30％短縮\n特典3：チョコボ遠征レアドロップ率30％UP\n特典4：チョコボ遠征時間30％短縮\n\n<color=#9DB2CC>※「特典1：マルチメダルの獲得量増加」は、同マッチングルーム内の他プレイヤーにも効果が適用されます。\n※マルチメダルは9,999個まで所持できます。\n※ソルジャーパスで獲得したマルチメダルは、所持上限を超えた場合は獲得できません。</color>",
+      "En": "Bonus 1: More Co-op Medals Added to Rewards\nBonus 2: Synthesis Time Reduction -30%\nBonus 3: Chocobo Expedition Rare Drop Rate +30%\nBonus 4: Chocobo Expedition Time Reduction -30%\n\n<color=#9DB2CC>*The effects of \"Bonus 1: More Co-op Medals Added to Rewards\" are shared with other players in the same lobby.\n*You can hold up to 9,999 Co-op Medals.\n*Co-op Medals acquired through the SOLDIER Pass cannot be kept if they exceed inventory capacity.</color>"
     },
     "ItemType": 31,
     "ItemRarityType": 0,
@@ -5783,7 +6157,7 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
-    "OrderNo": 0
+    "OrderNo": 4
   },
   {
     "Id": 20004,
@@ -5805,7 +6179,29 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2023-12-25T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
-    "OrderNo": 0
+    "OrderNo": 2
+  },
+  {
+    "Id": 20005,
+    "Name": {
+      "Ja": "クリスタルパス",
+      "En": "Crystal Pass"
+    },
+    "Description": {
+      "Ja": "特典：ブルークリスタル×100が毎日もらえる特別ミッションが追加",
+      "En": "Bonus: Special Mission - Receive Blue Crystal x100 per Day"
+    },
+    "ItemType": 31,
+    "ItemRarityType": 0,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-30T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 1
   },
   {
     "Id": 21001,
@@ -6226,6 +6622,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 21020,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 21021,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -6371,6 +6811,94 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999,
     "ResourceId": 22003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22014,
+    "Name": {
+      "Ja": "エバクラ学園開校カウントダウン選択ボックス",
+      "En": "Custom Box - Ever Crisis Academy Countdown"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 22003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22015,
+    "Name": {
+      "Ja": "エバクラ学園開校記念選択ボックス vol.1",
+      "En": "Custom Box - Ever Crisis Academy Vol. 1"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 22003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22016,
+    "Name": {
+      "Ja": "エバクラ学園開校記念選択ボックス vol.2",
+      "En": "Custom Box - Ever Crisis Academy Vol. 2"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 22003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22017,
+    "Name": {
+      "Ja": "セレクトマス武器選択ボックス",
+      "En": "Custom Box - Select Square Weapon"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から1種類を選んで獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22001,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -6780,6 +7308,72 @@
     "Name": {
       "Ja": "1.5 Year Anniversary記念抽選ボックス",
       "En": "Lottery Box - 1.5 Year Anniversary"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22521,
+    "Name": {
+      "Ja": "1.5 Year Anniversary記念抽選ボックス vol.2",
+      "En": "Lottery Box - 1.5 Year Anniversary Vol. 2"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22522,
+    "Name": {
+      "Ja": "FFVII ECスプリング抽選ボックス vol.1",
+      "En": "Lottery Box - FFVII EC Spring Vol. 1"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22523,
+    "Name": {
+      "Ja": "FFVII ECスプリング抽選ボックス vol.2",
+      "En": "Lottery Box - FFVII EC Spring Vol. 2"
     },
     "Description": {
       "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
@@ -8800,6 +9394,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 300024,
+    "Name": {
+      "Ja": "エッグハントウェア交換券 vol.1",
+      "En": "Egg Hunt Gear Voucher Vol. 1"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「エッグハントウェア交換所 vol.1」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Egg Hunt Gear Exchange Vol. 1</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300024,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-03T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300025,
+    "Name": {
+      "Ja": "エッグハントウェア交換券 vol.2",
+      "En": "Egg Hunt Gear Voucher Vol. 2"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「エッグハントウェア交換所 vol.2」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Egg Hunt Gear Exchange Vol. 2</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300025,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300026,
+    "Name": {
+      "Ja": "エッグハントウェア交換券 vol.3",
+      "En": "Egg Hunt Gear Voucher Vol. 3"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「エッグハントウェア交換所 vol.3」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Egg Hunt Gear Exchange Vol. 3</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300026,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2024-10-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1000001,
     "Name": {
       "Ja": "魔晄の貴石（1st Anniv）",
@@ -9988,6 +10648,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1002038,
+    "Name": {
+      "Ja": "ティーチャーハリセン・パーツ",
+      "En": "Teacher's Paper Fan Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ティーチャーハリセン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Teacher's Paper Fan</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1002038,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-05-08T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1003001,
     "Name": {
       "Ja": "レザーグローブ・パーツ",
@@ -10582,6 +11264,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1003041,
+    "Name": {
+      "Ja": "オーディングローブ・パーツ",
+      "En": "Odin Gloves Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「オーディングローブ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Odin Gloves</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003041,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003042,
+    "Name": {
+      "Ja": "強き者の小手・パーツ",
+      "En": "Gauntlets of the Worthy Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「強き者の小手」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Gauntlets of the Worthy</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003042,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-19T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1003043,
     "Name": {
       "Ja": "ヤールングレイプ・パーツ",
@@ -10600,6 +11326,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-02-06T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1003047,
+    "Name": {
+      "Ja": "委員長ミサンガ・パーツ",
+      "En": "Class President's Bracelet Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「委員長ミサンガ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Class President's Bracelet</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003047,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-30T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -11216,6 +11964,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004035,
+    "Name": {
+      "Ja": "ノブレスロッド・パーツ",
+      "En": "Noblesse Rod Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ノブレスロッド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Noblesse Rod</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004035,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-19T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -12320,6 +13090,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1006035,
+    "Name": {
+      "Ja": "ハントウォッチ・パーツ",
+      "En": "Watch of the Hunt Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ハントウォッチ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Watch of the Hunt</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006035,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1007001,
     "Name": {
       "Ja": "イエローメガホン・パーツ",
@@ -12536,6 +13328,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-04-04T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007017,
+    "Name": {
+      "Ja": "ニャッパーメガホン・パーツ",
+      "En": "Cool Cat's Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ニャッパーメガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Cool Cat's Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007017,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-24T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -12778,6 +13592,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1007033,
+    "Name": {
+      "Ja": "怨夜叉メガホン・パーツ",
+      "En": "Spirit Demon Megaphone Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「怨夜叉メガホン」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Spirit Demon Megaphone</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1007033,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-17T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -13200,6 +14036,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1008023,
+    "Name": {
+      "Ja": "ノブレスオート・パーツ",
+      "En": "Noblesse Automatic Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ノブレスオート」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Noblesse Automatic</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008023,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-27T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1008024,
+    "Name": {
+      "Ja": "強き者の銃・パーツ",
+      "En": "Gun of the Worthy Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「強き者の銃」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Gun of the Worthy</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1008024,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-13T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1008025,
     "Name": {
       "Ja": "魔晄の貴石（デスペナルティ）",
@@ -13376,6 +14256,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1009010,
+    "Name": {
+      "Ja": "ドラグーンランス・パーツ",
+      "En": "Dragoon Lance Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ドラグーンランス」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Dragoon Lance</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009010,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1009011,
     "Name": {
       "Ja": "青龍偃月刀・パーツ",
@@ -13482,6 +14384,50 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-01-16T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009019,
+    "Name": {
+      "Ja": "オーディンスピア・パーツ",
+      "En": "Odin Spear Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「オーディンスピア」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Odin Spear</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009019,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1009020,
+    "Name": {
+      "Ja": "ハントランス・パーツ",
+      "En": "Lance of the Hunt Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ハントランス」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Lance of the Hunt</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009020,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -13992,6 +14938,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1020028,
+    "Name": {
+      "Ja": "魔晄の貴石（デュランダル）",
+      "En": "Mako Gem (Durandal)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020028,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-03T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1020029,
     "Name": {
       "Ja": "ホワイトツリー・パーツ",
@@ -14010,6 +14978,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1020031,
+    "Name": {
+      "Ja": "ハントソード・パーツ",
+      "En": "Sword of the Hunt Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ハントソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Sword of the Hunt</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020031,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-03T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -14652,6 +15642,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1049034,
+    "Name": {
+      "Ja": "折り畳み定規・パーツ",
+      "En": "Folding Ruler Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「折り畳み定規」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Folding Ruler</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1049034,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-30T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1050001,
     "Name": {
       "Ja": "マイスティーロ・パーツ",
@@ -15132,6 +16144,50 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1050027,
+    "Name": {
+      "Ja": "魔晄の貴石（オーガキラー）",
+      "En": "Mako Gem (Ogrekiller)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1050027,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-30T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1050029,
+    "Name": {
+      "Ja": "大三角定規・パーツ",
+      "En": "Set Square Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「大三角定規」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Set Square</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1050029,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-30T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -16148,6 +17204,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1052029,
+    "Name": {
+      "Ja": "ハントライフル・パーツ",
+      "En": "Rifle of the Hunt Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ハントライフル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Rifle of the Hunt</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1052029,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1052030,
+    "Name": {
+      "Ja": "怨夜叉ライフル・パーツ",
+      "En": "Spirit Demon Rifle Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「怨夜叉ライフル」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Spirit Demon Rifle</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1052030,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-17T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1056001,
     "Name": {
       "Ja": "90式ロングソード・パーツ",
@@ -16496,6 +17596,50 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2024-12-12T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056019,
+    "Name": {
+      "Ja": "強き者の大剣・パーツ",
+      "En": "Greatsword of the Worthy Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「強き者の大剣」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Greatsword of the Worthy</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056019,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056020,
+    "Name": {
+      "Ja": "ハントブレイド・パーツ",
+      "En": "Blade of the Hunt Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「ハントブレイド」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Blade of the Hunt</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056020,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-03T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -17267,6 +18411,138 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-02-20T02:00:00+00:00",
     "EndDatetime": "2025-03-05T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020181,
+    "Name": {
+      "Ja": "討伐ガチャチケット",
+      "En": "Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「強敵襲来 ルーファウス出撃」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020181,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-19T02:00:00+00:00",
+    "EndDatetime": "2025-04-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020182,
+    "Name": {
+      "Ja": "討伐ガチャチケット・銀",
+      "En": "Silver Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「強敵襲来 ルーファウス出撃」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Silver Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020182,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-19T02:00:00+00:00",
+    "EndDatetime": "2025-04-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020183,
+    "Name": {
+      "Ja": "討伐ガチャチケット・金",
+      "En": "Gold Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「強敵襲来 ルーファウス出撃」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Gold Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020183,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-03-27T02:00:00+00:00",
+    "EndDatetime": "2025-04-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020191,
+    "Name": {
+      "Ja": "討伐ガチャチケット",
+      "En": "Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「強敵襲来 マサムネ討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020191,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-17T02:00:00+00:00",
+    "EndDatetime": "2025-05-09T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020192,
+    "Name": {
+      "Ja": "討伐ガチャチケット・銀",
+      "En": "Silver Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「強敵襲来 マサムネ討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Silver Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020192,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-17T02:00:00+00:00",
+    "EndDatetime": "2025-05-09T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2020193,
+    "Name": {
+      "Ja": "討伐ガチャチケット・金",
+      "En": "Gold Victory Draw Ticket"
+    },
+    "Description": {
+      "Ja": "討伐ガチャを引くために必要。\n<command_color=common_03>「強敵襲来 マサムネ討伐」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Gold Victory Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2020193,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-24T02:00:00+00:00",
+    "EndDatetime": "2025-05-09T01:59:59+00:00",
     "OrderNo": 0
   },
   {
@@ -18392,6 +19668,138 @@
     "OrderNo": 0
   },
   {
+    "Id": 2030261,
+    "Name": {
+      "Ja": "花飾り",
+      "En": "Flower Crown"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030261,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-03T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030262,
+    "Name": {
+      "Ja": "ピンクエッグ",
+      "En": "Pink Egg"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030262,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-03T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030263,
+    "Name": {
+      "Ja": "グリーンエッグ",
+      "En": "Green Egg"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030263,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-10T02:00:00+00:00",
+    "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030271,
+    "Name": {
+      "Ja": "スクールバッグ",
+      "En": "School Bag"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030271,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-30T02:00:00+00:00",
+    "EndDatetime": "2025-05-31T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030272,
+    "Name": {
+      "Ja": "第七高校校章",
+      "En": "Seventh High Pin"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030272,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-04-30T02:00:00+00:00",
+    "EndDatetime": "2025-05-31T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030273,
+    "Name": {
+      "Ja": "神羅学院付属校章",
+      "En": "Academy Pin"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030273,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-05-08T02:00:00+00:00",
+    "EndDatetime": "2025-05-31T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2080021,
     "Name": {
       "Ja": "ハートクッキー",
@@ -19225,6 +20633,28 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-03-07T02:00:00+00:00",
     "EndDatetime": "2025-05-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2130071,
+    "Name": {
+      "Ja": "壱の騒乱武器交換券",
+      "En": "The First Clash Wpn. Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「壱の騒乱交換所」</color>で使用できます。",
+      "En": "Traded for weapons at the <command_color=common_03>The First Clash Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2130071,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   }
 ]

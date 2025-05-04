@@ -1119,12 +1119,12 @@
   },
   {
     "Title": {
-      "Ja": "ガチャの種類について",
-      "En": "Draw Types"
+      "Ja": "ガチャについて",
+      "En": "Draws"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「ガチャ」</color>には以下の3種類があります。\n・スペシャル・・・様々な種類のガチャ\n・新武器PU・・・「10回引く」とスタンプが押されるガチャ\n・チケット・・・チケットを使って引くガチャ",
-      "En": "There are three types of <command_color=common_03>draws</color>:\n- Special: A unique type of draw\n- Featured: A draw that yields a stamp for every 10 Draw\n- Tickets: A draw that requires tickets"
+      "Ja": "<command_color=common_03>ガチャ画面</color>では様々な<command_color=common_03>ガチャ</color>を引くことができます。\n<command_color=common_03>ブルークリスタル</color>や<command_color=common_03>レッドクリスタル</color>、\n<command_color=common_03>チケット</color>で引くことができるガチャや、\n一部<command_color=common_03>無料</color>で引くことができるガチャも存在します。",
+      "En": "On the <command_color=common_03>draw screen</color>, you can perform a variety of draws by expending <command_color=common_03>blue crystals</color>, <command_color=common_03>red crystals</color>, and <command_color=common_03>tickets</color>. Some draws are available for <command_color=common_03>free</color>."
     },
     "TutorialPopupGroupId": 2060001,
     "Seq": 1,
@@ -1136,8 +1136,8 @@
       "En": "Stamp Cards"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「新武器PUガチャ」で「10回引く」</color>と、<command_color=common_03>「スタンプシート」</color>にスタンプが押されます。\nスタンプが押されると、そのマスの報酬が獲得できます。\n<command_color=common_02>※スタンプシートは詳細から確認できます。</color>",
-      "En": "In a <command_color=common_03>New Weapon Featured Draw</color>, a <command_color=common_03>Draw 10</color> yields one or several stamps for your <command_color=common_03>stamp card.</color> You will <command_color=common_03>obtain the rewards on the stamped squares.</color>\n \n<command_color=common_02>*Progress can be viewed from stamp card details.</color>"
+      "Ja": "一部ガチャでは<command_color=common_03>「10回引く」</color>と、<command_color=common_03>「スタンプシート」</color>にスタンプが押されます。\n スタンプが押されると、そのマスの報酬が獲得できます。\n<command_color=common_02>※スタンプシートは詳細から確認できます。</color>",
+      "En": "In <command_color=common_03>a part of Draw</color>, a <command_color=common_03>10 Draw</color> will yield one or several stamps for your <command_color=common_03>stamp card</color>.\nOnce stamped, you will receive the reward in a given square.\n<command_color=common_02>*Stamp cards can be viewed from stamp card details.</color>"
     },
     "TutorialPopupGroupId": 2060001,
     "Seq": 2,
@@ -2679,6 +2679,58 @@
   },
   {
     "Title": {
+      "Ja": "フリーチャレンジについて1",
+      "En": "Free Challenge 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>フリーチャレンジ</color>では、<command_color=common_03>バトル効果</color>を自由に設定することができます。\nバトル効果を設定すると<command_color=common_03>ステージレベル</color>が上昇し、\n<command_color=common_03>バトルスコアや獲得ポイントにボーナス</color>が付きます。",
+      "En": "In <command_color=common_03>Free Challenge</color>, you can set <command_color=common_03>battle effects</color> of your choice. Setting these effects will increase the <command_color=common_03>stage level</color>, which will yield <command_color=common_03>battle score and point bonuses</color>."
+    },
+    "TutorialPopupGroupId": 2290001,
+    "Seq": 1,
+    "ResourceId": 229000101
+  },
+  {
+    "Title": {
+      "Ja": "フリーチャレンジについて2",
+      "En": "Free Challenge 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>バトル効果</color>はクエスト挑戦前に設定することができます。\n",
+      "En": "<command_color=common_03>Battle effects</color> can be set before taking on a quest."
+    },
+    "TutorialPopupGroupId": 2290001,
+    "Seq": 2,
+    "ResourceId": 229000102
+  },
+  {
+    "Title": {
+      "Ja": "フリーチャレンジについて3",
+      "En": "Free Challenge 3"
+    },
+    "Description": {
+      "Ja": "クエストごとにバトル効果の種類や効果量が異なるため\n<command_color=common_03>自分が攻略しやすい組み合わせ</color>を見つけましょう。",
+      "En": "The type and potency of effects differ with each battle, so <command_color=common_03>find the best combination</color> for each situation."
+    },
+    "TutorialPopupGroupId": 2290001,
+    "Seq": 3,
+    "ResourceId": 229000103
+  },
+  {
+    "Title": {
+      "Ja": "スコアアタックについて",
+      "En": "Score Attack"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>スコアアタック</color>では、<command_color=common_03>スタミナを消費することなく</color>ランキングに挑戦できます。\nフリーチャレンジと同じようにバトル効果を設定することができます。",
+      "En": "In <command_color=common_03>Score Attack</color>, you can aim for a high score <command_color=common_03>without worrying about stamina</color>. You can also set battle effects just like with Free Challenge."
+    },
+    "TutorialPopupGroupId": 2291001,
+    "Seq": 1,
+    "ResourceId": 229100101
+  },
+  {
+    "Title": {
       "Ja": "エクシードチャレンジについて1",
       "En": "Escalation Challenge 1"
     },
@@ -3482,6 +3534,84 @@
     "TutorialPopupGroupId": 310000037,
     "Seq": 1,
     "ResourceId": 3100000371
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「D-LINK」",
+      "En": "Force Gauge: D-Link"
+    },
+    "Description": {
+      "Ja": "フォースゲージがある間、「<command_color=common_03>挑発</color>」が付与されている状態です。\n敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると敵の「<command_color=common_03>挑発</color>」を解除することができます。",
+      "En": "<command_color=common_03>Provoke</color> is applied to the enemy while the force gauge is active. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge, and emptying the gauge will cancel <command_color=common_03>Provoke</color>."
+    },
+    "TutorialPopupGroupId": 310000038,
+    "Seq": 1,
+    "ResourceId": 3100000381
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「RELOAD」",
+      "En": "Force Gauge: Reload"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of his abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000039,
+    "Seq": 1,
+    "ResourceId": 3100000391
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「ZANTETSU CHARGE」",
+      "En": "Force Gauge: Zantetsu Charge"
+    },
+    "Description": {
+      "Ja": "フォースゲージは敵が特定のアビリティを使用することでたまっていき、\n<command_color=common_03>土属性のアビリティでダメージ</color>を与えると減らすことができます。\nフォースゲージが最大になることで、<command_color=common_03>敵の強力なアビリティが発動</color>します。",
+      "En": "The force gauge fills every time the enemy uses certain abilities, but can be depleted by dealing <command_color=common_03>earth-element damage</color>. When the gauge is full, <command_color=common_03>the enemy will unleash a powerful ability</color>."
+    },
+    "TutorialPopupGroupId": 310000040,
+    "Seq": 1,
+    "ResourceId": 3100000401
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「SWORD FORGE」",
+      "En": "Force Gauge: Forge"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of its abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000041,
+    "Seq": 1,
+    "ResourceId": 3100000411
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「MENTORSHIP」",
+      "En": "Force Gauge: Mentorship"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>風属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の物理耐性・魔法耐性を解除する</color>ことができます。",
+      "En": "<command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>his Physical Resistance and Magic Resistance will be lost</color>."
+    },
+    "TutorialPopupGroupId": 310000042,
+    "Seq": 1,
+    "ResourceId": 3100000421
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「LEADERSHIP」",
+      "En": "Force Gauge: Leadership"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>風属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of her abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000043,
+    "Seq": 1,
+    "ResourceId": 3100000431
   },
   {
     "Title": {

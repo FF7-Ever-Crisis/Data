@@ -326,7 +326,7 @@
         },
         {
             "id": 970000206000101,
-            "value": "Draw Types"
+            "value": "Draws"
         },
         {
             "id": 970000206000102,
@@ -769,6 +769,22 @@
             "value": "Max. Damage Challenge 2"
         },
         {
+            "id": 970000229000101,
+            "value": "Free Challenge 1"
+        },
+        {
+            "id": 970000229000102,
+            "value": "Free Challenge 2"
+        },
+        {
+            "id": 970000229000103,
+            "value": "Free Challenge 3"
+        },
+        {
+            "id": 970000229100101,
+            "value": "Score Attack"
+        },
+        {
             "id": 970000230000101,
             "value": "Escalation Challenge 1"
         },
@@ -1017,6 +1033,30 @@
             "value": "Force Gauge: Zantetsu"
         },
         {
+            "id": 970003100000381,
+            "value": "Force Gauge: D-Link"
+        },
+        {
+            "id": 970003100000391,
+            "value": "Force Gauge: Reload"
+        },
+        {
+            "id": 970003100000401,
+            "value": "Force Gauge: Zantetsu Charge"
+        },
+        {
+            "id": 970003100000411,
+            "value": "Force Gauge: Forge"
+        },
+        {
+            "id": 970003100000421,
+            "value": "Force Gauge: Mentorship"
+        },
+        {
+            "id": 970003100000431,
+            "value": "Force Gauge: Leadership"
+        },
+        {
             "id": 970003200000011,
             "value": "Status Ailment: Dread"
         },
@@ -1098,11 +1138,11 @@
         },
         {
             "id": 971000206000101,
-            "value": "There are three types of <command_color=common_03>draws</color>:\n- Special: A unique type of draw\n- Featured: A draw that yields a stamp for every 10 Draw\n- Tickets: A draw that requires tickets"
+            "value": "On the <command_color=common_03>draw screen</color>, you can perform a variety of draws by expending <command_color=common_03>blue crystals</color>, <command_color=common_03>red crystals</color>, and <command_color=common_03>tickets</color>. Some draws are available for <command_color=common_03>free</color>."
         },
         {
             "id": 971000206000102,
-            "value": "In a <command_color=common_03>New Weapon Featured Draw</color>, a <command_color=common_03>Draw 10</color> yields one or several stamps for your <command_color=common_03>stamp card.</color> You will <command_color=common_03>obtain the rewards on the stamped squares.</color>\n \n<command_color=common_02>*Progress can be viewed from stamp card details.</color>"
+            "value": "In <command_color=common_03>a part of Draw</color>, a <command_color=common_03>10 Draw</color> will yield one or several stamps for your <command_color=common_03>stamp card</color>.\nOnce stamped, you will receive the reward in a given square.\n<command_color=common_02>*Stamp cards can be viewed from stamp card details.</color>"
         },
         {
             "id": 971000206000105,
@@ -1341,6 +1381,22 @@
             "value": "Each stage has its own ranking. The rankings do not reset and reflect the results over the entire period."
         },
         {
+            "id": 971000229000101,
+            "value": "In <command_color=common_03>Free Challenge</color>, you can set <command_color=common_03>battle effects</color> of your choice. Setting these effects will increase the <command_color=common_03>stage level</color>, which will yield <command_color=common_03>battle score and point bonuses</color>."
+        },
+        {
+            "id": 971000229000102,
+            "value": "<command_color=common_03>Battle effects</color> can be set before taking on a quest."
+        },
+        {
+            "id": 971000229000103,
+            "value": "The type and potency of effects differ with each battle, so <command_color=common_03>find the best combination</color> for each situation."
+        },
+        {
+            "id": 971000229100101,
+            "value": "In <command_color=common_03>Score Attack</color>, you can aim for a high score <command_color=common_03>without worrying about stamina</color>. You can also set battle effects just like with Free Challenge."
+        },
+        {
             "id": 971000230000101,
             "value": "The <command_color=common_03>Escalation Challenge</color> is a series of quests that <command_color=common_03>tests your limit</color>. The higher the <command_color=common_03>escalation level</color>, the higher the <command_color=common_03>enemies' stats</color>. Take on the challenge and see how far you can go."
         },
@@ -1571,6 +1627,30 @@
         {
             "id": 971003100000371,
             "value": "The enemy's force gauge fills over time, but can be depleted by dealing <command_color=common_03>earth-element damage</color>. Once the gauge has been displayed for a certain amount of time, <command_color=common_03>the enemy will unleash a powerful ability</color>. <command_color=common_03>Stop them</color> from unleashing the ability by fully depleting the gauge."
+        },
+        {
+            "id": 971003100000381,
+            "value": "<command_color=common_03>Provoke</color> is applied to the enemy while the force gauge is active. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge, and emptying the gauge will cancel <command_color=common_03>Provoke</color>."
+        },
+        {
+            "id": 971003100000391,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of his abilities will be canceled</color>."
+        },
+        {
+            "id": 971003100000401,
+            "value": "The force gauge fills every time the enemy uses certain abilities, but can be depleted by dealing <command_color=common_03>earth-element damage</color>. When the gauge is full, <command_color=common_03>the enemy will unleash a powerful ability</color>."
+        },
+        {
+            "id": 971003100000411,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of its abilities will be canceled</color>."
+        },
+        {
+            "id": 971003100000421,
+            "value": "<command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>his Physical Resistance and Magic Resistance will be lost</color>."
+        },
+        {
+            "id": 971003100000431,
+            "value": "<command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of her abilities will be canceled</color>."
         },
         {
             "id": 971003200000011,
