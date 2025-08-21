@@ -5479,6 +5479,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 \n\n[<command_color=emphasis>しゃくねつのかまえ</color>] は自身の魔法攻撃力を上昇させる。\n[<command_color=emphasis>ルカニ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<command_color=common_03>雷属性アビリティ</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n\nRaises own MATK with <command_color=emphasis>Scorching Stance</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Sap</color>."
+    },
+    "EnemyLevelConstantGroupId": 2070031,
+    "Level": 1,
+    "ResourceId": 2070031010,
+    "EnemySkillLevelId": 2070031010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=415>衰弱 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n　　　<sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>魔法攻撃</color>を多用し、攻撃の間隔が短い。\n[<command_color=emphasis>メタルスライムは　にげだした！</color>] を使用すると、\n<command_color=common_03>バトルから離脱</color>する。\n逃げられた場合、<command_color=common_03>メタルスライムからは報酬を得ることができない</color>。\n\n全ての攻撃に対し、高い耐性を持つ。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses many <command_color=common_03>magic abilities</color> and attacks often. Uses <command_color=emphasis>Metal slime flees!</color> to escape from battle. If successful, <command_color=common_03>no rewards will be obtained from them</color>.\n\nHas high resistance to all attacks."
     },
@@ -11107,6 +11118,17 @@
     "Level": 1,
     "ResourceId": 2563005010,
     "EnemySkillLevelId": 2563005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\nフォースゲージ [<command_color=emphasis>SLIME FESTIVAL</color>] に応じて<command_color=common_03>防御力</color>が変動する。\nフォースゲージ中はゲージを消費して [<command_color=emphasis>キングスライムは　なかまを　よんだ！</color>] によって仲間を呼び出し、仲間がいなくなる度に使用する。\n[<command_color=emphasis>ふきとばし</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n[<command_color=emphasis>キングプレス</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<command_color=common_03>雷属性アビリティ</color>が有効。\n<command_color=common_03>雷属性弱点の仲間を呼ぶ</color>ため、<command_color=common_03>雷属性の全体攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\n<command_color=common_03>Defense</color> changes based on Force Gauge: <command_color=emphasis>Slime Festival</color>. Calls for allies with <command_color=emphasis>The king slime calls for backup!</color> whenever they have no allies while the force gauge is active. Use of the ability depletes the gauge. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Blow Away</color> and <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Royal Crush</color>.\n\n<command_color=common_03>Lightning-element group attacks</color> are effective as the <command_color=common_03>allies</color> they summon are <command_color=common_03>weak against lightning</color>."
+    },
+    "EnemyLevelConstantGroupId": 2563031,
+    "Level": 1,
+    "ResourceId": 2563031010,
+    "EnemySkillLevelId": 2563031010,
     "FinalAttackSkillEnemyId": 0
   },
   {

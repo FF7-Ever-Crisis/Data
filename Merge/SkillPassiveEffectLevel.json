@@ -8078,5 +8078,53 @@
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 57701104,
     "skillpassiveeffectlevel_10": 0
+  },
+  {
+    "Id": 591011,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "skillpassiveeffectlevel_10": 0
+  },
+  {
+    "Id": 591012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "skillpassiveeffectlevel_10": 0
+  },
+  {
+    "Id": 591013,
+    "Description": {
+      "Ja": "自身が付与する魔法攻撃力アップの最大効果段階+1(この効果は付与段階の増減には影響しない)",
+      "En": "When granting Mag. Attack Up: Max. Pot. Tier +1\n(Only affects max. tier)"
+    },
+    "Level": 1,
+    "EffectValue": 1,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "skillpassiveeffectlevel_10": 0
   }
 ]
