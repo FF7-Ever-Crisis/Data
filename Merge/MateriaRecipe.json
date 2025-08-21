@@ -231,6 +231,69 @@
     "DisplayConditionSetId": 611000003017
   },
   {
+    "Id": 211100801,
+    "Title": {
+      "Ja": "ファイア合成の書",
+      "En": "Fire Recipe"
+    },
+    "Description": {
+      "Ja": "<color=#FF9292>[使用期限：2025/07/05 10:59:59]</color>\nファイアのマテリア合成に必要なアイテムです。",
+      "En": "<color=#FF9292>[Expiry: Jul. 4, 2025, 6:59:59 PM PDT]</color>\nUsed to synthesize Fire materia."
+    },
+    "MateriaId": 2111007,
+    "ItemRarityType": 3,
+    "NotesSetId": 0,
+    "MateriaIngredientGroupId": 2111008,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 10600,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 110,
+    "DisplayConditionSetId": 611000003030
+  },
+  {
+    "Id": 211200104,
+    "Title": {
+      "Ja": "ファイア(<sprite=\"tmp_icon\" index=67>クロス)合成の書",
+      "En": "Fire (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    "Description": {
+      "Ja": "ファイア(<sprite=\"tmp_icon\" index=67>クロス)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Fire (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    "MateriaId": 2112001,
+    "ItemRarityType": 3,
+    "NotesSetId": 3,
+    "MateriaIngredientGroupId": 2112001,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101500,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 2033,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 211200304,
+    "Title": {
+      "Ja": "ファイアブロウ(<sprite=\"tmp_icon\" index=67>クロス)合成の書",
+      "En": "Fire Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    "Description": {
+      "Ja": "ファイアブロウ(<sprite=\"tmp_icon\" index=67>クロス)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Fire Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    "MateriaId": 2112003,
+    "ItemRarityType": 3,
+    "NotesSetId": 3,
+    "MateriaIngredientGroupId": 2112003,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101600,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 2043,
+    "DisplayConditionSetId": 0
+  },
+  {
     "Id": 212100101,
     "Title": {
       "Ja": "ブリザド合成の書",
@@ -294,6 +357,27 @@
     "DisplayConditionSetId": 611000003017
   },
   {
+    "Id": 212100801,
+    "Title": {
+      "Ja": "ブリザド合成の書",
+      "En": "Blizzard Recipe"
+    },
+    "Description": {
+      "Ja": "<color=#FF9292>[使用期限：2025/07/05 10:59:59]</color>\nブリザドのマテリア合成に必要なアイテムです。",
+      "En": "<color=#FF9292>[Expiry: Jul. 4, 2025, 6:59:59 PM PDT]</color>\nUsed to synthesize Blizzard materia."
+    },
+    "MateriaId": 2121007,
+    "ItemRarityType": 3,
+    "NotesSetId": 0,
+    "MateriaIngredientGroupId": 2121008,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 10700,
+    "ItemCraftOptionGroupId": 4,
+    "OrderNo": 120,
+    "DisplayConditionSetId": 611000003030
+  },
+  {
     "Id": 212200102,
     "Title": {
       "Ja": "ブリザド(<sprite=\"tmp_icon\" index=71>サークル)合成の書",
@@ -315,6 +399,27 @@
     "DisplayConditionSetId": 0
   },
   {
+    "Id": 212200103,
+    "Title": {
+      "Ja": "ブリザド(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Blizzard (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "ブリザド(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Blizzard (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2122001,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2122001,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101100,
+    "ItemCraftOptionGroupId": 4,
+    "OrderNo": 2133,
+    "DisplayConditionSetId": 0
+  },
+  {
     "Id": 212200302,
     "Title": {
       "Ja": "ブリザドブロウ(<sprite=\"tmp_icon\" index=71>サークル)合成の書",
@@ -333,6 +438,27 @@
     "MateriaCraftOptionGroupId": 101200,
     "ItemCraftOptionGroupId": 4,
     "OrderNo": 2142,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 212200303,
+    "Title": {
+      "Ja": "ブリザドブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Blizzard Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "ブリザドブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2122003,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2122003,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101200,
+    "ItemCraftOptionGroupId": 4,
+    "OrderNo": 2143,
     "DisplayConditionSetId": 0
   },
   {
@@ -397,6 +523,111 @@
     "ItemCraftOptionGroupId": 3,
     "OrderNo": 130,
     "DisplayConditionSetId": 611000003017
+  },
+  {
+    "Id": 213100801,
+    "Title": {
+      "Ja": "サンダー合成の書",
+      "En": "Thunder Recipe"
+    },
+    "Description": {
+      "Ja": "<color=#FF9292>[使用期限：2025/07/05 10:59:59]</color>\nサンダーのマテリア合成に必要なアイテムです。",
+      "En": "<color=#FF9292>[Expiry: Jul. 4, 2025, 6:59:59 PM PDT]</color>\nUsed to synthesize Thunder materia."
+    },
+    "MateriaId": 2131007,
+    "ItemRarityType": 3,
+    "NotesSetId": 0,
+    "MateriaIngredientGroupId": 2131008,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 10800,
+    "ItemCraftOptionGroupId": 3,
+    "OrderNo": 130,
+    "DisplayConditionSetId": 611000003030
+  },
+  {
+    "Id": 213200103,
+    "Title": {
+      "Ja": "サンダー(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Thunder (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "サンダー(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Thunder (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2132001,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2132001,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101700,
+    "ItemCraftOptionGroupId": 3,
+    "OrderNo": 2232,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 213200104,
+    "Title": {
+      "Ja": "サンダー(<sprite=\"tmp_icon\" index=67>クロス)合成の書",
+      "En": "Thunder (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    "Description": {
+      "Ja": "サンダー(<sprite=\"tmp_icon\" index=67>クロス)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Thunder (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    "MateriaId": 2132001,
+    "ItemRarityType": 3,
+    "NotesSetId": 3,
+    "MateriaIngredientGroupId": 2132001,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101700,
+    "ItemCraftOptionGroupId": 3,
+    "OrderNo": 2233,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 213200303,
+    "Title": {
+      "Ja": "サンダーブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Thunder Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "サンダーブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2132003,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2132003,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101800,
+    "ItemCraftOptionGroupId": 3,
+    "OrderNo": 2242,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 213200304,
+    "Title": {
+      "Ja": "サンダーブロウ(<sprite=\"tmp_icon\" index=67>クロス)合成の書",
+      "En": "Thunder Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    "Description": {
+      "Ja": "サンダーブロウ(<sprite=\"tmp_icon\" index=67>クロス)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    "MateriaId": 2132003,
+    "ItemRarityType": 3,
+    "NotesSetId": 3,
+    "MateriaIngredientGroupId": 2132003,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101800,
+    "ItemCraftOptionGroupId": 3,
+    "OrderNo": 2243,
+    "DisplayConditionSetId": 0
   },
   {
     "Id": 214100101,
@@ -483,6 +714,27 @@
     "DisplayConditionSetId": 0
   },
   {
+    "Id": 214100701,
+    "Title": {
+      "Ja": "クエイク合成の書",
+      "En": "Quake Recipe"
+    },
+    "Description": {
+      "Ja": "<color=#FF9292>[使用期限：2025/07/05 10:59:59]</color>\nクエイクのマテリア合成に必要なアイテムです。",
+      "En": "<color=#FF9292>[Expiry: Jul. 4, 2025, 6:59:59 PM PDT]</color>\nUsed to synthesize Quake materia."
+    },
+    "MateriaId": 2141007,
+    "ItemRarityType": 3,
+    "NotesSetId": 0,
+    "MateriaIngredientGroupId": 2141007,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101900,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 140,
+    "DisplayConditionSetId": 611000003030
+  },
+  {
     "Id": 215100101,
     "Title": {
       "Ja": "ウォータ合成の書",
@@ -525,6 +777,27 @@
     "DisplayConditionSetId": 0
   },
   {
+    "Id": 215100701,
+    "Title": {
+      "Ja": "ウォータ合成の書",
+      "En": "Water Recipe"
+    },
+    "Description": {
+      "Ja": "<color=#FF9292>[使用期限：2025/07/05 10:59:59]</color>\nウォータのマテリア合成に必要なアイテムです。",
+      "En": "<color=#FF9292>[Expiry: Jul. 4, 2025, 6:59:59 PM PDT]</color>\nUsed to synthesize Water materia."
+    },
+    "MateriaId": 2151007,
+    "ItemRarityType": 3,
+    "NotesSetId": 0,
+    "MateriaIngredientGroupId": 2151007,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 102000,
+    "ItemCraftOptionGroupId": 3,
+    "OrderNo": 150,
+    "DisplayConditionSetId": 611000003030
+  },
+  {
     "Id": 216100101,
     "Title": {
       "Ja": "エアロ合成の書",
@@ -565,6 +838,27 @@
     "ItemCraftOptionGroupId": 2,
     "OrderNo": 2520,
     "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 216100701,
+    "Title": {
+      "Ja": "エアロ合成の書",
+      "En": "Aero Recipe"
+    },
+    "Description": {
+      "Ja": "<color=#FF9292>[使用期限：2025/07/05 10:59:59]</color>\nエアロのマテリア合成に必要なアイテムです。",
+      "En": "<color=#FF9292>[Expiry: Jul. 4, 2025, 6:59:59 PM PDT]</color>\nUsed to synthesize Aero materia."
+    },
+    "MateriaId": 2161007,
+    "ItemRarityType": 3,
+    "NotesSetId": 0,
+    "MateriaIngredientGroupId": 2161007,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 102100,
+    "ItemCraftOptionGroupId": 2,
+    "OrderNo": 160,
+    "DisplayConditionSetId": 611000003030
   },
   {
     "Id": 216200103,

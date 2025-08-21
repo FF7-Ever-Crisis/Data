@@ -7030,6 +7030,538 @@
     "EpisodeLockConditionSetId": 0
   },
   {
+    "Id": 302901,
+    "Name": {
+      "Ja": "海賊王の地図",
+      "En": "Map of the Pirate King"
+    },
+    "EventScenarioSectionId": 3029011,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 9902100,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 302902,
+    "Name": {
+      "Ja": "海賊王の地図(バトル)",
+      "En": "Map of the Pirate King (battle)"
+    },
+    "EventScenarioSectionId": 3029011,
+    "PremiseEventScenarioEpisodeId": 302901,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3029101,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 302903,
+    "Name": {
+      "Ja": "秘宝の守護者",
+      "En": "Guardians of the Secret Treasure"
+    },
+    "EventScenarioSectionId": 3029011,
+    "PremiseEventScenarioEpisodeId": 302902,
+    "DungeonId": 9902101,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 302904,
+    "Name": {
+      "Ja": "秘宝の守護者(バトル)",
+      "En": "Guardians of the Secret Treasure (battle)"
+    },
+    "EventScenarioSectionId": 3029011,
+    "PremiseEventScenarioEpisodeId": 302903,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3029102,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 302905,
+    "Name": {
+      "Ja": "海賊王の幽霊船",
+      "En": "Ghost Ship of the Pirate King"
+    },
+    "EventScenarioSectionId": 3029011,
+    "PremiseEventScenarioEpisodeId": 302904,
+    "DungeonId": 9902102,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700003029000,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 302906,
+    "Name": {
+      "Ja": "海賊王の幽霊船(バトル)",
+      "En": "Ghost Ship of the Pirate King (battle)"
+    },
+    "EventScenarioSectionId": 3029011,
+    "PremiseEventScenarioEpisodeId": 302905,
+    "DungeonId": 0,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3029103,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 302907,
+    "Name": {
+      "Ja": "海賊王の継承",
+      "En": "The New Pirate Kings"
+    },
+    "EventScenarioSectionId": 3029011,
+    "PremiseEventScenarioEpisodeId": 302906,
+    "DungeonId": 9902103,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303001,
+    "Name": {
+      "Ja": "炭鉱都市ナルシェ",
+      "En": "The Mining Town of Narshe"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 9901600,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303002,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303001,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3030101,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303003,
+    "Name": {
+      "Ja": "残虐な道化師",
+      "En": "Mage of Malice"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303002,
+    "DungeonId": 9901601,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303004,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303003,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3030102,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303005,
+    "Name": {
+      "Ja": "頼れる援軍",
+      "En": "Reinforcements"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303004,
+    "DungeonId": 9901602,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303006,
+    "Name": {
+      "Ja": "氷づけの幻獣",
+      "En": "The Frozen Esper"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303005,
+    "DungeonId": 9901603,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700003030000,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303007,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303006,
+    "DungeonId": 0,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3030103,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303008,
+    "Name": {
+      "Ja": "交わる記憶",
+      "En": "Intersecting Memories"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303007,
+    "DungeonId": 9901604,
+    "OrderNo": 8,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303009,
+    "Name": {
+      "Ja": "幻獣防衛戦",
+      "En": "The Esper's Defenders"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303008,
+    "DungeonId": 9901605,
+    "OrderNo": 9,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303010,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303009,
+    "DungeonId": 0,
+    "OrderNo": 10,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3030104,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303011,
+    "Name": {
+      "Ja": "反帝国組織リターナー",
+      "En": "The Returners"
+    },
+    "EventScenarioSectionId": 3030011,
+    "PremiseEventScenarioEpisodeId": 303010,
+    "DungeonId": 9901606,
+    "OrderNo": 11,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303101,
+    "Name": {
+      "Ja": "いざ冒険の世界へ",
+      "En": "A New World of Adventure"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 9902200,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303102,
+    "Name": {
+      "Ja": "魔王の思案",
+      "En": "The Demon King's Deliberations"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303101,
+    "DungeonId": 9902201,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303103,
+    "Name": {
+      "Ja": "魔王の思案(バトル)",
+      "En": "The Demon King's Deliberations (battle)"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303102,
+    "DungeonId": 0,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3031101,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303104,
+    "Name": {
+      "Ja": "キラーパンサーの咆哮",
+      "En": "Roar of the Great Sabrecat"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303103,
+    "DungeonId": 9902202,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303105,
+    "Name": {
+      "Ja": "キラーパンサーの咆哮(バトル)",
+      "En": "Roar of the Great Sabrecat (battle)"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303104,
+    "DungeonId": 0,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3031102,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303106,
+    "Name": {
+      "Ja": "伝説の武器",
+      "En": "The Legendary Weapons"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303105,
+    "DungeonId": 9902203,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303107,
+    "Name": {
+      "Ja": "囚われの姫と仲間たち",
+      "En": "The Captive Princess and Her Companions"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303106,
+    "DungeonId": 9902204,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700003031000,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303108,
+    "Name": {
+      "Ja": "決戦の城",
+      "En": "Showdown at the Castle"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303107,
+    "DungeonId": 9902205,
+    "OrderNo": 8,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303109,
+    "Name": {
+      "Ja": "決戦の城(バトル)",
+      "En": "Showdown at the Castle (battle)"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303108,
+    "DungeonId": 0,
+    "OrderNo": 9,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3031103,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303110,
+    "Name": {
+      "Ja": "世界の半分",
+      "En": "Half the World"
+    },
+    "EventScenarioSectionId": 3031011,
+    "PremiseEventScenarioEpisodeId": 303109,
+    "DungeonId": 9902206,
+    "OrderNo": 10,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
     "Id": 800101,
     "Name": {
       "Ja": "プロローグ",
@@ -9211,6 +9743,82 @@
     "ScriptVersion": 0,
     "StoryEpisodeType": 3,
     "EventSoloBattleId": 14003001,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1400401,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 14004,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 14004001,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1400501,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 14005,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 14005001,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1400601,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 14006,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 14006001,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1400701,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 14007,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 14007001,
     "EpisodeDisplayConditionSetId": 0,
     "EpisodeLockConditionSetId": 0
   },

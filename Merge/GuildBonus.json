@@ -11,7 +11,10 @@
     },
     "GuildBonusType": 2,
     "GuildBonusLevelGroupId": 1,
-    "GuildBonusEffectGroupId": 1
+    "GuildBonusEffectGroupId": 1,
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 5
   },
   {
     "Id": 2,
@@ -25,7 +28,10 @@
     },
     "GuildBonusType": 5,
     "GuildBonusLevelGroupId": 2,
-    "GuildBonusEffectGroupId": 2
+    "GuildBonusEffectGroupId": 2,
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 1
   },
   {
     "Id": 3,
@@ -39,7 +45,10 @@
     },
     "GuildBonusType": 6,
     "GuildBonusLevelGroupId": 3,
-    "GuildBonusEffectGroupId": 3
+    "GuildBonusEffectGroupId": 3,
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 2
   },
   {
     "Id": 4,
@@ -53,6 +62,26 @@
     },
     "GuildBonusType": 7,
     "GuildBonusLevelGroupId": 4,
-    "GuildBonusEffectGroupId": 4
+    "GuildBonusEffectGroupId": 4,
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 4
+  },
+  {
+    "Id": 5,
+    "Name": {
+      "Ja": "交換所",
+      "En": "Exchanges"
+    },
+    "Title": {
+      "Ja": "ギルドローメダル交換所ボーナス",
+      "En": "Minor Guild Medal Exchange Bonus"
+    },
+    "GuildBonusType": 8,
+    "GuildBonusLevelGroupId": 5,
+    "GuildBonusEffectGroupId": 5,
+    "ResetId": 52,
+    "DefaultLevel": 1,
+    "OrderNo": 3
   }
 ]

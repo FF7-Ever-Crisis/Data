@@ -152,6 +152,25 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 101009,
+    "Name": {
+      "Ja": "FINAL FANTASY VII\nクリアパック 9TH",
+      "En": "FINAL FANTASY VII\n9th Completion Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 10,
+    "Seq": 9,
+    "ReleaseConditionSetId": 620000101009,
+    "OrderNo": 9,
+    "ResourceId": 101009,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001009,
+    "ReleaseDurationMinute": 2880,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 101,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 102000,
     "Name": {
       "Ja": "CRISIS CORE\nストーリー攻略パック",
@@ -278,6 +297,25 @@
     "ResourceId": 102006,
     "LimitedReleaseTargetType": 1,
     "TargetId": 101001026,
+    "ReleaseDurationMinute": 2880,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 102,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 102007,
+    "Name": {
+      "Ja": "CRISIS CORE\nクリアパック 7TH",
+      "En": "CRISIS CORE\n7th Completion Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 10,
+    "Seq": 8,
+    "ReleaseConditionSetId": 620000102007,
+    "OrderNo": 7,
+    "ResourceId": 102007,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001027,
     "ReleaseDurationMinute": 2880,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 102,
@@ -506,6 +544,25 @@
     "ResourceId": 104003,
     "LimitedReleaseTargetType": 1,
     "TargetId": 101001063,
+    "ReleaseDurationMinute": 2880,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 104,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 104004,
+    "Name": {
+      "Ja": "THE FIRST SOLDIER \nEPISODE II クリアパック 4TH",
+      "En": "THE FIRST SOLDIER \nEPISODE II 4th Completion Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 10,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000104004,
+    "OrderNo": 4,
+    "ResourceId": 104004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001064,
     "ReleaseDurationMinute": 2880,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 104,
@@ -6418,6 +6475,633 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 550,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 551001,
+    "Name": {
+      "Ja": "ブリッツラッド討伐\nクリアパックI",
+      "En": "Blitzrad Hunt\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000551001,
+    "OrderNo": 1,
+    "ResourceId": 551001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001970,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 551,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 551002,
+    "Name": {
+      "Ja": "ブリッツラッド討伐\nクリアパックII",
+      "En": "Blitzrad Hunt\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000551002,
+    "OrderNo": 2,
+    "ResourceId": 551002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001971,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 551,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 551003,
+    "Name": {
+      "Ja": "ブリッツラッド討伐\nクリアパックIII",
+      "En": "Blitzrad Hunt\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000551003,
+    "OrderNo": 3,
+    "ResourceId": 551003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001972,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 551,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 551004,
+    "Name": {
+      "Ja": "ブリッツラッド討伐\nクリアパックIV",
+      "En": "Blitzrad Hunt\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000551004,
+    "OrderNo": 4,
+    "ResourceId": 551004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001973,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 551,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 552001,
+    "Name": {
+      "Ja": "ポータルバトル！アンジールペナンス\nクリアパックI",
+      "En": "Portal Battle: Angeal Penance\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000552001,
+    "OrderNo": 1,
+    "ResourceId": 552001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001974,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 552,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 552002,
+    "Name": {
+      "Ja": "ポータルバトル！アンジールペナンス\nクリアパックII",
+      "En": "Portal Battle: Angeal Penance\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000552002,
+    "OrderNo": 2,
+    "ResourceId": 552002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001975,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 552,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 552003,
+    "Name": {
+      "Ja": "ポータルバトル！アンジールペナンス\nクリアパックIII",
+      "En": "Portal Battle: Angeal Penance\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000552003,
+    "OrderNo": 3,
+    "ResourceId": 552003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001976,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 552,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 552004,
+    "Name": {
+      "Ja": "ポータルバトル！アンジールペナンス\nクリアパックIV",
+      "En": "Portal Battle: Angeal Penance\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000552004,
+    "OrderNo": 4,
+    "ResourceId": 552004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001977,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 552,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 553001,
+    "Name": {
+      "Ja": "高笑いする魔導士ケフカ\nクリアパックI",
+      "En": "Cackling Court Mage Kefka\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000553001,
+    "OrderNo": 1,
+    "ResourceId": 553001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001978,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 553,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 553002,
+    "Name": {
+      "Ja": "高笑いする魔導士ケフカ\nクリアパックII",
+      "En": "Cackling Court Mage Kefka\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000553002,
+    "OrderNo": 2,
+    "ResourceId": 553002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001979,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 553,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 553003,
+    "Name": {
+      "Ja": "高笑いする魔導士ケフカ\nクリアパックIII",
+      "En": "Cackling Court Mage Kefka\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000553003,
+    "OrderNo": 3,
+    "ResourceId": 553003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001980,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 553,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 553004,
+    "Name": {
+      "Ja": "高笑いする魔導士ケフカ\nクリアパックIV",
+      "En": "Cackling Court Mage Kefka\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000553004,
+    "OrderNo": 4,
+    "ResourceId": 553004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001981,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 553,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 554001,
+    "Name": {
+      "Ja": "カムバック記念パック",
+      "En": "Comeback Celebration Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000554001,
+    "OrderNo": 1,
+    "ResourceId": 502001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001982,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 554,
+    "ResetId": 44,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 555001,
+    "Name": {
+      "Ja": "カムバック記念パック",
+      "En": "Comeback Celebration Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000555001,
+    "OrderNo": 1,
+    "ResourceId": 503001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001983,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 555,
+    "ResetId": 45,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 556001,
+    "Name": {
+      "Ja": "カムバック記念パック",
+      "En": "Comeback Celebration Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000556001,
+    "OrderNo": 1,
+    "ResourceId": 504001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001984,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 556,
+    "ResetId": 46,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 557001,
+    "Name": {
+      "Ja": "カムバック★5武器確定ガチャチケットパック",
+      "En": "Comeback 5★ Wpn. Guaranteed Draw Ticket Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000557001,
+    "OrderNo": 1,
+    "ResourceId": 530001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001985,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 557,
+    "ResetId": 46,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 558001,
+    "Name": {
+      "Ja": "カムバックスタミナパック",
+      "En": "Comeback Stamina Pack"
+    },
+    "LimitedReleaseTriggerSourceType": 1,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000558001,
+    "OrderNo": 1,
+    "ResourceId": 531001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001986,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 558,
+    "ResetId": 46,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 559001,
+    "Name": {
+      "Ja": "海賊王の挑戦状\nクリアパックI",
+      "En": "The Pirate King's Challenge\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000559001,
+    "OrderNo": 1,
+    "ResourceId": 559001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001987,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 559,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 559002,
+    "Name": {
+      "Ja": "海賊王の挑戦状\nクリアパックII",
+      "En": "The Pirate King's Challenge\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000559002,
+    "OrderNo": 2,
+    "ResourceId": 559002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001988,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 559,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 559003,
+    "Name": {
+      "Ja": "海賊王の挑戦状\nクリアパックIII",
+      "En": "The Pirate King's Challenge\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000559003,
+    "OrderNo": 3,
+    "ResourceId": 559003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001989,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 559,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 559004,
+    "Name": {
+      "Ja": "海賊王の挑戦状\nクリアパックIV",
+      "En": "The Pirate King's Challenge\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000559004,
+    "OrderNo": 4,
+    "ResourceId": 559004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001990,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 559,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 560001,
+    "Name": {
+      "Ja": "渚のユフィ出撃\nクリアパックI",
+      "En": "Beach Time Yuffie Showdown\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000560001,
+    "OrderNo": 1,
+    "ResourceId": 560001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001991,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 560,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 560002,
+    "Name": {
+      "Ja": "渚のユフィ出撃\nクリアパックII",
+      "En": "Beach Time Yuffie Showdown\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000560002,
+    "OrderNo": 2,
+    "ResourceId": 560002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001992,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 560,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 560003,
+    "Name": {
+      "Ja": "渚のユフィ出撃\nクリアパックIII",
+      "En": "Beach Time Yuffie Showdown\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000560003,
+    "OrderNo": 3,
+    "ResourceId": 560003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001993,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 560,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 560004,
+    "Name": {
+      "Ja": "渚のユフィ出撃\nクリアパックIV",
+      "En": "Beach Time Yuffie Showdown\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000560004,
+    "OrderNo": 4,
+    "ResourceId": 560004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001994,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 560,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 561001,
+    "Name": {
+      "Ja": "物知りスライムと熱演のソルジャー\nクリアパックI",
+      "En": "The All-knowing Slime and \nthe Thespian SOLDIER\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000561001,
+    "OrderNo": 1,
+    "ResourceId": 561001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001995,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 561,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 561002,
+    "Name": {
+      "Ja": "物知りスライムと熱演のソルジャー\nクリアパックII",
+      "En": "The All-knowing Slime and \nthe Thespian SOLDIER\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000561002,
+    "OrderNo": 2,
+    "ResourceId": 561002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001996,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 561,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 561003,
+    "Name": {
+      "Ja": "物知りスライムと熱演のソルジャー\nクリアパックIII",
+      "En": "The All-knowing Slime and \nthe Thespian SOLDIER\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000561003,
+    "OrderNo": 3,
+    "ResourceId": 561003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001997,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 561,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 561004,
+    "Name": {
+      "Ja": "物知りスライムと熱演のソルジャー\nクリアパックIV",
+      "En": "The All-knowing Slime and \nthe Thespian SOLDIER\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000561004,
+    "OrderNo": 4,
+    "ResourceId": 561004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001998,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 561,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 562001,
+    "Name": {
+      "Ja": "ラディ・ナ・キウ討伐\nクリアパックI",
+      "En": "Rhad N'akiu Hunt\nCompletion Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620000562001,
+    "OrderNo": 1,
+    "ResourceId": 562001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101010001,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 562,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 562002,
+    "Name": {
+      "Ja": "ラディ・ナ・キウ討伐\nクリアパックII",
+      "En": "Rhad N'akiu Hunt\nCompletion Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620000562002,
+    "OrderNo": 2,
+    "ResourceId": 562002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101010002,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 562,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 562003,
+    "Name": {
+      "Ja": "ラディ・ナ・キウ討伐\nクリアパックIII",
+      "En": "Rhad N'akiu Hunt\nCompletion Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620000562003,
+    "OrderNo": 3,
+    "ResourceId": 562003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101010003,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 562,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 562004,
+    "Name": {
+      "Ja": "ラディ・ナ・キウ討伐\nクリアパックIV",
+      "En": "Rhad N'akiu Hunt\nCompletion Pack IV"
+    },
+    "LimitedReleaseTriggerSourceType": 2,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620000562004,
+    "OrderNo": 4,
+    "ResourceId": 562004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101010004,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 562,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   },
@@ -14854,6 +15538,1431 @@
     "ReleaseDurationMinute": 720,
     "LimitedReleaseDirectionType": 2,
     "LimitedReleaseGroupId": 1108,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1111001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001111001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005455,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1111,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1111002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5パイレーツグレイブパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Pirate's Glaive Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001111002,
+    "OrderNo": 2,
+    "ResourceId": 1111002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005456,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1111,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1111003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001111003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005457,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1111,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1111004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5パイレーツグレイブパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Pirate's Glaive Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001111004,
+    "OrderNo": 4,
+    "ResourceId": 1111004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005458,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1111,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1111005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001111005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005459,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1111,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1112001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001112001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005460,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1112,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1112002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ミスリルスラッシャーパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Mythril Slasher Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001112002,
+    "OrderNo": 2,
+    "ResourceId": 1112002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005461,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1112,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1112003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001112003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005462,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1112,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1112004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ミスリルスラッシャーパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Mythril Slasher Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001112004,
+    "OrderNo": 4,
+    "ResourceId": 1112004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005463,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1112,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1112005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001112005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005464,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1112,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1113001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001113001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005465,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1113,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1113002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5セレイトレミジーズパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Serrated Remiges Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001113002,
+    "OrderNo": 2,
+    "ResourceId": 1113002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005466,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1113,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1113003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001113003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005467,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1113,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1113004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5セレイトレミジーズパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Serrated Remiges Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001113004,
+    "OrderNo": 4,
+    "ResourceId": 1113004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005468,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1113,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1113005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001113005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005469,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1113,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1114001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001114001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005470,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1114,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1114002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5デロプラティスパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Deroplatys Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001114002,
+    "OrderNo": 2,
+    "ResourceId": 1114002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005471,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1114,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1114003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001114003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005472,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1114,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1114004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5デロプラティスパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Deroplatys Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001114004,
+    "OrderNo": 4,
+    "ResourceId": 1114004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005473,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1114,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1114005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001114005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005474,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1114,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1115001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001115001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005475,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1115,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1115002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ぎゅいいんギターパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Rocker's Guitar Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001115002,
+    "OrderNo": 2,
+    "ResourceId": 1115002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005476,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1115,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1115003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001115003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005477,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1115,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1115004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ぎゅいいんギターパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Rocker's Guitar Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001115004,
+    "OrderNo": 4,
+    "ResourceId": 1115004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005478,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1115,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1115005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001115005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005479,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1115,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1116001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001116001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005480,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1116,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1116002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5フルスロットルパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Full Throttle Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001116002,
+    "OrderNo": 2,
+    "ResourceId": 1116002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005481,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1116,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1116003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001116003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005482,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1116,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1116004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5フルスロットルパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Full Throttle Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001116004,
+    "OrderNo": 4,
+    "ResourceId": 1116004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005483,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1116,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1116005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001116005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005484,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1116,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1117001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001117001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005485,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1117,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1117002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5マーメイドロッドパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Mermaid Rod Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001117002,
+    "OrderNo": 2,
+    "ResourceId": 1117002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005486,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1117,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1117003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001117003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005487,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1117,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1117004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5マーメイドロッドパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Mermaid Rod Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001117004,
+    "OrderNo": 4,
+    "ResourceId": 1117004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005488,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1117,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1117005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001117005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005489,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1117,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1118001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001118001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005490,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1118,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1118002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5シャイングローブパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Shining Gloves Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001118002,
+    "OrderNo": 2,
+    "ResourceId": 1118002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005491,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1118,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1118003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001118003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005492,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1118,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1118004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5シャイングローブパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Shining Gloves Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001118004,
+    "OrderNo": 4,
+    "ResourceId": 1118004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005493,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1118,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1118005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001118005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005494,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1118,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1119001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001119001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005495,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1119,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1119002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ソードフロートパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Inflatable Buster Sword Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001119002,
+    "OrderNo": 2,
+    "ResourceId": 1119002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005496,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1119,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1119003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001119003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005497,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1119,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1119004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ソードフロートパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Inflatable Buster Sword Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001119004,
+    "OrderNo": 4,
+    "ResourceId": 1119004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005498,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1119,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1119005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001119005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005499,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1119,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1120001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001120001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005500,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1120,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1120002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5神羅軍儀礼銃パック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Shinra Ceremonial Rifle Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001120002,
+    "OrderNo": 2,
+    "ResourceId": 1120002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005501,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1120,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1120003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001120003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005502,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1120,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1120004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5神羅軍儀礼銃パック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Shinra Ceremonial Rifle Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001120004,
+    "OrderNo": 4,
+    "ResourceId": 1120004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005503,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1120,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1120005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001120005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005504,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1120,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1121001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001121001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005505,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1121,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1121002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5サーフィンブレードパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Surfer Blade Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001121002,
+    "OrderNo": 2,
+    "ResourceId": 1121002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005506,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1121,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1121003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001121003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005507,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1121,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1121004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5サーフィンブレードパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Surfer Blade Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001121004,
+    "OrderNo": 4,
+    "ResourceId": 1121004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005508,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1121,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1121005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001121005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005509,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1121,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1122001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001122001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005510,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1122,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1122002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ロトのつるぎパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Erdrick's Sword Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001122002,
+    "OrderNo": 2,
+    "ResourceId": 1122002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005511,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1122,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1122003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001122003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005512,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1122,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1122004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5ロトのつるぎパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Erdrick's Sword Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001122004,
+    "OrderNo": 4,
+    "ResourceId": 1122004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005513,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1122,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1122005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001122005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005514,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1122,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1123001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001123001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005515,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1123,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1123002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5大賢者の杖パック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Supreme Sage's Staff Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001123002,
+    "OrderNo": 2,
+    "ResourceId": 1123002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005516,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1123,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1123003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001123003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005517,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1123,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1123004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5大賢者の杖パック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Supreme Sage's Staff Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001123004,
+    "OrderNo": 4,
+    "ResourceId": 1123004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005518,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1123,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1123005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001123005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005519,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1123,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1124001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001124001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005520,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1124,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1124002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5天空のつるぎパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Zenithian Sword Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001124002,
+    "OrderNo": 2,
+    "ResourceId": 1124002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005521,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1124,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1124003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001124003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005522,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1124,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1124004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5天空のつるぎパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Zenithian Sword Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001124004,
+    "OrderNo": 4,
+    "ResourceId": 1124004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005523,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1124,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1124005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001124005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005524,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1124,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1125001,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック I",
+      "En": "Legendary Premium Draw Ticket Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 1,
+    "ReleaseConditionSetId": 620001125001,
+    "OrderNo": 1,
+    "ResourceId": 1036001,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005525,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1125,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1125002,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5まかいのつるぎパック I",
+      "En": "5<sprite=\"tmp_icon\" index=196> Pandemonic Sword Pack I"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 2,
+    "ReleaseConditionSetId": 620001125002,
+    "OrderNo": 2,
+    "ResourceId": 1125002,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005526,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1125,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1125003,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック II",
+      "En": "Legendary Premium Draw Ticket Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 3,
+    "ReleaseConditionSetId": 620001125003,
+    "OrderNo": 3,
+    "ResourceId": 1036003,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005527,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1125,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1125004,
+    "Name": {
+      "Ja": "<sprite=\"tmp_icon\" index=196>5まかいのつるぎパック II",
+      "En": "5<sprite=\"tmp_icon\" index=196> Pandemonic Sword Pack II"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 4,
+    "ReleaseConditionSetId": 620001125004,
+    "OrderNo": 4,
+    "ResourceId": 1125004,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005528,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1125,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
+    "Id": 1125005,
+    "Name": {
+      "Ja": "レジェンダリープレミアムガチャチケットパック III",
+      "En": "Legendary Premium Draw Ticket Pack III"
+    },
+    "LimitedReleaseTriggerSourceType": 11,
+    "Seq": 5,
+    "ReleaseConditionSetId": 620001125005,
+    "OrderNo": 5,
+    "ResourceId": 1036005,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101005529,
+    "ReleaseDurationMinute": 720,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 1125,
     "ResetId": 0,
     "LimitedReleaseRemindGroupId": 0
   }

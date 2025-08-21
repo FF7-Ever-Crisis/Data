@@ -759,7 +759,7 @@
     "Id": 262,
     "Name": {
       "Ja": "復刻リミットブレイクウェア交換所",
-      "En": "Returning Limit Break Gear"
+      "En": "Reawakened Limit Break Gear"
     },
     "ShopGroupCategory": 2,
     "OrderNo": 9982,
@@ -807,8 +807,8 @@
     "OrderNo": 9981,
     "ResourceId": 265,
     "ShopGroupNotiType": 0,
-    "DisplayConditionSetId": 650000000265,
-    "LockConditionSetId": 650000000265,
+    "DisplayConditionSetId": 100,
+    "LockConditionSetId": 100,
     "ShopGroupClusterId": 2
   },
   {
@@ -843,7 +843,7 @@
     "Id": 268,
     "Name": {
       "Ja": "復刻リミットブレイクメダル交換所",
-      "En": "Reawakend: Limit Break Medal Exchange"
+      "En": "Reawakened: LB Medal Exchange"
     },
     "ShopGroupCategory": 2,
     "OrderNo": 5,
@@ -938,6 +938,188 @@
     "ShopGroupClusterId": 3
   },
   {
+    "Id": 278,
+    "Name": {
+      "Ja": "ポータルバトル交換所",
+      "En": "Portal Battle Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 2,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "ShopGroupClusterId": 3
+  },
+  {
+    "Id": 281,
+    "Name": {
+      "Ja": "1,100万DL記念ウェアメダル交換所",
+      "En": "11 Million DL Gear Medal Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9976,
+    "ResourceId": 281,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000281,
+    "LockConditionSetId": 650000000281,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 284,
+    "Name": {
+      "Ja": "復刻 FFVIコラボ交換所",
+      "En": "Reawakened: FFVI Crossover"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 2,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "ShopGroupClusterId": 3
+  },
+  {
+    "Id": 285,
+    "Name": {
+      "Ja": "復刻LBウェア交換所（ビギナー応援）",
+      "En": "Reawakened LB Gear Exch. (Beginners)"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9978,
+    "ResourceId": 285,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000285,
+    "LockConditionSetId": 650000000285,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 287,
+    "Name": {
+      "Ja": "弐の騒乱交換所",
+      "En": "The Second Clash"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9990,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000287,
+    "LockConditionSetId": 650000000287,
+    "ShopGroupClusterId": 3
+  },
+  {
+    "Id": 288,
+    "Name": {
+      "Ja": "FFVIコラボウェア交換所",
+      "En": "FFVI Crossover Gear Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9977,
+    "ResourceId": 288,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000288,
+    "LockConditionSetId": 650000000288,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 289,
+    "Name": {
+      "Ja": "サマーイベント交換所",
+      "En": "Summer Event Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 2,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "ShopGroupClusterId": 3
+  },
+  {
+    "Id": 290,
+    "Name": {
+      "Ja": "参の騒乱交換所",
+      "En": "The Third Clash"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9990,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000290,
+    "LockConditionSetId": 650000000290,
+    "ShopGroupClusterId": 3
+  },
+  {
+    "Id": 292,
+    "Name": {
+      "Ja": "FFVII REBIRTHコラボウェア交換所",
+      "En": "FFVII REBIRTH Crossover Gear Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9974,
+    "ResourceId": 292,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000292,
+    "LockConditionSetId": 650000000292,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 293,
+    "Name": {
+      "Ja": "水着ウェア交換所",
+      "En": "Swimwear Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9973,
+    "ResourceId": 293,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000293,
+    "LockConditionSetId": 650000000293,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 294,
+    "Name": {
+      "Ja": "DQタクトコラボカウントダウン交換所",
+      "En": "DQ TACT Crossover Countdown"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9972,
+    "ResourceId": 294,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 330000294001,
+    "LockConditionSetId": 330000294001,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 295,
+    "Name": {
+      "Ja": "復刻LB&サマーウェア交換所",
+      "En": "Reawakened LB & Summer Gear"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9970,
+    "ResourceId": 295,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000295,
+    "LockConditionSetId": 650000000295,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 298,
+    "Name": {
+      "Ja": "DQタクトコラボイベント交換所",
+      "En": "DQ TACT Crossover Event Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 2,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "ShopGroupClusterId": 3
+  },
+  {
     "Id": 301,
     "Name": {
       "Ja": "ウェア交換所",
@@ -978,6 +1160,48 @@
     "DisplayConditionSetId": 650000000206,
     "LockConditionSetId": 650000000206,
     "ShopGroupClusterId": 0
+  },
+  {
+    "Id": 308,
+    "Name": {
+      "Ja": "ギル交換所",
+      "En": "Gil Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 6,
+    "ResourceId": 308,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "ShopGroupClusterId": 1
+  },
+  {
+    "Id": 309,
+    "Name": {
+      "Ja": "四の騒乱交換所",
+      "En": "The Fourth Clash"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9990,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000309,
+    "LockConditionSetId": 650000000309,
+    "ShopGroupClusterId": 3
+  },
+  {
+    "Id": 311,
+    "Name": {
+      "Ja": "DQタクトコラボ武器交換所",
+      "En": "DQ TACT Crossover Wpn. Exchange"
+    },
+    "ShopGroupCategory": 2,
+    "OrderNo": 9971,
+    "ResourceId": 311,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000311,
+    "LockConditionSetId": 650000000311,
+    "ShopGroupClusterId": 2
   },
   {
     "Id": 501,

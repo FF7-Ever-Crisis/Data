@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 10000,
+    "Name": {
+      "Ja": "CRASH（シングル）",
+      "En": "Crash Battle (Solo)"
+    },
+    "Description": {
+      "Ja": "{0}累計{1}回クリア",
+      "En": "Clear the {0} {1} time(s)."
+    },
+    "AwardType": 4,
+    "DisplayConditionSetId": 0,
+    "OrderNo": 1
+  },
+  {
+    "Id": 20000,
+    "Name": {
+      "Ja": "CRASH（マルチ）",
+      "En": "Crash Battle (Co-op)"
+    },
+    "Description": {
+      "Ja": "{0}累計{1}回クリア",
+      "En": "Clear the {0} {1} time(s)."
+    },
+    "AwardType": 5,
+    "DisplayConditionSetId": 0,
+    "OrderNo": 2
+  },
+  {
+    "Id": 30000,
+    "Name": {
+      "Ja": "エクシードチャレンジ",
+      "En": "Escalation Challenge"
+    },
+    "Description": {
+      "Ja": "{0}レベル20以上累計{1}回クリア",
+      "En": "Clear Lv. 20 or higher of the {0} {1} time(s)."
+    },
+    "AwardType": 6,
+    "DisplayConditionSetId": 0,
+    "OrderNo": 3
+  },
+  {
+    "Id": 40000,
+    "Name": {
+      "Ja": "バトルランキング",
+      "En": "Battle Ranking"
+    },
+    "Description": {
+      "Ja": "{0}20位以内入賞{1}回",
+      "En": "Place within the top 20 in the {0} {1} time(s)."
+    },
+    "AwardType": 2,
+    "DisplayConditionSetId": 0,
+    "OrderNo": 4
+  },
+  {
+    "Id": 50000,
+    "Name": {
+      "Ja": "ダンジョンランキング",
+      "En": "Dungeon Ranking"
+    },
+    "Description": {
+      "Ja": "{0}20位以内入賞{1}回",
+      "En": "Place within the top 20 in the {0} {1} time(s)."
+    },
+    "AwardType": 1,
+    "DisplayConditionSetId": 0,
+    "OrderNo": 5
+  },
+  {
+    "Id": 60000,
+    "Name": {
+      "Ja": "ギルドランキング",
+      "En": "Guild Ranking"
+    },
+    "Description": {
+      "Ja": "{0}10位以内入賞{1}回",
+      "En": "Place within the top 10 in the {0} {1} time(s)."
+    },
+    "AwardType": 3,
+    "DisplayConditionSetId": 0,
+    "OrderNo": 6
+  }
+]

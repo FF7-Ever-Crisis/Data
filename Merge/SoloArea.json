@@ -86,8 +86,8 @@
   {
     "Id": 101101,
     "Name": {
-      "Ja": "上限解放素材 ナノキューブ",
-      "En": "LV Uncap - Nanocube"
+      "Ja": "上限解放素材 キューブ",
+      "En": "LV Uncap - Cube"
     },
     "SoloAreaGroupId": 1011,
     "OrderNo": 15,
@@ -240,8 +240,8 @@
   {
     "Id": 102601,
     "Name": {
-      "Ja": "[高位]上限解放素材ゲノムポッド",
-      "En": "[Premium] LV Uncap - Genome Pod"
+      "Ja": " [高位]武器強化&上限解放素材 ゲノムポッド",
+      "En": "[Prm.] Wpn. Enh. & Uncap - Genome Pod"
     },
     "SoloAreaGroupId": 1026,
     "OrderNo": 16,
@@ -254,8 +254,8 @@
   {
     "Id": 102701,
     "Name": {
-      "Ja": "[高位]上限解放素材ナノキューブ",
-      "En": "[Premium] LV Uncap - Nanocube"
+      "Ja": " [高位]武器強化&上限解放素材 キューブ",
+      "En": "[Prm.] Wpn. Enh. & Uncap - Cube"
     },
     "SoloAreaGroupId": 1027,
     "OrderNo": 15,
@@ -318,6 +318,20 @@
     "ResourceId": 103201,
     "DisplayConditionSetId": 0,
     "LockConditionSetId": 160000000016,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 103301,
+    "Name": {
+      "Ja": "武器強化&上限解放素材",
+      "En": "Weapon Enhancement & LV Uncap"
+    },
+    "SoloAreaGroupId": 1033,
+    "OrderNo": 7,
+    "ResourceId": 101501,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 480000103301,
     "ResetMaxWinCount": 0,
     "WinResetId": 0
   },
@@ -444,6 +458,20 @@
     "ResourceId": 110152,
     "DisplayConditionSetId": 0,
     "LockConditionSetId": 480000110152,
+    "ResetMaxWinCount": 0,
+    "WinResetId": 0
+  },
+  {
+    "Id": 110153,
+    "Name": {
+      "Ja": "リヴァイアサン＆バハムート",
+      "En": "Leviathan & Bahamut"
+    },
+    "SoloAreaGroupId": 1102,
+    "OrderNo": 1,
+    "ResourceId": 110153,
+    "DisplayConditionSetId": 470000110153,
+    "LockConditionSetId": 480000110153,
     "ResetMaxWinCount": 0,
     "WinResetId": 0
   }

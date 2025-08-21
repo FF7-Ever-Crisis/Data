@@ -3069,6 +3069,32 @@
   },
   {
     "Title": {
+      "Ja": "ダメージサイン",
+      "En": "Damage Sigils"
+    },
+    "Description": {
+      "Ja": "ストリームフェイズ中、<command_color=common_03>ダメージサインに対応したサインを持つアビリティで攻撃</color>することで、\nそのアビリティが持つ<command_color=common_03>サイン破壊数に応じてダメージボーナスが増加</color>します。\nダメージボーナスを増加させた状態でインタラプトした場合、\nインタラプトの発生中、<command_color=common_03>ダメージボーナスによって敵に与えるダメージが上昇</color>します。\nダメージボーナスの増加量や上限は敵によって異なります。",
+      "En": "During stream phase, <command_color=common_03>using an ability with a sigil corresponding to a damage sigil will increase your damage bonus based on the amount of sigils destroyed by that ability</color>. If you interrupt an enemy while the damage bonus increase is active, <command_color=common_03>you will deal more damage for as long as the enemy is in an interrupted state</color>. The damage bonus increase and its limit will vary depending on the enemy."
+    },
+    "TutorialPopupGroupId": 300000018,
+    "Seq": 1,
+    "ResourceId": 3000000181
+  },
+  {
+    "Title": {
+      "Ja": "アライズトリガー",
+      "En": "Trigger Markers"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>ストリームフェイズの進行がゲージ上に点在するトリガー</color>まで到達すると、\n<command_color=common_03>敵の強力な大技が発動</color>します。\nトリガーに到達する前に、ストリームフェイズを<command_color=common_03>インタラプトすることで回避</color>できます。",
+      "En": "During stream phase, when the timer gauge advances to a <command_color=common_03>\"trigger\" marker</color>, the enemy <command_color=common_03>unleashes a powerful ability</color>. You can cancel these abilities by <command_color=common_03>interrupting</color> the stream phase before it reaches the marker."
+    },
+    "TutorialPopupGroupId": 300000019,
+    "Seq": 1,
+    "ResourceId": 3000000191
+  },
+  {
+    "Title": {
       "Ja": "フォースゲージ「CHARGE」",
       "En": "Force Gauge: Charge"
     },
@@ -3615,6 +3641,71 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「CURSE CHANT」",
+      "En": "Force Gauge: Curse Chant"
+    },
+    "Description": {
+      "Ja": "フォースゲージの量が多いほど敵の「<command_color=common_03>物攻</color>」が上昇している状態です。\n敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージを減らすほど、<command_color=common_03>敵の強力なアビリティの威力を軽減する</color>ことができます。",
+      "En": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>.\n"
+    },
+    "TutorialPopupGroupId": 310000044,
+    "Seq": 1,
+    "ResourceId": 3100000441
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「URAMESHIYA」",
+      "En": "Force Gauge: Grudge"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, <command_color=common_03>some of the enemy's abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000045,
+    "Seq": 1,
+    "ResourceId": 3100000451
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「JENOVA BARRIER」",
+      "En": "Force Gauge: Jenova Barrier"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与えると</color>フォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000046,
+    "Seq": 1,
+    "ResourceId": 3100000461
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「DEMON WALL」",
+      "En": "Force Gauge: Demonic Wall"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージが最大までたまると<command_color=common_03>敵のアビリティ「ファイナルゲイト」が発動</color>します。\nフォースゲージは<command_color=common_03>時間経過、および敵がアビリティを使用する</color>ことでたまっていきます。",
+      "En": "The enemy's force gauge fills over time and as they use their abilities. When the gauge is full, they will unleash the ability <command_color=common_03>Final Throes</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge."
+    },
+    "TutorialPopupGroupId": 310000047,
+    "Seq": 1,
+    "ResourceId": 3100000471
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「MAGIC POWER」",
+      "En": "Force Gauge: Magic Power"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージが一定以上ある状態だと<command_color=common_03>敵のアビリティ「ジゴスパーク」を発動</color>してきます。\n<command_color=common_03>「ジゴスパーク」を発動されるとフォースゲージが減少</color>します。\nフォースゲージは<command_color=common_03>時間経過</color>でたまっていきます。",
+      "En": "The enemy's force gauge fills over time. When the gauge fills to a certain amount, they will unleash the ability <command_color=common_03>Lightning Storm</color>, which will deplete the gauge. The gauge can also be depleted by <command_color=common_03>dealing damage</color> to the enemy."
+    },
+    "TutorialPopupGroupId": 310000048,
+    "Seq": 1,
+    "ResourceId": 3100000481
+  },
+  {
+    "Title": {
       "Ja": "状態異常【恐怖】",
       "En": "Status Ailment: Dread"
     },
@@ -3664,5 +3755,18 @@
     "TutorialPopupGroupId": 320000004,
     "Seq": 1,
     "ResourceId": 3200000041
+  },
+  {
+    "Title": {
+      "Ja": "状態異常【必殺封印】",
+      "En": "Status Ailment: Ability Restraint"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>付与された対象はCアビリティ以外の各種アビリティが使用不能</color>な状態となります。\n付与されている状態でも<command_color=common_03>Cアビリティを使用した際にLBゲージは増加</color>し、\n<command_color=common_03>オーバーアクセルやUCアビリティのチャージタイムは時間経過によって減少</color>します。",
+      "En": "Target becomes <command_color=common_03>unable to use abilities aside from C. abilities</color>. Even while affected, the <command_color=common_03>limit gauge</color> will still be filled when C. abilities are used.  <command_color=common_03>Overspeeds and U. C. abilities</color> will still be charged over time."
+    },
+    "TutorialPopupGroupId": 320000005,
+    "Seq": 1,
+    "ResourceId": 3200000051
   }
 ]

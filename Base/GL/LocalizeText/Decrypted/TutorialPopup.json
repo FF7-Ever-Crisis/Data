@@ -889,6 +889,14 @@
             "value": "Doom"
         },
         {
+            "id": 970003000000181,
+            "value": "Damage Sigils"
+        },
+        {
+            "id": 970003000000191,
+            "value": "Trigger Markers"
+        },
+        {
             "id": 970003100000011,
             "value": "Force Gauge: Charge"
         },
@@ -1057,6 +1065,26 @@
             "value": "Force Gauge: Leadership"
         },
         {
+            "id": 970003100000441,
+            "value": "Force Gauge: Curse Chant"
+        },
+        {
+            "id": 970003100000451,
+            "value": "Force Gauge: Grudge"
+        },
+        {
+            "id": 970003100000461,
+            "value": "Force Gauge: Jenova Barrier"
+        },
+        {
+            "id": 970003100000471,
+            "value": "Force Gauge: Demonic Wall"
+        },
+        {
+            "id": 970003100000481,
+            "value": "Force Gauge: Magic Power"
+        },
+        {
             "id": 970003200000011,
             "value": "Status Ailment: Dread"
         },
@@ -1071,6 +1099,10 @@
         {
             "id": 970003200000041,
             "value": "Status Ailment: Stop"
+        },
+        {
+            "id": 970003200000051,
+            "value": "Status Ailment: Ability Restraint"
         },
         {
             "id": 971000101400101,
@@ -1485,6 +1517,14 @@
             "value": "When a character is inflicted with Doom, a counter will appear above their head. When it expires, <command_color=common_03>their HP will be forcibly reduced to 0</color>. <command_color=common_03>Doom is canceled</color> when transitioning to the next wave, or if the battle ends."
         },
         {
+            "id": 971003000000181,
+            "value": "During stream phase, <command_color=common_03>using an ability with a sigil corresponding to a damage sigil will increase your damage bonus based on the amount of sigils destroyed by that ability</color>. If you interrupt an enemy while the damage bonus increase is active, <command_color=common_03>you will deal more damage for as long as the enemy is in an interrupted state</color>. The damage bonus increase and its limit will vary depending on the enemy."
+        },
+        {
+            "id": 971003000000191,
+            "value": "During stream phase, when the timer gauge advances to a <command_color=common_03>\"trigger\" marker</color>, the enemy <command_color=common_03>unleashes a powerful ability</color>. You can cancel these abilities by <command_color=common_03>interrupting</color> the stream phase before it reaches the marker."
+        },
+        {
             "id": 971003100000011,
             "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>ATK</color>.\n \n<command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time."
         },
@@ -1653,6 +1693,26 @@
             "value": "<command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of her abilities will be canceled</color>."
         },
         {
+            "id": 971003100000441,
+            "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>.\n"
+        },
+        {
+            "id": 971003100000451,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, <command_color=common_03>some of the enemy's abilities will be canceled</color>."
+        },
+        {
+            "id": 971003100000461,
+            "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+        },
+        {
+            "id": 971003100000471,
+            "value": "The enemy's force gauge fills over time and as they use their abilities. When the gauge is full, they will unleash the ability <command_color=common_03>Final Throes</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge."
+        },
+        {
+            "id": 971003100000481,
+            "value": "The enemy's force gauge fills over time. When the gauge fills to a certain amount, they will unleash the ability <command_color=common_03>Lightning Storm</color>, which will deplete the gauge. The gauge can also be depleted by <command_color=common_03>dealing damage</color> to the enemy."
+        },
+        {
             "id": 971003200000011,
             "value": "Depending on the number of characters afflicted with <command_color=common_03>dread</color>, <command_color=common_03>the speed at which the command gauge increases in Attack Stance will slow</color>. While afflicted, <command_color=common_03>Attack Stance perks</color> that boost damage and the amount of sigils destroyed <command_color=common_03>will be inactive</color>. Dread is canceled <command_color=common_03>when the command gauge is maxed out</color> in Attack Stance."
         },
@@ -1667,6 +1727,10 @@
         {
             "id": 971003200000041,
             "value": "When a target is afflicted with Stop, they become <command_color=common_03>incapacitated</color>.\nWhen an enemy is afflicted, time also stops during actions such as stream phase. The duration of the effect is reduced <command_color=common_03>every time it is cast on the same target</color>.\nWhen a character is afflicted, they are also prevented from using their abilities and filling their ATB gauge."
+        },
+        {
+            "id": 971003200000051,
+            "value": "Target becomes <command_color=common_03>unable to use abilities aside from C. abilities</color>. Even while affected, the <command_color=common_03>limit gauge</color> will still be filled when C. abilities are used.  <command_color=common_03>Overspeeds and U. C. abilities</color> will still be charged over time."
         }
     ]
 }

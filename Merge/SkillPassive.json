@@ -90,6 +90,16 @@
     "PassiveSkillCategoryType": 1
   },
   {
+    "Id": 11101,
+    "Name": {
+      "Ja": "味方全体HPアップ",
+      "En": "Boost HP (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 11101,
+    "ResourceId": 11101,
+    "PassiveSkillCategoryType": 4
+  },
+  {
     "Id": 11201,
     "Name": {
       "Ja": "味方全体物理攻撃力アップ",
@@ -210,6 +220,26 @@
     "PassiveSkillCategoryType": 2
   },
   {
+    "Id": 20305,
+    "Name": {
+      "Ja": "冷魔の奥義",
+      "En": "Frostspell Arcanum"
+    },
+    "PassiveSkillEffectGroupId": 20305,
+    "ResourceId": 20305,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 20307,
+    "Name": {
+      "Ja": "冷魔HPアップ奥義",
+      "En": "Frostspell Arcanum (HP+)"
+    },
+    "PassiveSkillEffectGroupId": 20307,
+    "ResourceId": 20305,
+    "PassiveSkillCategoryType": 4
+  },
+  {
     "Id": 20401,
     "Name": {
       "Ja": "雷属性威力アップ",
@@ -238,6 +268,16 @@
     "PassiveSkillEffectGroupId": 20405,
     "ResourceId": 20405,
     "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 20408,
+    "Name": {
+      "Ja": "味方全体雷属性威力アップ",
+      "En": "Boost Lightning Pot. (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 20408,
+    "ResourceId": 20408,
+    "PassiveSkillCategoryType": 2
   },
   {
     "Id": 20501,
@@ -318,6 +358,16 @@
     "PassiveSkillEffectGroupId": 20703,
     "ResourceId": 20703,
     "PassiveSkillCategoryType": 2
+  },
+  {
+    "Id": 20707,
+    "Name": {
+      "Ja": "風魔HPアップ奥義",
+      "En": "Windspell Arcanum (HP+)"
+    },
+    "PassiveSkillEffectGroupId": 20707,
+    "ResourceId": 20705,
+    "PassiveSkillCategoryType": 4
   },
   {
     "Id": 30201,
@@ -447,6 +497,16 @@
     },
     "PassiveSkillEffectGroupId": 51803,
     "ResourceId": 51803,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 51811,
+    "Name": {
+      "Ja": "味方全体ATBブースト",
+      "En": "ATB Boost (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 51811,
+    "ResourceId": 51811,
     "PassiveSkillCategoryType": 4
   },
   {
@@ -637,6 +697,16 @@
     },
     "PassiveSkillEffectGroupId": 53601,
     "ResourceId": 53601,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 53602,
+    "Name": {
+      "Ja": "味方全体インタラプトの奥義",
+      "En": "Interruption Arcanum (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 53602,
+    "ResourceId": 53602,
     "PassiveSkillCategoryType": 4
   },
   {
@@ -880,6 +950,26 @@
     "PassiveSkillCategoryType": 4
   },
   {
+    "Id": 56101,
+    "Name": {
+      "Ja": "総長マスク",
+      "En": "Team Leader's Mask"
+    },
+    "PassiveSkillEffectGroupId": 56101,
+    "ResourceId": 56101,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 56301,
+    "Name": {
+      "Ja": "海賊の肩当て",
+      "En": "Pirate Pauldrons"
+    },
+    "PassiveSkillEffectGroupId": 56301,
+    "ResourceId": 56301,
+    "PassiveSkillCategoryType": 4
+  },
+  {
     "Id": 56401,
     "Name": {
       "Ja": "ディフェンスブースト",
@@ -887,6 +977,126 @@
     },
     "PassiveSkillEffectGroupId": 56401,
     "ResourceId": 56401,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 56501,
+    "Name": {
+      "Ja": "ダークナイトマスク",
+      "En": "Dark Night Mask"
+    },
+    "PassiveSkillEffectGroupId": 56501,
+    "ResourceId": 56501,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 56701,
+    "Name": {
+      "Ja": "ピンキーな花飾り",
+      "En": "Pink Flower Pin"
+    },
+    "PassiveSkillEffectGroupId": 56701,
+    "ResourceId": 56701,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 56801,
+    "Name": {
+      "Ja": "シャインな花飾り",
+      "En": "Shining Flower Pin"
+    },
+    "PassiveSkillEffectGroupId": 56801,
+    "ResourceId": 56801,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 56901,
+    "Name": {
+      "Ja": "勇者の威光",
+      "En": "Hero's Aura"
+    },
+    "PassiveSkillEffectGroupId": 56901,
+    "ResourceId": 56901,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 57001,
+    "Name": {
+      "Ja": "賢者の英知",
+      "En": "Sage's Wisdom"
+    },
+    "PassiveSkillEffectGroupId": 57001,
+    "ResourceId": 57001,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 57101,
+    "Name": {
+      "Ja": "魔獣の本能",
+      "En": "Bestial Instinct"
+    },
+    "PassiveSkillEffectGroupId": 57101,
+    "ResourceId": 57101,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 57201,
+    "Name": {
+      "Ja": "天空の祝福",
+      "En": "Zenithian Blessing"
+    },
+    "PassiveSkillEffectGroupId": 57201,
+    "ResourceId": 57201,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 57301,
+    "Name": {
+      "Ja": "魔族の王",
+      "En": "Master of Monsterkind"
+    },
+    "PassiveSkillEffectGroupId": 57301,
+    "ResourceId": 57301,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 57401,
+    "Name": {
+      "Ja": "渚の守り人",
+      "En": "Beach Guardian"
+    },
+    "PassiveSkillEffectGroupId": 57401,
+    "ResourceId": 57401,
+    "PassiveSkillCategoryType": 1
+  },
+  {
+    "Id": 57501,
+    "Name": {
+      "Ja": "神羅の標章",
+      "En": "Shinra Insignia"
+    },
+    "PassiveSkillEffectGroupId": 57501,
+    "ResourceId": 57501,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 57601,
+    "Name": {
+      "Ja": "貝殻の首飾り",
+      "En": "Seashell Necklace"
+    },
+    "PassiveSkillEffectGroupId": 57601,
+    "ResourceId": 57601,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 57701,
+    "Name": {
+      "Ja": "ヘイストブースト",
+      "En": "Haste Boost"
+    },
+    "PassiveSkillEffectGroupId": 57701,
+    "ResourceId": 57701,
     "PassiveSkillCategoryType": 4
   }
 ]

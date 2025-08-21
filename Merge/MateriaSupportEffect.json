@@ -168,6 +168,18 @@
     "MateriaSupportEffectDetailId": 0
   },
   {
+    "Id": 20,
+    "Description": {
+      "Ja": "アタックシフト時、<sprite=\"tmp_icon\" index=69>サインマテリアのサイン一致破壊数<color=#76FBFD>＋{0}</color>",
+      "En": "<sprite=\"tmp_icon\" index=69> Sigils defeated by matching Sigil Materia during Attack Shift Count <color=#76FBFD>+{0}</color>"
+    },
+    "MateriaSupportEffectGroupId": 20,
+    "SupportEffectType": 14,
+    "SupportEffectTriggerType": 1,
+    "MateriaSupportEffectFilterGroupId": 3,
+    "MateriaSupportEffectDetailId": 0
+  },
+  {
     "Id": 510011,
     "Description": {
       "Ja": "ケアル系アビリティの対象が<color=#76FBFD>全体化</color>",
