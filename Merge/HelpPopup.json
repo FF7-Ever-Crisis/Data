@@ -621,8 +621,8 @@
       "En": "Enhancements"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「武器強化」</color>では、<command_color=common_03>所持している武器の強化</color>ができます。\n<command_color=common_03>「アルティメット武器強化」</color>では、<command_color=common_03>所持しているアルティメット武器の強化</color>ができます。\n<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>所持しているマテリアの強化と売却</color>ができます。\n<command_color=common_03>「マテリア合成」</color>では、<command_color=common_03>所持しているレシピからマテリアの合成</color>ができます。",
-      "En": "<command_color=common_03>Enhance Weapons</color> allows you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Ultimate Weapons</color> allows you to <command_color=common_03>strengthen your ultimate weapons.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
+      "Ja": "<command_color=common_03>「武器強化」「アルティメット武器強化」</color>では、<command_color=common_03>所持している武器の強化</color>ができます。\n<command_color=common_03>「メモリア強化」</color>では、<command_color=common_03>所持しているメモリアの強化</color>ができます。\n<command_color=common_03>「マテリア強化」</color>では、<command_color=common_03>所持しているマテリアの強化と売却</color>ができます。\n<command_color=common_03>「マテリア合成」</color>では、<command_color=common_03>所持しているレシピからマテリアの合成</color>ができます。",
+      "En": "<command_color=common_03>Enhance Weapons and Enhance Ultimate Weapons</color> allow you to <command_color=common_03>strengthen your weapons.</color>\n<command_color=common_03>Enhance Memoria</color> allows you to <command_color=common_03>strengthen and sell your memoria.</color>\n<command_color=common_03>Enhance Materia</color> allows you to <command_color=common_03>strengthen and sell your materia.</color>\n<command_color=common_03>Synthesis</color> allows you to <command_color=common_03>create materia with the recipes you have.</color>"
     },
     "HelpPopupGroupId": 14,
     "Seq": 1,
@@ -2067,6 +2067,81 @@
     "HelpPopupGroupId": 55,
     "Seq": 3,
     "ResourceId": 5503,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5601,
+    "Title": {
+      "Ja": "メモリア編成について",
+      "En": "Equipping Memoria"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>メモリア</color>を編成することでメモリア編成効果の<command_color=common_03>「ステータス」「Mアビリティ」</color>を得ることができ、パーティの「総戦力」が上昇します。",
+      "En": "By equipping a <command_color=common_03>memoria</color>, the party gains its stats and M. abilities, raising its total power."
+    },
+    "HelpPopupGroupId": 56,
+    "Seq": 1,
+    "ResourceId": 5601,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5602,
+    "Title": {
+      "Ja": "ステータスについて",
+      "En": "Memoria Stats"
+    },
+    "Description": {
+      "Ja": "メモリアの<command_color=common_03>「ステータス」</color>は、パーティに編成されている<command_color=common_03>全てのキャラクターのステータスを上昇</color>させます。\n<command_color=common_02>※マルチバトルでは自身のキャラクターのみに適用されます。</color>",
+      "En": "A memoria's <command_color=common_03>stats</color> are reflected on all characters in the party.\n<command_color=common_02>*Memoria only affect your character in co-op battles.</color>"
+    },
+    "HelpPopupGroupId": 56,
+    "Seq": 2,
+    "ResourceId": 5602,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5603,
+    "Title": {
+      "Ja": "Ｍ（メモリア）アビリティについて",
+      "En": "M. Abilities (Memoria Abilities)"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「Mアビリティ」</color>は、<command_color=common_03>パーティ全体を強化する効果</color>を持っています。\npt（ポイント）の合計によってレベルが上昇し、効果が高くなります。\n<command_color=common_02>※マルチバトルでは自身のキャラクターのみに適用されます。</color>",
+      "En": "<command_color=common_03>M. abilities</color> provide effects that <command_color=common_03>strengthen the entire party</color>. An M ability's level is determined by the total points (pts.) that it possesses. The higher an M. ability's level, the more potent its effect.\n<command_color=common_02>*Memoria only affect your character in co-op battles.</color>"
+    },
+    "HelpPopupGroupId": 56,
+    "Seq": 3,
+    "ResourceId": 5603,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5701,
+    "Title": {
+      "Ja": "メモリアの強化1",
+      "En": "Enhancing Memoria 1"
+    },
+    "Description": {
+      "Ja": "メモリア強化では<command_color=common_03>メモリア強化素材</color>を使って<command_color=common_03>メモリアを強化</color>することができます。\n<command_color=common_02>※メモリアには、重複獲得による成長要素やレアリティアップ・限界突破はありません。</color>",
+      "En": "Memoria enhancement allows you to strengthen your memoria using <command_color=common_03>memoria enhance materials</color>.\n<command_color=common_02>*Memoria are not enhanced or affected by duplicates, and there are no rarity upgrades or overboosts.</color>"
+    },
+    "HelpPopupGroupId": 57,
+    "Seq": 1,
+    "ResourceId": 5701,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5702,
+    "Title": {
+      "Ja": "メモリアの強化2",
+      "En": "Enhancing Memoria 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>装備中のメモリア</color>は<command_color=common_03>バトルをクリアすることで得られる経験値によって強化</color>することができます。\n<command_color=common_02>※一部のバトルではメモリアの経験値が獲得できません。</color>",
+      "En": "Your currently equipped memoria can also be enhanced by clearing battles and gaining memoria EXP.\n*Some battles do not grant memoria EXP."
+    },
+    "HelpPopupGroupId": 57,
+    "Seq": 2,
+    "ResourceId": 5702,
     "ConditionSetId": 0
   },
   {

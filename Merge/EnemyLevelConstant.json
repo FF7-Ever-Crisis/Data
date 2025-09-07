@@ -4093,7 +4093,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>包丁</color>] は<command_color=common_03>強力な固定ダメージ</color>を与えるが\nフォースゲージ [<command_color=emphasis>URAMESHIYA</color>] を0にすることで中断させられる。\nフォースゲージはダメージを与えることで減少する。\n\n\n\n\n\n\n\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>包丁</color>] は<command_color=common_03>強力な固定ダメージ</color>を与えるが\nフォースゲージ [<command_color=emphasis>URAMESHIYA</color>] を0にすることで中断させられる。\nフォースゲージはダメージを与えることで減少する。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nDeals <command_color=common_03>massive set damage</color> with <command_color=emphasis>Chef's Knife</color>, but it can be canceled by reducing Force Gauge: <command_color=emphasis>Grudge</color> to 0. The gauge can be depleted with damage."
     },
     "EnemyLevelConstantGroupId": 2049001,
@@ -4104,7 +4104,7 @@
   },
   {
     "BossCaution": {
-      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>包丁</color>] は<command_color=common_03>強力な固定ダメージ</color>を与えるが\nフォースゲージ [<command_color=emphasis>URAMESHIYA</color>] を0にすることで中断させられる。\nフォースゲージはダメージを与えることで減少する。\n\n\n\n\n\n\n\n",
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>包丁</color>] は<command_color=common_03>強力な固定ダメージ</color>を与えるが\nフォースゲージ [<command_color=emphasis>URAMESHIYA</color>] を0にすることで中断させられる。\nフォースゲージはダメージを与えることで減少する。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nDeals <command_color=common_03>massive set damage</color> with <command_color=emphasis>Chef's Knife</color>, but it can be canceled by reducing Force Gauge: <command_color=emphasis>Grudge</color> to 0. The gauge can be depleted with damage."
     },
     "EnemyLevelConstantGroupId": 2049002,
@@ -4155,6 +4155,17 @@
     "Level": 1,
     "ResourceId": 2051008010,
     "EnemySkillLevelId": 2051008010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n　　　<sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>ラムウ</color>のフォースゲージ [<command_color=emphasis>LIGHTNING</color>] を増加させる。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nFills <command_color=common_03>Ramuh</color>'s Force Gauge: <command_color=emphasis>Lightning</color>."
+    },
+    "EnemyLevelConstantGroupId": 2051009,
+    "Level": 1,
+    "ResourceId": 2051009010,
+    "EnemySkillLevelId": 2051009010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -6667,6 +6678,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<command_color=emphasis>IGNITION</color>] に応じて<command_color=common_03>炎属性威力</color>が変動する。\nフォースゲージは<command_color=common_03>冷属性アビリティ</color>でのみ減少する。\n[<command_color=emphasis>地獄の着火</color>] 中にサイン破壊を行うほど、\n[<command_color=emphasis>地獄の火炎</color>] の威力がダウンする。\n\n<command_color=common_03>冷属性アビリティ</color>、<command_color=common_03>炎属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \n<command_color=common_03>Fire potency</color> changes based on Force Gauge: <command_color=emphasis>Ignition</color>. The gauge can only be depleted with <command_color=common_03>ice-element abilities</color>. Destroying more sigils during <command_color=emphasis>Incinerate</color> lowers the potency of <command_color=emphasis>Hellfire</color>."
+    },
+    "EnemyLevelConstantGroupId": 2510012,
+    "Level": 1,
+    "ResourceId": 2510012010,
+    "EnemySkillLevelId": 2510012010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な水属性の魔法アビリティ</color>を多用する。\n[<command_color=emphasis>タイダルロア</color>] を使用する度、水属性アビリティ威力が増加する。\nフォースゲージ [<command_color=emphasis>MAELSTROM</color>] 発動時、雷耐性アップが付与される。\nフォースゲージの残量によって [<command_color=emphasis>大海衝</color>] の威力が変化する。\nフォースゲージは雷属性でダメージを与えることで減少する。\n\n<command_color=common_03>雷属性の物理攻撃</color>が有効。\nまた、魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><command_color=common_03>魔防アップ</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses many <command_color=common_03>powerful water-element magic abilities</color>. Increases potency of water-element abilities with <command_color=emphasis>Tidal Roar</color>. Grants Lightning Resistance Up when initiating Force Gauge: <command_color=emphasis>Maelstrom</color>. Potency of <command_color=emphasis>Tidal Wave</color> changes based on the amount the gauge is filled. The gauge can be depleted with lightning damage.\n\n<command_color=common_03>Lightning-element physical attacks</color> are effective against this enemy."
     },
@@ -6821,6 +6843,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な水属性の魔法アビリティ</color>を多用する。\n[<command_color=emphasis>タイダルロア</color>] を使用する度、水属性アビリティ威力が増加する。\nフォースゲージ [<command_color=emphasis>MAELSTROM</color>] 発動時、雷耐性アップが付与される。\nフォースゲージの残量によって [<command_color=emphasis>大海衝</color>] の威力が変化する。\nフォースゲージは雷属性でダメージを与えることで減少する。\n\n<command_color=common_03>雷属性の物理攻撃</color>が有効。\nまた、魔法攻撃が強力なため、<sprite=\"tmp_icon\" index=325><command_color=common_03>魔防アップ</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down \n\nUses many <command_color=common_03>powerful water-element magic abilities</color>. Increases potency of water-element abilities with <command_color=emphasis>Tidal Roar</color>. Grants Lightning Resistance Up when initiating Force Gauge: <command_color=emphasis>Maelstrom</color>. Potency of <command_color=emphasis>Tidal Wave</color> changes based on the amount the gauge is filled. The gauge can be depleted with lightning damage.\n\n<command_color=common_03>Lightning-element physical attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2511013,
+    "Level": 1,
+    "ResourceId": 2511013010,
+    "EnemySkillLevelId": 2511013010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>冷属性の魔法攻撃</color>を多用する。\nフォースゲージ [<command_color=emphasis>ICE AGE</color>] に応じて<command_color=common_03>炎属性耐性</color>が変動する。\nフォースゲージは<command_color=common_03>炎属性アビリティ</color>でのみ減少する。\n\n<command_color=common_03>魔法</color>・<command_color=common_03>炎属性アビリティ</color>、<command_color=common_03>冷属性耐性</color>が有効。\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <command_color=common_03>ice-element magic attacks</color>. <command_color=common_03>Fire resistance</color> changes based on Force Gauge: <command_color=emphasis>Ice Age</color>. The gauge can only be depleted with <command_color=common_03>fire-element abilities</color>.\n \n<command_color=common_03>Magic attacks</color> are effective against this enemy."
     },
@@ -6916,6 +6949,28 @@
     "Level": 1,
     "ResourceId": 2512009010,
     "EnemySkillLevelId": 2512009010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>冷属性の魔法攻撃</color>を多用する。\nフォースゲージ [<command_color=emphasis>ICE AGE</color>] に応じて<command_color=common_03>炎属性耐性</color>が変動する。\nフォースゲージは<command_color=common_03>炎属性アビリティ</color>でのみ減少する。\n\n<command_color=common_03>魔法</color>・<command_color=common_03>炎属性アビリティ</color>、<command_color=common_03>冷属性耐性</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nUses many <command_color=common_03>ice-element magic attacks</color>. <command_color=common_03>Fire resistance</color> changes based on Force Gauge: <command_color=emphasis>Ice Age</color>. The gauge can only be depleted with <command_color=common_03>fire-element abilities</color>.\n \n<command_color=common_03>Magic attacks</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2512010,
+    "Level": 1,
+    "ResourceId": 2512010010,
+    "EnemySkillLevelId": 2512010010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>強力な冷属性の魔法アビリティ</color>を使用する。\nバトル開始直後 [<command_color=emphasis>ガードシンク</color>] で、自身とラムウの物理防御力と魔法防御力を均等にする。\n[<command_color=emphasis>フリージングヴェール</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>と<command_color=common_03><sprite=\"tmp_icon\" index=336>炎属性耐性アップ</color>を付与する。\n\n<command_color=common_03>炎属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<command_color=common_03><sprite=\"tmp_icon\" index=409>炎属性耐性ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses <command_color=common_03>powerful ice-element magic abilities</color>. At the start of battle, uses <command_color=emphasis>Guard Sync</color> to even out PDEF and MDEF with Ramuh. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=336>Fire Resistance Up</color> with <command_color=emphasis>Frosty Veil</color>. \n\n<command_color=common_03><sprite=\"tmp_icon\" index=409>Fire Resistance Down</color> is effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2512011,
+    "Level": 1,
+    "ResourceId": 2512011010,
+    "EnemySkillLevelId": 2512011010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -8889,6 +8944,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 <sprite=\"tmp_icon\" index=388>物攻ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<command_color=emphasis>COMET</color>] はダメージを与えることにより減少し、\nフォースゲージに応じて [<command_color=emphasis>コメット</color>] の威力が変動する。\n[<command_color=emphasis>ヒートプロテクト</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>、\n<command_color=common_03><sprite=\"tmp_icon\" index=336>炎属性耐性アップ</color>を付与する。\n\n<command_color=common_03>炎属性アビリティ</color>が有効。\nまた、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=409>炎属性耐性ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down \n\nForce Gauge: <command_color=emphasis>Comet</color> can be depleted with damage, and the potency of <command_color=emphasis>Meteroid</color> changes based on the amount the gauge is filled. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color>, <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color>, and <command_color=common_03><sprite=\"tmp_icon\" index=336>Fire Resistance Up</color> with <command_color=emphasis>Flame Shield</color>."
+    },
+    "EnemyLevelConstantGroupId": 2529005,
+    "Level": 1,
+    "ResourceId": 2529002010,
+    "EnemySkillLevelId": 2529005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \nファイナルアタック： [<command_color=emphasis>？？？？</color>]\n\n<command_color=common_03>物理・魔法共に強力なアビリティ</color>を使用する。\n[<command_color=emphasis>暴走モード</color>] [<command_color=emphasis>大暴走モード</color>] 中は非常に攻撃が激しくなるが、\nフォースゲージ [<command_color=emphasis>OUTRAGE</color>] を0にすることで中断させられる。\n[<command_color=emphasis>超猛咆哮</color>] は使用する度、物理攻撃力が増加する。\n\n<command_color=common_03>土属性アビリティ</color>が有効。\n防御ダウンを付与されるため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>、<sprite=\"tmp_icon\" index=325><command_color=common_03>魔防アップ</color>が有効。\n攻撃が非常に強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nFinal Attack: <command_color=emphasis>???</color>\n\nUses <command_color=common_03>powerful physical and magic abilities</color>. Attacks become stronger during <command_color=emphasis>Rampage</color> and <command_color=emphasis>Greater Rampage</color>, but both can be canceled by reducing Force Gauge: <command_color=emphasis>Outrage</color> to 0. Increases PATK with <command_color=emphasis>Greater Savage Roar</color>.\n\n<sprite=\"tmp_icon\" index=323><command_color=common_03>PDEF Up</color> and <sprite=\"tmp_icon\" index=325><command_color=common_03>MDEF Up</color> are effective against this enemy."
     },
@@ -9083,6 +9149,28 @@
     "Level": 1,
     "ResourceId": 2530010010,
     "EnemySkillLevelId": 2530010010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\nフォースゲージ [<command_color=emphasis>LIGHTNING</color>] に応じて<command_color=common_03>雷属性威力</color>が変動する。\nフォースゲージはダメージを与えることにより僅かに減少する。\n[<command_color=emphasis>雷チャージ</color>] 中フォースゲージが大きく増加する。\n\n<command_color=common_03>雷属性耐性</color>、<command_color=common_03>素早いサイン破壊</color>が有効。\n",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<command_color=common_03>Lightning potency</color> changes based on Force Gauge: <command_color=emphasis>Lightning</color>. The gauge can be depleted with damage. During <command_color=emphasis>Stormcharge</color>, the gauge fills quickly."
+    },
+    "EnemyLevelConstantGroupId": 2530013,
+    "Level": 1,
+    "ResourceId": 2530013010,
+    "EnemySkillLevelId": 2530013010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>強力な雷属性の魔法アビリティ</color>を使用する。\nバトル開始直後 [<command_color=emphasis>ガードシンク</color>] で、自身とシヴァの物理防御力と魔法防御力を均等にする。\n\n<command_color=common_03>水属性アビリティ</color>が有効。\n魔法攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた、<command_color=common_03><sprite=\"tmp_icon\" index=413>水属性耐性ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses <command_color=common_03>powerful lightning-element magic abilities</color>. At the start of battle, uses <command_color=emphasis>Guard Sync</color> to even out PDEF and MDEF with Shiva.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=413>Water Resistance Down</color> is effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2530014,
+    "Level": 1,
+    "ResourceId": 2530014010,
+    "EnemySkillLevelId": 2530014010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -10649,6 +10737,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>強力な土属性の物理アビリティ</color>を多用する。\nフォースゲージ [<command_color=emphasis>EARTH POWER</color>] の残量に応じて<command_color=common_03>土属性威力</color>が変動する。\nフォースゲージは風属性でダメージを与えることで減少する。\n[<command_color=emphasis>大地の守り</color>] は自身に<command_color=common_03><sprite=\"tmp_icon\" index=335>ベール</color>を付与する。\n[<command_color=emphasis>グラナイトジェイル</color>] 中は対象1人を拘束し行動不能にする。\n\n<command_color=common_03>風属性の魔法アビリティ</color>が有効。\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>や<command_color=common_03>土属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n \nUses many <command_color=common_03>powerful earth-element physical abilities</color>. <command_color=common_03>Earth Potency</color> changes based on the amount Force Gauge: <command_color=emphasis>Earthen Power</color> is filled. The gauge can be depleted with wind damage. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=335>veil</color> with <command_color=emphasis>Earthen Aegis</color>. Incapacitates a target during <command_color=emphasis>Granite Shell</color>.\n \n<command_color=common_03>Wind-element magic abilities</color> are effective against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2552005,
+    "Level": 1,
+    "ResourceId": 2552005010,
+    "EnemySkillLevelId": 2552005010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な風属性の物理アビリティ</color>を多用する。\nフォースゲージ [<command_color=emphasis>ZANTETSU</color>] 中はカウントダウンが進行し、カウントダウン終了時、強力なアビリティを使用する。\nフォースゲージは土属性のダメージを与えることで減少する。\n[<command_color=emphasis>戦馬のいななき</color>] は自身の物理攻撃力を上昇し、より強力な攻撃を行う。\n[<command_color=emphasis>煉獄の陣</color>] は対象の<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップを解除</color>し、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=394>悲しい</color>を付与する。\n\n<command_color=common_03>土属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>や<command_color=common_03>風属性耐性</color>が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses many <command_color=common_03>powerful wind-element physical abilities</color>. A countdown begins during Force Gauge: <command_color=emphasis>Zantetsu</color>, and when the countdown ends, he unleashes a powerful ability. The gauge can be depleted with earth-element attacks. Increases own PATK with <command_color=emphasis>Sleipnir's Furor</color> and unleashes even more powerful attacks. Uses <command_color=emphasis>Ring of Helheim</color> to remove <sprite=\"tmp_icon\" index=323><command_color=common_03>PDEF Up</color> from a target and inflict <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=394>sedate</color>.\n\n<command_color=common_03>Earth-element physical abilities</color> are effective against this enemy. "
     },
@@ -10733,6 +10832,17 @@
     "Level": 1,
     "ResourceId": 2553008010,
     "EnemySkillLevelId": 2553008010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>強力な風属性の物理アビリティ</color>を多用する。\nフォースゲージ [<command_color=emphasis>ZANTETSU</color>] 中はカウントダウンが進行し、カウントダウン終了時、強力なアビリティを使用する。\nフォースゲージは土属性のダメージを与えることで減少する。\n[<command_color=emphasis>戦馬のいななき</color>] は自身の物理攻撃力を上昇し、より強力な攻撃を行う。\n[<command_color=emphasis>煉獄の陣</color>] は対象の<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップを解除</color>し、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=394>悲しい</color>を付与する。\n\n<command_color=common_03>土属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>や<command_color=common_03>風属性耐性</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses many <command_color=common_03>powerful wind-element physical abilities</color>. A countdown begins during Force Gauge: <command_color=emphasis>Zantetsu</color>, and when the countdown ends, he unleashes a powerful ability. The gauge can be depleted with earth-element attacks. Increases own PATK with <command_color=emphasis>Sleipnir's Furor</color> and unleashes even more powerful attacks. Uses <command_color=emphasis>Ring of Helheim</color> to remove <sprite=\"tmp_icon\" index=323><command_color=common_03>PDEF Up</color> from a target and inflict <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=394>sedate</color>.\n\n<command_color=common_03>Earth-element physical abilities</color> are effective against this enemy. "
+    },
+    "EnemyLevelConstantGroupId": 2553009,
+    "Level": 1,
+    "ResourceId": 2553009010,
+    "EnemySkillLevelId": 2553009010,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -11184,6 +11294,50 @@
     "Level": 1,
     "ResourceId": 2563105010,
     "EnemySkillLevelId": 2563105010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>物理・魔法共に強力なアビリティ</color>を多用する。\n[<command_color=emphasis>フレアオーラ</color>] は発動毎に自身の物理攻撃力、魔法攻撃力を増加させ、同時に物理防御力、魔法防御力を減少させる。\n[<command_color=emphasis>リサージェントスケイル</color>] は<command_color=common_03>自身のデバフを解除</color>し、さらに<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>も付与する。\n[<command_color=emphasis>インフェルノ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた防御力が高いため、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses many <command_color=common_03>powerful physical and magic abilities</color>. Increases own PATK and MATK and decreases own PDEF and MDEF every time <command_color=emphasis>Flare Aura</color> is activated. <command_color=common_03>Removes own debuffs</color> and grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Resurgent Scales</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Umbral Inferno</color>."
+    },
+    "EnemyLevelConstantGroupId": 2564001,
+    "Level": 1,
+    "ResourceId": 2564001010,
+    "EnemySkillLevelId": 2564001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>物理・魔法共に強力なアビリティ</color>を多用する。\n[<command_color=emphasis>フレアオーラ</color>] は発動毎に自身の物理攻撃力、魔法攻撃力を増加させ、同時に物理防御力、魔法防御力を減少させる。\n[<command_color=emphasis>リサージェントスケイル</color>] は<command_color=common_03>自身のデバフを解除</color>し、さらに<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>も付与する。\n[<command_color=emphasis>インフェルノ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた防御力が高いため、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses many <command_color=common_03>powerful physical and magic abilities</color>. Increases own PATK and MATK and decreases own PDEF and MDEF every time <command_color=emphasis>Flare Aura</color> is activated. <command_color=common_03>Removes own debuffs</color> and grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Resurgent Scales</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Umbral Inferno</color>."
+    },
+    "EnemyLevelConstantGroupId": 2564003,
+    "Level": 1,
+    "ResourceId": 2564002010,
+    "EnemySkillLevelId": 2564001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>物理・魔法共に強力なアビリティ</color>を多用する。\n[<command_color=emphasis>フレアオーラ</color>] は発動毎に自身の物理攻撃力、魔法攻撃力を増加させ、同時に物理防御力、魔法防御力を減少させる。\n[<command_color=emphasis>リサージェントスケイル</color>] は<command_color=common_03>自身のデバフを解除</color>し、さらに<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>も付与する。\n[<command_color=emphasis>インフェルノ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた防御力が高いため、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses many <command_color=common_03>powerful physical and magic abilities</color>. Increases own PATK and MATK and decreases own PDEF and MDEF every time <command_color=emphasis>Flare Aura</color> is activated. <command_color=common_03>Removes own debuffs</color> and grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Resurgent Scales</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Umbral Inferno</color>."
+    },
+    "EnemyLevelConstantGroupId": 2564005,
+    "Level": 1,
+    "ResourceId": 2564003010,
+    "EnemySkillLevelId": 2564001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>物理・魔法共に強力なアビリティ</color>を多用する。\n[<command_color=emphasis>フレアオーラ</color>] は発動毎に自身の物理攻撃力、魔法攻撃力を増加させ、同時に物理防御力、魔法防御力を減少させる。\n[<command_color=emphasis>リサージェントスケイル</color>] は<command_color=common_03>自身のデバフを解除</color>し、さらに<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>も付与する。\n[<command_color=emphasis>インフェルノ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた防御力が高いため、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses many <command_color=common_03>powerful physical and magic abilities</color>. Increases own PATK and MATK and decreases own PDEF and MDEF every time <command_color=emphasis>Flare Aura</color> is activated. <command_color=common_03>Removes own debuffs</color> and grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Resurgent Scales</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Umbral Inferno</color>."
+    },
+    "EnemyLevelConstantGroupId": 2564006,
+    "Level": 1,
+    "ResourceId": 2564004010,
+    "EnemySkillLevelId": 2564002010,
     "FinalAttackSkillEnemyId": 0
   },
   {

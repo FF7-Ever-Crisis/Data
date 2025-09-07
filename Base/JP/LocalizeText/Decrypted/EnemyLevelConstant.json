@@ -482,7 +482,7 @@
         },
         {
             "id": 130000002049001,
-            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>包丁</color>] は<command_color=common_03>強力な固定ダメージ</color>を与えるが\nフォースゲージ [<command_color=emphasis>URAMESHIYA</color>] を0にすることで中断させられる。\nフォースゲージはダメージを与えることで減少する。\n\n\n\n\n\n\n\n"
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\n[<command_color=emphasis>包丁</color>] は<command_color=common_03>強力な固定ダメージ</color>を与えるが\nフォースゲージ [<command_color=emphasis>URAMESHIYA</color>] を0にすることで中断させられる。\nフォースゲージはダメージを与えることで減少する。"
         },
         {
             "id": 130000002051001,
@@ -1071,6 +1071,10 @@
         {
             "id": 130000002563101,
             "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n自身に<command_color=common_03><sprite=\"tmp_icon\" index=578>炎属性威力アップ</color>を付与し、<command_color=common_03>物理・魔法共に強力なアビリティ</color>を多用する。\n[<command_color=emphasis>ふきとばし</color>] [<command_color=emphasis>焦熱プレス</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>を付与する。\n[<command_color=emphasis>マジックバリア</color>] は味方全体に<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>を付与する。\n[<command_color=emphasis>ぶちかましのかまえ</color>] 中は<command_color=common_03>物理攻撃に対してカウンター</color>を行う。\n\n<command_color=common_03>雷属性アビリティ</color>が有効。\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>が有効。"
+        },
+        {
+            "id": 130000002564001,
+            "value": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>物理・魔法共に強力なアビリティ</color>を多用する。\n[<command_color=emphasis>フレアオーラ</color>] は発動毎に自身の物理攻撃力、魔法攻撃力を増加させ、同時に物理防御力、魔法防御力を減少させる。\n[<command_color=emphasis>リサージェントスケイル</color>] は<command_color=common_03>自身のデバフを解除</color>し、さらに<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>も付与する。\n[<command_color=emphasis>インフェルノ</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=325>魔防アップ</color>が有効。\nまた防御力が高いため、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>が有効。"
         }
     ]
 }

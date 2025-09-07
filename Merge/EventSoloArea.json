@@ -910,6 +910,20 @@
     "IsDisplayBossChallenge": true
   },
   {
+    "Id": 14008,
+    "Name": {
+      "Ja": "シングル",
+      "En": "Solo"
+    },
+    "EventSoloAreaGroupId": 14008,
+    "OrderNo": 1,
+    "ResourceId": 14008,
+    "DisplayConditionSetId": 613000014008,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 14008,
+    "IsDisplayBossChallenge": true
+  },
+  {
     "Id": 130071,
     "Name": {
       "Ja": "壱の騒乱",
@@ -2167,6 +2181,216 @@
     "DisplayConditionSetId": 611000003031,
     "LockConditionSetId": 0,
     "EventAreaCategoryId": 303101,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3032101,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventSoloAreaGroupId": 3032,
+    "OrderNo": 1,
+    "ResourceId": 3032,
+    "DisplayConditionSetId": 611000003032,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033011,
+    "Name": {
+      "Ja": "バハムート震",
+      "En": "Bahamut SIN"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 1,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 710003033012,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303303,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033012,
+    "Name": {
+      "Ja": "イフリート＆バハムート",
+      "En": "Ifrit & Bahamut"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 2,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 700003033000,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303302,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033013,
+    "Name": {
+      "Ja": "シヴァ＆ラムウ",
+      "En": "Shiva & Ramuh"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 3,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 700003033000,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303302,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033014,
+    "Name": {
+      "Ja": "リヴァイアサン＆バハムート",
+      "En": "Leviathan & Bahamut"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 4,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 700003033000,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303302,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033015,
+    "Name": {
+      "Ja": "イフリート",
+      "En": "Ifrit"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 5,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 611000003033,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303301,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033016,
+    "Name": {
+      "Ja": "シヴァ",
+      "En": "Shiva"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 6,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 611000003033,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303301,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033017,
+    "Name": {
+      "Ja": "ラムウ",
+      "En": "Ramuh"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 7,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 710003033001,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303301,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033018,
+    "Name": {
+      "Ja": "リヴァイアサン",
+      "En": "Leviathan"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 8,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 710003033003,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303301,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033019,
+    "Name": {
+      "Ja": "タイタン",
+      "En": "Titan"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 9,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 710003033005,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303301,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3033020,
+    "Name": {
+      "Ja": "オーディン",
+      "En": "Odin"
+    },
+    "EventSoloAreaGroupId": 303301,
+    "OrderNo": 10,
+    "ResourceId": 3033,
+    "DisplayConditionSetId": 710003033007,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303301,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3034011,
+    "Name": {
+      "Ja": "セフィロス (Original) 強化",
+      "En": "Sephiroth (Original) Enhancement"
+    },
+    "EventSoloAreaGroupId": 3034,
+    "OrderNo": 1,
+    "ResourceId": 3034,
+    "DisplayConditionSetId": 611000003034,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303401,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3034012,
+    "Name": {
+      "Ja": "[高位]セフィロス (Original) 強化",
+      "En": "[Premium] Sephiroth (Original) Enh."
+    },
+    "EventSoloAreaGroupId": 3034,
+    "OrderNo": 1,
+    "ResourceId": 3034,
+    "DisplayConditionSetId": 611000003034,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303401,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 11004011,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventSoloAreaGroupId": 11004,
+    "OrderNo": 1,
+    "ResourceId": 1100401,
+    "DisplayConditionSetId": 611000011004,
+    "LockConditionSetId": 750001100401,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 11004012,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "EventSoloAreaGroupId": 11004,
+    "OrderNo": 1,
+    "ResourceId": 1100402,
+    "DisplayConditionSetId": 611000011004,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 0,
     "IsDisplayBossChallenge": false
   },
   {

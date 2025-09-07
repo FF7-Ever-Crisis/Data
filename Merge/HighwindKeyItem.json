@@ -140,6 +140,20 @@
     "HighwindKeyItemRankUpgradeGroupId": 110
   },
   {
+    "Id": 111,
+    "Name": {
+      "Ja": "タリスマン",
+      "En": "Talisman"
+    },
+    "HighwindKeyItemEffectGroupId": 111,
+    "UpgradeMissionGroupId": 2400111,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "IsAutoProvide": true,
+    "ResourceId": 111,
+    "AutoHighwindKeyItemEffectTargetCharacterId": 0,
+    "HighwindKeyItemRankUpgradeGroupId": 111
+  },
+  {
     "Id": 201,
     "Name": {
       "Ja": "力の宝玉",
@@ -376,5 +390,19 @@
     "ResourceId": 1056,
     "AutoHighwindKeyItemEffectTargetCharacterId": 0,
     "HighwindKeyItemRankUpgradeGroupId": 1056
+  },
+  {
+    "Id": 1060,
+    "Name": {
+      "Ja": "刀の秘伝書",
+      "En": "Secrets of the Katana"
+    },
+    "HighwindKeyItemEffectGroupId": 1060,
+    "UpgradeMissionGroupId": 2401060,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "IsAutoProvide": false,
+    "ResourceId": 1060,
+    "AutoHighwindKeyItemEffectTargetCharacterId": 0,
+    "HighwindKeyItemRankUpgradeGroupId": 1060
   }
 ]

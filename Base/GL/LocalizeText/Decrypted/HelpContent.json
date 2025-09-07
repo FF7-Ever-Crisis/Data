@@ -145,6 +145,14 @@
             "value": "O. Abilities (Overspeed Abilities)"
         },
         {
+            "id": 907000000011601,
+            "value": "Memoria"
+        },
+        {
+            "id": 907000000011602,
+            "value": "Number of Equippable Memoria"
+        },
+        {
             "id": 907000000020101,
             "value": "Character Enhancement"
         },
@@ -231,6 +239,14 @@
         {
             "id": 907000000020901,
             "value": "Obtaining Enhanced Weapons"
+        },
+        {
+            "id": 907000000021101,
+            "value": "Sephiroth (Original)'s Reprieve"
+        },
+        {
+            "id": 907000000021102,
+            "value": "Sephiroth (Original)'s Unknown Tuning"
         },
         {
             "id": 907000000030101,
@@ -377,6 +393,10 @@
             "value": "Elements"
         },
         {
+            "id": 907000000050402,
+            "value": "Enemy Types"
+        },
+        {
             "id": 907000000050501,
             "value": "Targets"
         },
@@ -455,6 +475,10 @@
         {
             "id": 907000000051402,
             "value": "Damage Bonus"
+        },
+        {
+            "id": 907000000051501,
+            "value": "M. Abilities (Memoria Abilities)"
         },
         {
             "id": 907000000060101,
@@ -913,6 +937,22 @@
             "value": "Guild Cards"
         },
         {
+            "id": 907000000220101,
+            "value": "Memoria"
+        },
+        {
+            "id": 907000000220102,
+            "value": "Obtaining Duplicates"
+        },
+        {
+            "id": 907000000220201,
+            "value": "Memoria Level (Lv.)"
+        },
+        {
+            "id": 907000000220202,
+            "value": "Enhancing Memoria"
+        },
+        {
             "id": 908000000010101,
             "value": "An indication of character growth. A character's level (Lv) increases\nwhen a certain amount of experience is gained, also <color=#95C7FF>increasing their stats</color>."
         },
@@ -1057,6 +1097,14 @@
             "value": "O. abilities provide characters with temporary enhancements when used.\nThese abilities charge over time, and the duration of enhancements changes based on the time charged."
         },
         {
+            "id": 908000000011601,
+            "value": "Equipping <color=#95C7FF>memoria</color> has the following effects:\n\n- All characters in the party gain the <color=#95C7FF>stats</color> attributed to the memoria.\n- The party gains the effects of the memoria's <color=#95C7FF>M. abilities</color>.\n\nThe memoria's effects are <color=#95C7FF>reflected on all characters in the party</color>. However, there are M. abilities that only apply to certain characters.\n\n*Memoria only affect your character in co-op battles.\n"
+        },
+        {
+            "id": 908000000011602,
+            "value": "Only <color=#95C7FF>one memoria can be equipped</color> by a party. An equipped memoria can also be equipped by another party at the same time. "
+        },
+        {
             "id": 908000000020101,
             "value": "There are two ways to enhance a character.\n\n- By <color=#95C7FF>raising a character's level</color>, all stats are increased.\n\n- By <color=#95C7FF>unlocking nodes on the Character Stream</color>, each stat can be\nenhanced individually, and the character's Limit Break can be enhanced."
         },
@@ -1143,6 +1191,14 @@
         {
             "id": 908000000020901,
             "value": "- Enhanced weapons have preset levels, rarities, and overboost counts.\n- When a duplicate weapon with a higher level, rarity, or overboost count is obtained, the higher value will be applied.\n- Weapon parts corresponding to the difference between the already held weapon and the newly acquired enhanced weapon can be obtained.\n- Weapon enhancement materials corresponding to the level difference between the already held weapon and the newly acquired enhanced weapon will not be returned.\n- Pre-existing brands will be carried over.\n- When an enhanced version of a weapon already held is obtained, a weapon conversion confirmation message will be displayed, allowing you to choose whether to claim the new weapon immediately.\n- If the enhanced weapon is not immediately claimed, it will be sent to your gift box.\n- The weapon conversion confirmation message can be toggled on/off in the Settings menu.\n"
+        },
+        {
+            "id": 908000000021101,
+            "value": "The character possesses the R. ability <sprite=\"tmp_icon\" index=342>Reprieve."
+        },
+        {
+            "id": 908000000021102,
+            "value": "While overspeed is active, the character gains <color=#95C7FF>damage immunity and all his ATB costs are reduced to 1</color>. Every time damage received during overspeed exceeds a certain percentage of max HP, the overspeed gauge is depleted. Leveling up Unknown Tuning will increase the character's PATK and MATK."
         },
         {
             "id": 908000000030101,
@@ -1289,6 +1345,10 @@
             "value": "Enemies may have <color=#95C7FF>attributes that serve as weaknesses or resistances</color>. \nAttacking with an attribute that is a weakness <color=#95C7FF>increases the damage dealt to the enemy</color>. \nAttacking with an attribute that is a resistance <color=#95C7FF>reduces or absorbs the damage dealt</color>. \nThe degree of weakness or resistance varies depending on the enemy. \nIf the character you are controlling has an ability that corresponds to the enemy's weakness,\n<color=#95C7FF>the attribute icon of the ability will glow</color>."
         },
         {
+            "id": 908000000050402,
+            "value": "Some enemies belong to given <color=#95C7FF>enemy types</color> and there are abilities that only activate for certain enemy types.\n\nEnemies can belong to multiple enemy types. \n\n "
+        },
+        {
             "id": 908000000050501,
             "value": "During battles, <color=#95C7FF>switch your attack target</color> by tapping the name displayed above the enemy. \nParty members will also aim at the targeted enemy. \n*In a Co-op Battle, this will only affect you."
         },
@@ -1354,7 +1414,7 @@
         },
         {
             "id": 908000000051306,
-            "value": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)\n<sprite=\"tmp_icon\" index=334>Provoke: Attacks are focused on the target using Provoke.\n<sprite=\"tmp_icon\" index=335>Veil: Veil blocks up to a certain amount of damage based on \n　the max HP of the affected, and is destroyed when damage exceeding that amount is taken. \n　If an enemy attack is nullified by Veil, any effect associated with that attack has no effect.\n　*Some abilities have effects that are immune to Veil.\n<sprite=\"tmp_icon\" index=346>Exploit Weakness: Increases damage dealt when exploiting an enemy's weakness.\n<sprite=\"tmp_icon\" index=343>Phys. Resist. Up: Reduces physical damage taken.\n<sprite=\"tmp_icon\" index=344>Mag. Resist. Up: Reduces magic damage taken.\n<sprite=\"tmp_icon\" index=347>Amp.: While in an amplified state, relevant C./U. C. abilities will deal more damage once.\n　After a relevant ability is used, the state will be canceled immediately.\n<sprite=\"tmp_icon\" index=345>HP Gain: During this buff effect, each time a caster attacks an enemy with a C./U. C. Ability, \n　the caster recovers a specific percentage of maximum HP."
+            "value": "- Increased Stats\n<sprite=\"tmp_icon\" index=324>Phys. Attack Up: Phys. Attack is increased.\n<sprite=\"tmp_icon\" index=323>Phys. Defense Up: Phys. Defense is increased.\n<sprite=\"tmp_icon\" index=326>Mag. Attack Up: Mag. Attack is increased.\n<sprite=\"tmp_icon\" index=325>Mag. Defense Up: Mag. Defense is increased.\n\n- Increased Stats (Elemental Potency Up)\n<sprite=\"tmp_icon\" index=578>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=576>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=612>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=579>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=611>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=610>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Elemental Damage Up)\n<sprite=\"tmp_icon\" index=328>Fire Pot. Up: Damage of Fire Abilities is increased.\n<sprite=\"tmp_icon\" index=329>Ice Pot. Up: Damage of Ice Abilities is increased.\n<sprite=\"tmp_icon\" index=330>Lightning Pot. Up: Damage of Lightning Abilities is increased.\n<sprite=\"tmp_icon\" index=331>Earth Pot. Up: Damage of Earth Abilities is increased.\n<sprite=\"tmp_icon\" index=332>Water Pot. Up: Damage of Water Abilities is increased.\n<sprite=\"tmp_icon\" index=333>Wind Pot. Up: Damage of Wind Abilities is increased.\n\n- Increased Stats (Resist. Up)\n<sprite=\"tmp_icon\" index=594>Phys. Resist. Up: Phys. Damage taken is reduced.\n<sprite=\"tmp_icon\" index=595>Mag. Resist. Up: Mag. Damage taken is reduced.\n\n- Increased Stats (Elemental Resist. Up)\n<sprite=\"tmp_icon\" index=602>Fire Resist. Up: Damage from Fire Abilities is reduced.\n<sprite=\"tmp_icon\" index=600>Ice Resist. Up: Damage from Ice Abilities is reduced.\n<sprite=\"tmp_icon\" index=599>Lightning Resist. Up: Damage from Lightning Abilities is reduced.\n<sprite=\"tmp_icon\" index=603>Earth Resist. Up: Damage from Earth Abilities is reduced.\n<sprite=\"tmp_icon\" index=598>Water Resist. Up: Damage from Water Abilities is reduced.\n<sprite=\"tmp_icon\" index=597>Wind Resist. Up: Damage from Wind Abilities is reduced.\n\n- Status Changes\n<sprite=\"tmp_icon\" index=321>Regen: HP is gradually restored.\n<sprite=\"tmp_icon\" index=322>Invincible: Less Damage is taken.\n<sprite=\"tmp_icon\" index=327>Haste: The ATB gauge fills faster. If Slow is granted, it is removed.\n<sprite=\"tmp_icon\" index=342>Reprieve: Upon receiving lethal Damage, 1 HP will remain.\n　Invincible Buff is granted, and a small amount of HP is recovered. (Only once)\n<sprite=\"tmp_icon\" index=334>Provoke: Attacks are focused on the target using Provoke.\n<sprite=\"tmp_icon\" index=335>Veil: Veil blocks up to a certain amount of damage based on \n　the max HP of the affected, and is destroyed when damage exceeding that amount is taken. \n　If an enemy attack is nullified by Veil, any effect associated with that attack has no effect.\n　*Some abilities have effects that are immune to Veil.\n<sprite=\"tmp_icon\" index=346>Exploit Weakness: Increases damage dealt when exploiting an enemy's weakness.\n<sprite=\"tmp_icon\" index=343>Phys. Resist. Up: Reduces physical damage taken.\n<sprite=\"tmp_icon\" index=344>Mag. Resist. Up: Reduces magic damage taken.\n<sprite=\"tmp_icon\" index=347>Amp.: While in an amplified state, relevant C./U. C. abilities will deal more damage once.\n　After a relevant ability is used, the state will be canceled immediately.\n<sprite=\"tmp_icon\" index=345>HP Gain: During this buff effect, each time a caster attacks an enemy with a C./U. C. Ability, \n　the caster recovers a specific percentage of maximum HP.\n<sprite=\"tmp_icon\" index=348>Physical Damege Bonus: Applies additional damage when a physical ability is used.\n<sprite=\"tmp_icon\" index=349>Magic Damege Bonus: Applies additional damage when a magic ability is used.\n<sprite=\"tmp_icon\" index=350>Fire Damege Bonus: Applies additional damage when a fire ability is used.\n<sprite=\"tmp_icon\" index=351>Ice Damege Bonus: Applies additional damage when a ice ability is used.\n<sprite=\"tmp_icon\" index=352>Lightning Damege Bonus: Applies additional damage when a lightning ability is used.\n<sprite=\"tmp_icon\" index=353>Earth Damege Bonus: Applies additional damage when a earth ability is used.\n<sprite=\"tmp_icon\" index=354>Water Damege Bonus: Applies additional damage when a water ability is used.\n<sprite=\"tmp_icon\" index=355>Wind Damege Bonus: Applies additional damage when a wind ability is used.\n<sprite=\"tmp_icon\" index=356>Physical Weapon Boost: Increases physical weapon C./U.C. ability damage.\n<sprite=\"tmp_icon\" index=357>Magic Weapon Boost: Increases magic weapon C./U.C. ability damage.\n<sprite=\"tmp_icon\" index=358>Fire Weapon Boost: Increases fire weapon C.ability damage.\n<sprite=\"tmp_icon\" index=359>Ice Weapon Boost: Increases ice weapon C.ability damage.\n<sprite=\"tmp_icon\" index=360>Lightning Weapon Boost: Increases lightning weapon C.ability damage.\n<sprite=\"tmp_icon\" index=361>Earth Weapon Boost: Increases earth weapon C.ability damage.\n<sprite=\"tmp_icon\" index=362>Water Weapon Boost: Increases water weapon C.ability damage.\n<sprite=\"tmp_icon\" index=363>Wind Weapon Boost: Increases wind weapon C.ability damage."
         },
         {
             "id": 908000000051307,
@@ -1367,6 +1427,10 @@
         {
             "id": 908000000051402,
             "value": "When a stream phase that includes a damage sigil is successfully interrupted, <color=#95C7FF>you will receive a damage bonus for the interrupted enemy</color>.\n*If there are multiple damage sigils, the damage bonus multiplier will be calculated using the sum total of all damage sigils.\n*While the stream phase is interrupted, the active damage bonus will be applied to all enemies.\n*The damage bonus will not be applied to certain damage types, such as supplemental (additional) damage and damage over time (e.g. poison). "
+        },
+        {
+            "id": 908000000051501,
+            "value": "<color=#95C7FF>M. abilities</color> are effects that activate during battle. Some effects are persistent throughout the battle, while others are triggered under certain conditions.\n\nAn M. ability's level is determined by the total points (pts.) that M. abilities of the same type possess. The higher an M. ability's level, the more potent its effect.\n\n*Memoria level points are calculated separately from R. ability points."
         },
         {
             "id": 908000000060101,
@@ -1626,7 +1690,7 @@
         },
         {
             "id": 908000000150102,
-            "value": "<color=#95C7FF>Badges</color> can be earned by completing the feats below.\n\nCrash Battle (Solo): Clear respective <color=#95C7FF>Crash Battles (solo)</color> in any event. For events with multiple crash battles (solo), you must clear the one with the highest difficulty.\nCrash Battle (Co-op): Clear respective <color=#95C7FF>Crash Battles (co-op)</color> in any event. For events with multiple crash battles (co-op), you must clear the the one with the highest difficulty.\nEscalation Challenge: Clear <color=#95C7FF>Lv. 20 Escalation Battles</color> in any event.\nBattle Ranking: Place within the <color=#95C7FF>top 20</color>.\nDungeon Ranking: Place within the <color=#95C7FF>top 20</color>.\nGuild Ranking: Place within the <color=#95C7FF>top 10</color>."
+            "value": "<color=#95C7FF>Badges</color> can be earned by completing the feats below.\n\nCrash Battle (Solo): Clear respective <color=#95C7FF>Crash Battles (solo)</color> in any event. For events with multiple crash battles (solo), you must clear the one with the highest difficulty.\nCrash Battle (Co-op): Clear respective <color=#95C7FF>Crash Battles (co-op)</color> in any event. For events with multiple crash battles (co-op), you must clear the the one with the highest difficulty.\nEscalation Challenge (Solo): Clear <color=#95C7FF>Lv. 20 Escalation Battles (Solo)</color> in any event.\nBattle Ranking: Place within the <color=#95C7FF>top 20</color>.\nDungeon Ranking: Place within the <color=#95C7FF>top 20</color>.\nGuild Ranking: Place within the <color=#95C7FF>top 10</color>."
         },
         {
             "id": 908000000150201,
@@ -1823,6 +1887,22 @@
         {
             "id": 908000000201201,
             "value": "You can view the following information about your guild. If you haven't joined a guild after unlocking the Guild feature, you can send requests from guild cards.\n\n- Guild name\n- Guild level\n- View/Copy guild ID\n- Guildmaster\n- Guild members\n- Approval method\n- Last active\n- Date created\n- Guild focus\n- Guild introduction\n- Guild playstyle\n- Achievements\n- Active guild bonuses"
+        },
+        {
+            "id": 908000000220101,
+            "value": "Memoria can be <color=#95C7FF>equipped to a party</color> to strengthen all party members. Memoria possess <color=#95C7FF>stats</color> that strengthen the entire party and <color=#95C7FF>M. abilities</color>.\n\nAttributed stats and M. abilities vary according to each memoria.\n\n*Memoria only affect your character in co-op battles.\n"
+        },
+        {
+            "id": 908000000220102,
+            "value": "When duplicate memoria are obtained, they are <color=#95C7FF>automatically converted into memoria medals</color>. Memoria medals can be used at the exchange."
+        },
+        {
+            "id": 908000000220201,
+            "value": "The indicator of the memoria's development. Once a given amount of EXP is obtained, the memoria's level (Lv.) goes up and its <color=#95C7FF>stats and M. ability points are increased</color>. Some memoria <color=#95C7FF>unlock new M. abilities</color> when they level up."
+        },
+        {
+            "id": 908000000220202,
+            "value": "A memoria's level (Lv.) goes up when a given amount of EXP is obtained. Memoria EXP can be obtained through the following methods:\n\n- <color=#95C7FF>Clearing a battle with a memoria equipped</color> will grant EXP to the equipped memoria.\n- Using <color=#95C7FF>memoria enhance materials</color> on the memoria enhancement screen.\n\nIf the max. level is reached using materials on the memoria enhancement screen, any excess EXP will returned as memoria enhance materials."
         }
     ]
 }

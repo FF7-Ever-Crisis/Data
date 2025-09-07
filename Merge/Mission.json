@@ -1836,6 +1836,74 @@
     "IsRefresh": false
   },
   {
+    "Id": 100001058,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 100001,
+    "MissionSetIdx": 58,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 260,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 100001059,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 100001,
+    "MissionSetIdx": 59,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 360,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 260901701010,
+    "TransitionType": 29,
+    "TransitionId": 60,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 110001007,
     "NameTemplate": {
       "Ja": "村雨のレアリティを<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>にする。",
@@ -10064,6 +10132,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 190606001,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190005,
+    "MissionSetIdx": 60,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 190606001,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 190700101,
     "NameTemplate": {
       "Ja": "キャラクターストリームで破晄撃を取得する。",
@@ -12580,14 +12682,218 @@
     "IsRefresh": true
   },
   {
-    "Id": 192000011,
+    "Id": 191000701,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.21をクリアする。",
-      "En": "Clear Lv. 21 of any Escalation Challenge."
+      "Ja": "ウェポンコロッセオ「琥珀の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Amber Tower in the Colosseum of the Chosen."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.21をクリアする。",
-      "En": "Clear Lv. 21 of any Escalation Challenge."
+      "Ja": "ウェポンコロッセオ「琥珀の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Amber Tower in the Colosseum of the Chosen."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190009,
+    "MissionSetIdx": 24,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 201,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 191000701,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 540000020103,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 191000801,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「蒼穹の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Cerulean Tower in the Colosseum of the Chosen."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「蒼穹の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Cerulean Tower in the Colosseum of the Chosen."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190009,
+    "MissionSetIdx": 25,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 202,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 191000801,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 540000020103,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 191000901,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「翠緑の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Emerald Tower in the Colosseum of the Chosen."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「翠緑の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Emerald Tower in the Colosseum of the Chosen."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190009,
+    "MissionSetIdx": 26,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 203,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 191000901,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 540000020103,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 191001001,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「山吹の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Golden Tower in the Colosseum of the Chosen."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「山吹の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Golden Tower in the Colosseum of the Chosen."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190009,
+    "MissionSetIdx": 27,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 204,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 191001001,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 540000020103,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 191001101,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Azure Tower in the Colosseum of the Chosen."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「紺碧の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Azure Tower in the Colosseum of the Chosen."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190009,
+    "MissionSetIdx": 28,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 205,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 191001101,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 540000020103,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 191001201,
+    "NameTemplate": {
+      "Ja": "ウェポンコロッセオ「萌葱の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Peridot Tower in the Colosseum of the Chosen."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ウェポンコロッセオ「萌葱の塔」のB{0}Fをクリアする。",
+      "En": "Clear B{0} of The Peridot Tower in the Colosseum of the Chosen."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190009,
+    "MissionSetIdx": 29,
+    "AutoMissionCountType": 2,
+    "MissionType": 104,
+    "TargetId1": 206,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 191001201,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 540000020103,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 192000011,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.21をクリアする。",
+      "En": "Clear Lv. 21 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.21をクリアする。",
+      "En": "Clear Lv. 21 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12616,12 +12922,12 @@
   {
     "Id": 192000021,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.22をクリアする。",
-      "En": "Clear Lv. 22 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.22をクリアする。",
+      "En": "Clear Lv. 22 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.22をクリアする。",
-      "En": "Clear Lv. 22 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.22をクリアする。",
+      "En": "Clear Lv. 22 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12650,12 +12956,12 @@
   {
     "Id": 192000031,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.23をクリアする。",
-      "En": "Clear Lv. 23 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.23をクリアする。",
+      "En": "Clear Lv. 23 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.23をクリアする。",
-      "En": "Clear Lv. 23 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.23をクリアする。",
+      "En": "Clear Lv. 23 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12684,12 +12990,12 @@
   {
     "Id": 192000041,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.24をクリアする。",
-      "En": "Clear Lv. 24 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.24をクリアする。",
+      "En": "Clear Lv. 24 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.24をクリアする。",
-      "En": "Clear Lv. 24 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.24をクリアする。",
+      "En": "Clear Lv. 24 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12718,12 +13024,12 @@
   {
     "Id": 192000051,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.25をクリアする。",
-      "En": "Clear Lv. 25 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.25をクリアする。",
+      "En": "Clear Lv. 25 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.25をクリアする。",
-      "En": "Clear Lv. 25 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.25をクリアする。",
+      "En": "Clear Lv. 25 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12752,12 +13058,12 @@
   {
     "Id": 192000061,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.26をクリアする。",
-      "En": "Clear Lv. 26 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.26をクリアする。",
+      "En": "Clear Lv. 26 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.26をクリアする。",
-      "En": "Clear Lv. 26 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.26をクリアする。",
+      "En": "Clear Lv. 26 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12786,12 +13092,12 @@
   {
     "Id": 192000071,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.27をクリアする。",
-      "En": "Clear Lv. 27 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.27をクリアする。",
+      "En": "Clear Lv. 27 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.27をクリアする。",
-      "En": "Clear Lv. 27 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.27をクリアする。",
+      "En": "Clear Lv. 27 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12820,12 +13126,12 @@
   {
     "Id": 192000081,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.28をクリアする。",
-      "En": "Clear Lv. 28 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.28をクリアする。",
+      "En": "Clear Lv. 28 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.28をクリアする。",
-      "En": "Clear Lv. 28 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.28をクリアする。",
+      "En": "Clear Lv. 28 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12854,12 +13160,12 @@
   {
     "Id": 192000091,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.29をクリアする。",
-      "En": "Clear Lv. 29 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.29をクリアする。",
+      "En": "Clear Lv. 29 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.29をクリアする。",
-      "En": "Clear Lv. 29 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.29をクリアする。",
+      "En": "Clear Lv. 29 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12888,12 +13194,12 @@
   {
     "Id": 192000101,
     "NameTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.30をクリアする。",
-      "En": "Clear Lv. 30 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.30をクリアする。",
+      "En": "Clear Lv. 30 of any Escalation Challenge solo battle."
     },
     "DescriptionTemplate": {
-      "Ja": "任意のエクシードチャレンジでLv.30をクリアする。",
-      "En": "Clear Lv. 30 of any Escalation Challenge."
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.30をクリアする。",
+      "En": "Clear Lv. 30 of any Escalation Challenge solo battle."
     },
     "ShortName": {
       "Ja": "",
@@ -12911,6 +13217,686 @@
     "OrderNo": 192000101,
     "BonusPoint": 0,
     "DisplayConditionSetId": 270121400101,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000111,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.31をクリアする。",
+      "En": "Clear Lv. 31 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.31をクリアする。",
+      "En": "Clear Lv. 31 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 31,
+    "RewardSetId": 0,
+    "OrderNo": 192000111,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000121,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.32をクリアする。",
+      "En": "Clear Lv. 32 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.32をクリアする。",
+      "En": "Clear Lv. 32 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 32,
+    "RewardSetId": 0,
+    "OrderNo": 192000121,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000131,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.33をクリアする。",
+      "En": "Clear Lv. 33 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.33をクリアする。",
+      "En": "Clear Lv. 33 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 33,
+    "RewardSetId": 0,
+    "OrderNo": 192000131,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000141,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.34をクリアする。",
+      "En": "Clear Lv. 34 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.34をクリアする。",
+      "En": "Clear Lv. 34 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 14,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 34,
+    "RewardSetId": 0,
+    "OrderNo": 192000141,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000151,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.35をクリアする。",
+      "En": "Clear Lv. 35 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.35をクリアする。",
+      "En": "Clear Lv. 35 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 15,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 35,
+    "RewardSetId": 0,
+    "OrderNo": 192000151,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000161,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.36をクリアする。",
+      "En": "Clear Lv. 36 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.36をクリアする。",
+      "En": "Clear Lv. 36 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 36,
+    "RewardSetId": 0,
+    "OrderNo": 192000161,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000171,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.37をクリアする。",
+      "En": "Clear Lv. 37 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.37をクリアする。",
+      "En": "Clear Lv. 37 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 17,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 37,
+    "RewardSetId": 0,
+    "OrderNo": 192000171,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000181,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.38をクリアする。",
+      "En": "Clear Lv. 38 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.38をクリアする。",
+      "En": "Clear Lv. 38 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 18,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 38,
+    "RewardSetId": 0,
+    "OrderNo": 192000181,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000191,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.39をクリアする。",
+      "En": "Clear Lv. 39 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.39をクリアする。",
+      "En": "Clear Lv. 39 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 19,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 39,
+    "RewardSetId": 0,
+    "OrderNo": 192000191,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000201,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.40をクリアする。",
+      "En": "Clear Lv. 40 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.40をクリアする。",
+      "En": "Clear Lv. 40 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 20,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 40,
+    "RewardSetId": 0,
+    "OrderNo": 192000201,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000211,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.41をクリアする。",
+      "En": "Clear Lv. 41 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.41をクリアする。",
+      "En": "Clear Lv. 41 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 21,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 41,
+    "RewardSetId": 0,
+    "OrderNo": 192000211,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000221,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.42をクリアする。",
+      "En": "Clear Lv. 42 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.42をクリアする。",
+      "En": "Clear Lv. 42 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 22,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 42,
+    "RewardSetId": 0,
+    "OrderNo": 192000221,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000231,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.43をクリアする。",
+      "En": "Clear Lv. 43 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.43をクリアする。",
+      "En": "Clear Lv. 43 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 23,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 43,
+    "RewardSetId": 0,
+    "OrderNo": 192000231,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000241,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.44をクリアする。",
+      "En": "Clear Lv. 44 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.44をクリアする。",
+      "En": "Clear Lv. 44 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 24,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 44,
+    "RewardSetId": 0,
+    "OrderNo": 192000241,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000251,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.45をクリアする。",
+      "En": "Clear Lv. 45 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.45をクリアする。",
+      "En": "Clear Lv. 45 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 25,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 45,
+    "RewardSetId": 0,
+    "OrderNo": 192000251,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000261,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.46をクリアする。",
+      "En": "Clear Lv. 46 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.46をクリアする。",
+      "En": "Clear Lv. 46 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 26,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 46,
+    "RewardSetId": 0,
+    "OrderNo": 192000261,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000271,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.47をクリアする。",
+      "En": "Clear Lv. 47 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.47をクリアする。",
+      "En": "Clear Lv. 47 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 27,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 47,
+    "RewardSetId": 0,
+    "OrderNo": 192000271,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000281,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.48をクリアする。",
+      "En": "Clear Lv. 48 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.48をクリアする。",
+      "En": "Clear Lv. 48 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 28,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 48,
+    "RewardSetId": 0,
+    "OrderNo": 192000281,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000291,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.49をクリアする。",
+      "En": "Clear Lv. 49 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.49をクリアする。",
+      "En": "Clear Lv. 49 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 29,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 49,
+    "RewardSetId": 0,
+    "OrderNo": 192000291,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 192000301,
+    "NameTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.50をクリアする。",
+      "En": "Clear Lv. 50 of any Escalation Challenge solo battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のエクシードチャレンジでシングルバトルのLv.50をクリアする。",
+      "En": "Clear Lv. 50 of any Escalation Challenge solo battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 190011,
+    "MissionSetIdx": 30,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 192000301,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270121400800,
     "OpenConditionSetId": 0,
     "LockConditionSetId": 0,
     "TransitionType": 55,
@@ -47532,6 +48518,448 @@
     "IsRefresh": false
   },
   {
+    "Id": 500090001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090003,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090004,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090005,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090006,
+    "NameTemplate": {
+      "Ja": "「武器強化応援イベント」の任意のクエストを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"Weapon Enhancement Rally Event\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「武器強化応援イベント」の任意のクエストを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"Weapon Enhancement Rally Event\"."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 150,
+    "TargetId1": 3032,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090007,
+    "NameTemplate": {
+      "Ja": "「武器強化応援イベント」の任意のクエストを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"Weapon Enhancement Rally Event\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「武器強化応援イベント」の任意のクエストを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"Weapon Enhancement Rally Event\"."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 150,
+    "TargetId1": 3032,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090008,
+    "NameTemplate": {
+      "Ja": "マルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090009,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090010,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090011,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090012,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 500090013,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 500090,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 13,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000500090,
+    "OpenConditionSetId": 270000500090,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 600011001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -61302,6 +62730,618 @@
     "IsRefresh": false
   },
   {
+    "Id": 600251001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600251,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600251002,
+    "NameTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600251,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600251003,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600251,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600251004,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600251,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600251005,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600251,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252002,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252003,
+    "NameTemplate": {
+      "Ja": "ダメージチャレンジのバトルに{0}回挑戦する。",
+      "En": "Attempt the Max. Damage Challenge {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ダメージチャレンジのバトルに{0}回挑戦する。",
+      "En": "Attempt the Max. Damage Challenge {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 177,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 160000000052,
+    "TransitionType": 65,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252004,
+    "NameTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器の武器強化のレベル上限解放を{0}回する。",
+      "En": "Uncap the level of any weapon {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 50,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252005,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 17,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252006,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252007,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252008,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 600252,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600252009,
+    "NameTemplate": {
+      "Ja": "ギルドに2日ログインする。",
+      "En": "Log in to a guild for 2 days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ギルドに2日ログインする。",
+      "En": "Log in to a guild for 2 days."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600252,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 156,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 160000000007,
+    "TransitionType": 60,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600253001,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} days."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600253,
+    "MissionSetIdx": 0,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 600253,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600253002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600253,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600253003,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600253,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 35,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 600253004,
+    "NameTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ハイウインドで{0}回報酬を回収する。",
+      "En": "Collect Highwind rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 600253,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 128,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 63,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 700101001,
     "NameTemplate": {
       "Ja": "クラウドを編成してスタミナを{0}消費する。",
@@ -61315,8 +63355,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700101,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 10,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 1,
@@ -61349,8 +63389,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700101,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 11,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 1,
@@ -61485,8 +63525,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700102,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 12,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -61519,8 +63559,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700102,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 13,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 1,
@@ -61587,8 +63627,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700102,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 14,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100102,
@@ -61621,8 +63661,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700102,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 15,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 1,
@@ -61655,8 +63695,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700201,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 16,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 2,
@@ -61689,8 +63729,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700201,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 17,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 2,
@@ -61825,8 +63865,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700202,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 18,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -61859,8 +63899,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700202,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 19,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 2,
@@ -61927,8 +63967,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700202,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 20,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100202,
@@ -61961,8 +64001,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700202,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 21,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 2,
@@ -61995,8 +64035,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700301,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 22,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 3,
@@ -62029,8 +64069,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700301,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 23,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 3,
@@ -62165,8 +64205,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700302,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 24,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -62199,8 +64239,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700302,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 25,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 3,
@@ -62267,8 +64307,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700302,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 26,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100302,
@@ -62301,8 +64341,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700302,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 27,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 3,
@@ -62335,8 +64375,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700401,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 28,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 4,
@@ -62369,8 +64409,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700401,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 29,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 4,
@@ -62505,8 +64545,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700402,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 30,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -62539,8 +64579,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700402,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 31,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 4,
@@ -62607,8 +64647,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700402,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 32,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100402,
@@ -62641,8 +64681,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700402,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 33,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 4,
@@ -62675,8 +64715,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700501,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 34,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 5,
@@ -62709,8 +64749,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700501,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 35,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 5,
@@ -62845,8 +64885,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700502,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 36,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -62879,8 +64919,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700502,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 37,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 5,
@@ -62947,8 +64987,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700502,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 38,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100502,
@@ -62981,8 +65021,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700502,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 39,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 5,
@@ -63015,8 +65055,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700601,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 40,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 6,
@@ -63049,8 +65089,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700601,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 41,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 6,
@@ -63185,8 +65225,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700602,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 42,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -63219,8 +65259,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700602,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 43,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 6,
@@ -63287,8 +65327,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700602,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 44,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100602,
@@ -63321,8 +65361,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700602,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 45,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 6,
@@ -63355,8 +65395,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700701,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 46,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 7,
@@ -63389,8 +65429,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700701,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 47,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 7,
@@ -63525,8 +65565,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700702,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 48,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -63559,8 +65599,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700702,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 49,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 7,
@@ -63627,8 +65667,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700702,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 50,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100702,
@@ -63661,8 +65701,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700702,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 51,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 7,
@@ -63695,8 +65735,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700801,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 52,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 8,
@@ -63729,8 +65769,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700801,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 53,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 8,
@@ -63865,8 +65905,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700802,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 54,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -63899,8 +65939,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700802,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 55,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 8,
@@ -63922,11 +65962,11 @@
   {
     "Id": 700802003,
     "NameTemplate": {
-      "Ja": "バーサクダンスをレベルを{0}にする。",
+      "Ja": "バーサクダンスのレベルを{0}にする。",
       "En": "Raise Berserk Dance to Lv. {0}."
     },
     "DescriptionTemplate": {
-      "Ja": "バーサクダンスをレベルを{0}にする。",
+      "Ja": "バーサクダンスのレベルを{0}にする。",
       "En": "Raise Berserk Dance to Lv. {0}."
     },
     "ShortName": {
@@ -63956,19 +65996,19 @@
   {
     "Id": 700802004,
     "NameTemplate": {
-      "Ja": "ビーストフレアをレベルを{0}にする。",
+      "Ja": "ビーストフレアのレベルを{0}にする。",
       "En": "Raise Beast Flare to Lv. {0}."
     },
     "DescriptionTemplate": {
-      "Ja": "ビーストフレアをレベルを{0}にする。",
+      "Ja": "ビーストフレアのレベルを{0}にする。",
       "En": "Raise Beast Flare to Lv. {0}."
     },
     "ShortName": {
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700802,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 56,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100802,
@@ -64001,8 +66041,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700802,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 57,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 8,
@@ -64035,8 +66075,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700901,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 58,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 9,
@@ -64069,8 +66109,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700901,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 59,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 9,
@@ -64205,8 +66245,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700902,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 60,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -64239,8 +66279,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700902,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 61,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 9,
@@ -64262,11 +66302,11 @@
   {
     "Id": 700902003,
     "NameTemplate": {
-      "Ja": "ブーストジャンプをレベルを{0}にする。",
+      "Ja": "ブーストジャンプのレベルを{0}にする。",
       "En": "Raise Boost Jump to Lv. {0}."
     },
     "DescriptionTemplate": {
-      "Ja": "ブーストジャンプをレベルを{0}にする。",
+      "Ja": "ブーストジャンプのレベルを{0}にする。",
       "En": "Raise Boost Jump to Lv. {0}."
     },
     "ShortName": {
@@ -64296,19 +66336,19 @@
   {
     "Id": 700902004,
     "NameTemplate": {
-      "Ja": "ダイナマイトをレベルを{0}にする。",
+      "Ja": "ダイナマイトのレベルを{0}にする。",
       "En": "Raise Dynamite to Lv. {0}."
     },
     "DescriptionTemplate": {
-      "Ja": "ダイナマイトをレベルを{0}にする。",
+      "Ja": "ダイナマイトのレベルを{0}にする。",
       "En": "Raise Dynamite to Lv. {0}."
     },
     "ShortName": {
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700902,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 62,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 100902,
@@ -64341,8 +66381,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 700902,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 63,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 9,
@@ -64375,8 +66415,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 702001,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 64,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 20,
@@ -64409,8 +66449,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 702001,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 65,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 20,
@@ -64545,8 +66585,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 702002,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 66,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -64579,8 +66619,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 702002,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 67,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 20,
@@ -64647,8 +66687,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 702002,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 68,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 102001,
@@ -64681,8 +66721,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 702002,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 69,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 20,
@@ -64715,8 +66755,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 704901,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 70,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 49,
@@ -64749,8 +66789,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 704901,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 71,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 49,
@@ -64783,8 +66823,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 704901,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 72,
     "AutoMissionCountType": 1,
     "MissionType": 68,
     "TargetId1": 0,
@@ -64919,8 +66959,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 704902,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 73,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -64953,8 +66993,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 704902,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 74,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 49,
@@ -65021,8 +67061,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 704902,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 75,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 104902,
@@ -65055,8 +67095,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 704902,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 76,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 49,
@@ -65089,8 +67129,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705001,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 77,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 50,
@@ -65123,8 +67163,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705001,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 78,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 50,
@@ -65259,8 +67299,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705002,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 79,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -65293,8 +67333,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705002,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 80,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 50,
@@ -65361,8 +67401,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705002,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 81,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 105002,
@@ -65395,8 +67435,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705002,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 82,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 50,
@@ -65429,8 +67469,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705101,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 83,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 51,
@@ -65463,8 +67503,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705101,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 84,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 51,
@@ -65599,8 +67639,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705102,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 85,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -65633,8 +67673,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705102,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 86,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 51,
@@ -65701,8 +67741,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705102,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 87,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 105102,
@@ -65735,8 +67775,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705102,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 88,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 51,
@@ -65769,8 +67809,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705201,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 89,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 52,
@@ -65803,8 +67843,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705201,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 90,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 52,
@@ -65939,8 +67979,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705202,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 91,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -65973,8 +68013,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705202,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 92,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 52,
@@ -66041,8 +68081,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705202,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 93,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 105202,
@@ -66075,8 +68115,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705202,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 94,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 52,
@@ -66109,8 +68149,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705601,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 95,
     "AutoMissionCountType": 1,
     "MissionType": 61,
     "TargetId1": 56,
@@ -66143,8 +68183,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705601,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 96,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 56,
@@ -66279,8 +68319,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705602,
-    "MissionSetIdx": 0,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 97,
     "AutoMissionCountType": 2,
     "MissionType": 104,
     "TargetId1": 101,
@@ -66313,8 +68353,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705602,
-    "MissionSetIdx": 1,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 98,
     "AutoMissionCountType": 2,
     "MissionType": 1,
     "TargetId1": 56,
@@ -66336,11 +68376,11 @@
   {
     "Id": 705602003,
     "NameTemplate": {
-      "Ja": "ヘビーラッシュをレベルを{0}にする。",
+      "Ja": "ヘビーラッシュのレベルを{0}にする。",
       "En": "Raise Heavy Assault to Lv. {0}."
     },
     "DescriptionTemplate": {
-      "Ja": "ヘビーラッシュをレベルを{0}にする。",
+      "Ja": "ヘビーラッシュのレベルを{0}にする。",
       "En": "Raise Heavy Assault to Lv. {0}."
     },
     "ShortName": {
@@ -66370,19 +68410,19 @@
   {
     "Id": 705602004,
     "NameTemplate": {
-      "Ja": "セリトアルボレースをレベルを{0}にする。",
+      "Ja": "セリトアルボレースのレベルを{0}にする。",
       "En": "Raise Serit Arbores to Lv. {0}."
     },
     "DescriptionTemplate": {
-      "Ja": "セリトアルボレースをレベルを{0}にする。",
+      "Ja": "セリトアルボレースのレベルを{0}にする。",
       "En": "Raise Serit Arbores to Lv. {0}."
     },
     "ShortName": {
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705602,
-    "MissionSetIdx": 4,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 99,
     "AutoMissionCountType": 1,
     "MissionType": 48,
     "TargetId1": 105602,
@@ -66415,8 +68455,8 @@
       "Ja": "",
       "En": ""
     },
-    "MissionSetId": 705602,
-    "MissionSetIdx": 2,
+    "MissionSetId": 799999,
+    "MissionSetIdx": 100,
     "AutoMissionCountType": 1,
     "MissionType": 89,
     "TargetId1": 56,
@@ -80070,6 +82110,244 @@
     "IsRefresh": false
   },
   {
+    "Id": 901701001,
+    "NameTemplate": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draw(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draw(s)."
+    },
+    "ShortName": {
+      "Ja": "任意のガチャを{0}回引く。",
+      "En": "Perform any {0} draw(s)."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 44,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 36,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901701002,
+    "NameTemplate": {
+      "Ja": "任意の武器1種の武器レベルをLv.80以上にする。",
+      "En": "Raise the level of a type of weapon to Lv. 80+."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器1種の武器レベルをLv.80以上にする。",
+      "En": "Raise the level of a type of weapon to Lv. 80+."
+    },
+    "ShortName": {
+      "Ja": "任意の武器1種の武器レベルをLv.80以上にする。",
+      "En": "Raise the level of a type of weapon to Lv. 80+."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 80,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901701003,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901701004,
+    "NameTemplate": {
+      "Ja": "FFVII ADVENT CHILDREN ECエディション「[1日1回]バハムート震」を{0}回クリアする。",
+      "En": "Clear \"[1/Day] Bahamut SIN\" in FFVII ADVENT CHILDREN EC Edition."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII ADVENT CHILDREN ECエディション「[1日1回]バハムート震」を{0}回クリアする。",
+      "En": "Clear \"[1/Day] Bahamut SIN\" in FFVII ADVENT CHILDREN EC Edition."
+    },
+    "ShortName": {
+      "Ja": "「[1日1回]バハムート震」を{0}回クリアする。",
+      "En": "Clear \"[1/Day] Bahamut SIN\" {0} time(s)."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 61004104,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901701005,
+    "NameTemplate": {
+      "Ja": "「セフィロス (Original) 強化イベント」の任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"Sephiroth (Original) Enhancement Event\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「セフィロス (Original) 強化イベント」の任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"Sephiroth (Original) Enhancement Event\"."
+    },
+    "ShortName": {
+      "Ja": "セフィロス (Original) 強化イベントの任意のバトルをクリアする。",
+      "En": "Clear any battle in \"Sephiroth (Original) Enhancement Event\"."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 150,
+    "TargetId1": 3034,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901701006,
+    "NameTemplate": {
+      "Ja": "任意のデイリークエストを{0}回クリアする。",
+      "En": "Clear Daily Quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のデイリークエストを{0}回クリアする。",
+      "En": "Clear Daily Quests {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "任意のデイリークエストを{0}回クリアする。",
+      "En": "Clear Daily Quests {0} time(s)."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 115,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 13,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901701007,
+    "NameTemplate": {
+      "Ja": "FFVII ADVENT CHILDREN ECエディション「思い出の功罪」を見る。",
+      "En": "Play \"Remembrance of Joy and Pain\" in FFVII ADVENT CHILDREN EC Edition."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII ADVENT CHILDREN ECエディション「思い出の功罪」を見る。",
+      "En": "Play \"Remembrance of Joy and Pain\" in FFVII ADVENT CHILDREN EC Edition."
+    },
+    "ShortName": {
+      "Ja": "FFVII ADVENT CHILDREN ECエディションのストーリーをクリアする。",
+      "En": "Clear stories in FFVII ADVENT CHILDREN EC Edition."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 1100419,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 200101610120,
+    "OrderNo": 7,
+    "BonusPoint": 1,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 901701008,
     "NameTemplate": {
       "Ja": "スタミナを{0}消費する。",
@@ -80102,6 +82380,686 @@
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": false
+  },
+  {
+    "Id": 901701009,
+    "NameTemplate": {
+      "Ja": "プレイヤーレベル{0}に到達する。",
+      "En": "Reach player Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "プレイヤーレベル{0}に到達する。",
+      "En": "Reach player Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "プレイヤーレベル{0}に到達する。",
+      "En": "Reach player Lv. {0}."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 2,
+    "MissionType": 31,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 1,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901701010,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のオーバーアクセルを解放する。",
+      "En": "Unlock Sephiroth (Original)'s Overspeed."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のオーバーアクセルを解放する。",
+      "En": "Unlock Sephiroth (Original)'s Overspeed."
+    },
+    "ShortName": {
+      "Ja": "セフィロス (Original)のオーバーアクセルを解放する。",
+      "En": "Unlock Sephiroth (Original)'s Overspeed."
+    },
+    "MissionSetId": 901701,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 3,
+    "MissionType": 186,
+    "TargetId1": 306001,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 200101820120,
+    "OrderNo": 8,
+    "BonusPoint": 1,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 260901701010,
+    "TransitionType": 67,
+    "TransitionId": 60,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901702001,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} day(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} day(s)."
+    },
+    "ShortName": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} day(s)."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 901702,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901702002,
+    "NameTemplate": {
+      "Ja": "FFVII ADVENT CHILDREN ECエディション「[1日1回]バハムート震」を{0}回クリアする。",
+      "En": "Clear \"[1/Day] Bahamut SIN\" in FFVII ADVENT CHILDREN EC Edition."
+    },
+    "DescriptionTemplate": {
+      "Ja": "FFVII ADVENT CHILDREN ECエディション「[1日1回]バハムート震」を{0}回クリアする。",
+      "En": "Clear \"[1/Day] Bahamut SIN\" in FFVII ADVENT CHILDREN EC Edition."
+    },
+    "ShortName": {
+      "Ja": "「[1日1回]バハムート震」を{0}回クリアする。",
+      "En": "Clear \"[1/Day] Bahamut SIN\" {0} time(s)."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 61004104,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901702003,
+    "NameTemplate": {
+      "Ja": "任意の武器9種の武器レベルをLv.80以上にする。",
+      "En": "Raise the level of 9 types of weapon to Lv. 80+."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器9種の武器レベルをLv.80以上にする。",
+      "En": "Raise the level of 9 types of weapon to Lv. 80+."
+    },
+    "ShortName": {
+      "Ja": "任意の武器9種の武器レベルをLv.80以上にする。",
+      "En": "Raise the level of 9 types of weapon to Lv. 80+."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 41,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 80,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901702004,
+    "NameTemplate": {
+      "Ja": "「セフィロス (Original) 強化クエスト 5」を{0}回クリアする。",
+      "En": "Clear \"Sephiroth (Original) Enh. Quest 5\" {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「セフィロス (Original) 強化クエスト 5」を{0}回クリアする。",
+      "En": "Clear \"Sephiroth (Original) Enh. Quest 5\" {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "「セフィロス (Original) 強化クエスト 5」を{0}回クリアする。",
+      "En": "Clear \"Sephiroth (Original) Enh. Quest 5\" {0} time(s)."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034105,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901702005,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901702006,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "ShortName": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 260901701010,
+    "TransitionType": 29,
+    "TransitionId": 60,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901702007,
+    "NameTemplate": {
+      "Ja": "メモリアを装備して任意のクエストをクリアする。",
+      "En": "Equip a memoria and clear any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "メモリアを装備して任意のクエストをクリアする。",
+      "En": "Equip a memoria and clear any battle."
+    },
+    "ShortName": {
+      "Ja": "メモリアを装備して任意のクエストをクリアする。",
+      "En": "Equip a memoria and clear any battle."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 197,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901702008,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)を編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Sephiroth (Original) in the party."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)を編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Sephiroth (Original) in the party."
+    },
+    "ShortName": {
+      "Ja": "セフィロス (Original)を編成して任意のバトルを{0}回クリアする。",
+      "En": "Clear {0} battle(s) with Sephiroth (Original) in the party."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 27,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901702009,
+    "NameTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "任意の高位強化クエストを{0}回クリアする。",
+      "En": "Clear premium quests {0} time(s)."
+    },
+    "MissionSetId": 901702,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 114,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 34,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901703001,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 10」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 10\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 10」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 10\"."
+    },
+    "ShortName": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 10」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 10\"."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034310,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901703002,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 20」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 20\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 20」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 20\"."
+    },
+    "ShortName": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 20」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 20\"."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034320,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901703003,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 30」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 30\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 30」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 30\"."
+    },
+    "ShortName": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 30」をクリアする。",
+      "En": "Clear \"[Prm.] Sephiroth (Original) Enh. Quest 30\"."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034330,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 55,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901703004,
+    "NameTemplate": {
+      "Ja": "「バハムート震のメモリア」を獲得する。",
+      "En": "Obtain \"Memoria of Bahamut SIN\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「バハムート震のメモリア」を獲得する。",
+      "En": "Obtain \"Memoria of Bahamut SIN\"."
+    },
+    "ShortName": {
+      "Ja": "「バハムート震のメモリア」を獲得する。",
+      "En": "Obtain \"Memoria of Bahamut SIN\"."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 191,
+    "TargetId1": 1510001,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901703005,
+    "NameTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} day(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} day(s)."
+    },
+    "ShortName": {
+      "Ja": "累計{0}日ログインする。",
+      "En": "Log in for a total of {0} day(s)."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 901703,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901703006,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "ShortName": {
+      "Ja": "セフィロス (Original)のキャラクターストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Sephiroth (Original)'s character stream."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 26,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 260901701010,
+    "TransitionType": 29,
+    "TransitionId": 60,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901703007,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のロールストリームのマスを全て解放する。",
+      "En": "Unlock all role stream nodes for Sephiroth (Original)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のロールストリームのマスを全て解放する。",
+      "En": "Unlock all role stream nodes for Sephiroth (Original)."
+    },
+    "ShortName": {
+      "Ja": "セフィロス (Original)のロールストリームのマスを全て解放する。",
+      "En": "Unlock all role stream nodes for Sephiroth (Original)."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 183,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 260901701010,
+    "TransitionType": 67,
+    "TransitionId": 60,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 901703008,
+    "NameTemplate": {
+      "Ja": "「召喚獣の試練・烈」任意のLv.1クエストに挑戦する（リタイア除く）。",
+      "En": "Attempt any Trial of the Summons (Fury) Lv. 1 quest without retiring."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「召喚獣の試練・烈」任意のLv.1クエストに挑戦する（リタイア除く）。",
+      "En": "Attempt any Trial of the Summons (Fury) Lv. 1 quest without retiring."
+    },
+    "ShortName": {
+      "Ja": "「召喚獣の試練・烈」任意のLv.1クエストに挑戦する（リタイア除く）。",
+      "En": "Attempt any Trial of the Summons (Fury) Lv. 1 quest without retiring."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 162,
+    "TargetId1": 20,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3033,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 901703009,
+    "NameTemplate": {
+      "Ja": "任意の武器1種の武器レベルをLv.130以上にする。",
+      "En": "Raise the level of a type of weapon to Lv. 130+."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意の武器1種の武器レベルをLv.130以上にする。",
+      "En": "Raise the level of a type of weapon to Lv. 130+."
+    },
+    "ShortName": {
+      "Ja": "任意の武器1種の武器レベルをLv.130以上にする。",
+      "En": "Raise the level of a type of weapon to Lv. 130+."
+    },
+    "MissionSetId": 901703,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 41,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 130,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 270000901701,
+    "OpenConditionSetId": 270000901701,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
   },
   {
     "Id": 901801009,
@@ -92412,6 +95370,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 2306001001,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2306001,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 1,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 2400101001,
     "NameTemplate": {
       "Ja": "武器の獲得数",
@@ -93738,6 +96730,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 2400107016,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のウェアの獲得数",
+      "En": "Sephiroth (Original)'s Gear Obtained"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のウェアの獲得数",
+      "En": "Sephiroth (Original)'s Gear Obtained"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400107,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 1,
+    "MissionType": 132,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 60,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 2400108001,
     "NameTemplate": {
       "Ja": "クラウドのキャラクターレベル",
@@ -94248,6 +97274,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 2400108016,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベル",
+      "En": "Sephiroth (Original)'s Character Lv."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベル",
+      "En": "Sephiroth (Original)'s Character Lv."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400108,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 60,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 2400109001,
     "NameTemplate": {
       "Ja": "ギルドに所属した累計日数",
@@ -94679,6 +97739,108 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 2400111001,
+    "NameTemplate": {
+      "Ja": "メモリアを{0}種類獲得する。",
+      "En": "Obtain {0} memoria type(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "メモリアを{0}種類獲得する。",
+      "En": "Obtain {0} memoria type(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400111,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 191,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400111002,
+    "NameTemplate": {
+      "Ja": "任意のメモリア1種のレベルをLv.{0}以上にする。",
+      "En": "Raise the level of a type of memoria to Lv. {0}+."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のメモリア1種のレベルをLv.{0}以上にする。",
+      "En": "Raise the level of a type of memoria to Lv. {0}+."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400111,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 2,
+    "MissionType": 192,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400111003,
+    "NameTemplate": {
+      "Ja": "メモリアを編成して任意のバトルを{0}回クリアする。",
+      "En": "Equip a memoria and clear {0} battle(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "メモリアを編成して任意のバトルを{0}回クリアする。",
+      "En": "Equip a memoria and clear {0} battle(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400111,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 197,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -95200,6 +98362,40 @@
     "IsRefresh": true
   },
   {
+    "Id": 2400201016,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)の一撃最大ダメージ（イベントを除く）",
+      "En": "Sephiroth (Original)'s One-Hit Max. Damage (Excludes Events)"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)の一撃最大ダメージ（イベントを除く）",
+      "En": "Sephiroth (Original)'s One-Hit Max. Damage (Excludes Events)"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400201,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 2,
+    "MissionType": 147,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 60,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 2400202001,
     "NameTemplate": {
       "Ja": "クラウドのバトル中トータルダメージ（イベントを除く）",
@@ -95699,6 +98895,40 @@
     "TargetValue": 0,
     "RewardSetId": 0,
     "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2400202016,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のバトル中トータルダメージ（イベントを除く）",
+      "En": "Sephiroth (Original)'s Total Damage Dealt in Battle (Excludes Events)"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のバトル中トータルダメージ（イベントを除く）",
+      "En": "Sephiroth (Original)'s Total Damage Dealt in Battle (Excludes Events)"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2400202,
+    "MissionSetIdx": 16,
+    "AutoMissionCountType": 1,
+    "MissionType": 148,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 60,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -97739,6 +100969,142 @@
     "TargetValue": 70,
     "RewardSetId": 0,
     "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401060001,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のLv.50に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 50"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のLv.50に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 50"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401060,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 50,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401060002,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のLv.70に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 70"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のLv.70に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 70"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401060,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 70,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401060003,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のLv.90に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 90"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のLv.90に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 90"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401060,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 90,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 0,
+    "OpenConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 2401060004,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のLv.120に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 120"
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のLv.120に到達した武器数",
+      "En": "Sephiroth (Original)'s Weapons Raised to Lv. 120"
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 2401060,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 131,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 120,
+    "RewardSetId": 0,
+    "OrderNo": 4,
     "BonusPoint": 0,
     "DisplayConditionSetId": 0,
     "OpenConditionSetId": 0,
@@ -117504,6 +120870,924 @@
     "IsRefresh": false
   },
   {
+    "Id": 120303201001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303201,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303201002,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303201,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303201003,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303201,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303201004,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303201,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303202001,
+    "NameTemplate": {
+      "Ja": "ログインする。",
+      "En": "Log in to the game."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ログインする。",
+      "En": "Log in to the game."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303202,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 120303201,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303202002,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303202,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303202003,
+    "NameTemplate": {
+      "Ja": "応援ゴールドメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Rally Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "応援ゴールドメダルを{0}個取得する。",
+      "En": "Obtain {0} Golden Rally Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303202,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030321,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303202004,
+    "NameTemplate": {
+      "Ja": "ログインする。",
+      "En": "Log in to the game."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ログインする。",
+      "En": "Log in to the game."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303202,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 151,
+    "TargetId1": 120303202,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303202005,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303202,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303202006,
+    "NameTemplate": {
+      "Ja": "応援シルバーメダルを{0}個取得する。",
+      "En": "Obtain {0} Silver Rally Medal(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "応援シルバーメダルを{0}個取得する。",
+      "En": "Obtain {0} Silver Rally Medal(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303202,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 1,
+    "MissionType": 79,
+    "TargetId1": 2030322,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303200000,
+    "OpenConditionSetId": 12120303200000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3032,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303301120,
+    "NameTemplate": {
+      "Ja": "召喚獣の試練・烈の全クエストをクリアする。",
+      "En": "Clear all Trial of the Summons (Fury) quests."
+    },
+    "DescriptionTemplate": {
+      "Ja": "召喚獣の試練・烈の全クエストをクリアする。",
+      "En": "Clear all Trial of the Summons (Fury) quests."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 120,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53033146,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300001,
+    "OpenConditionSetId": 12120303300001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3033,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303301130,
+    "NameTemplate": {
+      "Ja": "イフリートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Ifrit's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イフリートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Ifrit's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 130,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 1,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 1,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301140,
+    "NameTemplate": {
+      "Ja": "シヴァの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Shiva's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "シヴァの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Shiva's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 140,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 2,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 2,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301150,
+    "NameTemplate": {
+      "Ja": "ラムウの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Ramuh's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "ラムウの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Ramuh's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 150,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 10,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 10,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301160,
+    "NameTemplate": {
+      "Ja": "リヴァイアサンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Leviathan's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "リヴァイアサンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Leviathan's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 160,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 3,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301170,
+    "NameTemplate": {
+      "Ja": "タイタンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Titan's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "タイタンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Titan's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 170,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 11,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 11,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301180,
+    "NameTemplate": {
+      "Ja": "オーディンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Odin's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "オーディンの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Odin's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 180,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 12,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 12,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301190,
+    "NameTemplate": {
+      "Ja": "バハムートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Bahamut's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "バハムートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Bahamut's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 190,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 6,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 6,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301200,
+    "NameTemplate": {
+      "Ja": "イフリート＆バハムートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Ifrit & Bahamut's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "イフリート＆バハムートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Ifrit & Bahamut's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 200,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 51,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 51,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301210,
+    "NameTemplate": {
+      "Ja": "シヴァ＆ラムウの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Shiva & Ramuh's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "シヴァ＆ラムウの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Shiva & Ramuh's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 210,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 52,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 52,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303301220,
+    "NameTemplate": {
+      "Ja": "リヴァイアサン＆バハムートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Leviathan & Bahamut's summon stream."
+    },
+    "DescriptionTemplate": {
+      "Ja": "リヴァイアサン＆バハムートの召喚獣ストリームのマスを{0}個解放する。",
+      "En": "Unlock {0} node(s) in Leviathan & Bahamut's summon stream."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303301,
+    "MissionSetIdx": 220,
+    "AutoMissionCountType": 1,
+    "MissionType": 10,
+    "TargetId1": 53,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303300000,
+    "OpenConditionSetId": 12120303300000,
+    "LockConditionSetId": 0,
+    "TransitionType": 30,
+    "TransitionId": 53,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 120303401001,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 5」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 5."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 5」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 5."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303401,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034305,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303400000,
+    "OpenConditionSetId": 12120303400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3034,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303401002,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 10」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 10."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 10」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 10."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303401,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034310,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303400000,
+    "OpenConditionSetId": 12120303400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3034,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303401003,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 20」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 20."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 20」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 20."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303401,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034320,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303400000,
+    "OpenConditionSetId": 12120303400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3034,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303401004,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 25」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 25."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 25」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 25."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303401,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034325,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303400000,
+    "OpenConditionSetId": 12120303400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3034,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303401005,
+    "NameTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 15」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 15."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「[高位]セフィロス (Original) 強化クエスト 15」をクリアする。",
+      "En": "Clear [Prm.] Sephiroth (Original) Enh. Quest 15."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303401,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 1,
+    "MissionType": 3,
+    "TargetId1": 53034315,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303400000,
+    "OpenConditionSetId": 12120303400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3034,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 120303401006,
+    "NameTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "セフィロス (Original)のキャラクターレベルを{0}にする。",
+      "En": "Raise Sephiroth (Original) to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 120303401,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 2,
+    "MissionType": 1,
+    "TargetId1": 60,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11120303400000,
+    "OpenConditionSetId": 12120303400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 3034,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
     "Id": 120800101001,
     "NameTemplate": {
       "Ja": "任意のバトルでスタミナを{0}消費する。",
@@ -128996,6 +133280,516 @@
     "IsRefresh": false
   },
   {
+    "Id": 121100401001,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを5,000消費する。",
+      "En": "Consume 5,000 stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを5,000消費する。",
+      "En": "Consume 5,000 stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100401002,
+    "NameTemplate": {
+      "Ja": "クワトロガトリングをLv.{0}に武器強化する。",
+      "En": "Raise Quad Gatling Gun to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クワトロガトリングをLv.{0}に武器強化する。",
+      "En": "Raise Quad Gatling Gun to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 2040,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 4,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100401003,
+    "NameTemplate": {
+      "Ja": "クワトロガトリングをLv.90に武器強化する。",
+      "En": "Raise Quad Gatling Gun to Lv. 90."
+    },
+    "DescriptionTemplate": {
+      "Ja": "クワトロガトリングをLv.90に武器強化する。",
+      "En": "Raise Quad Gatling Gun to Lv. 90."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 3,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 2040,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100401004,
+    "NameTemplate": {
+      "Ja": "キャプテンスピアをLv.{0}に武器強化する。",
+      "En": "Raise Captain's Spear to Lv. {0}."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャプテンスピアをLv.{0}に武器強化する。",
+      "En": "Raise Captain's Spear to Lv. {0}."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 4,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 9024,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 5,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400001,
+    "OpenConditionSetId": 12121100400001,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100401005,
+    "NameTemplate": {
+      "Ja": "キャプテンスピアをLv.90に武器強化する。",
+      "En": "Raise Captain's Spear to Lv. 90."
+    },
+    "DescriptionTemplate": {
+      "Ja": "キャプテンスピアをLv.90に武器強化する。",
+      "En": "Raise Captain's Spear to Lv. 90."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 5,
+    "AutoMissionCountType": 2,
+    "MissionType": 21,
+    "TargetId1": 9024,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 3,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400001,
+    "OpenConditionSetId": 12121100400001,
+    "LockConditionSetId": 0,
+    "TransitionType": 38,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100401006,
+    "NameTemplate": {
+      "Ja": "「思い出の功罪」を見る。",
+      "En": "Play \"Remembrance of Joy and Pain\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「思い出の功罪」を見る。",
+      "En": "Play \"Remembrance of Joy and Pain\"."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 6,
+    "AutoMissionCountType": 3,
+    "MissionType": 73,
+    "TargetId1": 1100419,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 131001100408,
+    "OrderNo": 6,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121100401007,
+    "NameTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルでスタミナを5,000消費する。",
+      "En": "Consume 5,000 stamina in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルでスタミナを5,000消費する。",
+      "En": "Consume 5,000 stamina in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 7,
+    "AutoMissionCountType": 1,
+    "MissionType": 149,
+    "TargetId1": 11004,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100401008,
+    "NameTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 8,
+    "AutoMissionCountType": 1,
+    "MissionType": 149,
+    "TargetId1": 11004,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 7,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100401009,
+    "NameTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 9,
+    "AutoMissionCountType": 1,
+    "MissionType": 58,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 8,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100401010,
+    "NameTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "DescriptionTemplate": {
+      "Ja": "任意のマルチバトルでスタミナを{0}消費する。",
+      "En": "Consume {0} stamina in any Co-op battle."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 10,
+    "AutoMissionCountType": 1,
+    "MissionType": 112,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 9,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100401011,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}回合成する。",
+      "En": "Synthesize materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 11,
+    "AutoMissionCountType": 1,
+    "MissionType": 52,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 10,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 40,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100401012,
+    "NameTemplate": {
+      "Ja": "マテリアを{0}個進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "マテリアを{0}個進化する。",
+      "En": "Upgrade materia {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 12,
+    "AutoMissionCountType": 1,
+    "MissionType": 84,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 11,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400001,
+    "OpenConditionSetId": 12121100400001,
+    "LockConditionSetId": 0,
+    "TransitionType": 39,
+    "TransitionId": 0,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100401013,
+    "NameTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "DescriptionTemplate": {
+      "Ja": "チョコボ遠征で{0}回報酬を回収する。",
+      "En": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100401,
+    "MissionSetIdx": 13,
+    "AutoMissionCountType": 1,
+    "MissionType": 68,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 12,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400001,
+    "OpenConditionSetId": 12121100400001,
+    "LockConditionSetId": 0,
+    "TransitionType": 21,
+    "TransitionId": 3,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100402001,
+    "NameTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100402,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 150,
+    "TargetId1": 11004,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400000,
+    "OpenConditionSetId": 12121100400000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
+    "Id": 121100402002,
+    "NameTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "DescriptionTemplate": {
+      "Ja": "「FFVII ADVENT CHILDREN ECエディション」の任意のバトルを{0}回クリアする。",
+      "En": "Clear any battle {0} time(s) in \"FFVII ADVENT CHILDREN EC Edition\"."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121100402,
+    "MissionSetIdx": 2,
+    "AutoMissionCountType": 1,
+    "MissionType": 150,
+    "TargetId1": 11004,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 0,
+    "RewardSetId": 0,
+    "OrderNo": 2,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 11121100400001,
+    "OpenConditionSetId": 12121100400001,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 11004,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": false
+  },
+  {
     "Id": 121300101001,
     "NameTemplate": {
       "Ja": "「異形の蹂躙」のB10Fをクリアする。",
@@ -130929,6 +135723,40 @@
     "LockConditionSetId": 0,
     "TransitionType": 58,
     "TransitionId": 14007,
+    "ResourceId": 0,
+    "SupplyConsumptionSetId": 0,
+    "IsRefresh": true
+  },
+  {
+    "Id": 121400801001,
+    "NameTemplate": {
+      "Ja": "エクシードチャレンジLv.20をクリアする。",
+      "En": "Clear Escalation Challenge Lv. 20."
+    },
+    "DescriptionTemplate": {
+      "Ja": "エクシードチャレンジLv.20をクリアする。",
+      "En": "Clear Escalation Challenge Lv. 20."
+    },
+    "ShortName": {
+      "Ja": "",
+      "En": ""
+    },
+    "MissionSetId": 121400801,
+    "MissionSetIdx": 1,
+    "AutoMissionCountType": 1,
+    "MissionType": 182,
+    "TargetId1": 14008,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "TargetValue": 20,
+    "RewardSetId": 131001400801,
+    "OrderNo": 1,
+    "BonusPoint": 0,
+    "DisplayConditionSetId": 12121400800000,
+    "OpenConditionSetId": 12121400800000,
+    "LockConditionSetId": 0,
+    "TransitionType": 58,
+    "TransitionId": 14008,
     "ResourceId": 0,
     "SupplyConsumptionSetId": 0,
     "IsRefresh": true

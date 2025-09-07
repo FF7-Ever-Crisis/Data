@@ -2757,6 +2757,110 @@
   },
   {
     "Title": {
+      "Ja": "メモリアについて",
+      "En": "Memoria"
+    },
+    "Description": {
+      "Ja": "このイベントでは<command_color=common_03>メモリアを獲得</color>することができます。\nメモリアは<command_color=common_03>パーティに編成</color>することで<command_color=common_03>パーティ全体を強化</color>することができます。\nメモリアの獲得を目指しましょう。",
+      "En": "During this event, you will be able to obtain <command_color=common_03>memoria</color>. Memoria can be equipped to a party to <command_color=common_03>strengthen all party members</color>. Obtain and equip memoria to gain an edge in battle."
+    },
+    "TutorialPopupGroupId": 2310001,
+    "Seq": 1,
+    "ResourceId": 231000101
+  },
+  {
+    "Title": {
+      "Ja": "メモリアの獲得方法について1",
+      "En": "Obtaining Memoria 1"
+    },
+    "Description": {
+      "Ja": "メモリアを獲得するためには、<command_color=common_03>メモリアの結晶を集める必要</color>があります。\nメモリアの結晶は<command_color=common_03>「獲得可能な結晶」</color>が表示されているバトルにて集めることができます。\n<command_color=common_02>※バトルをクリアする度にランダムで入手できます。</color>",
+      "En": "To obtain memoria, you must <command_color=common_03>collect memoria crystals</color>. Memoria crystals can be obtained in battles where <command_color=common_03>\"Obtainable Memoria Crystal\"</color> is displayed.\n<command_color=common_02>*Random drop after battle is cleared.</color>"
+    },
+    "TutorialPopupGroupId": 2310001,
+    "Seq": 2,
+    "ResourceId": 231000102
+  },
+  {
+    "Title": {
+      "Ja": "メモリアの獲得方法について2",
+      "En": "Obtaining Memoria 2"
+    },
+    "Description": {
+      "Ja": "メモリアの獲得までに<command_color=common_03>必要なメモリアの結晶の数</color>と\n<command_color=common_03>現在所持しているメモリアの結晶の数</color>は、イベント画面の左下に表示されています。\n所持している結晶の数が必要な結晶の数に達すると、メモリアを<command_color=common_03>自動的に獲得</color>することができます。",
+      "En": "The <command_color=common_03>required number of memoria crystals</color> to obtain a memoria and the <command_color=common_03>number of memoria crystals you currently possess</color> are displayed at the bottom left of the event screen. The memoria is <command_color=common_03>obtained automatically</color> when the number of required crystals is fulfilled. "
+    },
+    "TutorialPopupGroupId": 2310001,
+    "Seq": 3,
+    "ResourceId": 231000103
+  },
+  {
+    "Title": {
+      "Ja": "メモリア 装備枠解放",
+      "En": "Memoria Slot Unlocked"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>メモリア装備枠</color>が解放されました。\n獲得したメモリアは<command_color=common_03>編成画面</color>のメモリア装備枠から編成できます。",
+      "En": "<command_color=common_03>Memoria slot</color> has been unlocked. Obtained memoria can be equipped from the party screen."
+    },
+    "TutorialPopupGroupId": 2310002,
+    "Seq": 1,
+    "ResourceId": 231000201
+  },
+  {
+    "Title": {
+      "Ja": "メモリアについて1",
+      "En": "Memoria 1"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>メモリア</color>はパーティに編成することで<command_color=common_03>パーティ全体を強化</color>することができます。\nメモリアはパーティ全体を強化する<command_color=common_03>ステータス</color>と<command_color=common_03>Ｍアビリティ</color>を持っています。\n<command_color=common_02>※マルチバトルでは、メモリアの効果は自身のキャラクターのみに適用されます。</color>",
+      "En": "Memoria can be <command_color=common_03>equipped to a party</color> to strengthen all party members. Memoria possess <command_color=common_03>stats</color> that strengthen the entire party and <command_color=common_03>M. abilities</color>.\n<command_color=common_02>*Memoria only affect your character in co-op battles.</color>"
+    },
+    "TutorialPopupGroupId": 2310002,
+    "Seq": 2,
+    "ResourceId": 231000202
+  },
+  {
+    "Title": {
+      "Ja": "メモリアについて2",
+      "En": "Memoria 2"
+    },
+    "Description": {
+      "Ja": "メモリアを装備してバトルをクリアすると、メモリアの経験値を獲得することができます。\n<command_color=common_03>レベルアップ</color>することで、メモリアの<command_color=common_03>ステータスやＭアビリティが強化</color>されます。\n<command_color=common_02>※一部のバトルではメモリアの経験値が獲得できません。</color>",
+      "En": "When you clear a battle with a memoria equipped, the equipped memoria will gain EXP. When a memoria levels up, its <command_color=common_03>stats and M. abilities</color> are strengthened.\n<command_color=common_02>*Some battles do not grant memoria EXP.</color>"
+    },
+    "TutorialPopupGroupId": 2310002,
+    "Seq": 3,
+    "ResourceId": 231000203
+  },
+  {
+    "Title": {
+      "Ja": "M（メモリア）アビリティについて",
+      "En": "M. Abilities (Memoria Abilities)"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>Ｍアビリティ</color>は、<command_color=common_03>パーティ全体を強化する効果</color>を持っています。\npt（ポイント）の合計によってレベルが上昇し、効果が高くなります。",
+      "En": "<command_color=common_03>M. abilities</color> provide effects that <command_color=common_03>strengthen the entire party</color>. An M ability's level is determined by the total points (pts.) that it possesses. The higher an M. ability's level, the more potent its effect."
+    },
+    "TutorialPopupGroupId": 2310002,
+    "Seq": 4,
+    "ResourceId": 231000204
+  },
+  {
+    "Title": {
+      "Ja": "メモリアの強化",
+      "En": "Enhancing Memoria"
+    },
+    "Description": {
+      "Ja": "メモリア強化では<command_color=common_03>メモリア強化素材</color>を使って<command_color=common_03>メモリアを強化</color>することができます。\n<command_color=common_02>※装備中のメモリアはバトルをクリアすることで得られる経験値によって強化することもできます。</color>\n<command_color=common_02>※メモリアには、重複獲得による成長要素やレアリティアップ・限界突破はありません。</color>",
+      "En": "Memoria enhancement allows you to strengthen your memoria using <command_color=common_03>memoria enhance materials</color>.\n<command_color=common_02>*Your currently equipped memoria can also be enhanced by clearing battles and gaining memoria EXP.</color>\n<command_color=common_02>*Memoria are not enhanced or affected by duplicates, and there are no rarity upgrades or overboosts.</color>"
+    },
+    "TutorialPopupGroupId": 2310003,
+    "Seq": 1,
+    "ResourceId": 231000301
+  },
+  {
+    "Title": {
       "Ja": "AUTO機能が使用できるようになりました。\nMANUALから切り替えて選択できます。",
       "En": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },
@@ -3092,6 +3196,58 @@
     "TutorialPopupGroupId": 300000019,
     "Seq": 1,
     "ResourceId": 3000000191
+  },
+  {
+    "Title": {
+      "Ja": "アンノウンアクセルについて1",
+      "En": "Unknown Tuning 1"
+    },
+    "Description": {
+      "Ja": "セフィロス (Original)は専用ロール「アンノウン」を持つキャラクターです。\nオーバーアクセルの発動中は「<command_color=common_03>ダメージ無効状態</color>」となり、\n<command_color=common_03>すべてのCアビリティをATB1で使用できます。</color>\n※本ステージでは特別にチャージ時間が短縮されます。\n※アンノウンアクセルはロールストリームにて解放することで使用可能になります。",
+      "En": "The character Sephiroth (Original) possesses the unique role \"Unknown.\" While overspeed is active, he gains  <command_color=common_03>damage immunity</color> status and <command_color=common_03>all C. abilities can be used at ATB 1</color>.\n*ATB charging time has been shortened in the current stage.\n*Unknown Tuning becomes available once it is unlocked via the Role Stream."
+    },
+    "TutorialPopupGroupId": 300000021,
+    "Seq": 1,
+    "ResourceId": 3000000211
+  },
+  {
+    "Title": {
+      "Ja": "アンノウンアクセルについて2",
+      "En": "Unknown Tuning 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>アンノウンオーバーアクセル</color>の発動中は\n一定のダメージを受けるたびに、\n<command_color=common_03>残りのオーバーアクセルゲージが減少</color>していきます。\n※時間経過でもゲージは減少します。",
+      "En": "While the <command_color=common_03>Unknown Tuning</color> overspeed is active, the <command_color=common_03>overspeed gauge is depleted when a given amount of damage is received</color>.\n*The gauge also depletes over time. "
+    },
+    "TutorialPopupGroupId": 300000021,
+    "Seq": 2,
+    "ResourceId": 3000000212
+  },
+  {
+    "Title": {
+      "Ja": "アンノウンアクセルについて3",
+      "En": "Unknown Tuning 3"
+    },
+    "Description": {
+      "Ja": "さらに、一度の攻撃で大ダメージを受けた場合、\n<command_color=common_03>オーバーアクセルゲージも大きく減少</color>します。",
+      "En": "Furthermore, if a massive amount of damage is received from a single attack, the <command_color=common_03>overspeed gauge will also be greatly depleted</color>."
+    },
+    "TutorialPopupGroupId": 300000021,
+    "Seq": 3,
+    "ResourceId": 3000000213
+  },
+  {
+    "Title": {
+      "Ja": "セフィロス (Original)について",
+      "En": "Sephiroth (Original)"
+    },
+    "Description": {
+      "Ja": "「セフィロス (Original)」は固有の能力として、\n<command_color=common_03>Rアビリティ「ラストリーヴ 15pt」</color>を備えており、\n致死ダメージを受けた際、一度だけ復活することができます。\n※本ステージでは特別仕様のため発動しません",
+      "En": "Sephiroth (Original) possesses the unique R. ability <command_color=common_03>Reprieve (15 pts.) </color> which allows him to be revived one time after receiving lethal damage.\n*This ability will not activate in the current stage."
+    },
+    "TutorialPopupGroupId": 300000021,
+    "Seq": 4,
+    "ResourceId": 3000000214
   },
   {
     "Title": {

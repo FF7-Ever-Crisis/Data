@@ -512,8 +512,8 @@
       "En": "Memory Voucher"
     },
     "Description": {
-      "Ja": "交換所でキャラクターメモリーと交換するために必要。\n<command_color=common_03>「選べるメモリー交換所」</color>で使用できます。",
-      "En": "Traded for items at the <command_color=common_03>Memory Exchange</color>."
+      "Ja": "交換所でキャラクターメモリーと交換するために必要。\n<command_color=common_03>「育成・強化交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Enhancement Exch.</color>"
     },
     "ItemType": 20,
     "ItemRarityType": 4,
@@ -534,8 +534,8 @@
       "En": "Summon's Memory Voucher"
     },
     "Description": {
-      "Ja": "交換所で召喚獣メモリーと交換するために必要。\n<command_color=common_03>「選べるメモリー交換所」</color>で使用できます。",
-      "En": "Traded for items at the <command_color=common_03>Memory Exchange</color>."
+      "Ja": "交換所で召喚獣メモリーと交換するために必要。\n<command_color=common_03>「育成・強化交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Enhancement Exch.</color>"
     },
     "ItemType": 20,
     "ItemRarityType": 4,
@@ -1364,6 +1364,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1060,
+    "Name": {
+      "Ja": "セフィロス (Original)専用ウェポンパーツ",
+      "En": "Sephiroth (Original)-Specific Weapon Part"
+    },
+    "Description": {
+      "Ja": "武器レアリティアップに必要。\n<command_color=common_03>「セフィロス (Original)」の武器レアリティアップ</color>で使用できます。",
+      "En": "Needed for weapon rarity upgrades.\nIt can be used for <command_color=common_03>upgrading the rarity of Sephiroth (Original)'s weapons</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2001,
     "Name": {
       "Ja": "クラウドのメモリー",
@@ -1694,6 +1716,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 2060,
+    "Name": {
+      "Ja": "セフィロス (Original)のメモリー",
+      "En": "Sephiroth (Original)'s Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「セフィロス (Original)」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Sephiroth (Original)'s character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2060,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2101,
     "Name": {
       "Ja": "クラウドのノーブルメモリー",
@@ -2015,6 +2059,28 @@
     "ItemRarityType": 4,
     "MaxCapacity": 99999999,
     "ResourceId": 2156,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2160,
+    "Name": {
+      "Ja": "セフィロス (Original)のノーブルメモリー",
+      "En": "Sephiroth (Original)'s Noble Memory"
+    },
+    "Description": {
+      "Ja": "キャラクターストリームのマス解放に必要。\n<command_color=common_03>「セフィロス (Original)」のキャラクターストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Sephiroth (Original)'s character stream</color> nodes."
+    },
+    "ItemType": 2,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 2160,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -3982,6 +4048,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 12205,
+    "Name": {
+      "Ja": "アンノウンメモリー",
+      "En": "Unknown Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「アンノウン」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Unknown's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12205,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 12301,
     "Name": {
       "Ja": "アタッカーノーブルメモリー",
@@ -4061,6 +4149,28 @@
     "ItemRarityType": 5,
     "MaxCapacity": 99999999,
     "ResourceId": 12304,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 12305,
+    "Name": {
+      "Ja": "アンノウンノーブルメモリー",
+      "En": "Unknown Noble Memory"
+    },
+    "Description": {
+      "Ja": "ロールストリームのマス解放に必要。\n<command_color=common_03>「アンノウン」のロールストリーム</color>で使用できます。",
+      "En": "Used to unlock <command_color=common_03>Unknown's role stream</color> nodes."
+    },
+    "ItemType": 39,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 12305,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -6798,6 +6908,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21025,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -7612,6 +7744,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 22526,
+    "Name": {
+      "Ja": "2nd Anniversary記念抽選ボックス",
+      "En": "Lottery Box - 2nd Anniversary"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 22527,
+    "Name": {
+      "Ja": "2nd Anniversaryカウントダウン抽選ボックス",
+      "En": "Lottery Box - 2nd Anniv. Countdown"
+    },
+    "Description": {
+      "Ja": "開封するとアイテム一覧から抽選で1種類獲得できます。\n<command_color=common_03>所持アイテム「アイテムボックス」</color>で開封できます。",
+      "En": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 30001,
     "Name": {
       "Ja": "スコアバトルキー",
@@ -8026,6 +8202,72 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-05-29T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 40001,
+    "Name": {
+      "Ja": "メモリアル小片",
+      "En": "Small Memorial Shard"
+    },
+    "Description": {
+      "Ja": "メモリア強化に必要なアイテムです。",
+      "En": "Used to enhance memoria."
+    },
+    "ItemType": 40,
+    "ItemRarityType": 2,
+    "MaxCapacity": 99999999,
+    "ResourceId": 40001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 40002,
+    "Name": {
+      "Ja": "メモリアル中片",
+      "En": "Medium Memorial Shard"
+    },
+    "Description": {
+      "Ja": "メモリア強化に必要なアイテムです。",
+      "En": "Used to enhance memoria."
+    },
+    "ItemType": 40,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 40002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 40003,
+    "Name": {
+      "Ja": "メモリアル大片",
+      "En": "Large Memorial Shard"
+    },
+    "Description": {
+      "Ja": "メモリア強化に必要なアイテムです。",
+      "En": "Used to enhance memoria."
+    },
+    "ItemType": 40,
+    "ItemRarityType": 4,
+    "MaxCapacity": 99999999,
+    "ResourceId": 40003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -9262,6 +9504,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 100056,
+    "Name": {
+      "Ja": "セフィロス (Original)武器確定ガチャチケット",
+      "En": "Sephiroth (Original) Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「セフィロス (Original)武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Sephiroth (Original) - Guaranteed Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 999,
+    "ResourceId": 100056,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100057,
+    "Name": {
+      "Ja": "セフィロス (Original)<sprite=\"tmp_icon\" index=196>5武器確定ガチャチケット",
+      "En": "Sephiroth (Original) 5<sprite=\"tmp_icon\" index=196> Wpn. Guaranteed Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「セフィロス (Original)<sprite=\"tmp_icon\" index=196>5武器確定チケットガチャ」</color>で使用できます。",
+      "En": "Used for <command_color=common_03>Sephiroth (Original) - Guaranteed 5<sprite=\"tmp_icon\" index=196> Weapon Ticket Draw</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 999,
+    "ResourceId": 100057,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 100058,
     "Name": {
       "Ja": "DQタクトコラボ記念スペシャルガチャチケット",
@@ -9280,6 +9566,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-07-30T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 100060,
+    "Name": {
+      "Ja": "2nd Anniversary記念ガチャチケット",
+      "En": "2nd Anniversary Draw Ticket"
+    },
+    "Description": {
+      "Ja": "ガチャを引くために必要。\n<command_color=common_03>「2nd Anniversaryスペシャルチケットガチャ」</color>で使用できます。\n\n※「2nd Anniversaryスペシャルチケットガチャ」専用のアイテムです。\n※スタンプシート付きのリミットブレイクガチャや新武器PUガチャなどに使用することはできません。\n\n「2nd Anniversaryスペシャルチケットガチャ」では特典として<command_color=common_03>「2nd Anniv.選べるウェア交換券」</color>が獲得できます。",
+      "En": "Used for <command_color=common_03>2nd Anniversary Special Ticket Draw</color>.\n\n*This item is for 2nd Anniversary Special Ticket Draw only.\n*Cannot be used for other Draws such as a Limit Break Draw or a New Weapon Featured Draw with a Stamp Card.\n\n*A <command_color=common_03>2nd Anniv. Gear Voucher</color> can be obtained as a 2nd Anniversary Special Ticket Draw bonus."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 100060,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -9856,6 +10164,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 300028,
+    "Name": {
+      "Ja": "メモリアメダル",
+      "En": "Memoria Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「メモリアメダル交換所」</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>Memoria Medal Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 300028,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300029,
     "Name": {
       "Ja": "復刻LBウェア交換券（ビギナー応援）",
@@ -10164,6 +10494,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 300044,
+    "Name": {
+      "Ja": "2nd Anniv.選べるウェア交換券",
+      "En": "2nd Anniv. Gear Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「2nd Anniv.選べるウェア交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>2nd Anniv. Gear Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300044,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300045,
+    "Name": {
+      "Ja": "2nd Anniversary記念メダル",
+      "En": "2nd Anniversary Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「2nd Anniversary記念メダル交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>2nd Anniversary Medal Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300045,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300047,
+    "Name": {
+      "Ja": "2nd Anniv.新武器交換券 vol.1",
+      "En": "2nd Anniv. New Wpn. Voucher Vol. 1"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「2nd Anniv.新武器交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>2nd Anniv. New Wpn. Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300047,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300049,
     "Name": {
       "Ja": "復刻リミットブレイクウェア交換券 vol.5",
@@ -10270,6 +10666,50 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1000005,
+    "Name": {
+      "Ja": "魔晄の貴石（2nd Anniv. カウントダウン）",
+      "En": "Mako Gem (2nd Anniv. Countdown)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1000005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-08-28T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1000006,
+    "Name": {
+      "Ja": "魔晄の貴石（2nd Anniv.）",
+      "En": "Mako Gem (2nd Anniv.)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 1000006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -11000,6 +11440,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 1001047,
+    "Name": {
+      "Ja": "魔晄の貴石（ラグナロク）",
+      "En": "Mako Gem (Ragnarok)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001047,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001048,
+    "Name": {
+      "Ja": "合体剣・パーツ",
+      "En": "Fusion Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「合体剣」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Fusion Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001048,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1002001,
     "Name": {
       "Ja": "ガトリングガン・パーツ",
@@ -11546,6 +12030,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-06-26T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1002040,
+    "Name": {
+      "Ja": "クワトロガトリング・パーツ",
+      "En": "Quad Gatling Gun Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「クワトロガトリング」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Quad Gatling Gun</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1002040,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -15598,6 +16104,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1009024,
+    "Name": {
+      "Ja": "キャプテンスピア・パーツ",
+      "En": "Captain's Spear Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「キャプテンスピア」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Captain's Spear</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1009024,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1020001,
     "Name": {
       "Ja": "99式ロングソード・パーツ",
@@ -19118,6 +19646,160 @@
     "OrderNo": 0
   },
   {
+    "Id": 1060001,
+    "Name": {
+      "Ja": "正宗・パーツ",
+      "En": "Masamune Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「正宗」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Masamune</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060001,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1060002,
+    "Name": {
+      "Ja": "不知火・パーツ",
+      "En": "Shiranui Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「不知火」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Shiranui</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060002,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1060003,
+    "Name": {
+      "Ja": "備前長船・パーツ",
+      "En": "Osafune Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「備前長船」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Osafune</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060003,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1060004,
+    "Name": {
+      "Ja": "虎徹・パーツ",
+      "En": "Kotetsu Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「虎徹」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Kotetsu</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060004,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1060005,
+    "Name": {
+      "Ja": "菊一文字・パーツ",
+      "En": "Kikuichimonji Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「菊一文字」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Kikuichimonji</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060005,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1060006,
+    "Name": {
+      "Ja": "バスターソード・パーツ",
+      "En": "Buster Sword Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。\n<command_color=common_03>「バスターソード」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060006,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1060008,
+    "Name": {
+      "Ja": "魔晄の貴石（天の叢雲）",
+      "En": "Mako Gem (Heaven's Cloud)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1060008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2020051,
     "Name": {
       "Ja": "討伐ガチャチケット",
@@ -21890,6 +22572,116 @@
     "OrderNo": 0
   },
   {
+    "Id": 2030321,
+    "Name": {
+      "Ja": "応援ゴールドメダル",
+      "En": "Golden Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030321,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-08-28T02:00:00+00:00",
+    "EndDatetime": "2025-09-27T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030322,
+    "Name": {
+      "Ja": "応援シルバーメダル",
+      "En": "Silver Rally Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030322,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-08-28T02:00:00+00:00",
+    "EndDatetime": "2025-09-27T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030331,
+    "Name": {
+      "Ja": "召喚獣の試練・烈メダル",
+      "En": "Trial of the Summons (Fury) Medal"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030331,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "2025-10-23T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030332,
+    "Name": {
+      "Ja": "2nd Anniversary LB武器交換券",
+      "En": "2nd Anniversary LB Wpn. Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で武器と交換するために必要。\n<command_color=common_03>「召喚獣の試練・烈交換所」</color>で使用できます。",
+      "En": "Traded for weapons at the <command_color=common_03>Trial of the Summons (Fury) Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030332,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030341,
+    "Name": {
+      "Ja": "セフィロス (Original)<sprite=\"tmp_icon\" index=196>5武器交換券",
+      "En": "Sephiroth (Original) 5<sprite=\"tmp_icon\" index=196> Wpn. Voucher"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。\t",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030341,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2080021,
     "Name": {
       "Ja": "ハートクッキー",
@@ -22393,6 +23185,72 @@
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-01-30T02:00:00+00:00",
     "EndDatetime": "2025-03-01T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110041,
+    "Name": {
+      "Ja": "片翼の羽根",
+      "En": "One-Winged Angel Feather"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110041,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "2025-10-25T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110042,
+    "Name": {
+      "Ja": "教会の白花",
+      "En": "White Flower from the Church"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110042,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-06T20:00:00+00:00",
+    "EndDatetime": "2025-10-25T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2110043,
+    "Name": {
+      "Ja": "教会の黄花",
+      "En": "Yellow Flower from the Church"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2110043,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-09-18T02:00:00+00:00",
+    "EndDatetime": "2025-10-25T01:59:59+00:00",
     "OrderNo": 0
   },
   {

@@ -304,6 +304,25 @@
     "ArmouryPoint": 100
   },
   {
+    "Id": 1019,
+    "Name": {
+      "Ja": "ACフォーム",
+      "En": "AC Mode"
+    },
+    "CharacterId": 1,
+    "ResourceId": 1019,
+    "SetWeaponId": 1048,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 53101,
+    "PassiveSkillId1": 58101,
+    "PassiveSkillPoint0": 15,
+    "PassiveSkillPoint1": 10,
+    "CharacterNovelCostumeId": 1019,
+    "PanelRenderEnvironmentId": 1019,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 100
+  },
+  {
     "Id": 2001,
     "Name": {
       "Ja": "アバランチリーダー",
@@ -2865,6 +2884,44 @@
     "PassiveSkillPoint1": 10,
     "CharacterNovelCostumeId": 56006,
     "PanelRenderEnvironmentId": 56006,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 100
+  },
+  {
+    "Id": 60001,
+    "Name": {
+      "Ja": "星の支配者",
+      "En": "Ruler of the Planet"
+    },
+    "CharacterId": 60,
+    "ResourceId": 60001,
+    "SetWeaponId": 60001,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 10101,
+    "PassiveSkillId1": 58001,
+    "PassiveSkillPoint0": 15,
+    "PassiveSkillPoint1": 10,
+    "CharacterNovelCostumeId": 60001,
+    "PanelRenderEnvironmentId": 60001,
+    "ItemRarityType": 3,
+    "ArmouryPoint": 30
+  },
+  {
+    "Id": 60003,
+    "Name": {
+      "Ja": "星の侵食者",
+      "En": "Corruptor of the Planet"
+    },
+    "CharacterId": 60,
+    "ResourceId": 60003,
+    "SetWeaponId": 60005,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 12001,
+    "PassiveSkillId1": 57801,
+    "PassiveSkillPoint0": 15,
+    "PassiveSkillPoint1": 10,
+    "CharacterNovelCostumeId": 60003,
+    "PanelRenderEnvironmentId": 60003,
     "ItemRarityType": 5,
     "ArmouryPoint": 100
   }
