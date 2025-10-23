@@ -3862,6 +3862,58 @@
   },
   {
     "Title": {
+      "Ja": "フォースゲージ「MUTATION」",
+      "En": "Force Gauge: Mutation"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>土属性のアビリティでダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の物防・魔防を大きく下げる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing earth-element damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>their PDEF and MDEF will be greatly reduced</color>."
+    },
+    "TutorialPopupGroupId": 310000049,
+    "Seq": 1,
+    "ResourceId": 3100000491
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「SWORD SECRETS」",
+      "En": "Force Gauge: Sword Mastery"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与えると</color>フォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>この時に敵が発動しようとしていた一部アビリティを中断させる</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000051,
+    "Seq": 1,
+    "ResourceId": 3100000511
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「GUARDIAN」",
+      "En": "Force Gauge: Guardian"
+    },
+    "Description": {
+      "Ja": "フォースゲージがある間、「<command_color=common_03>状態変化【挑発】</color>」が付与され、\nフォースゲージの量が多いほど敵の「<command_color=common_03>物防</color>」と「<command_color=common_03>魔防</color>」が上昇している状態です。\n敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると、<command_color=common_03>敵を一定時間行動不能</color>にし、敵の「<command_color=common_03>状態変化【挑発】</color>」を解除することができます。",
+      "En": "<command_color=common_03>Provoke</color> is applied to the enemy while the force gauge is active. The more the force gauge is filled, the higher the enemy's <command_color=common_03>PDEF</color> and <command_color=common_03>MDEF</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and the <command_color=common_03>Provoke effect will be canceled</color>."
+    },
+    "TutorialPopupGroupId": 310000052,
+    "Seq": 1,
+    "ResourceId": 3100000521
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「MOTHERLY CARE」",
+      "En": "Force Gauge: Motherly Care"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>敵に攻撃をヒットさせる</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると、<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の物理ダメージ耐性・魔法ダメージ耐性を解除し防御力を大きく下げる</color>ことができます。",
+      "En": "The force gauge can be depleted by <command_color=common_03>landing attacks</color>. When the gauge is fully depleted, the enemy will be <command_color=common_03>temporarily incapacitated</color>, <command_color=common_03>their physical and magic damage resistance buffs will be removed</color>, and <command_color=common_03>their DEF will be greatly reduced</color>."
+    },
+    "TutorialPopupGroupId": 310000053,
+    "Seq": 1,
+    "ResourceId": 3100000531
+  },
+  {
+    "Title": {
       "Ja": "状態異常【恐怖】",
       "En": "Status Ailment: Dread"
     },
