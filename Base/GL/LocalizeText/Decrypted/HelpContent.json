@@ -153,6 +153,10 @@
             "value": "Number of Equippable Memoria"
         },
         {
+            "id": 907000000011701,
+            "value": "Enemy Abilities"
+        },
+        {
             "id": 907000000020101,
             "value": "Character Enhancement"
         },
@@ -239,6 +243,14 @@
         {
             "id": 907000000020901,
             "value": "Obtaining Enhanced Weapons"
+        },
+        {
+            "id": 907000000021001,
+            "value": "Enemy Ability Stream"
+        },
+        {
+            "id": 907000000021002,
+            "value": "Enemy Type"
         },
         {
             "id": 907000000021101,
@@ -374,7 +386,7 @@
         },
         {
             "id": 907000000050301,
-            "value": "Limit Breaks/Summon Abilities"
+            "value": "Limit Breaks, Summon Abilities, and Enemy Abilities"
         },
         {
             "id": 907000000050302,
@@ -387,6 +399,10 @@
         {
             "id": 907000000050304,
             "value": "Limit Combos"
+        },
+        {
+            "id": 907000000050305,
+            "value": "E. Ability Gauge"
         },
         {
             "id": 907000000050401,
@@ -479,6 +495,14 @@
         {
             "id": 907000000051501,
             "value": "M. Abilities (Memoria Abilities)"
+        },
+        {
+            "id": 907000000051601,
+            "value": "Chain Gauge"
+        },
+        {
+            "id": 907000000051602,
+            "value": "Stagger"
         },
         {
             "id": 907000000060101,
@@ -998,7 +1022,7 @@
         },
         {
             "id": 908000000010601,
-            "value": "<color=#95C7FF>L. Abilities (Limit Abilities)</color> can be used by consuming the Limit gauge during battles.\nYou can choose to equip either a character's unique <color=#95C7FF>Limit Break</color> or a <color=#95C7FF>Summon Ability</color>\nthat cannot be duplicated within the same party."
+            "value": "<color=#95C7FF>L. Abilities (Limit Abilities)</color> can be used by consuming the Limit gauge during battles. You can choose to equip either a character's unique <color=#95C7FF>Limit Break</color>, a <color=#95C7FF>Summon Ability</color>, or a <color=#95C7FF>Enemy Ability</color> that cannot be duplicated within the same party."
         },
         {
             "id": 908000000010701,
@@ -1105,6 +1129,10 @@
             "value": "Only <color=#95C7FF>one memoria can be equipped</color> by a party. An equipped memoria can also be equipped by another party at the same time. "
         },
         {
+            "id": 908000000011701,
+            "value": "By equipping enemy abilities in place of limit breaks, the limit gauge will be replaced by an <color=#95C7FF>E. ability gauge that will fill and allow you to activate enemy abilities</color>. The same enemy ability cannot be equipped by multiple characters within one party."
+        },
+        {
             "id": 908000000020101,
             "value": "There are two ways to enhance a character.\n\n- By <color=#95C7FF>raising a character's level</color>, all stats are increased.\n\n- By <color=#95C7FF>unlocking nodes on the Character Stream</color>, each stat can be\nenhanced individually, and the character's Limit Break can be enhanced."
         },
@@ -1191,6 +1219,14 @@
         {
             "id": 908000000020901,
             "value": "- Enhanced weapons have preset levels, rarities, and overboost counts.\n- When a duplicate weapon with a higher level, rarity, or overboost count is obtained, the higher value will be applied.\n- Weapon parts corresponding to the difference between the already held weapon and the newly acquired enhanced weapon can be obtained.\n- Weapon enhancement materials corresponding to the level difference between the already held weapon and the newly acquired enhanced weapon will not be returned.\n- Pre-existing brands will be carried over.\n- When an enhanced version of a weapon already held is obtained, a weapon conversion confirmation message will be displayed, allowing you to choose whether to claim the new weapon immediately.\n- If the enhanced weapon is not immediately claimed, it will be sent to your gift box.\n- The weapon conversion confirmation message can be toggled on/off in the Settings menu.\n"
+        },
+        {
+            "id": 908000000021001,
+            "value": "Obtaining enemy abilities will unlock the enemy ability stream.\n\nAfter unlocking, you will be able to <color=#95C7FF>enhance the enemy ability</color> by <color=#95C7FF>unlocking nodes with certain items</color>."
+        },
+        {
+            "id": 908000000021002,
+            "value": "Enemy ability memories are items required to unlock enemy ability stream nodes. Enemy ability memories can only be used in corresponding enemy ability streams."
         },
         {
             "id": 908000000021101,
@@ -1326,7 +1362,7 @@
         },
         {
             "id": 908000000050301,
-            "value": "<color=#95C7FF>Limit Breaks and Summon abilities</color> have powerful effects, but their gauge must be charged\nin order to activate them. \nThe required gauge amount varies depending on each Limit Breaks and Summon abilities. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>.\n\nThere is no limit to the number of times it can be activated during battles."
+            "value": "<color=#95C7FF>Limit Breaks and Summon abilities</color> have powerful effects, but their gauge must be charged in order to activate them. The required gauge amount varies depending on each Limit Breaks, Summon abilities, and Enemy Abilities. \n<color=#95C7FF>When the gauge is charged, you can activate it at any time</color>. There is no limit to the number of times it can be activated during battles."
         },
         {
             "id": 908000000050302,
@@ -1338,7 +1374,11 @@
         },
         {
             "id": 908000000050304,
-            "value": "Using Limit Break and Summon Ability continuously with party characters will result in\na <color=#95C7FF>Limit Combo</color>. \n\nDepending on the number of combos, a bonus multiplier will be applied to\nthe <color=#95C7FF>damage of each activated ability</color>."
+            "value": "Using Limit Breaks, Summon Abilities, and Enemy Abilities continuously with party characters will result in a <color=#95C7FF>Limit Combo</color>. Depending on the number of combos, a bonus multiplier will be applied to the <color=#95C7FF>damage of each activated ability</color>."
+        },
+        {
+            "id": 908000000050305,
+            "value": "Characters equipped with <color=#95C7FF>enemy abilities</color> will have their limit gauge replaced with an <color=#95C7FF>E. ability gauge</color>.\n\nLike the limit gauge, the E. ability gauge can be filled by <color=#95C7FF>using C. abilities</color> and <color=#95C7FF>taking damage from enemies</color>.\n\n"
         },
         {
             "id": 908000000050401,
@@ -1418,7 +1458,7 @@
         },
         {
             "id": 908000000051307,
-            "value": "- Decreased Stats\n<sprite=\"tmp_icon\" index=388>Phys. Attack Down: Phys. Attack is decreased.\n<sprite=\"tmp_icon\" index=387>Phys. Defense Down: Phys. Defense is decreased.\n<sprite=\"tmp_icon\" index=390>Mag. Attack Down: Mag. Attack is decreased.\n<sprite=\"tmp_icon\" index=389>Mag. Defense Down: Mag. Defense is decreased.\n\n- Decreased Stats (Elemental Potency Down)\n<sprite=\"tmp_icon\" index=702>Fire Pot. Down: Damage of Fire abilities is decreased.\n<sprite=\"tmp_icon\" index=707>Ice Pot. Down: Damage of Ice abilities is decreased.\n<sprite=\"tmp_icon\" index=706>Lightning Pot. Down: Damage of Lightning abilities is decreased.\n<sprite=\"tmp_icon\" index=703>Earth Pot. Down: Damage of Earth abilities is decreased.\n<sprite=\"tmp_icon\" index=705>Water Pot. Down: Damage of Water abilities is decreased.\n<sprite=\"tmp_icon\" index=694>Wind Pot. Down: Damage of Wind abilities is decreased.\n\n- Decreased Stats (Resist. Down)\n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down: Phys. type damage taken is increased.\n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down: Mag. type damage taken is increased.\n\n- Decreased Stats (Elemental Resist. Down)\n<sprite=\"tmp_icon\" index=686>Fire Resist. Down: Damage from Fire abilities is increased.\n<sprite=\"tmp_icon\" index=684>Ice Resist. Down: Damage from Ice abilities is increased.\n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down: Damage from Lightning abilities is increased.\n<sprite=\"tmp_icon\" index=687>Earth Resist. Down: Damage from Earth abilities is increased.\n<sprite=\"tmp_icon\" index=682>Water Resist. Down: Damage from Water abilities is increased.\n<sprite=\"tmp_icon\" index=681>Wind Resist. Down: Damage from Wind abilities is increased.\n\n- Status Changes (Character)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type C. Abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type C. Abilities, the amount of ATB gauge consumed\n　will be increased.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type C. Abilities, the amount of ATB gauge consumed will\n　be increased.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the ATB gauge will not increase.\n<sprite=\"tmp_icon\" index=394>Sedate: The Limit/Summon gauges become harder to fill up.\n<sprite=\"tmp_icon\" index=396>Confusion: When using an ability, there is a chance of a character attacking themself.\n　Upon attacking themself, confusion has a chance of being dispelled.\n<sprite=\"tmp_icon\" index=397>Sleep: Incapacitates a character, increasing the damage they will receive next.\n　It is lifted upon recieving damage.\n<sprite=\"tmp_icon\" index=399>Slow: The ATB gauge fills more slowly. If Haste is granted, it is removed.\n<sprite=\"tmp_icon\" index=398>Block Rec.: Healing C. abilities become unusable.\n<sprite=\"tmp_icon\" index=406>Dread: Command Gauge Fill Rate is reduced and effect of Attack Stance is nullified.\n　It is canceled when the command gauge is maxed.\n<sprite=\"tmp_icon\" index=709>Venom: Gradually saps HP. Cannot be removed with abilities that can remove poison, \n　and is unaffected by poison resistance.\n<sprite=\"tmp_icon\" index=407>Pain: HP is reduced every time an ability is used. \n　If inflicted with Pain while already afflicted with the status, \n　Pain will be replaced with <sprite=\"tmp_icon\" index=408>Agony.\n　Can be removed by fully restoring HP.\n<sprite=\"tmp_icon\" index=408>Agony: HP is greatly reduced every time an ability is used.\n　Can be removed by fully restoring HP.\n<sprite=\"tmp_icon\" index=415>Enfeeble: Enfeeble increases the potency of stat debuffs.\n<sprite=\"tmp_icon\" index=416>Stop: Incapacitates the target and prevents their ATB gauge from filling.\n<sprite=\"tmp_icon\" index=425>Ability Restraint: Abilities become unusable except for C. Abilities.\n\n- Status Changes (Enemy)\n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases.\n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type abilities become unusable.\n<sprite=\"tmp_icon\" index=393>Silence: Mag. type abilities become unusable.\n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type abilities, waiting time is added.\n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the stream phase will be stopped.\n<sprite=\"tmp_icon\" index=407>Pain: HP is reduced every time an ability is used. \n　If inflicted with Pain while already afflicted with the status, \n　Pain will be replaced with <sprite=\"tmp_icon\" index=408>Agony.\n　Can be removed by fully restoring HP.\n<sprite=\"tmp_icon\" index=408>Agony: HP is greatly reduced every time an ability is used.\n　Can be removed by fully restoring HP.\n<sprite=\"tmp_icon\" index=415>Enfeeble: Enfeeble increases the potency of stat debuffs.\n<sprite=\"tmp_icon\" index=416>Stop: Incapacitates the target and stops time during actions such as stream phase. \n　Every time it is cast on the same target, the duration of the effect is reduced by 25% \n　with the minimum duration being 3 seconds.\n<sprite=\"tmp_icon\" index=417>Fire Weakness: Becomes weak against fire.\n<sprite=\"tmp_icon\" index=418>Ice Weakness: Becomes weak against ice.\n<sprite=\"tmp_icon\" index=419>Lightning Weakness: Becomes weak against lightning.\n<sprite=\"tmp_icon\" index=420>Earth Weakness: Becomes weak against earth.\n<sprite=\"tmp_icon\" index=421>Water Weakness: Becomes weak against water.\n<sprite=\"tmp_icon\" index=422>Wind Weakness: Becomes weak against wind."
+            "value": "- Decreased Stats \n<sprite=\"tmp_icon\" index=388>Phys. Attack Down: Phys. Attack is decreased. \n<sprite=\"tmp_icon\" index=387>Phys. Defense Down: Phys. Defense is decreased. \n<sprite=\"tmp_icon\" index=390>Mag. Attack Down: Mag. Attack is decreased. \n<sprite=\"tmp_icon\" index=389>Mag. Defense Down: Mag. Defense is decreased. \n\n- Decreased Stats (Elemental Potency Down)\n <sprite=\"tmp_icon\" index=702>Fire Pot. Down: Damage of Fire abilities is decreased. \n<sprite=\"tmp_icon\" index=707>Ice Pot. Down: Damage of Ice abilities is decreased. \n<sprite=\"tmp_icon\" index=706>Lightning Pot. Down: Damage of Lightning abilities is decreased. \n<sprite=\"tmp_icon\" index=703>Earth Pot. Down: Damage of Earth abilities is decreased. \n<sprite=\"tmp_icon\" index=705>Water Pot. Down: Damage of Water abilities is decreased. \n<sprite=\"tmp_icon\" index=694>Wind Pot. Down: Damage of Wind abilities is decreased. \n\n- Decreased Stats (Resist. Down) \n<sprite=\"tmp_icon\" index=678>Phys. Resist. Down: Phys. type damage taken is increased. \n<sprite=\"tmp_icon\" index=679>Mag. Resist. Down: Mag. type damage taken is increased. \n\n- Decreased Stats (Elemental Resist. Down) \n<sprite=\"tmp_icon\" index=686>Fire Resist. Down: Damage from Fire abilities is increased. \n<sprite=\"tmp_icon\" index=684>Ice Resist. Down: Damage from Ice abilities is increased. \n<sprite=\"tmp_icon\" index=683>Lightning Resist. Down: Damage from Lightning abilities is increased. \n<sprite=\"tmp_icon\" index=687>Earth Resist. Down: Damage from Earth abilities is increased. \n<sprite=\"tmp_icon\" index=682>Water Resist. Down: Damage from Water abilities is increased. \n<sprite=\"tmp_icon\" index=681>Wind Resist. Down: Damage from Wind abilities is increased. \n\n- Status Changes (Character) \n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases. \n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type C. Abilities become unusable. \n<sprite=\"tmp_icon\" index=393>Silence: Mag. type C. Abilities become unusable. \n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type C. Abilities, the amount of ATB gauge consumed \n　will be increased. \n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type C. Abilities, the amount of ATB gauge consumed will \n　be increased. \n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the ATB gauge will not increase. \n<sprite=\"tmp_icon\" index=394>Sedate: The Limit/Summon/E. Ability gauges become harder to fill up. \n<sprite=\"tmp_icon\" index=396>Confusion: When using an ability, there is a chance of a character attacking themself. \n　Upon attacking themself, confusion has a chance of being dispelled. \n<sprite=\"tmp_icon\" index=397>Sleep: Incapacitates a character, increasing the damage they will receive next.\n 　It is lifted upon receiving damage. \n<sprite=\"tmp_icon\" index=399>Slow: The ATB gauge fills more slowly. If Haste is granted, it is removed. \n<sprite=\"tmp_icon\" index=398>Block Rec.: Healing C. abilities become unusable. \n<sprite=\"tmp_icon\" index=406>Dread: Command Gauge Fill Rate is reduced and effect of Attack Stance is nullified. \n　It is canceled when the command gauge is maxed. \n<sprite=\"tmp_icon\" index=709>Venom: Gradually saps HP. Cannot be removed with abilities that can remove poison, \n　and is unaffected by poison resistance. \n<sprite=\"tmp_icon\" index=407>Pain: HP is reduced every time an ability is used. \n　If inflicted with Pain while already afflicted with the status,\n 　Pain will be replaced with <sprite=\"tmp_icon\" index=408>Agony.\n 　Can be removed by fully restoring HP. \n<sprite=\"tmp_icon\" index=408>Agony: HP is greatly reduced every time an ability is used. \n　Can be removed by fully restoring HP. \n<sprite=\"tmp_icon\" index=415>Enfeeble: Enfeeble increases the potency of stat debuffs. \n<sprite=\"tmp_icon\" index=416>Stop: Incapacitates the target and prevents their ATB gauge from filling. \n<sprite=\"tmp_icon\" index=425>Ability Restraint: Abilities become unusable except for C. Abilities. \n\n- Status Changes (Enemy) \n<sprite=\"tmp_icon\" index=395>Poison: HP gradually decreases. \n<sprite=\"tmp_icon\" index=386>Darkness: Phys. type abilities become unusable. \n<sprite=\"tmp_icon\" index=393>Silence: Mag. type abilities become unusable. \n<sprite=\"tmp_icon\" index=384>Fatigue: When using Phys. type abilities, waiting time is added. \n<sprite=\"tmp_icon\" index=385>Fog: When using Mag. type abilities, waiting time is added. \n<sprite=\"tmp_icon\" index=392>Stun: Movement is restricted, and the stream phase will be stopped. \n<sprite=\"tmp_icon\" index=407>Pain: HP is reduced every time an ability is used. \n　If inflicted with Pain while already afflicted with the status, \n　Pain will be replaced with <sprite=\"tmp_icon\" index=408>Agony. \n　Can be removed by fully restoring HP. \n<sprite=\"tmp_icon\" index=408>Agony: HP is greatly reduced every time an ability is used. \n　Can be removed by fully restoring HP. \n<sprite=\"tmp_icon\" index=415>Enfeeble: Enfeeble increases the potency of stat debuffs. \n<sprite=\"tmp_icon\" index=416>Stop: Incapacitates the target and stops time during actions such as stream phase. \n　Every time it is cast on the same target, the duration of the effect is reduced by 25% \n　with the minimum duration being 3 seconds. \n<sprite=\"tmp_icon\" index=417>Fire Weakness: Becomes weak against fire. \n<sprite=\"tmp_icon\" index=418>Ice Weakness: Becomes weak against ice. \n<sprite=\"tmp_icon\" index=419>Lightning Weakness: Becomes weak against lightning. \n<sprite=\"tmp_icon\" index=420>Earth Weakness: Becomes weak against earth. \n<sprite=\"tmp_icon\" index=421>Water Weakness: Becomes weak against water. \n<sprite=\"tmp_icon\" index=422>Wind Weakness: Becomes weak against wind."
         },
         {
             "id": 908000000051401,
@@ -1431,6 +1471,14 @@
         {
             "id": 908000000051501,
             "value": "<color=#95C7FF>M. abilities</color> are effects that activate during battle. Some effects are persistent throughout the battle, while others are triggered under certain conditions.\n\nAn M. ability's level is determined by the total points (pts.) that M. abilities of the same type possess. The higher an M. ability's level, the more potent its effect.\n\n*Memoria level points are calculated separately from R. ability points."
+        },
+        {
+            "id": 908000000051601,
+            "value": "Some enemy bosses can apply a <color=#95C7FF>chain gauge</color> to their targets. Characters who have a <color=#95C7FF>chain gauge</color> applied will have an actual gauge appear over their heads.\n\nThe <color=#95C7FF>chain gauge</color> fills when the afflicted character receives damage and depletes naturally over time.\n*The amount the gauge increases through damage and decreases over time will vary according to the enemy.\n\nWhen the gauge is completely filled, the character will enter <color=#95C7FF>stagger</color> status."
+        },
+        {
+            "id": 908000000051602,
+            "value": "Characters who have their chain gauges completely filled will enter <color=#95C7FF>stagger</color> status for a given time. <color=#95C7FF>Staggered</color> characters will be incapacitated, unable to use abilities, and their ATB gauges will stop filling. They will also receive increased damage.\n\n*Stagger duration will vary according to the enemy that applies the chain gauge.\n*Some damage (such as set damage and damage over time) will not be increased."
         },
         {
             "id": 908000000060101,
@@ -1538,7 +1586,7 @@
         },
         {
             "id": 908000000080103,
-            "value": "In Dungeons, the following stats will be carried over between battles.\n・HP\n・HP Limit\n・ATB Gauge\n・Limit Gauge/Summon Gauge\n・Command/Command Gauge\n\nThe following stats will not be carried over between battles, and will instead be lifted\n(if incapacitated, the character will be revived with 1 HP).\n・Any buff/debuff\n・Status ailment\n・Status effect\n・KO status (incapacitated)"
+            "value": "In Dungeons, the following stats will be carried over between battles. \n- HP\n- HP Limit \n- ATB Gauge\n- Limit Gauge/Summon Gauge/Enemy Ability Gauge\n- Command/Command Gauge\nThe following stats will not be carried over between battles, and will instead be lifted (if incapacitated, the character will be revived with 1 HP).\n- Any buff/debuff\n- Status ailment\n- Status effect \n- KO status (incapacitated)"
         },
         {
             "id": 908000000080104,

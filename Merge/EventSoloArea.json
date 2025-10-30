@@ -980,6 +980,20 @@
     "IsDisplayBossChallenge": true
   },
   {
+    "Id": 14010,
+    "Name": {
+      "Ja": "シングル",
+      "En": "Solo"
+    },
+    "EventSoloAreaGroupId": 14010,
+    "OrderNo": 1,
+    "ResourceId": 14010,
+    "DisplayConditionSetId": 613000014010,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 14010,
+    "IsDisplayBossChallenge": true
+  },
+  {
     "Id": 130071,
     "Name": {
       "Ja": "壱の騒乱",
@@ -2585,6 +2599,34 @@
     "OrderNo": 1,
     "ResourceId": 3035,
     "DisplayConditionSetId": 611000003035,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3036011,
+    "Name": {
+      "Ja": "シングル",
+      "En": "Solo"
+    },
+    "EventSoloAreaGroupId": 3036,
+    "OrderNo": 1,
+    "ResourceId": 3036,
+    "DisplayConditionSetId": 611000003036,
+    "LockConditionSetId": 0,
+    "EventAreaCategoryId": 303601,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3036012,
+    "Name": {
+      "Ja": "ストーリー",
+      "En": "Story"
+    },
+    "EventSoloAreaGroupId": 3036,
+    "OrderNo": 1,
+    "ResourceId": 3036,
+    "DisplayConditionSetId": 611000003036,
     "LockConditionSetId": 0,
     "EventAreaCategoryId": 0,
     "IsDisplayBossChallenge": false

@@ -565,6 +565,26 @@
             "value": "メモリアの強化2"
         },
         {
+            "id": 911000000005801,
+            "value": "バトルスキップについて1"
+        },
+        {
+            "id": 911000000005802,
+            "value": "バトルスキップについて2"
+        },
+        {
+            "id": 911000000005803,
+            "value": "バトルスキップについて3"
+        },
+        {
+            "id": 911000000005901,
+            "value": "クエスト選択について"
+        },
+        {
+            "id": 911000000006001,
+            "value": "てきのわざストリームについて"
+        },
+        {
             "id": 911000000010001,
             "value": "CRASH BATTLEについて"
         },
@@ -710,7 +730,7 @@
         },
         {
             "id": 912000000001101,
-            "value": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイク、オーバーアクセルの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。"
+            "value": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイクの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。\n<command_color=common_03>「てきのわざ」</color>では、<command_color=common_03>獲得したてきのわざの強化</color>ができます。"
         },
         {
             "id": 912000000001201,
@@ -818,11 +838,11 @@
         },
         {
             "id": 912000000002005,
-            "value": "バトル時にLIMITゲージを消費して使用する強力なアビリティです。\n<command_color=common_03>「リミットブレイク」</color>と<command_color=common_03>「召喚獣アビリティ」</color>のどちらかを装備できます。"
+            "value": "バトル時にLIMITゲージを消費して使用する強力なアビリティです。\n<command_color=common_03>「リミットブレイク」「召喚獣アビリティ」「てきのわざ」</color>のいずれかを装備できます。"
         },
         {
             "id": 912000000002006,
-            "value": "<command_color=common_03>リミットブレイク</color>・・・各キャラクター固有のアビリティです。\n<command_color=common_03>召喚獣アビリティ</color>・・・召喚獣と契約することで使用できるアビリティです。\n<command_color=common_02>※1つのパーティで同じ召喚獣のアビリティを複数装備できません。</color>"
+            "value": "<command_color=common_03>リミットブレイク</color>・・・各キャラクター固有のアビリティです。\n<command_color=common_03>召喚獣アビリティ</color>・・・召喚獣と契約することで使用できるアビリティです。\n<command_color=common_03>てきのわざ</color>・・・一部の敵が持つアビリティを使用できるアビリティです。\n<command_color=common_02>※1つのパーティで同じ召喚獣のアビリティを複数装備できません。</color>\n<command_color=common_02>※1つのパーティで同じてきのわざを複数装備できません。</color>"
         },
         {
             "id": 912000000002007,
@@ -1135,6 +1155,26 @@
         {
             "id": 912000000005702,
             "value": "<command_color=common_03>装備中のメモリア</color>は<command_color=common_03>バトルをクリアすることで得られる経験値によって強化</color>することができます。\n<command_color=common_02>※一部のバトルではメモリアの経験値が獲得できません。</color>"
+        },
+        {
+            "id": 912000000005801,
+            "value": "一部クエストの<command_color=common_03>スキップ</color>が可能になりました。\n本画面から<command_color=common_03>スキップ可能なクエストの一覧</color>を確認することができます。"
+        },
+        {
+            "id": 912000000005802,
+            "value": "<command_color=common_03>「高位強化」「デイリー」「1日1回（イベント）」</color>クエストが対象です。\n「高位強化」「1日1回（イベント）」については、\n<command_color=common_03>Ｓランクでクリアすることでスキップ可能</color>になります。"
+        },
+        {
+            "id": 912000000005803,
+            "value": "スキップした場合、<command_color=common_03>Sランククリアの扱い</color>となります。\nまた、<command_color=common_03>経験値は全てのキャラクターとメモリアへ均等に分配</color>されます。\nイベントの<command_color=common_03>報酬ボーナス効果</color>は、<command_color=common_03>自動的に最適な効果</color>が適用されます。"
+        },
+        {
+            "id": 912000000005901,
+            "value": "バトルスキップ画面に表示する<command_color=common_03>高位強化クエストを登録</color>することができます。\n<command_color=common_03>チェックボックスにチェック</color>を入れることでバトルスキップ画面に表示するクエストを選択できます。\nバトルをスキップしたい、<command_color=common_03>お気に入りのクエストを登録</color>しましょう。"
+        },
+        {
+            "id": 912000000006001,
+            "value": "<command_color=common_03>てきのわざストリーム</color>はてきのわざを獲得することで解放されます。\n\n<command_color=common_03>マスを解放</color>することで、 記載されたステータスが上昇します。\n<command_color=common_02>※マスの解放には各てきのわざのメモリーが必要です。</color>\n<command_color=common_02>※画像のてきのわざは、ゲーム内で入手できるものとは異なります。</color>"
         },
         {
             "id": 912000000010001,

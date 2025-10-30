@@ -7809,6 +7809,139 @@
     "EpisodeLockConditionSetId": 0
   },
   {
+    "Id": 303601,
+    "Name": {
+      "Ja": "つんざく閃光",
+      "En": "Slashing Light"
+    },
+    "EventScenarioSectionId": 3036011,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 9902500,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303602,
+    "Name": {
+      "Ja": "つんざく閃光(バトル)",
+      "En": "Slashing Light (Battle)"
+    },
+    "EventScenarioSectionId": 3036011,
+    "PremiseEventScenarioEpisodeId": 303601,
+    "DungeonId": 0,
+    "OrderNo": 2,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3036101,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303603,
+    "Name": {
+      "Ja": "うめき裂く閃光",
+      "En": "Glaring Light"
+    },
+    "EventScenarioSectionId": 3036011,
+    "PremiseEventScenarioEpisodeId": 303602,
+    "DungeonId": 9902501,
+    "OrderNo": 3,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303604,
+    "Name": {
+      "Ja": "うめき裂く閃光(バトル)",
+      "En": "Glaring Light (Battle)"
+    },
+    "EventScenarioSectionId": 3036011,
+    "PremiseEventScenarioEpisodeId": 303603,
+    "DungeonId": 0,
+    "OrderNo": 4,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3036102,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303605,
+    "Name": {
+      "Ja": "うなだれる閃光",
+      "En": "Withering Light"
+    },
+    "EventScenarioSectionId": 3036011,
+    "PremiseEventScenarioEpisodeId": 303604,
+    "DungeonId": 9902502,
+    "OrderNo": 5,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 700003036000,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303606,
+    "Name": {
+      "Ja": "うなだれる閃光(バトル)",
+      "En": "Withering Light (Battle)"
+    },
+    "EventScenarioSectionId": 3036011,
+    "PremiseEventScenarioEpisodeId": 303605,
+    "DungeonId": 0,
+    "OrderNo": 6,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 3036103,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 303607,
+    "Name": {
+      "Ja": "切り拓く閃光",
+      "En": "Carving Light"
+    },
+    "EventScenarioSectionId": 3036011,
+    "PremiseEventScenarioEpisodeId": 303606,
+    "DungeonId": 9902503,
+    "OrderNo": 7,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 1,
+    "EventSoloBattleId": 0,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
     "Id": 800101,
     "Name": {
       "Ja": "プロローグ",
@@ -10484,6 +10617,25 @@
     "ScriptVersion": 0,
     "StoryEpisodeType": 3,
     "EventSoloBattleId": 14009001,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
+    "Id": 1401001,
+    "Name": {
+      "Ja": "入れ替える用文言",
+      "En": "En入れ替える用文言"
+    },
+    "EventScenarioSectionId": 14010,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 14010001,
     "EpisodeDisplayConditionSetId": 0,
     "EpisodeLockConditionSetId": 0
   },

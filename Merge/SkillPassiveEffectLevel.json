@@ -9072,6 +9072,198 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 593011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 593012,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 593013,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 594011,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 350,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 594012,
+    "Description": {
+      "Ja": "バトル開始時、味方全体のATB+{0}",
+      "En": "All Allies' ATB +{0} when battle begins"
+    },
+    "Level": 1,
+    "EffectValue": 2000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596011,
+    "Description": {
+      "Ja": "自身が付与する魔法攻撃力ダウンの最大効果段階+1(この効果は付与段階の増減には影響しない)",
+      "En": "When granting Mag. Attack Down: Max. Pot. Tier +1\n(Only affects max. tier)"
+    },
+    "Level": 1,
+    "EffectValue": 1,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596012,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性耐性+{0}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Resist. +{0}%"
+    },
+    "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596017,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 597011,
     "Description": {
       "Ja": "自身が付与する魔法防御力ダウンの最大効果段階+1(この効果は付与段階の増減には影響しない)",
@@ -9261,6 +9453,70 @@
     "PassiveSkillTargetType": 0,
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 603011,
+    "Description": {
+      "Ja": "ストリームフェイズ発生時、味方全体にヘイストを付与。(効果時間3秒。効果延長時+3秒)",
+      "En": "Applies haste on all allies when stream phase is activated\n[Effect Dur.: 3s] [Effect Dur. Ext.: +3s]"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 4,
+    "PassiveSkillFilterGroupId": 4,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 60301101,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 603011,
+    "Description": {
+      "Ja": "ストリームフェイズ発生時、味方全体にヘイストを付与。(効果時間5秒。効果延長時+5秒)",
+      "En": "Applies haste on all allies when stream phase is activated\n[Effect Dur.: 5s] [Effect Dur. Ext.: +5s]"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 4,
+    "PassiveSkillFilterGroupId": 4,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 60301102,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 603011,
+    "Description": {
+      "Ja": "ストリームフェイズ発生時、味方全体にヘイストを付与。(効果時間10秒。効果延長時+10秒)",
+      "En": "Applies haste on all allies when stream phase is activated\n[Effect Dur.: 10s] [Effect Dur. Ext.: +10s]"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 4,
+    "PassiveSkillFilterGroupId": 4,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 60301103,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 603011,
+    "Description": {
+      "Ja": "ストリームフェイズ発生時、味方全体にヘイストを付与。(効果時間15秒。効果延長時+15秒)",
+      "En": "Applies haste on all allies when stream phase is activated\n[Effect Dur.: 15s] [Effect Dur. Ext.: +15s]"
+    },
+    "Level": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 4,
+    "PassiveSkillFilterGroupId": 4,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 60301104,
     "PassiveEffectSpeciesId": 0
   },
   {
@@ -9790,6 +10046,102 @@
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 0,
     "PassiveEffectSpeciesId": 5
+  },
+  {
+    "Id": 1613011,
+    "Description": {
+      "Ja": "人型への物理アビリティダメージ+{1}%",
+      "En": "Phys. Ability Dmg. to Humanoids +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 2
+  },
+  {
+    "Id": 1613011,
+    "Description": {
+      "Ja": "人型への物理アビリティダメージ+{1}%",
+      "En": "Phys. Ability Dmg. to Humanoids +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 140,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 2
+  },
+  {
+    "Id": 1613011,
+    "Description": {
+      "Ja": "人型への物理アビリティダメージ+{1}%",
+      "En": "Phys. Ability Dmg. to Humanoids +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 2
+  },
+  {
+    "Id": 1613012,
+    "Description": {
+      "Ja": "人型への魔法アビリティダメージ+{1}%",
+      "En": "Mag. Ability Dmg. to Humanoids +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 2
+  },
+  {
+    "Id": 1613012,
+    "Description": {
+      "Ja": "人型への魔法アビリティダメージ+{1}%",
+      "En": "Mag. Ability Dmg. to Humanoids +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 140,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 2
+  },
+  {
+    "Id": 1613012,
+    "Description": {
+      "Ja": "人型への魔法アビリティダメージ+{1}%",
+      "En": "Mag. Ability Dmg. to Humanoids +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 2
   },
   {
     "Id": 1614011,

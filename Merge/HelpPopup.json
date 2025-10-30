@@ -516,8 +516,8 @@
       "En": "Character Growth"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイク、オーバーアクセルの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。",
-      "En": "In <command_color=common_03>Characters</color>, you can <command_color=common_03>boost characters' stats or acquire and enhance Limit Breaks and Overspeed.</color>\nIn <command_color=common_03>Summons</color>, you can <command_color=common_03>bind Summons and acquire and enhance their abilities.</color>"
+      "Ja": "<command_color=common_03>「キャラクター」</color>では、<command_color=common_03>ステータスの強化やリミットブレイクの獲得・強化</color>ができます。\n<command_color=common_03>「召喚獣」</color>では、<command_color=common_03>召喚獣との契約やアビリティの獲得</color>、その<command_color=common_03>アビリティの強化</color>ができます。\n<command_color=common_03>「てきのわざ」</color>では、<command_color=common_03>獲得したてきのわざの強化</color>ができます。",
+      "En": "In <command_color=common_03>Characters</color>, you can <command_color=common_03>boost characters' stats or acquire and enhance Limit Breaks and Overspeed.</color> \nIn <command_color=common_03>Summons</color>, you can <command_color=common_03>bind Summons and acquire and enhance their abilities.</color>\n<command_color=common_03>Enemy Abilities</color>, you can <command_color=common_03>enhance Enemy Abilities</color>."
     },
     "HelpPopupGroupId": 11,
     "Seq": 1,
@@ -921,8 +921,8 @@
       "En": "L. Abilities (Limit Abilities) 1"
     },
     "Description": {
-      "Ja": "バトル時にLIMITゲージを消費して使用する強力なアビリティです。\n<command_color=common_03>「リミットブレイク」</color>と<command_color=common_03>「召喚獣アビリティ」</color>のどちらかを装備できます。",
-      "En": "These powerful abilities are used in battle and consume the limit gauge. \nEither a <command_color=common_03>Limit Break</color> or <command_color=common_03>Summon Ability</color> can be equipped."
+      "Ja": "バトル時にLIMITゲージを消費して使用する強力なアビリティです。\n<command_color=common_03>「リミットブレイク」「召喚獣アビリティ」「てきのわざ」</color>のいずれかを装備できます。",
+      "En": "These powerful abilities are used in battle and consume the limit gauge. \nEither a <command_color=common_03>Limit Break</color>, <command_color=common_03>Summon Ability</color>, or <command_color=common_03>Enemy Ability</color> can be equipped."
     },
     "HelpPopupGroupId": 20,
     "Seq": 7,
@@ -936,8 +936,8 @@
       "En": "L. Abilities (Limit Abilities) 2"
     },
     "Description": {
-      "Ja": "<command_color=common_03>リミットブレイク</color>・・・各キャラクター固有のアビリティです。\n<command_color=common_03>召喚獣アビリティ</color>・・・召喚獣と契約することで使用できるアビリティです。\n<command_color=common_02>※1つのパーティで同じ召喚獣のアビリティを複数装備できません。</color>",
-      "En": "<command_color=common_03>Limit Break:</color> An ability specific to each character.\n<command_color=common_03>Summon ability:</color> An ability that can be used once a summon is bound.\n<command_color=common_02>*Each summon ability can be equipped by only one character in a party.</color>"
+      "Ja": "<command_color=common_03>リミットブレイク</color>・・・各キャラクター固有のアビリティです。\n<command_color=common_03>召喚獣アビリティ</color>・・・召喚獣と契約することで使用できるアビリティです。\n<command_color=common_03>てきのわざ</color>・・・一部の敵が持つアビリティを使用できるアビリティです。\n<command_color=common_02>※1つのパーティで同じ召喚獣のアビリティを複数装備できません。</color>\n<command_color=common_02>※1つのパーティで同じてきのわざを複数装備できません。</color>",
+      "En": "<command_color=common_03>Limit Break:</color> An ability specific to each character. \n<command_color=common_03>Summon Ability:</color> An ability that can be used once a summon is bound. \n<command_color=common_03>Enemy Ability:</color> This ability allows you to use abilities possessed by certain enemies.\n<command_color=common_02>*Each summon ability can be equipped by only one character in a party.</color>\n<command_color=common_02>*Each enemy sbility can be equipped by only one character in a party.</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 8,
@@ -2142,6 +2142,81 @@
     "HelpPopupGroupId": 57,
     "Seq": 2,
     "ResourceId": 5702,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5801,
+    "Title": {
+      "Ja": "バトルスキップについて1",
+      "En": "Skipping Battles 1"
+    },
+    "Description": {
+      "Ja": "一部クエストの<command_color=common_03>スキップ</color>が可能になりました。\n本画面から<command_color=common_03>スキップ可能なクエストの一覧</color>を確認することができます。",
+      "En": "You can now <command_color=common_03>skip battles</color> for certain quests. You can view a <command_color=common_03>list of battle-skippable quests</color> from this screen."
+    },
+    "HelpPopupGroupId": 58,
+    "Seq": 1,
+    "ResourceId": 5801,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5802,
+    "Title": {
+      "Ja": "バトルスキップについて2",
+      "En": "Skipping Battles 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「高位強化」「デイリー」「1日1回（イベント）」</color>クエストが対象です。\n「高位強化」「1日1回（イベント）」については、\n<command_color=common_03>Ｓランクでクリアすることでスキップ可能</color>になります。",
+      "En": "The quests that you can skip battles for are \"Premium,\" \"Daily,\" and  \"1/Day (Event).\" For Premium and 1/Day quests, <command_color=common_03>battles can be skipped after clearing with rank S</color>."
+    },
+    "HelpPopupGroupId": 58,
+    "Seq": 2,
+    "ResourceId": 5802,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5803,
+    "Title": {
+      "Ja": "バトルスキップについて3",
+      "En": "Skipping Battles 3"
+    },
+    "Description": {
+      "Ja": "スキップした場合、<command_color=common_03>Sランククリアの扱い</color>となります。\nまた、<command_color=common_03>経験値は全てのキャラクターとメモリアへ均等に分配</color>されます。\nイベントの<command_color=common_03>報酬ボーナス効果</color>は、<command_color=common_03>自動的に最適な効果</color>が適用されます。",
+      "En": "If a battle is skipped, the quest will be <command_color=common_03>treated as being cleared with rank S</color>. Furthermore, <command_color=common_03>EXP will be divided equally among all characters and memoria</color>. The rewarded <command_color=common_03>bonus effect</color> for the event will be <command_color=common_03>optimally chosen automatically</color>."
+    },
+    "HelpPopupGroupId": 58,
+    "Seq": 3,
+    "ResourceId": 5803,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 5901,
+    "Title": {
+      "Ja": "クエスト選択について",
+      "En": "Selecting Quests to Skip"
+    },
+    "Description": {
+      "Ja": "バトルスキップ画面に表示する<command_color=common_03>高位強化クエストを登録</color>することができます。\n<command_color=common_03>チェックボックスにチェック</color>を入れることでバトルスキップ画面に表示するクエストを選択できます。\nバトルをスキップしたい、<command_color=common_03>お気に入りのクエストを登録</color>しましょう。",
+      "En": "You can <command_color=common_03>register specific Premium quests</color> to be displayed on the Skip Battle screen. <command_color=common_03>Check the relevant checkbox</color> to display the quest on the Skip Battle screen. This will provide quick access to your <command_color=common_03>favorite quests</color> whenever you choose to skip battles."
+    },
+    "HelpPopupGroupId": 59,
+    "Seq": 1,
+    "ResourceId": 5901,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 6001,
+    "Title": {
+      "Ja": "てきのわざストリームについて",
+      "En": "Enemy Ability Streams"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>てきのわざストリーム</color>はてきのわざを獲得することで解放されます。\n\n<command_color=common_03>マスを解放</color>することで、 記載されたステータスが上昇します。\n<command_color=common_02>※マスの解放には各てきのわざのメモリーが必要です。</color>\n<command_color=common_02>※画像のてきのわざは、ゲーム内で入手できるものとは異なります。</color>",
+      "En": "Obtaining enemy abilities will unlock the <command_color=common_03>enemy ability stream</color>. You can then <command_color=common_03>unlock nodes</color> to improve various stats.\n<command_color=common_02>*Enemy ability memories are required to unlock nodes.</color>\n<command_color=common_02>*Enemy ability shown in image differs from those obtainable in-game.</color>"
+    },
+    "HelpPopupGroupId": 60,
+    "Seq": 1,
+    "ResourceId": 6001,
     "ConditionSetId": 0
   },
   {

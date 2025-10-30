@@ -2861,6 +2861,97 @@
   },
   {
     "Title": {
+      "Ja": "バトルスキップについて1",
+      "En": "Skipping Battles 1"
+    },
+    "Description": {
+      "Ja": "一部クエストの<command_color=common_03>スキップ</color>が可能になりました。\n本画面から<command_color=common_03>スキップ可能なクエストの一覧</color>を確認することができます。",
+      "En": "You can now <command_color=common_03>skip battles</color> for certain quests. You can view a <command_color=common_03>list of battle-skippable quests</color> from this screen."
+    },
+    "TutorialPopupGroupId": 2320001,
+    "Seq": 1,
+    "ResourceId": 232000101
+  },
+  {
+    "Title": {
+      "Ja": "バトルスキップについて2",
+      "En": "Skipping Battles 2"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「高位強化」「デイリー」「1日1回（イベント）」</color>クエストが対象です。\n「高位強化」「1日1回（イベント）」については、\n<command_color=common_03>Ｓランクでクリアすることでスキップ可能</color>になります。",
+      "En": "The quests that you can skip battles for are \"Premium,\" \"Daily,\" and  \"1/Day (Event).\" For Premium and 1/Day quests, <command_color=common_03>battles can be skipped after clearing with rank S</color>."
+    },
+    "TutorialPopupGroupId": 2320001,
+    "Seq": 2,
+    "ResourceId": 232000102
+  },
+  {
+    "Title": {
+      "Ja": "バトルスキップについて3",
+      "En": "Skipping Battles 3"
+    },
+    "Description": {
+      "Ja": "スキップした場合、<command_color=common_03>Sランククリアの扱い</color>となります。\nまた、<command_color=common_03>経験値は全てのキャラクターとメモリアへ均等に分配</color>されます。\nイベントの<command_color=common_03>報酬ボーナス効果</color>は、<command_color=common_03>自動的に最適な効果</color>が適用されます。",
+      "En": "If a battle is skipped, the quest will be <command_color=common_03>treated as being cleared with rank S</color>. Furthermore, <command_color=common_03>EXP will be divided equally among all characters and memoria</color>. The rewarded <command_color=common_03>bonus effect</color> for the event will be <command_color=common_03>optimally chosen automatically</color>."
+    },
+    "TutorialPopupGroupId": 2320001,
+    "Seq": 3,
+    "ResourceId": 232000103
+  },
+  {
+    "Title": {
+      "Ja": "クエスト選択について",
+      "En": "Selecting Quests to Skip"
+    },
+    "Description": {
+      "Ja": "バトルスキップ画面に表示する<command_color=common_03>高位強化クエストを登録</color>することができます。\n<command_color=common_03>チェックボックスにチェック</color>を入れることでバトルスキップ画面に表示するクエストを選択できます。\nバトルをスキップしたい、<command_color=common_03>お気に入りのクエストを登録</color>しましょう。",
+      "En": "You can <command_color=common_03>register specific Premium quests</color> to be displayed on the Skip Battle screen. <command_color=common_03>Check the relevant checkbox</color> to display the quest on the Skip Battle screen. This will provide quick access to your <command_color=common_03>favorite quests</color> whenever you choose to skip battles."
+    },
+    "TutorialPopupGroupId": 2320101,
+    "Seq": 1,
+    "ResourceId": 232010101
+  },
+  {
+    "Title": {
+      "Ja": "てきのわざについて",
+      "En": "Enemy Abilities"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>てきのわざ</color>は、リミットブレイク・召喚獣アビリティの代わりに装備できる新たなLアビリティです。\n編成画面からてきのわざを装備しましょう。\n<command_color=common_02>※画像のてきのわざは、ゲーム内で入手できるものとは異なります。</color>",
+      "En": "<command_color=common_03>Enemy abilities</color> are new L. abilities that can be equipped in place of limit break or summon abilities. Enemy abilities can be equipped from the party screen.\n<command_color=common_02>*Enemy ability shown in image differs from those obtainable in-game.</color>"
+    },
+    "TutorialPopupGroupId": 2330001,
+    "Seq": 1,
+    "ResourceId": 233000101
+  },
+  {
+    "Title": {
+      "Ja": "てきのわざ 解放",
+      "En": "Unlocking Enemy Abilities"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>てきのわざ</color>が解放されました。\n獲得したてきのわざは<command_color=common_03>てきのわざストリーム</color>で強化できます。",
+      "En": "<command_color=common_03>Enemy abilities</color> have been unlocked. Obtained enemy abilities can be enhanced through the <command_color=common_03>enemy ability streams</color>."
+    },
+    "TutorialPopupGroupId": 2330002,
+    "Seq": 1,
+    "ResourceId": 233000201
+  },
+  {
+    "Title": {
+      "Ja": "てきのわざストリームについて",
+      "En": "Enemy Ability Streams"
+    },
+    "Description": {
+      "Ja": "てきのわざストリームはてきのわざを獲得することで解放されます。\n\n<command_color=common_03>マスを解放</color>することで、 記載されたステータスが上昇します。\n<command_color=common_02>※マスの解放には専用素材が必要です。</color>\n<command_color=common_02>※画像のてきのわざは、ゲーム内で入手できるものとは異なります。</color>",
+      "En": "Obtaining enemy abilities will unlock the enemy ability stream.\n\nYou can then <command_color=common_03>unlock nodes</color> to improve various stats.\n<command_color=common_02>*Enemy ability memories are required to unlock nodes.</color>\n<command_color=common_02>*Enemy ability shown in image differs from those obtainable in-game.</color>"
+    },
+    "TutorialPopupGroupId": 2330003,
+    "Seq": 1,
+    "ResourceId": 233000301
+  },
+  {
+    "Title": {
       "Ja": "AUTO機能が使用できるようになりました。\nMANUALから切り替えて選択できます。",
       "En": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },
@@ -3248,6 +3339,19 @@
     "TutorialPopupGroupId": 300000021,
     "Seq": 4,
     "ResourceId": 3000000214
+  },
+  {
+    "Title": {
+      "Ja": "チェーンゲージ",
+      "En": "Chain Gauge"
+    },
+    "Description": {
+      "Ja": "敵から<command_color=common_03>ダメージを受けることでゲージが上昇</color>し、\nゲージが最大まで溜まると<command_color=common_03>BREAK</color>し、<command_color=common_03>一定時間行動不能</color>となります。\n行動不能中は<command_color=common_03>被ダメージが上昇</color>します。",
+      "En": "<command_color=common_03>The chain gauge fills when damage is received</color>, and the damaged target will enter <command_color=common_03>stagger</color> status when their gauge is full. Staggered targets are <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>receive increased damage</color> during that time."
+    },
+    "TutorialPopupGroupId": 300000022,
+    "Seq": 1,
+    "ResourceId": 3000000221
   },
   {
     "Title": {
