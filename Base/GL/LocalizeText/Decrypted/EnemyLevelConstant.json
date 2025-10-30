@@ -329,6 +329,10 @@
             "value": "Immunities: None\n \nUses <command_color=common_03>earth-element physical attacks</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Resin Bomb</color>, and grants all allies <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Unearthly Rain</color>.\n \n<command_color=common_03>Multi-target attacks</color> are effective against this enemy."
         },
         {
+            "id": 130000002027210,
+            "value": "Immunities: None\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Resin Bomb</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Animus Bomb</color>. Grants all allies <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Unearthly Rain</color>."
+        },
+        {
             "id": 130000002027301,
             "value": "Immunities: None\n \nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> on all targets with <command_color=emphasis>Intimidate</color>."
         },
@@ -879,6 +883,10 @@
         {
             "id": 130000002525001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> on self when Force Gauge: [<command_color=emphasis>Scorching</color>] or Force Gauge: [<command_color=emphasis>Freezing</color>] is reduced to 0. Force Gauge: [<command_color=emphasis>Scorching</color>] can be depleted with <command_color=common_03>ice-element abilities</color>, and Force Gauge: [<command_color=emphasis>Freezing</color>] with <command_color=common_03>fire-element abilities</color>.\n\n<command_color=common_03>Magic attacks</color> and <sprite=\"tmp_icon\" index=389><command_color=common_03>MDEF Down</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002525101,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUnleashes a powerful ability when Force Gauge: <command_color=emphasis>Preparing Jump</color> is full. When the force gauge is activated, a countdown begins. When the countdown ends, the powerful ability is unleashed. The gauge can be depleted with damage. Calls for allies with <command_color=emphasis>Summon Baloir Queen</color> and calls for more whenever they are defeated. After every use of <command_color=emphasis>Summon Baloir Queen</color> beyond the first, the countdown stops for a time. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=403>Earth Potency Down</color> with <command_color=emphasis>Stormstream</color>.\n\n<command_color=common_03>Earth-element group attacks</color> are effective as the <command_color=common_03>allies</color> they summon are <command_color=common_03>weak against earth</color>. \n"
         },
         {
             "id": 130000002526001,

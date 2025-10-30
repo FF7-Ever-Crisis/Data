@@ -3279,6 +3279,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：なし\n\n[<command_color=emphasis>粘着弾</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=384>鈍重</color>を付与する。\n[<command_color=emphasis>怨念弾</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n[<command_color=emphasis>霊水噴射</color>] は味方全体に<command_color=common_03><sprite=\"tmp_icon\" index=325>魔防アップ</color>を付与する。",
+      "En": "Immunities: None\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=384>fatigue</color> with <command_color=emphasis>Resin Bomb</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Animus Bomb</color>. Grants all allies <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Unearthly Rain</color>."
+    },
+    "EnemyLevelConstantGroupId": 2027210,
+    "Level": 1,
+    "ResourceId": 2027210010,
+    "EnemySkillLevelId": 2027211010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：なし\n\n[<command_color=emphasis>威嚇</color>] は対象全体に<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n\n\n\n",
       "En": "Immunities: None\n \nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> on all targets with <command_color=emphasis>Intimidate</color>."
     },
@@ -8632,6 +8643,17 @@
     "Level": 1,
     "ResourceId": 2525010010,
     "EnemySkillLevelId": 2525006010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<command_color=emphasis>PREPARE JUMP</color>] は最大になることで強力なアビリティを使用する。\nフォースゲージ中はカウントダウンが進行し、カウントダウン終了時、強力なアビリティを使用する。\nフォースゲージはダメージを与えることで減少する。\n [<command_color=emphasis>バロイルクイーン召喚</color>] によって仲間を呼び出し、仲間がいなくなる度に使用する。\n2回目以降の [<command_color=emphasis>バロイルクイーン召喚</color>] 後、カウントダウンがしばらく停止する。\n[<command_color=emphasis>ストームジェット</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=403>土属性威力ダウン</color>を付与する。\n\n<command_color=common_03>土属性のアビリティ</color>が有効。\n<command_color=common_03>土属性弱点の仲間を呼ぶ</color>ため、<command_color=common_03>土属性の全体攻撃</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUnleashes a powerful ability when Force Gauge: <command_color=emphasis>Preparing Jump</color> is full. When the force gauge is activated, a countdown begins. When the countdown ends, the powerful ability is unleashed. The gauge can be depleted with damage. Calls for allies with <command_color=emphasis>Summon Baloir Queen</color> and calls for more whenever they are defeated. After every use of <command_color=emphasis>Summon Baloir Queen</color> beyond the first, the countdown stops for a time. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=403>Earth Potency Down</color> with <command_color=emphasis>Stormstream</color>.\n\n<command_color=common_03>Earth-element group attacks</color> are effective as the <command_color=common_03>allies</color> they summon are <command_color=common_03>weak against earth</color>. \n"
+    },
+    "EnemyLevelConstantGroupId": 2525101,
+    "Level": 1,
+    "ResourceId": 2525101010,
+    "EnemySkillLevelId": 2525101010,
     "FinalAttackSkillEnemyId": 0
   },
   {
