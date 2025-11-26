@@ -209,6 +209,10 @@
             "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <command_color=common_03>fire-element physical attacks</color>. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=578>Fire Potency Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=594>Physical Resistance</color> and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=684>Ice Resistance Down</color> on self with <command_color=emphasis>Fiery Veil</color>.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy. <command_color=common_03>Magic attacks</color> are effective for destroying sigils."
         },
         {
+            "id": 130000002015116,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>fire-element physical attacks</color>. Uses <command_color=emphasis>Blazing Whirlwind</color> to greatly increase own fire potency. Grants self <command_color=common_03><sprite=\"tmp_icon\" index=578>Fire Potency Up</color> with <command_color=emphasis>Scorching Veil</color>. <command_color=common_03>Depletes the command gauge</color> with <command_color=emphasis>Ominous Caw</color>.\n\n<command_color=common_03>Physical attacks</color> and <command_color=common_03><sprite=\"tmp_icon\" index=388>PDEF Down</color> are effective against this enemy."
+        },
+        {
             "id": 130000002015201,
             "value": "Immunities: <sprite=\"tmp_icon\" index=389>MDEF Down\n \nUses <command_color=common_03>ice-element physical attacks</color>.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy."
         },
@@ -227,6 +231,10 @@
         {
             "id": 130000002016201,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Screech</color>. Deals damage proportionate to the target's current HP with <command_color=emphasis>Dance of Terror</color> and <command_color=emphasis>Dance of Despair</color>.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002016203,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>Stun</color> with <command_color=emphasis>Screech</color>. Deals damage proportionate to the target's current HP with <command_color=emphasis>Dance of Terror</color> and <command_color=emphasis>Dance of Despair</color>. Deals damage proportionate to the target's max HP, inflicts <command_color=common_03><sprite=\"tmp_icon\" index=406>dread</color> on all targets, and <command_color=common_03>depletes the command gauge</color> with <command_color=emphasis>Dance of Dread</color>.\n\n<command_color=common_03>Physical attacks</color> are effective against this enemy.\n"
         },
         {
             "id": 130000002022001,
@@ -267,6 +275,10 @@
         {
             "id": 130000002024001,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n \nAt the start of battle, uses the <command_color=common_03>fire-element magic attack</color> <command_color=emphasis>Flame Dance</color>.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy."
+        },
+        {
+            "id": 130000002024002,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=409>Fire Resistance Down</color> on all targets with <command_color=emphasis>Inferno Dance</color>. Uses <command_color=emphasis>Perfect Focus</color> to greatly increase own MATK.\n\n<command_color=common_03>Physical attacks</color> are effective against this enemy."
         },
         {
             "id": 130000002024101,
@@ -923,6 +935,10 @@
         {
             "id": 130000002528101,
             "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nIncreases own PATK with <command_color=emphasis>Hyperevolution</color> while Force Gauge: <command_color=emphasis>Mutation</color> is active. The gauge can only be depleted with <command_color=common_03>earth-element abilities</color>. When the gauge is fully depleted, <command_color=emphasis>Weakened...</color> is activated, <command_color=common_03>temporarily incapacitating the enemy and reducing their PDEF and MDEF</color>. However, if <command_color=emphasis>Ruckus</color> is active, <command_color=emphasis>Weakened...</color> will not activate when the force gauge is fully depleted. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=406>dread</color> and <command_color=common_03>depletes the command gauge</color> with <command_color=emphasis>Tumult</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> and <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Gnash</color>.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is useful to protect allies as the enemy has many powerful single-target attacks."
+        },
+        {
+            "id": 130000002528201,
+            "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=416>Stop\n\nCounterattacks when dealt damage during <command_color=emphasis>Lightning Supercharge</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=404>Water Potency Down</color> and <command_color=common_03>removes most buffs</color> from the target with <command_color=emphasis>Extreme Pressure</color> and <command_color=emphasis>Greater Extreme Pressure</color>, both of which also deal damage proportionate to the target's current HP.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> are effective against this enemy as it has powerful physical attacks."
         },
         {
             "id": 130000002529001,

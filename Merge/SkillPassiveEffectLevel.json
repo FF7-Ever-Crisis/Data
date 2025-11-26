@@ -3088,6 +3088,54 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 206081,
+    "Description": {
+      "Ja": "味方全体の水属性アビリティダメージ+{1}%",
+      "En": "All Allies' Water Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 206081,
+    "Description": {
+      "Ja": "味方全体の水属性アビリティダメージ+{1}%",
+      "En": "All Allies' Water Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 206081,
+    "Description": {
+      "Ja": "味方全体の水属性アビリティダメージ+{1}%",
+      "En": "All Allies' Water Ability Dmg. +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 207011,
     "Description": {
       "Ja": "風属性アビリティダメージ+{1}%",
@@ -9072,6 +9120,86 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 592011,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、自身の物理・魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Own Phys. & Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592014,
+    "Description": {
+      "Ja": "自身の物理・魔法防御力+{1}%",
+      "En": "Own Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 593011,
     "Description": {
       "Ja": "HP+{1}%",
@@ -9147,6 +9275,54 @@
     "PassiveSkillTriggerType": 7,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 595011,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 595012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 595013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 0,
     "PassiveEffectSpeciesId": 0
