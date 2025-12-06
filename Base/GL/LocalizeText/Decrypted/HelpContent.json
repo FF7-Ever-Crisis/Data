@@ -134,7 +134,11 @@
         },
         {
             "id": 907000000011303,
-            "value": "Battle Gear"
+            "value": "Main Gear"
+        },
+        {
+            "id": 907000000011305,
+            "value": "Sub Gear"
         },
         {
             "id": 907000000011401,
@@ -697,6 +701,14 @@
             "value": "Weapon Medal Conversion"
         },
         {
+            "id": 907000000110304,
+            "value": "Rare Weapon Medal Conversion"
+        },
+        {
+            "id": 907000000110305,
+            "value": "Remove Overboost+"
+        },
+        {
             "id": 907000000120101,
             "value": "Shops"
         },
@@ -1110,7 +1122,11 @@
         },
         {
             "id": 908000000011303,
-            "value": "When assigning gear to a character, it will affect both the character's appearance\nand their R. Ability pts."
+            "value": "When gear is equipped as <color=#95C7FF>main gear</color>, its <color=#95C7FF>appearance</color> and <color=#95C7FF>R. ability points</color> are reflected on the character.\n\nWhen gear with a <color=#95C7FF>C. ability</color> is equipped, you have the choice of either setting the <color=#95C7FF>gear C. ability</color> or the <color=#95C7FF>first-slot materia C. ability</color> on the character."
+        },
+        {
+            "id": 908000000011305,
+            "value": "Sub gear has the following effect:\n\n- <color=#95C7FF>50% of R. ability points</color> are reflected on the character.\n\nEquippable sub gear varies according to each character."
         },
         {
             "id": 908000000011401,
@@ -1671,6 +1687,14 @@
         {
             "id": 908000000110303,
             "value": "Weapon-specific parts can be converted into <color=#95C7FF>Weapon Medals</color>,\nwhich can be exchanged for various items at the Exchange."
+        },
+        {
+            "id": 908000000110304,
+            "value": "<color=#95C7FF>Rare weapon medal conversion</color> allows you to convert weapon parts into <color=#95C7FF>rare weapon medals</color>. This function is only available for weapon parts from <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> weapons. Rare weapon medals can be traded at the exchange for various items.\n"
+        },
+        {
+            "id": 908000000110305,
+            "value": "<color=#95C7FF>Remove overboost+</color> allows you to remove the \"+\" value from overboost+ weapons and convert it into a proportionate amount of weapon parts. This function is only available for weapons obtained through draws. Weapons that were overboosted using character-specific weapon parts will still yield <color=#95C7FF>weapon parts for the corresponding weapon</color>.\n\n*When claiming weapon parts, if the number of weapon parts you own exceeds the limit, the remaining weapon parts will be sent to your gift box. Items sent to your gift box have a set claim period and may not be claimed after it expires. \n"
         },
         {
             "id": 908000000120101,

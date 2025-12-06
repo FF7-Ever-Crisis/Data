@@ -6275,6 +6275,31 @@
     "ForceGaugeType": 3
   },
   {
+    "Id": 3253081051,
+    "Name": {
+      "Ja": "LIGHTNING",
+      "En": "Lightning"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": 7,
+    "IsStopMin": false,
+    "IsStopMax": true,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 3253081051,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253081051,
+    "TutorialStepType": 146,
+    "SkillForceGaugeTriggerType": 0,
+    "SkillEnemyId": 0,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
+  },
+  {
     "Id": 3253082011,
     "Name": {
       "Ja": "LIGHTNING",
@@ -8450,6 +8475,31 @@
     "ForceGaugeType": 2
   },
   {
+    "Id": 3255380171,
+    "Name": {
+      "Ja": "ZANTETSU",
+      "En": "Zantetsu"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 800,
+    "MaxValue": 1000,
+    "TimeChangeValue": 1,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3255380171,
+    "TutorialStepType": 230,
+    "SkillForceGaugeTriggerType": 0,
+    "SkillEnemyId": 0,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
+  },
+  {
     "Id": 3255381011,
     "Name": {
       "Ja": "ZANTETSU CHARGE",
@@ -9223,5 +9273,155 @@
     "RewardSetId": 0,
     "MaxRewardCount": 0,
     "ForceGaugeType": 1
+  },
+  {
+    "Id": 3256630011,
+    "Name": {
+      "Ja": "P SHIELD",
+      "En": "P Shield"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3256630011,
+    "TutorialStepType": 247,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325663007,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
+  },
+  {
+    "Id": 3256630021,
+    "Name": {
+      "Ja": "P SHIELD",
+      "En": "P Shield"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3256630021,
+    "TutorialStepType": 247,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325663008,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
+  },
+  {
+    "Id": 3256630031,
+    "Name": {
+      "Ja": "P SHIELD",
+      "En": "P Shield"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3256630031,
+    "TutorialStepType": 247,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325663009,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
+  },
+  {
+    "Id": 3256630041,
+    "Name": {
+      "Ja": "M SHIELD",
+      "En": "M Shield"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3256630041,
+    "TutorialStepType": 248,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325663007,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
+  },
+  {
+    "Id": 3256630051,
+    "Name": {
+      "Ja": "M SHIELD",
+      "En": "M Shield"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3256630051,
+    "TutorialStepType": 248,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325663008,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
+  },
+  {
+    "Id": 3256630061,
+    "Name": {
+      "Ja": "M SHIELD",
+      "En": "M Shield"
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 0,
+    "IsStopMin": true,
+    "IsStopMax": false,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3256630061,
+    "TutorialStepType": 248,
+    "SkillForceGaugeTriggerType": 2,
+    "SkillEnemyId": 325663009,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 3
   }
 ]

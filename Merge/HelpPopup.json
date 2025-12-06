@@ -906,8 +906,8 @@
       "En": "C. Abilities (Command Abilities)"
     },
     "Description": {
-      "Ja": "バトル時にATBゲージを消費して使用するアビリティです。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「マテリア」のCアビリティが反映されます。</color>",
-      "En": "These abilities are used in battle and consume the ATB gauge.\n<command_color=common_02>*The C. abilities of main weapons, ability weapons, and materia are reflected.</color>"
+      "Ja": "バトル時にATBゲージを消費して使用するアビリティです。\n<command_color=common_02>※「メイン武器」「アビリティ武器」「マテリア」「メインウェア」のCアビリティが反映されます。</color>",
+      "En": "These abilities are used in battle and consume the ATB gauge.\n<command_color=common_02>*The C. abilities of main weapons, ability weapons, materia, and main gear are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 4,
@@ -951,8 +951,8 @@
       "En": "R. Abilities (Reinforcement Abilities)"
     },
     "Description": {
-      "Ja": "バトル時に常に効果を発揮するアビリティです。\npt（ポイント）の合計でレベルが上がり、効果が強くなります。\n<command_color=common_02>※「メイン武器」「ウェア」「アビリティ武器」「アルティメット武器」「サブ武器」のRアビリティが反映されます。\n※「アビリティ武器」「サブ武器」のptは50%が反映されます。</color>",
-      "En": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, ultimate weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
+      "Ja": "バトル時に常に効果を発揮するアビリティです。\npt（ポイント）の合計でレベルが上がり、効果が強くなります。\n<command_color=common_02>※「メイン武器」「メインウェア」「アビリティ武器」「アルティメット武器」「サブ武器」「サブウェア」のRアビリティが反映されます。\n※「アビリティ武器」「サブ武器」「サブウェア」のptは50%が反映されます。</color>",
+      "En": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, main gear, ability weapons, ultimate weapons, sub weapons, and sub gear are reflected.\n*50% of ability weapon, sub weapon, and sub gear points are reflected.</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 9,
@@ -1007,12 +1007,12 @@
   {
     "Id": 2011,
     "Title": {
-      "Ja": "ウェアについて",
-      "En": "Gear"
+      "Ja": "メインウェアについて",
+      "En": "Main Gear"
     },
     "Description": {
-      "Ja": "<command_color=common_03>「ウェア」</color>では<command_color=common_03>キャラクターの見た目</color>と<command_color=common_03>Rアビリティ</color>が反映されます。\n<command_color=common_03>「ビジュアル」</color>に装備すると、<command_color=common_03>Rアビリティは反映されず見た目のみ反映</color>されます。",
-      "En": "The appearance and R. abilities of <command_color=common_03>gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
+      "Ja": "<command_color=common_03>「メインウェア」</color>では<command_color=common_03>キャラクターの見た目</color>、<command_color=common_03>Cアビリティ</color>、<command_color=common_03>Rアビリティ</color>が反映されます。\n<command_color=common_03>「ビジュアル」</color>に装備すると、<command_color=common_03>Cアビリティ、Rアビリティは反映されず見た目のみ反映</color>されます。",
+      "En": "The appearance and R. abilities of <command_color=common_03>main gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
     },
     "HelpPopupGroupId": 20,
     "Seq": 13,
@@ -1107,6 +1107,36 @@
     "HelpPopupGroupId": 20,
     "Seq": 6,
     "ResourceId": 2017,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2018,
+    "Title": {
+      "Ja": "ウェアのCアビリティ切り替えについて",
+      "En": "Switching Gear C. Abilities On/Off"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>ウェアのCアビリティは効果適用ボタンのON・OFFにより、マテリアのCアビリティと切り替える</color>ことができます。",
+      "En": "C. abilities assigned to gear <command_color=common_03>can be toggled on or off through the \"apply effect\" button. This is used to switch to C. abilities assigned to materia</color>. "
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 18,
+    "ResourceId": 2018,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2019,
+    "Title": {
+      "Ja": "サブウェアについて",
+      "En": "Sub Gear"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>「サブウェア」</color>はRアビリティが反映されます。\n※キャラクターの見た目には反映されません。\n※Rアビリティのptは50％が反映されます。",
+      "En": "<command_color=common_03>Sub gear</color> will have their R. abilities reflected.\n*Character's appearance will not change.\n*50% of R. ability pts. will be reflected."
+    },
+    "HelpPopupGroupId": 20,
+    "Seq": 19,
+    "ResourceId": 2019,
     "ConditionSetId": 0
   },
   {
@@ -1442,16 +1472,46 @@
   {
     "Id": 3401,
     "Title": {
-      "Ja": "変換所について",
-      "En": "The Workshop"
+      "Ja": "ウェポンメダル変換所について",
+      "En": "Weapon Medal Workshop"
     },
     "Description": {
-      "Ja": "「変換所」では、各ウェポンパーツを<command_color=common_03>ウェポンメダルに変換</color>できます。\nウェポンメダルは交換所で使用できます。",
-      "En": "At the Workshop, weapon parts can be <command_color=common_03>converted to weapon medals</color>, which can be used at the exchange."
+      "Ja": "「ウェポンメダル変換所」では、各ウェポンパーツを<command_color=common_03>ウェポンメダルに変換</color>できます。\nウェポンメダルは交換所で使用できます。",
+      "En": "At the weapon medal workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
+    },
+    "HelpPopupGroupId": 34,
+    "Seq": 2,
+    "ResourceId": 3401,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3402,
+    "Title": {
+      "Ja": "レアウェポンメダル変換所について",
+      "En": "Rare Weapon Medal Workshop"
+    },
+    "Description": {
+      "Ja": "「レアウェポンメダル変換所」では、<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198>状態のウェポンパーツを<command_color=common_03>レアウェポンメダルに変換</color>できます。\nレアウェポンメダルに変換できるのはガチャから出現する武器のみとなります。\nレアウェポンメダルは交換所で使用できます。",
+      "En": "At the rare weapon medal workshop, you can convert <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> weapon parts into <command_color=common_03>rare weapon medals</color>. This function is only available for weapons obtained through draws. Rare weapon medals can be traded at the exchange for various items."
     },
     "HelpPopupGroupId": 34,
     "Seq": 1,
-    "ResourceId": 3401,
+    "ResourceId": 3402,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 3403,
+    "Title": {
+      "Ja": "限界突破＋解除について",
+      "En": "Remove Overboost+"
+    },
+    "Description": {
+      "Ja": "「限界突破＋解除」では、限界突破＋状態の武器の＋値を解除し、<command_color=common_03>＋値分のウェポンパーツに変換</color>します。\n解除が行えるのはガチャから出現する武器のみとなります。\n<command_color=common_03>キャラ専用ウェポンパーツ</color>を使用して限界突破＋を行っていた場合でも、\n<command_color=common_03>該当武器のウェポンパーツ</color>に変換します。",
+      "En": "<command_color=common_03>Remove overboost+</color> allows you to remove the \"+\" value from overboost+ weapons and convert it into a proportionate amount of weapon parts. This function is only available for weapons obtained through draws. Weapons that were overboosted using <command_color=common_03>character-specific weapon parts</color> will still yield <command_color=common_03>weapon parts for the corresponding weapon</color>."
+    },
+    "HelpPopupGroupId": 34,
+    "Seq": 3,
+    "ResourceId": 3403,
     "ConditionSetId": 0
   },
   {

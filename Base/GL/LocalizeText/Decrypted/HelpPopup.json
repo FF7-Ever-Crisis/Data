@@ -270,7 +270,7 @@
         },
         {
             "id": 911000000002011,
-            "value": "Gear"
+            "value": "Main Gear"
         },
         {
             "id": 911000000002012,
@@ -295,6 +295,14 @@
         {
             "id": 911000000002017,
             "value": "O. Abilities (Overspeed Abilities)"
+        },
+        {
+            "id": 911000000002018,
+            "value": "Switching Gear C. Abilities On/Off"
+        },
+        {
+            "id": 911000000002019,
+            "value": "Sub Gear"
         },
         {
             "id": 911000000002101,
@@ -386,7 +394,15 @@
         },
         {
             "id": 911000000003401,
-            "value": "The Workshop"
+            "value": "Weapon Medal Workshop"
+        },
+        {
+            "id": 911000000003402,
+            "value": "Rare Weapon Medal Workshop"
+        },
+        {
+            "id": 911000000003403,
+            "value": "Remove Overboost+"
         },
         {
             "id": 911000000003501,
@@ -834,7 +850,7 @@
         },
         {
             "id": 912000000002004,
-            "value": "These abilities are used in battle and consume the ATB gauge.\n<command_color=common_02>*The C. abilities of main weapons, ability weapons, and materia are reflected.</color>"
+            "value": "These abilities are used in battle and consume the ATB gauge.\n<command_color=common_02>*The C. abilities of main weapons, ability weapons, materia, and main gear are reflected.</color>"
         },
         {
             "id": 912000000002005,
@@ -846,7 +862,7 @@
         },
         {
             "id": 912000000002007,
-            "value": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, gear, ability weapons, ultimate weapons, and sub weapons are reflected.\n*50% of ability weapon and sub weapon points are reflected.</color>"
+            "value": "These abilities are always in effect during battle. As their point total increases, they level up and grow stronger.\n<command_color=common_02>*The R. abilities of main weapons, main gear, ability weapons, ultimate weapons, sub weapons, and sub gear are reflected.\n*50% of ability weapon, sub weapon, and sub gear points are reflected.</color>"
         },
         {
             "id": 912000000002008,
@@ -862,7 +878,7 @@
         },
         {
             "id": 912000000002011,
-            "value": "The appearance and R. abilities of <command_color=common_03>gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
+            "value": "The appearance and R. abilities of <command_color=common_03>main gear</color> are reflected. If worn as a <command_color=common_03>costume</color>, however, only their <command_color=common_03>appearance will be reflected.</color>"
         },
         {
             "id": 912000000002012,
@@ -887,6 +903,14 @@
         {
             "id": 912000000002017,
             "value": "O. abilities provide characters with <command_color=common_03>temporary enhancements</color> when used. These abilities charge over time, and the duration of enhancements changes <command_color=common_03>based on the time charged</color>."
+        },
+        {
+            "id": 912000000002018,
+            "value": "C. abilities assigned to gear <command_color=common_03>can be toggled on or off through the \"apply effect\" button. This is used to switch to C. abilities assigned to materia</color>. "
+        },
+        {
+            "id": 912000000002019,
+            "value": "<command_color=common_03>Sub gear</color> will have their R. abilities reflected.\n*Character's appearance will not change.\n*50% of R. ability pts. will be reflected."
         },
         {
             "id": 912000000002101,
@@ -978,7 +1002,15 @@
         },
         {
             "id": 912000000003401,
-            "value": "At the Workshop, weapon parts can be <command_color=common_03>converted to weapon medals</color>, which can be used at the exchange."
+            "value": "At the weapon medal workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
+        },
+        {
+            "id": 912000000003402,
+            "value": "At the rare weapon medal workshop, you can convert <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> weapon parts into <command_color=common_03>rare weapon medals</color>. This function is only available for weapons obtained through draws. Rare weapon medals can be traded at the exchange for various items."
+        },
+        {
+            "id": 912000000003403,
+            "value": "<command_color=common_03>Remove overboost+</color> allows you to remove the \"+\" value from overboost+ weapons and convert it into a proportionate amount of weapon parts. This function is only available for weapons obtained through draws. Weapons that were overboosted using <command_color=common_03>character-specific weapon parts</color> will still yield <command_color=common_03>weapon parts for the corresponding weapon</color>."
         },
         {
             "id": 912000000003501,

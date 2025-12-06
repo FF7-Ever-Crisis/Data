@@ -11,7 +11,7 @@
     },
     "ItemType": 1,
     "ItemRarityType": 0,
-    "MaxCapacity": 999999999,
+    "MaxCapacity": 2000000000,
     "ResourceId": 1,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
@@ -143,7 +143,7 @@
     },
     "ItemType": 13,
     "ItemRarityType": 0,
-    "MaxCapacity": 1400,
+    "MaxCapacity": 1800,
     "ResourceId": 7,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
@@ -292,12 +292,12 @@
       "En": "Weapon Medal"
     },
     "Description": {
-      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「育成・強化交換所」</color>で使用できます。",
-      "En": "Traded for items at the <command_color=common_03>Enhancement Exch.</color>"
+      "Ja": "交換所で商品と交換するために必要。\n<command_color=common_03>「メダル交換所」</color>で使用できます。",
+      "En": "Traded for products at the <command_color=common_03>Medal Exchange</color>."
     },
     "ItemType": 20,
     "ItemRarityType": 3,
-    "MaxCapacity": 99999,
+    "MaxCapacity": 999999,
     "ResourceId": 14,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
@@ -1040,13 +1040,35 @@
       "En": "Enemy Ability Memory Voucher"
     },
     "Description": {
-      "Ja": "",
-      "En": ""
+      "Ja": "交換所でてきのわざメモリーと交換するために必要。\n<command_color=common_03>「育成・強化交換所」</color>で使用できます。",
+      "En": "Traded for Enemy Ability Memories at the <command_color=common_03>Enhancement Exch.</color>."
     },
     "ItemType": 20,
     "ItemRarityType": 4,
     "MaxCapacity": 99999,
     "ResourceId": 53,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 54,
+    "Name": {
+      "Ja": "レアウェポンメダル",
+      "En": "Rare Weapon Medal"
+    },
+    "Description": {
+      "Ja": "交換所で商品と交換するために必要。\n<command_color=common_03>「メダル交換所」</color>で使用できます。",
+      "En": "Traded for products at the <command_color=common_03>Medal Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 4,
+    "MaxCapacity": 999999,
+    "ResourceId": 54,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,
@@ -7392,6 +7414,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 21028,
+    "Name": {
+      "Ja": "",
+      "En": ""
+    },
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "ItemType": 30,
+    "ItemRarityType": 5,
+    "MaxCapacity": 1,
+    "ResourceId": 1,
+    "ObtainCountMax": 1,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 22001,
     "Name": {
       "Ja": "ミスリル選択ボックス",
@@ -11506,6 +11550,50 @@
     "OrderNo": 0
   },
   {
+    "Id": 300062,
+    "Name": {
+      "Ja": "2B襲来コラボ新武器交換券 vol.1",
+      "En": "2B Incursion Crossover Wpn. Voucher Vol. 1"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「コラボ武器交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Crossover Weapon Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300062,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 300064,
+    "Name": {
+      "Ja": "2B襲来イベント開催記念武器交換メダル",
+      "En": "<size=16>2B Incursion Event Wpn. Exchange Medal</size>"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>「2B襲来イベント開催記念交換所」</color>で使用できます。\n「2B襲来イベント開催記念交換所」は12/11 11:00より表示されます。",
+      "En": "Traded for items at the <command_color=common_03>2B Incursion Event Celebration Exchange</color>.\nThe 2B Incursion Event Celebration Exchange will open Dec. 10 6:00 PM PST. \n"
+    },
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300064,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 300065,
     "Name": {
       "Ja": "復刻リミットブレイクウェア交換券 vol.8",
@@ -12492,6 +12580,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-11-06T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1001050,
+    "Name": {
+      "Ja": "黒の承継・パーツ",
+      "En": "Cruel Successor Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。 <command_color=common_03>「黒の承継」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Cruel Successor</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1001050,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-12-04T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -13860,6 +13970,28 @@
     "OrderNo": 0
   },
   {
+    "Id": 1003052,
+    "Name": {
+      "Ja": "悪魔の挨牙・パーツ",
+      "En": "Demon's Impetus Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。 <command_color=common_03>「悪魔の挨牙」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Demon's Impetus</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1003052,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 1004001,
     "Name": {
       "Ja": "ガードロッド・パーツ",
@@ -14648,6 +14780,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-10-30T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1004044,
+    "Name": {
+      "Ja": "魔晄の貴石（アブラクサス）",
+      "En": "Mako Gem (Abraxas)"
+    },
+    "Description": {
+      "Ja": "交換所で希少なアイテムとの交換に使用。\n<command_color=common_03>「魔晄の貴石交換所」</color>で使用できます。",
+      "En": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1004044,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -15902,6 +16056,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-09-18T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1006039,
+    "Name": {
+      "Ja": "ファトゥム・エクス・マキナ・パーツ",
+      "En": "Fatum Ex Machina Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。 <command_color=common_03>「ファトゥム・エクス・マキナ」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Fatum Ex Machina</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1006039,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -17970,6 +18146,28 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": "2025-09-18T02:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 1020036,
+    "Name": {
+      "Ja": "白の契約・パーツ",
+      "En": "Virtuous Contract Parts"
+    },
+    "Description": {
+      "Ja": "武器強化に必要。 <command_color=common_03>「白の契約」の「レアリティアップ」</color>で使用できます。",
+      "En": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Virtuous Contract</color>."
+    },
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1020036,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
     "EndDatetime": "1970-01-01T00:00:00+00:00",
     "OrderNo": 0
   },
@@ -24464,6 +24662,72 @@
     "OrderNo": 0
   },
   {
+    "Id": 2030371,
+    "Name": {
+      "Ja": "エミールのお面",
+      "En": "Emil Mask"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030371,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
+    "EndDatetime": "2026-01-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030372,
+    "Name": {
+      "Ja": "大きな歯車",
+      "En": "Large Gear"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030372,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-11-28T02:00:00+00:00",
+    "EndDatetime": "2026-01-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 2030373,
+    "Name": {
+      "Ja": "黒真珠",
+      "En": "Black Pearl"
+    },
+    "Description": {
+      "Ja": "交換所で必要なアイテムです。\n<command_color=common_03>イベント専用の交換所</color>で使用できます。",
+      "En": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999,
+    "ResourceId": 2030373,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "2025-12-04T02:00:00+00:00",
+    "EndDatetime": "2026-01-10T01:59:59+00:00",
+    "OrderNo": 0
+  },
+  {
     "Id": 2080021,
     "Name": {
       "Ja": "ハートクッキー",
@@ -25511,6 +25775,28 @@
     "ItemRarityType": 3,
     "MaxCapacity": 99999999,
     "ResourceId": 4001011,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": "1970-01-01T00:00:00+00:00",
+    "EndDatetime": "1970-01-01T00:00:00+00:00",
+    "OrderNo": 0
+  },
+  {
+    "Id": 4002011,
+    "Name": {
+      "Ja": "旋刃投斬のメモリー",
+      "En": "Whirling Ravager's Memory"
+    },
+    "Description": {
+      "Ja": "てきのわざストリームのマス解放に必要。\n<command_color=common_03>「旋刃投斬」のてきのわざストリーム</color>で使用できます。",
+      "En": "Used to unlock enemy ability stream nodes.\nCan be used in the <command_color=common_03>\"Whirling Ravager\" enemy ability stream</color>."
+    },
+    "ItemType": 41,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 4002011,
     "ObtainCountMax": 0,
     "ObtainResetId": 0,
     "ConsumptionCountMax": 0,

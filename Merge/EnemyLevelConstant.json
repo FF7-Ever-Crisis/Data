@@ -4357,6 +4357,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=415>衰弱 <sprite=\"tmp_icon\" index=388>物攻ダウン <sprite=\"tmp_icon\" index=387>物防ダウン <sprite=\"tmp_icon\" index=390>魔攻ダウン \n　　　<sprite=\"tmp_icon\" index=389>魔防ダウン \n\n<command_color=common_03>ラムウ</color>のフォースゲージ [<command_color=emphasis>LIGHTNING</color>] を増加させる。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n \nFills <command_color=common_03>Ramuh</color>'s Force Gauge: <command_color=emphasis>Lightning</color>."
+    },
+    "EnemyLevelConstantGroupId": 2051010,
+    "Level": 1,
+    "ResourceId": 2051010010,
+    "EnemySkillLevelId": 2051010010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=392>スタン \n\n[<command_color=emphasis>脱力の息</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン・<sprite=\"tmp_icon\" index=390>魔攻ダウン</color>を付与する。\n\n\n\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=392>Stun\n\nInflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=390>MATK Down</color> with <command_color=emphasis>Weary Breath</color>."
     },
@@ -9505,6 +9516,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\nフォースゲージ [<command_color=emphasis>LIGHTNING</color>] に応じて<command_color=common_03>雷属性威力</color>が変動する。\nフォースゲージはダメージを与えることにより減少する。\n[<command_color=emphasis>迅雷の刃</color>] は対象の<command_color=common_03>多くのバフを解除</color>する。\n[<command_color=emphasis>ホイールレーザー</color>] は対象全体に<command_color=common_03><sprite=\"tmp_icon\" index=404>水属性威力ダウン</color>を付与する。\n[<command_color=emphasis>雷轟の壁</color>] は<command_color=common_03>自身のデバフと衰弱を解除</color>し、さらに<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ・<sprite=\"tmp_icon\" index=340>水属性耐性アップ</color>も付与する。\n\n<command_color=common_03>雷属性耐性</color>、<command_color=common_03>素早いサイン破壊</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\n<command_color=common_03>Lightning potency</color> changes based on Force Gauge: <command_color=emphasis>Lightning</color>. The gauge can be depleted with damage. <command_color=common_03>Removes most buffs</color> from a target with <command_color=emphasis>Radiant Falchion</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=404>Water Potency Down</color> on all targets with <command_color=emphasis>Torquing Bolt</color>. <command_color=common_03>Removes debuffs and enfeeble</color> from self and also grants self <command_color=common_03><sprite=\"tmp_icon\" index=323>PDEF Up</color> and <command_color=common_03><sprite=\"tmp_icon\" index=340>Water Resistance Up</color> with <command_color=emphasis>Voltaic Rampart</color>.\n\n<command_color=common_03>Quickly destroying sigils</color> is an effective tactic against this enemy."
+    },
+    "EnemyLevelConstantGroupId": 2530015,
+    "Level": 1,
+    "ResourceId": 2530015010,
+    "EnemySkillLevelId": 2530015010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n\n<command_color=common_03>魔法攻撃</color>を多用する。\n仲間を呼び寄せて戦うが、一定時間経過すると仲間を吸収し、\n自身に<sprite=\"tmp_icon\" index=326><command_color=common_03>魔攻アップ</color>を付与する。\n\n<command_color=common_03>風属性弱点の仲間を呼ぶ</color>ため、<command_color=common_03>風属性アビリティ</color>が有効。\nまた、<sprite=\"tmp_icon\" index=325><command_color=common_03>魔防アップ</color>が有効。",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <command_color=common_03>magic attacks</color>. Calls allies to battle, but after a certain amount of time, absorbs them to grant self <sprite=\"tmp_icon\" index=326><command_color=common_03>MATK Up</color>. The number of allies determines the potency of <command_color=emphasis>Glacial Breath</color>.\n\n<command_color=common_03>Wind-element abilities</color> are effective against its allies."
     },
@@ -11221,6 +11243,17 @@
   },
   {
     "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン <sprite=\"tmp_icon\" index=389>魔防ダウン \n\nフォースゲージ [<command_color=emphasis>ZANTETSU</color>] 中はカウントダウンが進行し、カウントダウン終了時、強力なアビリティを使用する。\nフォースゲージは土属性のダメージを与えることで減少する。\n[<command_color=emphasis>戦馬のいななき</color>] は自身の物理攻撃力を上昇させ、より強力な攻撃を行う。\n[<command_color=emphasis>ソニックリリース</color>] は対象の<sprite=\"tmp_icon\" index=334><command_color=common_03>挑発を解除</color>する。\n[<command_color=emphasis>冥刀烈断</color>] は対象の<sprite=\"tmp_icon\" index=334><command_color=common_03>挑発を解除</color>し、<sprite=\"tmp_icon\" index=387><command_color=common_03>物防ダウン</color>を付与する。\n[<command_color=emphasis>悲嘆煉獄の陣</color>] は対象の<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップを解除</color>し、<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>、<command_color=common_03><sprite=\"tmp_icon\" index=394>悲しい</color>を付与する。\n\n<command_color=common_03>土属性の物理アビリティ</color>が有効。\n物理攻撃が強力なため、<sprite=\"tmp_icon\" index=323><command_color=common_03>物防アップ</color>や<command_color=common_03>風属性耐性</color>が有効。\nまた強力な単体攻撃が多いため、<command_color=common_03><sprite=\"tmp_icon\" index=334>挑発</color>で対象を守るのが有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nA countdown begins during Force Gauge: <command_color=emphasis>Zantetsu</color>, and when the countdown ends, unleashes a powerful ability. The gauge can be depleted with earth-element damage. Increases own PATK with <command_color=emphasis>Sleipnir's Furor</color> and unleashes even more powerful attacks. Uses <command_color=emphasis>Tactical Pursuit</color> to <command_color=common_03>remove target's <sprite=\"tmp_icon\" index=334>Provoke</color> effect. Uses <command_color=emphasis>Merciless Executioner</color> to <command_color=common_03>remove target's <sprite=\"tmp_icon\" index=334>Provoke</color> effect and inflict <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color>. Uses <command_color=emphasis>Torment of Helheim</color> to <command_color=common_03>remove <sprite=\"tmp_icon\" index=323>PDEF Up</color> from a target and inflict <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=394>sedate</color>.\n\n<command_color=common_03>Earth-element physical abilities</color> are effective against this enemy. <command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is useful to protect allies as the enemy has many powerful single-target attacks."
+    },
+    "EnemyLevelConstantGroupId": 2553010,
+    "Level": 1,
+    "ResourceId": 2553010010,
+    "EnemySkillLevelId": 2553010010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
       "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=416>ストップ <sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>強力な風属性の物理アビリティ</color>を多用する。\nフォースゲージ [<command_color=emphasis>ZANTETSU CHARGE</color>] は最大になることで強力なアビリティを使用する。\nフォースゲージは土属性のダメージを与えることで減少する。\n[<command_color=emphasis>冥府の陣</color>] は発動ごとに自身の物理攻撃力を上昇させると同時に、物理防御力を減少させる。\n\n<command_color=common_03>土属性のアビリティ</color>が有効。\n強力な単体攻撃を使用するため、<command_color=common_03><sprite=\"tmp_icon\" index=334>挑発</color>で対象を守るのが有効。\n\n",
       "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=390>MATK Down \n\nUses many <command_color=common_03>powerful wind-element physical abilities</color>. Unleashes a powerful ability when Force Gauge: <command_color=emphasis>Zantetsu Charge</color> is full. The gauge can be depleted with earth-element attacks. Increases own PATK and decreases own PDEF every time <command_color=emphasis>Ring of the Underworld</color> is activated.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=334>Provoke</color> is useful to protect allies as the enemy has many powerful single-target attacks."
     },
@@ -11877,6 +11910,39 @@
     "Level": 1,
     "ResourceId": 2565004010,
     "EnemySkillLevelId": 2565001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n\n<command_color=common_03>強力な物理攻撃</color>を使用する。\n[<command_color=emphasis>旋刃投斬</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=407>激痛</color>を付与する。\n[<command_color=emphasis>双刃濤斬</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n[<command_color=emphasis>双刃濤斬</color>] に続けて[<command_color=emphasis>フィニッシュブロー</color>] を使用する。\n[<command_color=emphasis>フィニッシュブロー</color>] は対象の<command_color=common_03><sprite=\"tmp_icon\" index=392>スタン</color>を解除し、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n物理攻撃が強力なため、<command_color=common_03><sprite=\"tmp_icon\" index=323>物防アップ</color>・<command_color=common_03><sprite=\"tmp_icon\" index=388>物攻ダウン</color>が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down\n\nUses many <command_color=common_03>powerful physical attacks</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>pain</color> with <command_color=emphasis>Whirling Ravager</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Double Stunner</color>, after which <command_color=emphasis>Final Blow</color> is used. The latter removes <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> from the target and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color>."
+    },
+    "EnemyLevelConstantGroupId": 2566001,
+    "Level": 1,
+    "ResourceId": 2566001010,
+    "EnemySkillLevelId": 2566001010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<command_color=emphasis>P SHIELD</color>]展開中、<command_color=common_03><sprite=\"tmp_icon\" index=594>物理耐性</color>、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>耐性が上昇する。\nフォースゲージ [<command_color=emphasis>M SHIELD</color>]展開中、<command_color=common_03><sprite=\"tmp_icon\" index=595>魔法耐性</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>耐性が上昇する。\nフォースゲージはダメージを与えることで減少し、0にすることで上昇した耐性が解除され、一定時間行動不能になる。\n[<command_color=emphasis>旋刃投斬</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=407>激痛</color>を付与する。\n[<command_color=emphasis>双刃濤斬</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n[<command_color=emphasis>双刃濤斬</color>] に続けて[<command_color=emphasis>フィニッシュブロー</color>] を使用する。\n[<command_color=emphasis>フィニッシュブロー</color>] は対象の<command_color=common_03><sprite=\"tmp_icon\" index=392>スタン</color>を解除し、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<command_color=common_03>物理攻撃、魔法攻撃を両方編成する</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down\n\nIncreases own <command_color=common_03><sprite=\"tmp_icon\" index=594>Physical Resistance</color> and <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> resistance while Force Gauge: <command_color=emphasis>P Shield</color> is active. Increases own <command_color=common_03><sprite=\"tmp_icon\" index=595>Magic Resistance</color> and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> resistance while Force Gauge: <command_color=emphasis>M Shield</color> is active. All increased resistances are removed and the enemy is temporarily incapacitated when the gauges are reduced to 0. The gauges can be depleted with damage. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>pain</color> with <command_color=emphasis>Whirling Ravager</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Double Stunner</color>, after which <command_color=emphasis>Final Blow</color> is used. The latter removes <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> from the target and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color>."
+    },
+    "EnemyLevelConstantGroupId": 2566004,
+    "Level": 1,
+    "ResourceId": 2566004010,
+    "EnemySkillLevelId": 2566004010,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "BossCaution": {
+      "Ja": "無効：<sprite=\"tmp_icon\" index=395>毒 <sprite=\"tmp_icon\" index=386>暗闇 <sprite=\"tmp_icon\" index=393>沈黙 <sprite=\"tmp_icon\" index=392>スタン <sprite=\"tmp_icon\" index=384>鈍重 <sprite=\"tmp_icon\" index=385>忘却 \n　　　<sprite=\"tmp_icon\" index=390>魔攻ダウン \n\nフォースゲージ [<command_color=emphasis>P SHIELD</color>]展開中、<command_color=common_03><sprite=\"tmp_icon\" index=594>物理耐性</color>、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>耐性が上昇する。\nフォースゲージ [<command_color=emphasis>M SHIELD</color>]展開中、<command_color=common_03><sprite=\"tmp_icon\" index=595>魔法耐性</color>、<command_color=common_03><sprite=\"tmp_icon\" index=389>魔防ダウン</color>耐性が上昇する。\nフォースゲージはダメージを与えることで減少し、0にすることで上昇した耐性が解除され、一定時間行動不能になる。\n[<command_color=emphasis>旋刃投斬</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=407>激痛</color>を付与する。\n[<command_color=emphasis>双刃濤斬</color>] は対象に<command_color=common_03><sprite=\"tmp_icon\" index=392>スタン</color>を付与する。\n[<command_color=emphasis>双刃濤斬</color>] に続けて[<command_color=emphasis>フィニッシュブロー</color>] を使用する。\n[<command_color=emphasis>フィニッシュブロー</color>] は対象の<command_color=common_03><sprite=\"tmp_icon\" index=392>スタン</color>を解除し、<command_color=common_03><sprite=\"tmp_icon\" index=387>物防ダウン</color>を付与する。\n\n<command_color=common_03>物理攻撃、魔法攻撃を両方編成する</color>対策が有効。",
+      "En": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=390>MATK Down\n\nIncreases own <command_color=common_03><sprite=\"tmp_icon\" index=594>Physical Resistance</color> and <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> resistance while Force Gauge: <command_color=emphasis>P Shield</color> is active. Increases own <command_color=common_03><sprite=\"tmp_icon\" index=595>Magic Resistance</color> and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> resistance while Force Gauge: <command_color=emphasis>M Shield</color> is active. All increased resistances are removed and the enemy is temporarily incapacitated when the gauges are reduced to 0. The gauges can be depleted with damage. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=407>pain</color> with <command_color=emphasis>Whirling Ravager</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> with <command_color=emphasis>Double Stunner</color>, after which <command_color=emphasis>Final Blow</color> is used. The latter removes <command_color=common_03><sprite=\"tmp_icon\" index=392>stun</color> from the target and inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color>."
+    },
+    "EnemyLevelConstantGroupId": 2566005,
+    "Level": 1,
+    "ResourceId": 2566005010,
+    "EnemySkillLevelId": 2566005010,
     "FinalAttackSkillEnemyId": 0
   },
   {

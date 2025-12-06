@@ -586,16 +586,42 @@
   },
   {
     "Title": {
-      "Ja": "変換所について",
-      "En": "The Workshop"
+      "Ja": "ウェポンメダル変換所について",
+      "En": "Weapon Medal Workshop"
     },
     "Description": {
-      "Ja": "「変換所」では、各ウェポンパーツを<command_color=common_03>ウェポンメダルに変換</color>できます。\nウェポンメダルは交換所で使用できます。",
-      "En": "At the workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
+      "Ja": "「ウェポンメダル変換所」では、各ウェポンパーツを<command_color=common_03>ウェポンメダルに変換</color>できます。\nウェポンメダルは交換所で使用できます。",
+      "En": "At the weapon medal workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
     },
     "TutorialPopupGroupId": 2023001,
     "Seq": 1,
     "ResourceId": 202300101
+  },
+  {
+    "Title": {
+      "Ja": "レアウェポンメダル変換所について",
+      "En": "Rare Weapon Medal Workshop"
+    },
+    "Description": {
+      "Ja": "「レアウェポンメダル変換所」では、<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198>状態のウェポンパーツを<command_color=common_03>レアウェポンメダルに変換</color>できます。\nレアウェポンメダルに変換できるのはガチャから出現する武器のみとなります。\nレアウェポンメダルは交換所で使用できます。",
+      "En": "At the rare weapon medal workshop, you can convert <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> weapon parts into <command_color=common_03>rare weapon medals</color>. This function is only available for weapons obtained through draws. Rare weapon medals can be traded at the exchange for various items."
+    },
+    "TutorialPopupGroupId": 2023001,
+    "Seq": 2,
+    "ResourceId": 202300102
+  },
+  {
+    "Title": {
+      "Ja": "限界突破＋解除について",
+      "En": "Remove Overboost+"
+    },
+    "Description": {
+      "Ja": "「限界突破＋解除」では、限界突破＋状態の武器の＋値を解除し、<command_color=common_03>＋値分のウェポンパーツに変換</color>します。\n解除が行えるのはガチャから出現する武器のみとなります。\n<command_color=common_03>キャラ専用ウェポンパーツ</color>を使用して限界突破＋を行っていた場合でも、\n<command_color=common_03>該当武器のウェポンパーツ</color>に変換します。",
+      "En": "<command_color=common_03>Remove overboost+</color> allows you to remove the \"+\" value from overboost+ weapons and convert it into a proportionate amount of weapon parts. This function is only available for weapons obtained through draws. Weapons that were overboosted using <command_color=common_03>character-specific weapon parts</color> will still yield <command_color=common_03>weapon parts for the corresponding weapon</color>."
+    },
+    "TutorialPopupGroupId": 2023001,
+    "Seq": 3,
+    "ResourceId": 202300103
   },
   {
     "Title": {
@@ -2952,6 +2978,32 @@
   },
   {
     "Title": {
+      "Ja": "Cアビリティの効果適用ボタンについて",
+      "En": "\"Apply Effect\" Button for C. Abilities "
+    },
+    "Description": {
+      "Ja": "Cアビリティの効果適用ボタンが追加されました。\n<command_color=common_03>ウェアのCアビリティは効果適用ボタンのON・OFFにより、マテリアのCアビリティと切り替える</color>ことができます。",
+      "En": "An \"apply effect\" button has been added for C. abilities.\nC. abilities assigned to gear <command_color=common_03>can be toggled on or off through the \"apply effect\" button. This is used to switch to C. abilities assigned to materia</color>."
+    },
+    "TutorialPopupGroupId": 2340001,
+    "Seq": 1,
+    "ResourceId": 234000101
+  },
+  {
+    "Title": {
+      "Ja": "サブウェア 装備枠解放",
+      "En": "Sub Gear Slot Unlocked"
+    },
+    "Description": {
+      "Ja": "<command_color=common_03>サブウェア装備枠</color>が解放されました。\nサブウェアはRアビリティが反映されます。\n装備できるサブウェアの種類はキャラクター毎に異なります。",
+      "En": "<command_color=common_03>Sub gear equipment slot</color> has been unlocked.\nSub gear will have their R. abilities reflected. Equippable sub gear will vary according to the character."
+    },
+    "TutorialPopupGroupId": 2340101,
+    "Seq": 1,
+    "ResourceId": 234010101
+  },
+  {
+    "Title": {
       "Ja": "AUTO機能が使用できるようになりました。\nMANUALから切り替えて選択できます。",
       "En": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },
@@ -4015,6 +4067,32 @@
     "TutorialPopupGroupId": 310000053,
     "Seq": 1,
     "ResourceId": 3100000531
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「P SHIELD」",
+      "En": "Force Gauge: P Shield"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の物理耐性・物防ダウン耐性を解除する</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. When the force gauge is reduced to 0, <command_color=common_03>the enemy will be temporarily incapacitated</color> and <command_color=common_03>their increased physical resistance and PDEF Down resistance will be removed</color>."
+    },
+    "TutorialPopupGroupId": 310000054,
+    "Seq": 1,
+    "ResourceId": 3100000541
+  },
+  {
+    "Title": {
+      "Ja": "フォースゲージ「M SHIELD」",
+      "En": "Force Gauge: M Shield"
+    },
+    "Description": {
+      "Ja": "敵に<command_color=common_03>ダメージを与える</color>とフォースゲージを減らすことができます。\nフォースゲージをゼロにできると<command_color=common_03>敵を一定時間行動不能</color>にし、\nさらに<command_color=common_03>敵の魔防耐性・魔防ダウン耐性を解除する</color>ことができます。",
+      "En": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. When the force gauge is reduced to 0, <command_color=common_03>the enemy will be temporarily incapacitated</color> and <command_color=common_03>their increased magic resistance and MDEF Down resistance will be removed</color>."
+    },
+    "TutorialPopupGroupId": 310000055,
+    "Seq": 1,
+    "ResourceId": 3100000551
   },
   {
     "Title": {

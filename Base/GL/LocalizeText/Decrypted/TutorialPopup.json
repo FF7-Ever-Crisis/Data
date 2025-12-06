@@ -178,7 +178,15 @@
         },
         {
             "id": 970000202300101,
-            "value": "The Workshop"
+            "value": "Weapon Medal Workshop"
+        },
+        {
+            "id": 970000202300102,
+            "value": "Rare Weapon Medal Workshop"
+        },
+        {
+            "id": 970000202300103,
+            "value": "Remove Overboost+"
         },
         {
             "id": 970000203000103,
@@ -853,6 +861,14 @@
             "value": "Enemy Ability Streams"
         },
         {
+            "id": 970000234000101,
+            "value": "\"Apply Effect\" Button for C. Abilities "
+        },
+        {
+            "id": 970000234010101,
+            "value": "Sub Gear Slot Unlocked"
+        },
+        {
             "id": 970000301000101,
             "value": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
         },
@@ -1181,6 +1197,14 @@
             "value": "Force Gauge: Motherly Care"
         },
         {
+            "id": 970003100000541,
+            "value": "Force Gauge: P Shield"
+        },
+        {
+            "id": 970003100000551,
+            "value": "Force Gauge: M Shield"
+        },
+        {
             "id": 970003200000011,
             "value": "Status Ailment: Dread"
         },
@@ -1222,7 +1246,15 @@
         },
         {
             "id": 971000202300101,
-            "value": "At the workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
+            "value": "At the weapon medal workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
+        },
+        {
+            "id": 971000202300102,
+            "value": "At the rare weapon medal workshop, you can convert <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> weapon parts into <command_color=common_03>rare weapon medals</color>. This function is only available for weapons obtained through draws. Rare weapon medals can be traded at the exchange for various items."
+        },
+        {
+            "id": 971000202300103,
+            "value": "<command_color=common_03>Remove overboost+</color> allows you to remove the \"+\" value from overboost+ weapons and convert it into a proportionate amount of weapon parts. This function is only available for weapons obtained through draws. Weapons that were overboosted using <command_color=common_03>character-specific weapon parts</color> will still yield <command_color=common_03>weapon parts for the corresponding weapon</color>."
         },
         {
             "id": 971000203000101,
@@ -1593,6 +1625,14 @@
             "value": "Obtaining enemy abilities will unlock the enemy ability stream.\n\nYou can then <command_color=common_03>unlock nodes</color> to improve various stats.\n<command_color=common_02>*Enemy ability memories are required to unlock nodes.</color>\n<command_color=common_02>*Enemy ability shown in image differs from those obtainable in-game.</color>"
         },
         {
+            "id": 971000234000101,
+            "value": "An \"apply effect\" button has been added for C. abilities.\nC. abilities assigned to gear <command_color=common_03>can be toggled on or off through the \"apply effect\" button. This is used to switch to C. abilities assigned to materia</color>."
+        },
+        {
+            "id": 971000234010101,
+            "value": "<command_color=common_03>Sub gear equipment slot</color> has been unlocked.\nSub gear will have their R. abilities reflected. Equippable sub gear will vary according to the character."
+        },
+        {
             "id": 971000330000101,
             "value": "A new role stream has been added.\n\nTap the button in the bottom left of the character stream to switch streams."
         },
@@ -1903,6 +1943,14 @@
         {
             "id": 971003100000531,
             "value": "The force gauge can be depleted by <command_color=common_03>landing attacks</color>. When the gauge is fully depleted, the enemy will be <command_color=common_03>temporarily incapacitated</color>, <command_color=common_03>their physical and magic damage resistance buffs will be removed</color>, and <command_color=common_03>their DEF will be greatly reduced</color>."
+        },
+        {
+            "id": 971003100000541,
+            "value": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. When the force gauge is reduced to 0, <command_color=common_03>the enemy will be temporarily incapacitated</color> and <command_color=common_03>their increased physical resistance and PDEF Down resistance will be removed</color>."
+        },
+        {
+            "id": 971003100000551,
+            "value": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. When the force gauge is reduced to 0, <command_color=common_03>the enemy will be temporarily incapacitated</color> and <command_color=common_03>their increased magic resistance and MDEF Down resistance will be removed</color>."
         },
         {
             "id": 971003200000011,

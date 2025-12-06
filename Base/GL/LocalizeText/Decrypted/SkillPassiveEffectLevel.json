@@ -45,6 +45,10 @@
             "value": "All Allies' HP +{0} / +{1}%"
         },
         {
+            "id": 545000011103101,
+            "value": "All Allies' HP +{1}%"
+        },
+        {
             "id": 545000011201101,
             "value": "All Allies' Phys. Attack +{0} / +{1}%"
         },
@@ -315,6 +319,22 @@
         {
             "id": 545000053101103,
             "value": "Applies Reprieve to self when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s)\nWhen triggered: restores 25% of max HP and grants Invincible\n(Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
+        },
+        {
+            "id": 545000053102101,
+            "value": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 25% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 1s / Effect Dur. Ext.: +0s)"
+        },
+        {
+            "id": 545000053102102,
+            "value": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 50% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 3s / Effect Dur. Ext.: +0s)"
+        },
+        {
+            "id": 545000053102103,
+            "value": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 75% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 5s / Effect Dur. Ext.: +0s)"
+        },
+        {
+            "id": 545000053102104,
+            "value": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 100% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
         },
         {
             "id": 545000053201101,
@@ -833,6 +853,34 @@
             "value": "HP +{1}%"
         },
         {
+            "id": 545000058601101,
+            "value": "Earth Ability Dmg. +{1}%"
+        },
+        {
+            "id": 545000058601201,
+            "value": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+        },
+        {
+            "id": 545000058601301,
+            "value": "HP +{1}%"
+        },
+        {
+            "id": 545000058701101,
+            "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+        },
+        {
+            "id": 545000058701201,
+            "value": "HP +{1}%"
+        },
+        {
+            "id": 545000059001101,
+            "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+        },
+        {
+            "id": 545000059001201,
+            "value": "HP +{1}%"
+        },
+        {
             "id": 545000059101101,
             "value": "Phys. & Mag. Defense +{1}%"
         },
@@ -969,6 +1017,10 @@
             "value": "Earth Ability Dmg. +{1}%"
         },
         {
+            "id": 545000120601101,
+            "value": "Water Ability Dmg. +{1}%"
+        },
+        {
             "id": 545000151101101,
             "value": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
         },
@@ -1011,6 +1063,14 @@
         {
             "id": 545000161401201,
             "value": "Mag. Ability Dmg. to Terrestrials +{1}%"
+        },
+        {
+            "id": 545000161501101,
+            "value": "Phys. Ability Dmg. to Machines +{1}%"
+        },
+        {
+            "id": 545000161501201,
+            "value": "Mag. Ability Dmg. to Machines +{1}%"
         }
     ]
 }

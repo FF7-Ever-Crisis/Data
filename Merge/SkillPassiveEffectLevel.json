@@ -886,6 +886,22 @@
       "En": "Crit. Dmg. +{0}%"
     },
     "Level": 1,
+    "EffectValue": 250,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 108031,
+    "Description": {
+      "Ja": "クリティカルダメージ+{0}%",
+      "En": "Crit. Dmg. +{0}%"
+    },
+    "Level": 2,
     "EffectValue": 500,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -1144,6 +1160,102 @@
     "Level": 2,
     "EffectValue": 25,
     "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 111031,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 40,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 111031,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 80,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 111031,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 120,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 111031,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 111031,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 180,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 111031,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 1,
@@ -2023,6 +2135,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 202021,
+    "Description": {
+      "Ja": "炎属性アビリティダメージ+{1}%",
+      "En": "Fire Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -2039,7 +2167,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 350,
+    "EffectCoefficient": 170,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
@@ -2054,6 +2182,22 @@
       "En": "Fire Ability Dmg. +{1}%"
     },
     "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 350,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 202031,
+    "Description": {
+      "Ja": "炎属性アビリティダメージ+{1}%",
+      "En": "Fire Ability Dmg. +{1}%"
+    },
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 450,
     "PassiveSkillTriggerType": 0,
@@ -2231,6 +2375,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 203021,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -2247,7 +2407,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 350,
+    "EffectCoefficient": 170,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
@@ -2262,6 +2422,22 @@
       "En": "Ice Ability Damage +{1}%"
     },
     "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 350,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 203031,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Damage +{1}%"
+    },
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 450,
     "PassiveSkillTriggerType": 0,
@@ -2279,6 +2455,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 203051,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -2294,6 +2486,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 203052,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -2311,6 +2519,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 203071,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -2327,6 +2551,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 203072,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -2342,6 +2582,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 203073,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -2567,6 +2823,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 170,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 204031,
+    "Description": {
+      "Ja": "雷属性アビリティダメージ+{1}%",
+      "En": "Lightning Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 350,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -2583,6 +2855,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 204051,
+    "Description": {
+      "Ja": "雷属性アビリティダメージ+{1}%",
+      "En": "Lightning Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -2598,6 +2886,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 204052,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -2823,6 +3127,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 170,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 205031,
+    "Description": {
+      "Ja": "土属性アビリティダメージ+{1}%",
+      "En": "Earth Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 350,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -3047,6 +3367,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 206021,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -3063,7 +3399,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 350,
+    "EffectCoefficient": 170,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
@@ -3078,6 +3414,22 @@
       "En": "Water Ability Dmg. +{1}%"
     },
     "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 350,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 206031,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 450,
     "PassiveSkillTriggerType": 0,
@@ -3303,6 +3655,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 207021,
+    "Description": {
+      "Ja": "風属性アビリティダメージ+{1}%",
+      "En": "Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -3318,6 +3686,22 @@
       "En": "Wind Ability Damage +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 170,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 207031,
+    "Description": {
+      "Ja": "風属性アビリティダメージ+{1}%",
+      "En": "Wind Ability Damage +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 350,
     "PassiveSkillTriggerType": 0,
@@ -3335,6 +3719,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 207071,
+    "Description": {
+      "Ja": "風属性アビリティダメージ+{1}%",
+      "En": "Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -3351,6 +3751,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 207072,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -3366,6 +3782,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 207073,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -5095,6 +5527,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 519031,
+    "Description": {
+      "Ja": "バフ・デバフ(上昇・下降系)の効果時間＋{1}%",
+      "En": "Buff/Debuff (Stats/Pot./Res.) Effect Duration Extension +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 600,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5110,6 +5558,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 519032,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 600,
     "PassiveSkillTriggerType": 0,
@@ -5191,6 +5655,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 521021,
+    "Description": {
+      "Ja": "デバフ(下降系)の効果時間＋{1}%",
+      "En": "Debuff (Stats/Pot./Res.) Effect Duration +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 600,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5206,6 +5686,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 521022,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 600,
     "PassiveSkillTriggerType": 0,
@@ -5223,6 +5719,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 525011,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -5239,7 +5751,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 150,
+    "EffectCoefficient": 70,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
     "PassiveSkillTargetType": 0,
@@ -5254,6 +5766,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 526011,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 250,
     "PassiveSkillTriggerType": 6,
@@ -5271,6 +5799,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 527011,
+    "Description": {
+      "Ja": "炎・冷属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5287,6 +5831,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 527012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5302,6 +5862,22 @@
       "En": "Fire/Ice Resist. +{0}%"
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 527013,
+    "Description": {
+      "Ja": "炎・冷属性耐性+{0}%",
+      "En": "Fire/Ice Resist. +{0}%"
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -5318,6 +5894,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 527014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -5335,6 +5927,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 529011,
+    "Description": {
+      "Ja": "炎・冷属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5351,6 +5959,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 529012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5366,6 +5990,22 @@
       "En": "Fire/Ice Resist. +{0}%"
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 529013,
+    "Description": {
+      "Ja": "炎・冷属性耐性+{0}%",
+      "En": "Fire/Ice Resist. +{0}%"
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -5382,6 +6022,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 529014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -5399,6 +6055,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 530011,
+    "Description": {
+      "Ja": "物理・魔法攻撃力+{1}%",
+      "En": "Phys. & Mag. Attack +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5414,6 +6086,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 530012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -5431,6 +6119,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 530013,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5446,6 +6150,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 530014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -5504,12 +6224,92 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 531021,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にラストリーヴを付与。(効果時間999秒。効果延長時+0秒。効果発動時対象の最大HPの25%分回復)\nラストリーヴ発動時、自身に無敵を付与。(効果時間1秒。効果延長時+0秒)",
+      "En": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 25% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 1s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 1,
+    "EffectValue": 1,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53102101,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 531021,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にラストリーヴを付与。(効果時間999秒。効果延長時+0秒。効果発動時対象の最大HPの50%分回復)\nラストリーヴ発動時、自身に無敵を付与。(効果時間3秒。効果延長時+0秒)",
+      "En": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 50% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 3s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 2,
+    "EffectValue": 3,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53102102,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 531021,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にラストリーヴを付与。(効果時間999秒。効果延長時+0秒。効果発動時対象の最大HPの75%分回復)\nラストリーヴ発動時、自身に無敵を付与。(効果時間5秒。効果延長時+0秒)",
+      "En": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 75% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 5s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 3,
+    "EffectValue": 5,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53102103,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 531021,
+    "Description": {
+      "Ja": "バトル開始時、味方全体にラストリーヴを付与。(効果時間999秒。効果延長時+0秒。効果発動時対象の最大HPの100%分回復)\nラストリーヴ発動時、自身に無敵を付与。(効果時間10秒。効果延長時+0秒)",
+      "En": "Applies Reprieve to all allies when battle begins\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 100% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
+    },
+    "Level": 4,
+    "EffectValue": 10,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 53102104,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 532011,
     "Description": {
       "Ja": "HP+{1}%",
       "En": "HP+{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 20,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 532011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP+{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 50,
     "PassiveSkillTriggerType": 0,
@@ -5525,7 +6325,7 @@
       "Ja": "HP+{1}%",
       "En": "HP+{1}%"
     },
-    "Level": 2,
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -5543,7 +6343,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 150,
+    "EffectCoefficient": 70,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
@@ -5568,6 +6368,22 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 532012,
+    "Description": {
+      "Ja": "物理防御力+{1}%",
+      "En": "Phys. Defense +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 533011,
     "Description": {
       "Ja": "HP+{1}%",
@@ -5575,7 +6391,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 50,
+    "EffectCoefficient": 20,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
@@ -5600,12 +6416,44 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 533011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 533012,
     "Description": {
       "Ja": "魔法防御力+{1}%",
       "En": "Mag. Defense +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 533012,
+    "Description": {
+      "Ja": "魔法防御力+{1}%",
+      "En": "Mag. Defense +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -5621,7 +6469,7 @@
       "Ja": "魔法防御力+{1}%",
       "En": "Mag. Defense +{1}%"
     },
-    "Level": 2,
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -5639,6 +6487,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 20,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 533021,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 50,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5655,6 +6519,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 533022,
+    "Description": {
+      "Ja": "物理防御力+{1}%",
+      "En": "Phys. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5671,7 +6551,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 150,
+    "EffectCoefficient": 70,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
@@ -5686,6 +6566,22 @@
       "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 533031,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -5703,7 +6599,7 @@
     },
     "Level": 1,
     "EffectValue": 0,
-    "EffectCoefficient": 150,
+    "EffectCoefficient": 70,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "PassiveSkillTargetType": 0,
@@ -5718,6 +6614,22 @@
       "En": ""
     },
     "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 533032,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 3,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -5735,6 +6647,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 534011,
+    "Description": {
+      "Ja": "物理・魔法攻撃力+{1}%",
+      "En": "Phys. & Mag. Attack +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5750,6 +6678,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 534012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -5767,6 +6711,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 534013,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5782,6 +6742,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 534014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -5799,6 +6775,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 20,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 535011,
+    "Description": {
+      "Ja": "物理攻撃力 +{1}%",
+      "En": "Phys. Attack +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 50,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5814,6 +6806,22 @@
       "En": "Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 535012,
+    "Description": {
+      "Ja": "物理アビリティダメージ+{1}%",
+      "En": "Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -5831,6 +6839,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 535021,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5846,6 +6870,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 535022,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -5863,6 +6903,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 535023,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5879,6 +6935,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 535031,
+    "Description": {
+      "Ja": "魔法攻撃力 +{1}%",
+      "En": "Mag. Attack +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -5894,6 +6966,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 535032,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 6,
@@ -6167,6 +7255,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 20,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 537011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 50,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6182,6 +7286,22 @@
       "En": "Mag. Defense +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 537012,
+    "Description": {
+      "Ja": "魔法防御力+{1}%",
+      "En": "Mag. Defense +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -6327,6 +7447,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 540011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6342,6 +7478,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 540012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -6359,6 +7511,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 540013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6374,6 +7542,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 540014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -6391,6 +7575,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 540015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6406,6 +7606,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 540016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -6423,6 +7639,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 541011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6438,6 +7670,22 @@
       "En": "Healing Pot. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 541012,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -6583,6 +7831,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 543011,
+    "Description": {
+      "Ja": "炎・冷属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6599,6 +7863,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 543012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6614,6 +7894,22 @@
       "En": "Fire/Ice Resist. +{0}%"
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 543013,
+    "Description": {
+      "Ja": "炎・冷属性耐性+{0}%",
+      "En": "Fire/Ice Resist. +{0}%"
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -6630,6 +7926,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 543014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -6647,6 +7959,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 544011,
+    "Description": {
+      "Ja": "物理・魔法攻撃力+{1}%",
+      "En": "Phys. & Mag. Attack +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6662,6 +7990,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 544012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -6679,6 +8023,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 544013,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6694,6 +8054,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 544014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -6711,6 +8087,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 545011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6726,6 +8118,22 @@
       "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 545012,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -6743,6 +8151,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 545013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6758,6 +8182,22 @@
       "En": "Healing Pot. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 546011,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -6775,6 +8215,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 546012,
+    "Description": {
+      "Ja": "バフ・デバフ(上昇・下降系)の効果時間＋{1}%",
+      "En": "Buff/Debuff (Stats/Pot./Res.) Effect Duration +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 400,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -6790,6 +8246,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 546013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 400,
     "PassiveSkillTriggerType": 0,
@@ -6870,6 +8342,22 @@
       "En": "Fire/Ice/Lightning/Earth/Water/Wind Resist. +{0}%"
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 548011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性耐性+{0}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Resist. +{0}%"
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -6886,6 +8374,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 548012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -6902,6 +8406,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 548013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -6918,6 +8438,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 548014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -6934,6 +8470,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 548015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -6950,6 +8502,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 100,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 548016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 200,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -7031,6 +8599,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 550011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7046,6 +8630,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 550012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7063,6 +8663,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 550013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7078,6 +8694,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 550014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7095,6 +8727,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 550015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7110,6 +8758,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 550016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7127,6 +8791,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 551011,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7142,6 +8822,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 551012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -7175,6 +8871,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 553011,
+    "Description": {
+      "Ja": "土属性アビリティダメージ+{1}%",
+      "En": "Earth Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7190,6 +8902,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 553012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -7271,6 +8999,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 4,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 555011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 4,
@@ -7286,6 +9030,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 555012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7303,6 +9063,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 555013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7318,6 +9094,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 555014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7335,6 +9127,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 555015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7350,6 +9158,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 555016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7367,6 +9191,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 556011,
+    "Description": {
+      "Ja": "土属性アビリティダメージ+{1}%",
+      "En": "Earth Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7382,6 +9222,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 556012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -7415,6 +9271,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 558011,
+    "Description": {
+      "Ja": "バフ・デバフ(上昇・下降系)の効果時間＋{1}%",
+      "En": "Buff/Debuff (Stats/Pot./Res.) Effect Duration +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 400,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7430,6 +9302,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 558012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 400,
     "PassiveSkillTriggerType": 0,
@@ -7447,6 +9335,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 558013,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理・魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys & Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -7462,6 +9366,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 558014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 6,
@@ -7479,6 +9399,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 559011,
+    "Description": {
+      "Ja": "風属性アビリティダメージ+{1}%",
+      "En": "Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7494,6 +9430,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 559012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -7511,6 +9463,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 559013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7526,6 +9494,22 @@
       "En": "Wind Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 560011,
+    "Description": {
+      "Ja": "風属性アビリティダメージ+{1}%",
+      "En": "Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7543,6 +9527,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 560012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -7558,6 +9558,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 560013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -7575,6 +9591,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 561011,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7590,6 +9622,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 561012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -7607,6 +9655,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 561013,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7622,6 +9686,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 561014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -7639,6 +9719,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 563011,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7655,6 +9751,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 563012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7670,6 +9782,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 563013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -7815,6 +9943,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 565011,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7830,6 +9974,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 565012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -7847,6 +10007,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 565013,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7862,6 +10038,22 @@
       "En": "Mag. Defense +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 567011,
+    "Description": {
+      "Ja": "魔法防御力+{1}%",
+      "En": "Mag. Defense +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -7879,6 +10071,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 567012,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7894,6 +10102,22 @@
       "En": "Water Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 568011,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -7911,6 +10135,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 568012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -7926,6 +10166,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 568013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -7943,6 +10199,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 569011,
+    "Description": {
+      "Ja": "雷属性アビリティダメージ+{1}%",
+      "En": "Lightning Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7958,6 +10230,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 569012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -7975,6 +10263,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 569013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -7990,6 +10294,22 @@
       "En": "Healing Pot. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 570011,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -8007,6 +10327,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 570012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8022,6 +10358,22 @@
       "En": "Phys. & Mag. Defense +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 570013,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -8039,6 +10391,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 571011,
+    "Description": {
+      "Ja": "雷属性アビリティダメージ+{1}%",
+      "En": "Lightning Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8054,6 +10422,22 @@
       "En": "Mag. Defense +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 50,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 571012,
+    "Description": {
+      "Ja": "魔法防御力+{1}%",
+      "En": "Mag. Defense +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 100,
     "PassiveSkillTriggerType": 0,
@@ -8071,6 +10455,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 572011,
+    "Description": {
+      "Ja": "炎属性アビリティダメージ+{1}%",
+      "En": "Fire Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8086,6 +10486,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 572012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -8103,6 +10519,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 572013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8118,6 +10550,22 @@
       "En": "Lightning Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 573011,
+    "Description": {
+      "Ja": "雷属性アビリティダメージ+{1}%",
+      "En": "Lightning Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8135,6 +10583,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 573012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -8150,6 +10614,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 573013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -8167,6 +10647,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 574011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8182,6 +10678,22 @@
       "En": "Mag. Defense +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 574012,
+    "Description": {
+      "Ja": "魔法防御力+{1}%",
+      "En": "Mag. Defense +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -8199,6 +10711,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 575011,
+    "Description": {
+      "Ja": "炎属性アビリティダメージ+{1}%",
+      "En": "Fire Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8214,6 +10742,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 575012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -8231,6 +10775,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 575013,
+    "Description": {
+      "Ja": "バフ・デバフ(上昇・下降系)の効果延長時間＋{1}%",
+      "En": "Buff/Debuff (Stats/Pot./Res.) Effect Duration Extension +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 400,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8246,6 +10806,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 575014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 400,
     "PassiveSkillTriggerType": 0,
@@ -8272,12 +10848,44 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 576011,
+    "Description": {
+      "Ja": "自身が付与する物理攻撃力アップの最大効果段階+1(この効果は付与段階の増減には影響しない)",
+      "En": "When granting Phys. Attack Up: Max. Pot. Tier +1\n(Only affects max. tier)"
+    },
+    "Level": 2,
+    "EffectValue": 1,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 576012,
     "Description": {
       "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
       "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 576012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -8359,6 +10967,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 578011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8374,6 +10998,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 578012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8391,6 +11031,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 578013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8406,6 +11062,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 578014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8423,6 +11095,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 578015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8439,6 +11127,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 578016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8454,6 +11158,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 578017,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -8599,6 +11319,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 580011,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -8614,6 +11350,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 580012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 6,
@@ -8631,6 +11383,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 581011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8646,6 +11414,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 581012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8663,6 +11447,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 581013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8678,6 +11478,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 581014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8695,6 +11511,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 581015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8711,6 +11543,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 581016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8726,6 +11574,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 581017,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -8871,6 +11735,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 583011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8886,6 +11766,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 583012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8903,6 +11799,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 583013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8918,6 +11830,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 583014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8935,6 +11863,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 583015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8950,6 +11894,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 583016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8967,6 +11927,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 583017,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -8982,6 +11958,22 @@
       "En": "Ice Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 584011,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -8999,6 +11991,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 584012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -9014,6 +12022,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 584013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -9031,6 +12055,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 585011,
+    "Description": {
+      "Ja": "土属性アビリティダメージ+{1}%",
+      "En": "Earth Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9046,6 +12086,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 585012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -9063,6 +12119,566 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 585013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 586011,
+    "Description": {
+      "Ja": "土属性アビリティダメージ+{1}%",
+      "En": "Earth Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 586011,
+    "Description": {
+      "Ja": "土属性アビリティダメージ+{1}%",
+      "En": "Earth Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 586012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 586012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 586013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 586013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587017,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 587017,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590011,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性アビリティダメージ+{1}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590017,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 590017,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9079,6 +12695,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 591011,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9094,6 +12726,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 591012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -9120,12 +12768,44 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 591013,
+    "Description": {
+      "Ja": "自身が付与する魔法攻撃力アップの最大効果段階+1(この効果は付与段階の増減には影響しない)",
+      "En": "When granting Mag. Attack Up: Max. Pot. Tier +1\n(Only affects max. tier)"
+    },
+    "Level": 2,
+    "EffectValue": 1,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 592011,
     "Description": {
       "Ja": "味方全体のHP+{1}%",
       "En": "All Allies' HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592011,
+    "Description": {
+      "Ja": "味方全体のHP+{1}%",
+      "En": "All Allies' HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -9143,6 +12823,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、自身の物理・魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Own Phys. & Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -9158,6 +12854,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -9175,6 +12887,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592014,
+    "Description": {
+      "Ja": "自身の物理・魔法防御力+{1}%",
+      "En": "Own Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9190,6 +12918,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 592015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
@@ -9207,6 +12951,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 593011,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9222,6 +12982,22 @@
       "En": "Ice Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 593012,
+    "Description": {
+      "Ja": "冷属性アビリティダメージ+{1}%",
+      "En": "Ice Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
@@ -9239,6 +13015,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 593013,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -9255,6 +13047,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 170,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 594011,
+    "Description": {
+      "Ja": "治癒力+{1}%",
+      "En": "Healing Pot. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 350,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9270,6 +13078,22 @@
       "En": "All Allies' ATB +{0} when battle begins"
     },
     "Level": 1,
+    "EffectValue": 1000,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 7,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 1,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 594012,
+    "Description": {
+      "Ja": "バトル開始時、味方全体のATB+{0}",
+      "En": "All Allies' ATB +{0} when battle begins"
+    },
+    "Level": 2,
     "EffectValue": 2000,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 7,
@@ -9287,6 +13111,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 595011,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 300,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9303,6 +13143,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 595012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
     "PassiveSkillFilterGroupId": 2,
@@ -9318,6 +13174,22 @@
       "En": "HP +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 595013,
+    "Description": {
+      "Ja": "HP+{1}%",
+      "En": "HP +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 150,
     "PassiveSkillTriggerType": 0,
@@ -9344,12 +13216,44 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 596011,
+    "Description": {
+      "Ja": "自身が付与する魔法攻撃力ダウンの最大効果段階+1(この効果は付与段階の増減には影響しない)",
+      "En": "When granting Mag. Attack Down: Max. Pot. Tier +1\n(Only affects max. tier)"
+    },
+    "Level": 2,
+    "EffectValue": 1,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 596012,
     "Description": {
       "Ja": "炎・冷・雷・土・水・風属性耐性+{0}%",
       "En": "Fire/Ice/Lightning/Earth/Water/Wind Resist. +{0}%"
     },
     "Level": 1,
+    "EffectValue": 50,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596012,
+    "Description": {
+      "Ja": "炎・冷・雷・土・水・風属性耐性+{0}%",
+      "En": "Fire/Ice/Lightning/Earth/Water/Wind Resist. +{0}%"
+    },
+    "Level": 2,
     "EffectValue": 100,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -9366,6 +13270,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 50,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596013,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 100,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -9382,6 +13302,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 50,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596014,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 100,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -9398,6 +13334,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 50,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596015,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 100,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -9414,6 +13366,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 50,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596016,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 100,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -9430,6 +13398,22 @@
       "En": ""
     },
     "Level": 1,
+    "EffectValue": 50,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 596017,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
     "EffectValue": 100,
     "EffectCoefficient": 0,
     "PassiveSkillTriggerType": 0,
@@ -9456,12 +13440,44 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 597011,
+    "Description": {
+      "Ja": "自身が付与する魔法防御力ダウンの最大効果段階+1(この効果は付与段階の増減には影響しない)",
+      "En": "When granting Mag. Defense Down: Max. Pot. Tier +1\n(Only affects max. tier)"
+    },
+    "Level": 2,
+    "EffectValue": 1,
+    "EffectCoefficient": 0,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 597012,
     "Description": {
       "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 597012,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -9591,6 +13607,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 602011,
+    "Description": {
+      "Ja": "物理・魔法防御力+{1}%",
+      "En": "Phys. & Mag. Defense +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9607,6 +13639,22 @@
     },
     "Level": 1,
     "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 602012,
+    "Description": {
+      "Ja": "",
+      "En": ""
+    },
+    "Level": 2,
+    "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
@@ -9622,6 +13670,22 @@
       "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
     },
     "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 602013,
+    "Description": {
+      "Ja": "アタックシフトのコマンドゲージ最大時、魔法アビリティダメージ+{1}%",
+      "En": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    "Level": 2,
     "EffectValue": 0,
     "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 6,
@@ -9888,6 +13952,54 @@
     "PassiveEffectSpeciesId": 0
   },
   {
+    "Id": 1206011,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 70,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 1206011,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 140,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
+    "Id": 1206011,
+    "Description": {
+      "Ja": "水属性アビリティダメージ+{1}%",
+      "En": "Water Ability Dmg. +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 0
+  },
+  {
     "Id": 1511011,
     "Description": {
       "Ja": "アタックシフトのコマンドゲージ最大時、物理アビリティダメージ+{1}%",
@@ -10414,5 +14526,101 @@
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 0,
     "PassiveEffectSpeciesId": 6
+  },
+  {
+    "Id": 1615011,
+    "Description": {
+      "Ja": "機械への物理アビリティダメージ+{1}%",
+      "En": "Phys. Ability Dmg. to Machines +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 30,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 3
+  },
+  {
+    "Id": 1615011,
+    "Description": {
+      "Ja": "機械への物理アビリティダメージ+{1}%",
+      "En": "Phys. Ability Dmg. to Machines +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 60,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 3
+  },
+  {
+    "Id": 1615011,
+    "Description": {
+      "Ja": "機械への物理アビリティダメージ+{1}%",
+      "En": "Phys. Ability Dmg. to Machines +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 3
+  },
+  {
+    "Id": 1615012,
+    "Description": {
+      "Ja": "機械への魔法アビリティダメージ+{1}%",
+      "En": "Mag. Ability Dmg. to Machines +{1}%"
+    },
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 30,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 3
+  },
+  {
+    "Id": 1615012,
+    "Description": {
+      "Ja": "機械への魔法アビリティダメージ+{1}%",
+      "En": "Mag. Ability Dmg. to Machines +{1}%"
+    },
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 60,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 3
+  },
+  {
+    "Id": 1615012,
+    "Description": {
+      "Ja": "機械への魔法アビリティダメージ+{1}%",
+      "En": "Mag. Ability Dmg. to Machines +{1}%"
+    },
+    "Level": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0,
+    "PassiveEffectSpeciesId": 3
   }
 ]

@@ -100,6 +100,16 @@
     "PassiveSkillCategoryType": 4
   },
   {
+    "Id": 11103,
+    "Name": {
+      "Ja": "味方全体HPアップの奥義",
+      "En": "Boost HP Arcanum (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 11103,
+    "ResourceId": 201,
+    "PassiveSkillCategoryType": 4
+  },
+  {
     "Id": 11201,
     "Name": {
       "Ja": "味方全体物理攻撃力アップ",
@@ -636,6 +646,16 @@
       "En": "Reprieve"
     },
     "PassiveSkillEffectGroupId": 53101,
+    "ResourceId": 303,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 53102,
+    "Name": {
+      "Ja": "味方全体ラストリーヴの奥義",
+      "En": "Reprieve Arcanum (All Allies)"
+    },
+    "PassiveSkillEffectGroupId": 53102,
     "ResourceId": 303,
     "PassiveSkillCategoryType": 4
   },
@@ -1210,6 +1230,36 @@
     "PassiveSkillCategoryType": 4
   },
   {
+    "Id": 58601,
+    "Name": {
+      "Ja": "探機ノゴーグル",
+      "En": "Scanner Goggles"
+    },
+    "PassiveSkillEffectGroupId": 58601,
+    "ResourceId": 115,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 58701,
+    "Name": {
+      "Ja": "攻機ノゴーグル",
+      "En": "Battler Goggles"
+    },
+    "PassiveSkillEffectGroupId": 58701,
+    "ResourceId": 303,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 59001,
+    "Name": {
+      "Ja": "救機ノゴーグル",
+      "En": "Savior Goggles"
+    },
+    "PassiveSkillEffectGroupId": 59001,
+    "ResourceId": 303,
+    "PassiveSkillCategoryType": 4
+  },
+  {
     "Id": 59101,
     "Name": {
       "Ja": "航海士の眼力",
@@ -1380,6 +1430,16 @@
     "PassiveSkillCategoryType": 2
   },
   {
+    "Id": 120601,
+    "Name": {
+      "Ja": "水撃威力アップ",
+      "En": "Water Pot. Up"
+    },
+    "PassiveSkillEffectGroupId": 120601,
+    "ResourceId": 116,
+    "PassiveSkillCategoryType": 2
+  },
+  {
     "Id": 151101,
     "Name": {
       "Ja": "物魔撃威力アップ",
@@ -1436,6 +1496,16 @@
       "En": "Phys. & Mag. Pot. Up vs. Terrestrials"
     },
     "PassiveSkillEffectGroupId": 161401,
+    "ResourceId": 107,
+    "PassiveSkillCategoryType": 4
+  },
+  {
+    "Id": 161501,
+    "Name": {
+      "Ja": "物魔撃威力アップ・対機械",
+      "En": "Phys. & Mag. Pot. Up vs. Machines"
+    },
+    "PassiveSkillEffectGroupId": 161501,
     "ResourceId": 107,
     "PassiveSkillCategoryType": 4
   }

@@ -710,7 +710,7 @@
     "ResourceId": 1,
     "MateriaCraftOptionGroupId": 20600,
     "ItemCraftOptionGroupId": 1,
-    "OrderNo": 2334,
+    "OrderNo": 2333,
     "DisplayConditionSetId": 0
   },
   {
@@ -794,7 +794,28 @@
     "ResourceId": 1,
     "MateriaCraftOptionGroupId": 102400,
     "ItemCraftOptionGroupId": 1,
-    "OrderNo": 2333,
+    "OrderNo": 2331,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 214200103,
+    "Title": {
+      "Ja": "クエイク(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Quake (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "クエイク(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Quake (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2142001,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2141001,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 20600,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 2332,
     "DisplayConditionSetId": 0
   },
   {
@@ -814,6 +835,27 @@
     "CraftGil": 100,
     "ResourceId": 1,
     "MateriaCraftOptionGroupId": 102500,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 2341,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 214200203,
+    "Title": {
+      "Ja": "クエイクブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)合成の書",
+      "En": "Quake Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    "Description": {
+      "Ja": "クエイクブロウ(<sprite=\"tmp_icon\" index=69>トライアングル)のマテリア合成に必要なアイテムです。",
+      "En": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    "MateriaId": 2142002,
+    "ItemRarityType": 3,
+    "NotesSetId": 2,
+    "MateriaIngredientGroupId": 2141002,
+    "CraftGil": 100,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 20700,
     "ItemCraftOptionGroupId": 1,
     "OrderNo": 2342,
     "DisplayConditionSetId": 0
